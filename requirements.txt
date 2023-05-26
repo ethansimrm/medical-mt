@@ -12,6 +12,7 @@ attrs==23.1.0
 Babel==2.12.1
 backcall==0.2.0
 beautifulsoup4==4.12.2
+bioc==2.0.post5
 bleach==6.0.0
 cachetools==4.2.4
 certifi==2023.5.7
@@ -45,6 +46,7 @@ httpx==0.13.3
 huggingface-hub==0.14.1
 hyperframe==5.2.0
 idna==2.10
+intervaltree==3.1.0
 ipykernel==6.23.1
 ipython==8.13.2
 ipython-genutils==0.2.0
@@ -54,6 +56,7 @@ jedi==0.18.2
 Jinja2==3.1.2
 joblib==1.2.0
 json5==0.9.14
+jsonlines==3.1.0
 jsonpointer==2.3
 jsonschema==4.17.3
 jupyter-events==0.6.3
@@ -100,7 +103,6 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
 Pygments==2.15.1
-pygoogletranslation==2.0.6
 PyPDF2==3.0.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
@@ -121,6 +123,7 @@ sacrebleu==2.3.1
 Send2Trash==1.8.2
 six==1.16.0
 sniffio==1.3.0
+sortedcontainers==2.4.0
 soupsieve==2.4.1
 stack-data==0.6.2
 sympy==1.12
