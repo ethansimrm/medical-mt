@@ -12,6 +12,7 @@ All models were trained on [Kaggle's](Kaggle.com) P1000 GPU, and are hosted on [
 I am currently performing some (very) preliminary fine-tuning with [T5-Small](https://huggingface.co/t5-small) and [an OPUS-MT English-to-French model](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr). I use the [EMEA English-French Parallel Corpus](https://huggingface.co/datasets/emea) for fine-tuning.
 I also use [Google Translate](https://translate.google.co.uk/) as a baseline, as it is used in many clinical settings when human intepreters are unavailable.
 I compute the BLEU scores over the abstracts of the WMT16 Biomedical Translation Task EN-FR test set (500 in total) for a quick-and-dirty performance estimate.
+NB: Fine-tuning on the Opus model could not be performed due to Kaggle GPU time constraints.
 
 
 
