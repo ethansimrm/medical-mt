@@ -8,7 +8,7 @@ num_epochs: 2
 mixed_precision_training: Native AMP
 weight_decay: 0.01
 checkpoints_to_save: 3
-BLEU: Not computed as eval took more than 1st epoch and hardcap of 12h
+BLEU: Not computed as eval+1st epoch > 6h and hardcap of 12h
 
 learning_rate: 2e-05
 train_batch_size: 32 #Twice as fast to train, but less accurate
@@ -20,4 +20,16 @@ num_epochs: 3
 mixed_precision_training: Native AMP
 weight_decay: 0.01
 checkpoints_to_save: 3
-BLEU:
+BLEU: Not computed due to 12h hardcap; eval+1st epoch > 4h
+
+learning_rate: 2e-05
+train_batch_size: 32 
+eval_batch_size: 64 
+seed: 42
+optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
+lr_scheduler_type: linear
+num_epochs: 1 #Trial run to check how long a train+eval cycle takes
+mixed_precision_training: Native AMP
+weight_decay: 0.01
+checkpoints_to_save: 3
+BLEU: 
