@@ -1,18 +1,17 @@
 # medical-mt
 ## The Goal
-My goal is to create the most accurate neural machine translation model for biomedical translation with minimal resource footprint (time, memory, data, operations, etc.)
+My goal is to create the most accurate neural machine translation model for biomedical translation with minimal resource footprint (time, memory, data, operations, etc.). 
 ## What's Here
-For each model I have run, hyperparameters used for model training are stored in that model's associated `.txt` file in `model_configs`, along with comments such as BLEU score, which is computed using [sacreBLEU](https://github.com/mjpost/sacreBLEU), or reasons for infeasibility.
-The notebooks in `model_evaluations` record the BLEU score calculations in a reproducible manner.
-The scripts I use to fine-tune my models are in `model_runs`.
-Finally, the `data` folder stores data from primary sources, such as the [WMT Biomedical Translation Task Repository](https://github.com/biomedical-translation-corpora/corpora).
+Hyperparameters used for model training will be stored in a `.txt` file in `model_configs`, along with comments such as BLEU score, which is computed using [sacreBLEU](https://github.com/mjpost/sacreBLEU), or reasons for infeasibility.
+The scripts in `model_evaluations` will record the BLEU score calculations in a reproducible manner.
+The scripts I use to fine-tune my models will be in `model_runs`.
+Finally, the `data` directory stores data from primary sources, such as the [WMT Biomedical Translation Task Repository](https://github.com/biomedical-translation-corpora/corpora).
+In every directory mentioned, the `early_experiments` directory archives my very rough initial experiments.
 ## Implementation and Reproducibility
-All models were trained on [Kaggle's](Kaggle.com) P1000 GPU, and are hosted on [my HuggingFace profile](https://huggingface.co/ethansimrm). All training data has also been uploaded on HuggingFace for easier retrieval. In the future, I will modify my code (and retrain the models) using scripts which can handle multiple GPUs for greater efficiency.
+All models will be trained on [Kaggle's](Kaggle.com) P1000 GPU, and are hosted on [my HuggingFace profile](https://huggingface.co/ethansimrm). All raw data files, and all scripts/notebooks used, will be hosted here. Note that in some scripts, some features, such as [Weights and Biases](https://wandb.ai/) for model training statistics, may be specific to Kaggle. 
 ## Current Progress
-I am currently performing some (very) preliminary fine-tuning with [T5-Small](https://huggingface.co/t5-small) and [an OPUS-MT English-to-French model](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr). I use the [EMEA English-French Parallel Corpus](https://huggingface.co/datasets/emea) for fine-tuning.
-I also use [Google Translate](https://translate.google.co.uk/) as a baseline, as it is used in many clinical settings when human intepreters are unavailable.
-I compute the BLEU scores over the abstracts of the WMT16 Biomedical Translation Task EN-FR test set (500 in total) for a quick-and-dirty performance estimate.
-NB: Fine-tuning on the Opus model could not be performed due to Kaggle GPU time constraints.
+I will be finetuning a pre-trained English-to-French model from [OPUS-MT](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr) with data provided by the WMT Biomedical Translation Task organisers. Right now, I've only just gathered the raw data files, and my next step will be pre-processing and alignment. More updates soon!
+
 
 
 
