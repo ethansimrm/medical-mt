@@ -5,7 +5,7 @@ import sys
 from langdetect import detect
 
 from Bio import Entrez
-Entrez.email = "EMAIL"
+Entrez.email = "ethan.sim19@imperial.ac.uk"
 
 # pubmed
 
@@ -88,10 +88,10 @@ def fetch_multiple_articles(pmids, out_dir, lang1, lang2):
 			lang = detect(item["abstracttext"])
 			if lang!=lang1 and lang!=lang2:
 				continue
-			print(item["pmid"])
-			print(item["abstracttext"])
-			print(item["lang"])
-			with open(os.path.join(out_dir,item["pmid"]+"_"+item["lang"]+".txt"), "w") as writer:
+			#print(item["pmid"])
+			#print(item["abstracttext"])
+			#print(item["lang"])
+			with open(os.path.join(out_dir,item["pmid"]+"_"+item["lang"]+".txt"), "w", encoding = "utf8") as writer:
 				writer.write(item["abstracttext"]+"\n")
 			writer.close()
 
