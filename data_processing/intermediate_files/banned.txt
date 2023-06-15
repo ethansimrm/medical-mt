@@ -1,0 +1,243 @@
+AAA	AAA
+AA	Ambient air
+ABDOMINAL PAIN	douleur abdominale
+ACR	ACR
+ACS	acute coronary syndrome
+ACT	Activated coagulation time
+ACT	Combinaison Thérapeutique à base d'Artémisinine (ACT ou CTA)
+ADL	AVQ
+AHC	Assistant Head of Clinic
+AHT	Arterial hypertension
+AIBD	arthropathies des MICI
+AI	IA
+ALT	Alanine aminotransferase
+A LUMP	UNE GROSSEUR
+AP	Alkaline phosphatase
+AP	antéro-postérieur
+APE	Acute Pulmonary Edema
+ASCD	atherosclerotic coronary disease
+ASCD, CAD	atherosclerotic coronary disease, coronary artery disease
+AST	aspartate aminotransferase
+AST	Aspartate aminotransferase
+ASVD	atherosclerotic vascular disease
+AVB	atrioventricular block
+B12	B12
+BACKACHE	MAL DE REINS
+BCAT	Brachiocephalic arterial trunk
+BID	bi-quotidien
+BMI	Body mass index
+BNCT	BNCT
+BNP	Brain natriuretic peptide
+BP	Blood pressure
+BSA	Body surface area
+CA/AF	Cardiac arrhythmia/atrial fibrillation
+CA	Celiac artery
+CAD	coronary artery disease
+CAE	CAE
+CAV	CAV
+CAVE	CAVE
+CBC	Complete blood count
+CBC	FSC
+CB	PC
+CBPM	Continuous blood pressure measurement
+CDAI	CDAI
+CD	Cardiovascular disease
+CERVIX	COL D'UTERUS
+CEV	CEV
+CHEST PAIN	DOULEUR DE POITRINE
+CI	clinical information
+CICU	Cardiac intensive care unit
+CISS	Collectif Inter associatif sur la Santé (CISS)
+COMP	COMP
+COPD	Chronic obstructive pulmonary disease
+COUGH	TOUX
+COX-1	COX-1
+COX-2	COX-2
+CPAP	Continuous positive airway pressure
+CPT-11	CPT-11
+CRF	chronic renal failure
+CRP	C-reactive protein
+CTEPH , PEA	CTEPH = HPTC (voir explic.), PEA = endartériectomie pulmonaire
+CVA	Cerebovascular accident
+CV	Cardiovascular
+CV	cardioversion
+CVP	central venous pressure
+CVRF	Cardiovascular risk factors
+CVS	Cardiovascular surgery
+DIARRHEA	DIARRHEE
+DIZZY	VERTIGE
+DL-....	Acide DL-aspartique
+DREZ	DREZ
+DSA	ASD - Angiogrphie par soustraction digitale
+DTR	Deep tendon reflexes
+DVT	Deep vein thrombosis
+ED50	DE50 (DE en majuscules, 50 en indice) = dose efficace 50 % = dans 50 % des cas (ici, dans le cas de figure cité)
+EDV	End-Diastolic Volume
+EF	Ejection fraction
+ELL	Edema of the lower limbs
+EMS	Emergency Medical Service
+ENT	Ear, nose and throat
+EPO	EPO / thérapie avec l'érythropoïétine (Erythropoeitin Therapy)
+ESV	End-Systolic Volume
+ETI	endotracheal intubation
+EXCESS SWEATING	TRANSPIRATION EXCESSIVE
+EXTENDED ROD CONTOURING LINKAGE	appareil de contournage de tringle et méthode d'extension
+FATIGUE	FATIGUE
+FBC	Full blood count
+FEV1	Forced expiratory volume in 1 second
+FEV1	forced expired volume in one second
+FEVER	FIEVRE
+FISH	Fluorescence In Situ Hybridization
+FLANK PAIN	DOULEUR AU FLANC
+FLUSHING	ROUGEURS
+GA	General anesthesia
+GFR	Glomerular filtration rate
+GGT	GGT
+GNB	Gram-negative bacillus
+GOT	glutamic oxalacetic transaminase
+GPT	glutamic pyruvic transaminase
+GSV	Great saphenous vein
+HBV	Hepatitis B Virus
+HCV	Hepatitis Cvirus
+HEADACHE	MAL DE TETE
+HIDE	CACHE
+HIV	VIH virus de l'imune deficience humain
+HR	Heart rate
+HRMC	Huy Regional Medical Center
+IABP	intra-aortic balloon pump
+ICHPPC	CIPSSPL
+ICS/LABA	CSI/LABA
+ICU	Intensive care unit
+ICU	station de soins intensifs
+ID	diamètre intérieur
+IDDM	DID
+IMC  BMI	MC
+INTENDED USE	APPLICATION
+IPV	VPI - vaccin (anti)poliomyélitique inactive
+IR	Insulin-requiring
+ITCHING	DEMANGEAISON
+IU	International units
+IVS	Interventricular septum
+JAUNDICE	JAUNISSE
+JL	Judkinss left
+LAD	IVA
+LAD	Left anterior descending
+LA	Left atrium
+LDA	Low disease activity (in DAS28 -rheumatoid arthritis)
+LDH	lactate dehydrogenase
+LD	lactate dehydrogenase
+LEG PAIN	DOULEUR DANS LA JAMBE
+LFA	Left femoral artery
+LLL	Lower left limb
+LL	Lower limbs
+LMWH	HBPM
+LMWH	Low molecular weight heparin
+LOSS OF CONSCIOUSNESS	PERTE DE CONSCIENCE
+LRA	Left radial artery
+LRL	Lower right limb
+LTA	Long-term ailment
+LVEDD	Left ventricular end diastolic diameter
+LVEDP	Left Ventricular End-Diastolic Pressure
+LVEF	Left Ventricle Ejection Fraction
+LVF	Left ventricular failure
+LVH	Left ventricular hypertrophy
+LV	Left ventricle
+LVOT	left ventricle outflow tract
+MCV	mean corpuscular volume
+MD	docteur en médecine
+MI	Myocardial infarction
+MI	myocardial ischemia
+MRB	Multiresistant bacteria
+MSDS	FDS
+MVA	Motor vehicle accident
+N	azote
+NBS	Normal breath sounds
+NIDD	Non-insulin-dependent diabetes
+NID	NIDm= Nombre d'intervalles à détecter
+NMR	Nuclear Magnetic Resonance
+NSAID	AINS
+NST	TNS
+NTBL	No traumatic bone lesion
+NTR	Nothing to report
+NUMBNESS AND TINGLING	ENGOURDISSEMENT ET FOURMILLEMENT
+NYHA	New York Heart Association
+OAD	Oral antidiabetics
+OALL	Obliterating Arteriopathy of the Lower Limbs
+OD	diamètre extérieur
+OSAS	Obstructive sleep apnea syndrome
+OVS	Ophthalmology and Visual Sciences / ophtalomologie et sciences visuelles
+PAX	Plain abdominal x-ray
+PC	platelet count
+PC	Public company
+PCS	CP
+PFS	progression-free survival = survie sans progression
+PHT	Pulmonary hypertension
+PIN	Patient ID number
+PIPJ	Proximal interphalangeal joint
+PI	Pulsatility index
+PL	Prothrombin level
+PPAR	PPAR
+PPHS	Participant in the public hospital service
+PR	Plantar reflex
+PSV	Peak systolic velocity
+PTCA	ACPT
+PTCA	angioplastie transluminale percutanée
+PTCA	percutaneous transluminal coronary angioplasty
+P.U.V.A.	thérapie de rayonnement ultraviolet
+PW	Posterior wall
+PY	pack-year
+QALY	Survie ajustée pour la qualité de vie
+RAO	Right anterior oblique
+RA	Right atrium
+RBC	Red blood cells
+RC	Right coronary
+RDW-CV	IDR (indice de distribution des globules rouges)
+RDW-CV	red blood cell distribution width with coefficient of variation
+REINVENT	REINVENT (en anglais)
+RF	Risk Factors
+RHC	right hypochondrium
+RJM/MP	RJM/MP
+RNID	NIRD= Nombre d'intervalles à redétecter
+RP	Refractory period
+R	R
+RV	Residual volume
+RV	Right ventricle
+S1S2	Sound 1, sound 2
+SAAF	Sustained arrhythmia due to atrial fibrillation
+SAV	Supra-aortic vessels
+SCLC	CPPC
+SD	écart type
+SD	Senior Doctor
+SEIZURES	ATTAQUES
+SHORTNESS OF BREATH	manque de souffle
+SMA	Superior mesenteric artery
+SNCF	[French national railroad]
+SNRI	Inhibiteurs sélectifs de recapture de sérotonine (ISRS)
+SORE THROAT	MAL DE GORGE
+SPI	Systolic pressure index
+SR	Slow/sustained release
+STAAF/SATAF	Sustained atrial tachycardia due to atrial fibrillation
+SVG	Saphenous vein graft
+SWAB TEST	PRELEVEMENT ECOUVILLON
+SWOLLEN BELLY	VENTRE GONFLE
+SWOLLEN JOINTS	INFLAMMATION DES ARTICULATIONS
+SWOLLEN LEGS	JAMBES ENFLEES
+TACFA	Tachycardie auriculaire complète par fibrillation auriculaire
+TB	tuberculose
+TCA	Transcoronary angioplasty
+THP	Total hip prosthesis
+TIA	AIT
+TIA	Transient ischemic attack
+TLCO/VA	Carbon monoxide transfer factor/alveolar volume
+TLC	Total lung capacity
+TMHR	Theoretical maximum heart rate
+TPP	thrombophlebitis
+TRH	Total radical hysterectomy
+TTE	transthoracic echography
+UAE	Urinary albumin excretion
+ULTRASOUND	ULTRASON
+UMC	University Medical Center
+UMC	Urine microscopy and culture
+VES	ESV
+WARNINGS	AVERTISSEMENT
+WBC	White blood cells

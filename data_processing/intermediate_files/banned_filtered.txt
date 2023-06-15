@@ -1,0 +1,96 @@
+AAA	AAA
+ABDOMINAL PAIN	douleur abdominale
+ACR	ACR
+ACT	Combinaison Thérapeutique à base d'Artémisinine (ACT ou CTA)
+ADL	AVQ
+AIBD	arthropathies des MICI
+AI	IA
+A LUMP	UNE GROSSEUR
+AP	antéro-postérieur
+B12	B12
+BACKACHE	MAL DE REINS
+BID	bi-quotidien
+BNCT	BNCT
+CAE	CAE
+CAV	CAV
+CAVE	CAVE
+CBC	FSC
+CB	PC
+CDAI	CDAI
+CERVIX	COL D'UTERUS
+CEV	CEV
+CHEST PAIN	DOULEUR DE POITRINE
+CISS	Collectif Inter associatif sur la Santé (CISS)
+COMP	COMP
+COUGH	TOUX
+COX-1	COX-1
+COX-2	COX-2
+CPT-11	CPT-11
+CTEPH , PEA	CTEPH = HPTC (voir explic.), PEA = endartériectomie pulmonaire
+DIARRHEA	DIARRHEE
+DIZZY	VERTIGE
+DL-....	Acide DL-aspartique
+DREZ	DREZ
+DSA	ASD - Angiogrphie par soustraction digitale
+ED50	DE50 (DE en majuscules, 50 en indice) = dose efficace 50 % = dans 50 % des cas (ici, dans le cas de figure cité)
+EPO	EPO / thérapie avec l'érythropoïétine (Erythropoeitin Therapy)
+EXCESS SWEATING	TRANSPIRATION EXCESSIVE
+EXTENDED ROD CONTOURING LINKAGE	appareil de contournage de tringle et méthode d'extension
+FATIGUE	FATIGUE
+FEVER	FIEVRE
+FLANK PAIN	DOULEUR AU FLANC
+FLUSHING	ROUGEURS
+GGT	GGT
+HEADACHE	MAL DE TETE
+HIDE	CACHE
+HIV	VIH virus de l'imune deficience humain
+ICHPPC	CIPSSPL
+ICS/LABA	CSI/LABA
+ICU	station de soins intensifs
+ID	diamètre intérieur
+IDDM	DID
+IMC  BMI	MC
+IPV	VPI - vaccin (anti)poliomyélitique inactive
+ITCHING	DEMANGEAISON
+JAUNDICE	JAUNISSE
+LAD	IVA
+LEG PAIN	DOULEUR DANS LA JAMBE
+LMWH	HBPM
+LOSS OF CONSCIOUSNESS	PERTE DE CONSCIENCE
+MD	docteur en médecine
+MSDS	FDS
+N	azote
+NID	NIDm= Nombre d'intervalles à détecter
+NSAID	AINS
+NST	TNS
+NUMBNESS AND TINGLING	ENGOURDISSEMENT ET FOURMILLEMENT
+OD	diamètre extérieur
+OVS	Ophthalmology and Visual Sciences / ophtalomologie et sciences visuelles
+PCS	CP
+PFS	progression-free survival = survie sans progression
+PPAR	PPAR
+PTCA	ACPT
+PTCA	angioplastie transluminale percutanée
+P.U.V.A.	thérapie de rayonnement ultraviolet
+QALY	Survie ajustée pour la qualité de vie
+RDW-CV	IDR (indice de distribution des globules rouges)
+REINVENT	REINVENT (en anglais)
+RJM/MP	RJM/MP
+RNID	NIRD= Nombre d'intervalles à redétecter
+SCLC	CPPC
+SD	écart type
+SEIZURES	ATTAQUES
+SHORTNESS OF BREATH	manque de souffle
+SNRI	Inhibiteurs sélectifs de recapture de sérotonine (ISRS)
+SORE THROAT	MAL DE GORGE
+SWAB TEST	PRELEVEMENT ECOUVILLON
+SWOLLEN BELLY	VENTRE GONFLE
+SWOLLEN JOINTS	INFLAMMATION DES ARTICULATIONS
+SWOLLEN LEGS	JAMBES ENFLEES
+TACFA	Tachycardie auriculaire complète par fibrillation auriculaire
+TB	tuberculose
+TIA	AIT
+TPP	thrombophlebitis
+ULTRASOUND	ULTRASON
+VES	ESV
+WARNINGS	AVERTISSEMENT
