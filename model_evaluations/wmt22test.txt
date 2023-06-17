@@ -1,0 +1,588 @@
+Recalcitrant auricular keloids are keloids that have recurred after any previous treatment.
+They have been shown to have an increased likelihood of recurrence.
+There is no consensus on how best to treat recalcitrant auricular keloids.
+Here, we perform the first systematic review and meta-analysis investigating the evidence for treating recalcitrant auricular keloids.
+We searched MEDLINE, EMBASE, CINAHL, and EBM Reviews using specific keywords.
+Prespecified inclusion and exclusion criteria were used to assess article eligibility.
+Data were extracted for number of recalcitrant keloids, treatment modality, recurrence, and minimum follow-up time.
+Included articles were stratified by treatment and assigned a level of evidence (LOE) based on the Oxford Centre for Evidence-Based Medicine guidelines. A meta-analysis was performed to estimate recurrence rates with 95% confidence intervals for each treatment modality.
+A total of 887 unique articles were identified and 13 included.
+Eleven were LOE III and 2 were LOE IV.
+Recurrence rates were found to be 9% (95% CI: 3%-25%) for excision with adjuvant brachytherapy, 14% (95% CI: 12%-17%) for excision with adjuvant compression therapy, 17% (95% CI: 3%-56%) for excision with adjuvant external beam radiation, and 18% (95% CI: 4%-53%) for excision with adjuvant steroid injections.
+No statistical significant difference was found.
+Data for treatment of auricular keloids are heterogeneous with few high-quality studies.
+Excision with adjuvant brachytherapy has the lowest recurrence rate in our analysis.
+Narrow confidence intervals reported here for brachytherapy and compression therapy may help surgeons more confidently recommend either of these treatment modalities to patients.
+-
+Objectives:
+To test the efficacy of calorie labelling for alcoholic and non-alcoholic beverages on restaurant menus on noticing calorie information, calorie knowledge, and perceived and actual influence on hypothetical beverage orders.
+Participants included upper-level university students of legal drinking age residing in Ontario, Canada (n = 283).
+Methods:
+Using a between-groups experiment, participants were randomized to view one of two menus: (1) No Calorie Information (control), and (2) Calorie Information adjacent to each beverage.
+Participants completed a hypothetical ordering task, and measures related to noticing calorie information, calorie knowledge, and actual and perceived influence of calorie information on beverages ordered were assessed.
+Linear, logistic, and multinomial logistic regression models were used to examine the four outcomes.
+The odds of noticing calorie information were significantly higher in the Calorie Information (72.6%) versus No Calorie Information condition (8.0%) (OR = 43.7, 95% CI: 16.8, 113.8).
+Results:
+Compared to those in the No Calorie Information condition, participants in the Calorie Information condition had significantly lower odds of responding 'Don't know' (OR = 0.04, 95% CI: 0.02, 0.09), underestimating (OR = 0.06, 95% CI: 0.02, 0.2), and overestimating (OR = 0.05, 95% CI: 0.02, 0.2) versus accurately estimating calories in beverages ordered.
+No significant differences were observed between menu labelling conditions in the calories in beverages ordered or the perceived influence of calorie information on the number of beverages ordered.
+Exposure to menus with calorie information increased consumers noticing the calorie information, and accurately estimating calories in alcoholic and non-alcoholic beverages ordered.
+Conclusion:
+Background:
+Nosocomial meticillin-resistant (MR) staphylococcal infections are of global concern.
+Veterinary dermatology exam room surfaces may be a reservoir given the commonness of staphylococcal pyoderma.
+Hypothesis/objectives:
+First, efficacy of exam room surface decontamination using a quaternary ammonium compound was assessed after use of two different cleaning instruction protocols.
+Second, coagulase-positive staphylococcal (CoPS) colony counts were assessed after use of rooms by dogs with pyoderma, and then after cleaning and disinfection.
+Methods and materials:
+In Part I, 10 room surfaces were tagged with a discreet fluorescent dye, Glo Germ, to assess the efficacy of surface cleaning between two Virex II 256-based cleaning protocols.
+In Part II, CoPS colonies were quantified via 3M Staph Express System.
+Ten standardised room surfaces were sampled after use by a dog with staphylococcal pyoderma, and immediately after a detailed cleaning and disinfection protocol.
+Results:
+A total of 24 of 100 and 81 of 100 surfaces were completely cleaned by the general and detailed protocols, respectively.
+The mean number of surfaces adequately cleaned was higher with the detailed protocol (P = 0.003).
+The detailed protocol reduced CoPS colony counts of eight surfaces (P < 0.01), and not chairs (P = 0.055).
+No CoPS were isolated from the exam table under a table mat.
+Conclusions and clinical relevance:
+Detailed exam room cleaning and disinfection protocols are recommended to minimise contamination of veterinary exam room surfaces with staphylococci.
+The appropriate disinfection of chairs necessitates further study.
+There is substantial evidence showing that medical student wellness is a worsening problem in Canada. It is apparent that medical students' wellness deteriorates throughout their training.
+Medical schools and their governing bodies are responding by integrating wellness into competency frameworks and accreditation standards through a combination of system- and individual-level approaches.
+System-level strategies that consider how policies, medical culture, and the 'hidden curriculum' impact student wellness, are essential for reducing burnout prevalence and achieving optimal wellness outcomes.
+Individual-level initiatives such as wellness programming are widespread and more commonly used.
+These are often didactic, placing the onus on the student without addressing the learning environment.
+Despite significant progress, there is little programming consistency across schools or training levels.
+There is no wellness curriculum framework for Canadian undergraduate medical education that aligns with residency competencies.
+Creating such a framework would help align individual- and system-level initiatives and smooth the transition from medical school to residency.
+The framework would organize goals within relevant wellness domains, allow for local adaptability, consider basic learner needs, and be learner-informed.
+Physicians whose wellness has been supported throughout their training will positively contribute to the quality of patient care, work environments, and in sustaining a healthy Canadian population.
+Identification and characterisation of mosquitoes from different locations in Qatar in 2017-2019
+Mosquito-borne infections have considerable consequences for public health.
+The mere presence of a single case of vector-borne disease (VBD) introduces a risk to the local community particularly when associated with the compatible vector, host, and suitable environmental factors.
+Presently, there is no well-established vector control and surveillance programme in Qatar; therefore, the likelihood of VBDs spreading is undetermined.
+As a result, there is a pressing need to address this gap and enable successful management of VBDs.
+This study presents the results of three consecutive field surveys conducted between 2017 and 2019 with the aim of defining the types and distribution of mosquitoes that are of public health importance in Qatar.
+The results of the adult mosquito trappings show that the southern house mosquito Culex quinquefasciatus is the most widespread and abundant mosquito species, followed by Cx. perexiguus, both species representing a risk of West Nile virus transmission.
+All sampling methods show that the malaria vector Anopheles stephensi is widespread including in urbanised areas, suggesting a risk of local malaria transmission.
+The wetland mosquito Aedes caspius is also widespread, representing a risk of Rift Valley fever virus transmission.
+The dengue vector Ae. aegypti was not detected and can be considered neither widespread nor abundant, suggesting a minimal risk for local transmission of dengue, chikungunya and Zika viruses.
+Interestingly, the study detected Culiseta longiareolata for the first time in Qatar.
+Regular field studies are needed to further address the knowledge gaps in terms of distribution, ecology, and biting habits of different mosquito species currently present in Qatar to accurately assess the risk of mosquito-borne diseases.
+Women with heart disease experience disparities in the diagnosis, treatment, and management of their condition.
+However, it is unknown whether these sex differences exist with respect to in-hospital patient experience.
+We examined the comprehensive experience of patients hospitalized due to ischemic heart disease (IHD) across Alberta, Canada, according to sex.
+Patients completed a modified version of the Canadian Patient Experiences Survey-Inpatient Care (CPES-IC) within 6 weeks of discharge.
+We examined 37 questions, including 33 regarding specific care processes and 4 global rating scales.
+Survey responses were reported as raw 'top-box' percentages, that is, the most-positive answer choice to each question.
+Odds and corresponding 95% confidence intervals of women reporting a top-box response were then calculated for each question, while controlling for demographic and clinical factors.
+From April 2014 to March 2020, a total of 5795 surveys (1612 women, 4183 men) were completed.
+Taking the survey margin of error into account, women had lower top-box percentages on 26 of 37 questions.
+Similar results were obtained for the adjusted odds of reporting a top-box response.
+Women did not have a higher percentage of top-box responses on any of the questions studied.
+This study is a Canadian first, which stratified the experiences of hospitalized patients living with ischemic heart disease according to sex.
+Our results highlighted important sex differences.
+Future research to understand the mechanisms associated with these observed sex differences in patient-reported experiences is warranted.
+-
+Objective:
+Integrated surveillance of antimicrobial resistance (AMR) and antimicrobial use (AMU) across One Health sectors is critically important for effective, evidence-based policy, stewardship, and control of AMR.
+Our objective was to evaluate progress towards achieving comprehensive, integrated AMR/AMU surveillance in Canada.
+Materials and methods:
+Based on an environmental scan, interviews of subject matter experts, and reports from the 2014 National Collaborating Centre for Infectious Diseases and the 2016 Canadian Council of Chief Veterinary Officers, we identified 8 core surveillance requirements and their specific components; the latter were assessed using a 2-way classification matrix, with 7 common elements ranked according to development stage.
+Results:
+Components that mapped to requirements of a comprehensive, fully integrated AMR/AMU surveillance system were mostly in the lowest stages of development (Exploration or Program Adoption).
+However, both the establishment of the Canadian AMR Surveillance System integrated reporting and expansion of existing components under the Canadian Nosocomial Infection Surveillance Program and the Canadian Integrated Program for AMR Surveillance are improvements.
+Regardless, obvious gaps in Canadian AMR/AMU surveillance prevent this from being a comprehensive and integrated One Health program.
+Conclusion:
+Action is needed in 3 crucial areas: i) development of a complete, integrated AMR/AMU surveillance program, based on current success; ii) changes in Federal/Provincial/Territorial policies to require standardized AMR/AMU reporting; and iii) more resources for AMR/AMU surveillance (dedicated persons, funding, and enabling structures and policy).
+-
+Purpose:
+Legitimate opioid prescriptions can increase the risk of misuse, addiction, and overdose of opioids in children and adolescents.
+This study aimed to describe the prescribing patterns of discharge opioid analgesics following inpatient visits and to determine patient and prescriber characteristics that are associated with prolonged opioid prescription.
+Methods:
+In a historical cohort study, we identified patients discharged from hospital with an opioid analgesic prescription in a tertiary pediatric hospital from 1 January 2016 to 30 June 2017.
+The primary outcome was the duration of opioid prescription in number of days.
+We assessed the association between patient and prescriber characteristics and an opioid prescription duration > five days using a generalized estimating equation to account for clustering due to repeated admissions of the same patient.
+Results:
+During the 18-month study period, 15.4% of all admitted patients (3,787/24,571) were given a total of 3,870 opioid prescriptions at discharge.
+The median [interquartile range] prescribed duration of outpatient opioid therapy was 3.75 [3.00-5.00] days.
+Seventy-seven percent of the opioid prescriptions were for five days or less.
+Generalized estimating equation analysis revealed that hospital stay > four days, oxycodone prescription, and prescription by clinical fellows and the orthopedics service were all independently associated with a discharge opioid prescription of > five days.
+Conclusions:
+Most discharge opioids for children were prescribed for less than five days, consistent with current guidelines for adults.
+The novel coronavirus disease 2019 is a global public health crisis that disproportionately affects those with preexisting conditions.
+Cardiovascular disease (CVD) is the leading cause of death worldwide and many key CVD risk factors are modifiable (e.g., physical inactivity, sedentary behaviour, obesity).
+To limit the spread of coronavirus 2019, most governments have implemented restrictions and recommended staying at home, reducing social contact to a select and exclusive few, and limiting large gatherings.
+Such public health constraints may have unintended, negative health consequences on 24-hour movement behaviours.
+The primary purpose of this review is to provide practical at-home recommendations for sedentary time, sleep, and physical activity in those living with CVD.
+Adults with CVD will benefit from practical recommendations to reduce sedentary time, increase purposeful exercise, and maintain optimal sleep patterns while being at home and adhering to public health restrictions.
+Our recommendations include the following: (i) self-monitoring sitting time; (ii) engaging in 2-3 days per week of purposeful exercise for those with low exercise capacity and > 3 days per week for those with moderate-to-high exercise capacity; (iii) self-monitoring exercise intensity through the use of scales or wearable devices; (iv) maintaining a regular sleep schedule; and (v) moving daily.
+Clinicians should be aware that clear communication of the importance of limiting prolonged sedentary time, engaging in regular physical activity and exercise, and ensuring optimal sleep in association with the provision of clear, comprehensible, and practical advice is fundamental to ensuring that those living with CVD respond optimally to the challenges posed by the pandemic.
+Intravenous (IV) iron and erythropoietin stimulating agents (ESAs) are standard treatments for anemia in patients receiving maintenance hemodialysis. These medications are associated with significant costs to hemodialysis programs and patients.
+Recent trial evidence demonstrated that a high-dose IV iron protocol reduces ESA usage and improves cardiovascular outcomes.
+The cost of implementing a high-dose iron protocol within the Canadian public healthcare context remains unknown.
+Our primary aim was to estimate the costs of a high-dose IV iron protocol in a large Canadian hemodialysis program that currently uses a low-dose and reactive IV iron strategy.
+Our secondary aim was to estimate the reduction in ESA use required to maintain cost neutrality with a high-dose IV iron protocol.
+In this modeling study of IV iron and ESA utilization from a regional hemodialysis program, changes in medication utilization were calculated based on observed effects from published trial data.
+Using data from a quality improvement audit of regional anemia management and medication utilization, we estimated potential cost differences under various modeling conditions.
+Four adult hospital-based and 9 community in-center hemodialysis units in the Alberta Kidney Care-South renal program during the observation period of September 1, 2018, to November 30, 2018.
+In total, data from 826 patients were included.
+Mean monthly IV iron and ESA doses were obtained from routine audit data captured within an electronic medical record.
+Costs were determined from provincially negotiated medication prices.
+Current IV iron and erythropoietin dosages were aggregated at the hemodialysis unit level.
+We used the results from the PIVOTAL trial to estimate the expected increase in IV iron dose and reduction in ESA dose with a high-dose IV iron protocol.
+We assumed the split between various manufactures of IV iron and ESA were maintained in our cost model.
+Total medication costs were aggregated by hemodialysis unit, and the mean costs in each unit were used to estimate per-patient costs.
+Sensitivity analyses included models that assumed 100% IV iron sucrose usage, as well as models where community hemodialysis units and hospital-based hemodialysis units were examined separately.
+Finally, we calculated a break-even point for ESA dose reduction required to maintain cost neutrality.
+Actual baseline IV iron and ESA dose utilization across 13 adult HD units were 118 mg/patient/month (95% confidence interval [CI]: 102-134 mg) and 20,764 IU/pt./mo. (95% CI: 18,104-23,424 IU), respectively.
+The mean combined cost of ESA and IV iron was $315/pt./mo. (95% CI: $274-$355).
+In comparison, using the results of the PIVOTAL trial and assuming a high-dose IV iron scenario, we estimated mean IV iron use of 215 mg/pt./mo. (95% CI: 187-243 mg/pt./mo.) and a reduction in mean ESA use to 15,923 IU/pt./mo. (95% CI: 13,883-17,962 IU/pt./mo.). This resulted in an estimated cost savings of $38/pt./mo. (95% CI: $33-$42/pt./mo.) and a total program savings of $370,000 per year (95% CI: $325,000-$420,000).
+Sensitivity analyses under various alternate conditions also showed potential cost savings.
+We estimated that a dose reduction of ESA of 10% would be required for cost neutrality with a high-dose IV iron protocol.
+Our study is limited in its use of data from a single randomized controlled trial (RCT) to estimate cost savings rather than actualized utilization.
+Our models do not take into consideration anticipated reductions in transfusions and hospitalizations that could be realized from a high-dose IV iron protocol.
+Based on cost modeling, a high-dose IV iron protocol could be integrated in large Canadian regional hemodialysis program in a cost saving manner.
+Programs implementing such a protocol should monitor IV iron and EPO use prospectively to determine if the trial protocol as applied in a real-world setting translates into cost savings.
+Adapting the ethical review process for COVID-19 research: reviewers' perspectives from Pakistan
+Research ethics committees (RECs) globally have adapted their responses to provide timely reviews of research proposals in the wake of the COVID-19 pandemic.
+The REC of the National Bioethics Committee (NBC) of Pakistan has followed suit.
+To explore perceptions of NBC-REC reviewers who reviewed COVID-19 research proposals while describing the newly instituted Rapid Turnaround Review (RTR) system.
+This cross-sectional study used 3 methods of data collection: a demographic questionnaire filled in by permanent members and co-opted reviewers; qualitative in-depth interviews conducted with both groups; and document review related to COVID-19 research proposals.
+Eight permanent members and 3 co-opted members participated.
+Under the RTR system, the time for review was established as 72 hours after receipt of the proposal.
+The Committee reviewed 55 projects over 10 months.
+Participants described numerous strengths of the new system, including introduction of online discussions via Zoom as well as presence of co-opted members leading to learning opportunities, particularly for junior members.
+The RTR system also allowed NBC-REC to gain recognition it had not enjoyed previously.
+Challenges identified by respondents included initial difficulty in initiating the system and tighter deadlines that may have compromised review quality.
+Poor scientific quality of proposals, compounded by external pressures to provide rapid approval, added to reviewers' frustrations.
+While fruitful, the RTR system was considered unsustainable beyond a public health emergency.
+Adaptation of ethical review processes is essential in emergencies, however, existing guidelines have to be modified to suit contextual needs.
+-
+Objectives:
+The Truth and Reconciliation Commission includes a call to action to close gaps in health outcomes, including type 2 diabetes, of which diet quality must be considered an important mediator.
+The objectives of this study were to compare diet quality between off-reserve Indigenous and non-Indigenous adults in 2004 and 2015, and examine food security as a predictor of diet quality.
+Methods:
+We employed a repeated cross-sectional design using the 2004 and 2015 Canadian Community Health Surveys-Nutrition.
+Both surveys include a representative sample of the Canadian population in the 10 provinces, excluding the northern territories and people living on-reserve.
+Healthy Eating Index (HEI) values were estimated, using 24-hour dietary recalls, for the Indigenous and non-Indigenous population in each time period.
+After matching, a generalized linear model was applied to test for differences in HEI between groups across time period, adjusting for household food security.
+Results:
+Overall, HEI scores were not significantly different for Indigenous men and women in 2015 as compared with 2004, but continued to be lower compared with those of the non-Indigenous population.
+Indigenous adults reported significantly lower diet quality independent of food security status and other factors.
+Scores pertaining to percent energy from 'other' foods improved in 2015 compared with 2004.
+Conclusion:
+Dietary disparities persist between Indigenous and non-Indigenous populations.
+While addressing household food insecurity among Indigenous populations is necessary to improve diet quality, it is not sufficient.
+There is a variability in the reported rate of post-prostate biopsy voiding inefficiency.
+The burden and potential predictors of this morbidity is not well studied in African patients.
+This study aimed to evaluate the incidence as well as the clinical and histological factors affecting voiding function in patients undergoing trans-rectal prostate biopsy in an African population.
+An observational cohort study was carried out in 68 adult males, 40 years and above, scheduled for trans-rectal prostate biopsy for suspected prostate cancer.
+Those who could not void spontaneously, had either neurological conditions or were on drugs that could affect voiding, were excluded from the research.
+Data on demographic characteristics of the patients were collected.
+Uroflowmetry was done to obtain the peak urine flow rate of the patients at baseline and seven days after the procedure.
+The prostate volume was determined and the presence of other potential clinical and histological risk factors were recorded.
+The presence of other bleeding-related biopsy complications was also recorded.
+Statistical analysis was done using SPSS with a p-value of less than 0.05 reported as significant.
+Voiding inefficiency was recorded in 28 (41.2%) of the patients with majority, 21 (75.0%), experiencing a five to nine-point decrease in their seventh day peak flow rate values.
+Post-biopsy haematuria occurred in 37 (54.4%) of the population.
+The presence of haematuria with blood clots was associated with a 10.9 times increased risk of voiding inefficiency after the procedure (p = 0.006).
+About two in five patients developed post-prostate biopsy voiding inefficiency.
+Blood clot presence was independently. associated with the occurrence of this morbidity.
+Keywords:
+Lower urinary tract symptoms; prostate biopsy; risk factor; urinary retention.
+Septic arthritis is considered a medical emergency.
+Disease following bacterial colonization can lead to significant morbidity and mortality and requires costly treatment.
+Antimicrobial properties of regenerative therapies, including mesenchymal stromal cells and platelet products, have been researched extensively in human medicine.
+Although fewer studies have been conducted in veterinary species, they have shown promising results.
+The purpose of this study was to evaluate bacterial suppression by equine platelet lysate (EPL) and adipose-derived mesenchymal stromal cells (ASCs) <i>in vitro</i>. We hypothesized that both products would significantly inhibit the growth of <i>Staphylococcus aureus</i> and <i>Escherichia coli</i>. Pooled blood from 10 horses was used for production of EPL.
+Mesenchymal stromal cells were isolated from adipose tissue harvested from the gluteal region of 3 horses.
+The study evaluated 3 treatment groups: 10 × EPL, 1.6 million ASCs, and a control, using an incomplete unbalanced block design with repeated measurements.
+Optical density readings and colony-forming units/mL were calculated at 0, 3, 6, 9, 12, 18, and 24 hours.
+Decreased bacterial growth was seen at multiple time points for the <i>S. aureus</i>-ASC and <i>S. aureus</i>-EPL treatments, supporting our hypothesis.
+Increased bacterial growth was noticed in the <i>E. coli</i>-EPL group, with no difference in the <i>E. coli</i>-ASC treatment, which opposed our hypothesis.
+A clear conclusion of antimicrobial effects of EPL and ASCs cannot be made from this <i>in vitro</i> study.
+Although it appears that ASCs have a significant effect on decreasing the growth of <i>S. aureus</i>, further studies are needed to explore these effects, particularly in Gram-positive bacteria.
+Professor Randi Haaland is a Norwegian archaeologist with a distinctive anthropological approach and global research interests.
+In this conversation, Randi Haaland reflects on her extraordinary and multifaceted engagement with archaeology and Africa for over 50 years, from her formative experience as a young woman among the Fur in Sudan in the mid-1960s, through her research between the processual and post-processual paradigms, to the capacity-building programs she initiated with the support of the Norwegian Agency for Development Cooperation (NORAD).
+Randi Haaland created her unique path in the archaeology of Africa.
+This interview shows that it has been the right path towards a novel and in-depth understanding of the human past, especially on food culture, beginnings of food production, gender, and technology.
+-
+Background:
+The optimal regional technique to control pain after breast cancer surgery remains unclear.
+We sought to synthesize available data from randomized controlled trials comparing pain-related outcomes following various regional techniques for major oncologic breast surgery.
+Methods:
+In a systematic review and network meta-analysis, we searched trials in PubMed, Embase Scopus, Medline, Cochrane Central and Google Scholar, from inception to 31 July 2020, for commonly used regional techniques.
+The primary outcome was the 24-hr resting pain score measured on a numerical rating score of 0-10.
+We used surface under the cumulative ranking curve (SUCRA) to establish the probability of an intervention ranking highest.
+The analysis was performed using the Bayesian random effects model, and effect sizes are reported as 95% credible interval (Crl).
+We conducted cluster-rank analysis by combining 24-hr pain ranking with 24-hr opioid use or incidence of postoperative nausea and vomiting.
+Results:
+Seventy-nine randomized controlled trials containing 11 different interventions in 5,686 patients were included.
+The SUCRA values of the interventions for 24-hr resting pain score were continuous paravertebral block (0.83), serratus anterior plane block (0.76), continuous wound infusion (0.76), single-level paravertebral block (0.68), erector spinae plane block (0.59), modified pectoral block (0.49), intercostal block (0.45), multilevel paravertebral block (0.41), wound infiltration (0.33), no intervention (0.12), and placebo (0.08).
+When compared with placebo, the continuous paravertebral block (mean difference, 1.26; 95% Crl, 0.43 to 2.12) and serratus anterior plane block (mean difference, 1.12; 95% Crl, 0.32 to 1.9) had the highest estimated probability of decreasing 24-hr resting pain scores.
+Cluster ranking analysis combining 24-hr resting pain scores and opioid use showed that most regional analgesia techniques were more effective than no intervention or placebo.
+Nevertheless, wound infiltration and continuous wound infusion may be the least effective active interventions for reducing postoperative nausea and vomiting.
+Conclusion:
+Continuous paravertebral block and serratus anterior plane block had a high probability of reducing pain at 24 hr after major oncologic breast surgery.
+The certainty of evidence was moderate to very low.
+Future studies should compare different regional anesthesia techniques, including surgeon-administered techniques such as wound infiltration or catheters.
+Trials comparing active intervention with placebo are unlikely to change clinical practice.
+Study registration:
+Feedback about intraoperative performance remains a cornerstone of surgical training.
+Video playback offers one potential method for more effective feedback to surgical residents.
+More research is needed to better understand this method.
+This study explores the nature of instructional interactions and feedback in the operating room (OR) and when using video playback during post-operative review in obstetrics and gynecology (OBGYN) training.
+This case study occurred between September 2016 and February 2017.
+Three OBGYN residents and five OBGYN supervising surgeons were involved in six laparoscopic cases.
+Intraoperative and video playback dialogues were recorded and analysed, the former deductively using codes identified from published literature, and the latter both deductively, using the same codes, and inductively, with codes that emerged from the data during analysis.
+1090 intraoperative interactions were identified within 376 minutes of dialogue.
+Most interactions were didactic, instructing the resident how to use an instrument to perform a task.
+Deductive analysis of postoperative video playback review identified 146 interactions within 155 minutes.
+While the most common interaction type remained didactic, a teaching component was included more often.
+It became apparent that deductive analysis using the intraoperative codes did not adequately capture the nature and focus of feedback during video playback.
+Hermeneutic phenomenological analysis identified more dialogic video playback sessions with more resident-initiated questions and reflection.
+This study demonstrates that the nature of feedback during video playback is fundamentally different from that in the OR, offering a greater potential for collaborative and improved learning.
+Determinants of the Early Childhood Development Index among children aged < 5 years in Bangladesh, Costa Rica and Ghana: a comparative study
+Early child development is a crucial factor for children that controls health and well-being in later life.
+To determine the influence of sociodemographic factors on the Early Child Development Index (ECDI) among children aged < 5 years.
+The analysis was performed using cross-sectional survey data from 2019, 2017-2018 and 2018 Multiple Indicator Cluster Surveys from Bangladesh, Ghana and Costa Rica, respectively.
+We used the χ<sup>2</sup> test for bivariate analysis and binary logistic regression model for multivariate analysis for all 3 countries.
+All the statistical analyses were performed with IBM SPSS version 25 and R version 4.0.0.
+Child age and sex, followed by maternal education level, economic status, child nutritional status, reading children's books, and maternal functional difficulties had the greatest effect on ECDI.
+Children aged 36-47 months had lower odds of development than those aged 48-59 months, and boys had lower odds of development than girls in Bangladesh, Costa Rica and Ghana.
+Urban children had lower odds of development than rural children in Costa Rica but higher odds in Ghana.
+We recommend that governments should take the necessary steps to enhance children's early development and well-being in all 3 countries by raising education, improving economic conditions and providing balanced nutrition.
+The implementation and effectiveness of intergenerational learning during the COVID-19 pandemic: Evidence from China
+During the COVID-19 pandemic, many grandparents in China have spent more time with their grandchildren than they used to.
+When their adult children returned to work after a period of lockdown, many grandparents extended their roles from taking care of household tasks and looking after their grandchildren's basic needs to supervising their online learning and providing academic support.
+It has been a precious opportunity for both the children and their grandparents to get to know each other better and to learn from each other.
+During this challenging period of home learning, a Chinese initiative called the 'Shaping Students' Vacation Life Project' (SSVLP), which is led by the Shanghai Municipal Institute for Lifelong Education (SMILE) of East China Normal University (ECNU), conducted a two-month project that investigated intergenerational learning between grandparents and grandchildren (IL-GP&GC) across seven primary schools located in six areas of China.
+They explored topics such as pandemic prevention, health and fitness, traditional culture and information literacy.
+Following this, the co-authors of this article conducted an interpretive inquiry to explore how the participating primary schools implemented the IL-GP&GC project, and to understand its impact.
+Based on in-depth interviews with 11 teachers and 7 families (including 7 grandchildren aged 7-13, and their 7 grandparents aged 60-68), four main findings emerged: (1) both generations gained more health knowledge, life skills and values; (2) the older generation changed their learning perspective and behaviours; (3) the younger generation understood their grandparents more and cultivated the concept of lifelong learning; and (4) the relationships between grandparents and grandchildren became closer.
+-
+Purpose:
+The COVID-19 pandemic has caused intensive care units (ICUs) to reach capacities requiring triage.
+A tool to predict mortality risk in ventilated patients with COVID-19 could inform decision-making and resource allocation, and allow population-level comparisons across institutions.
+Methods:
+This retrospective cohort study included all mechanically ventilated adults with COVID-19 admitted to three tertiary care ICUs in Toronto, Ontario, between 1 March 2020 and 15 December 2020.
+Generalized estimating equations were used to identify variables predictive of mortality.
+The primary outcome was the probability of death at three-day intervals from the time of ICU admission (day 0), with risk re-calculation every three days to day 15; the final risk calculation estimated the probability of death at day 15 and beyond.
+A numerical algorithm was developed from the final model coefficients.
+Results:
+One hundred twenty-seven patients were eligible for inclusion.
+Median ICU length of stay was 26.9 (interquartile range, 15.4-52.0) days.
+Overall mortality was 42%.
+From day 0 to 15, the variables age, temperature, lactate level, ventilation tidal volume, and vasopressor use significantly predicted mortality.
+Our final clinical risk score had an area under the receiver-operating characteristics curve of 0.9 (95% confidence interval [CI], 0.8 to 0.9).
+For every ten-point increase in risk score, the relative increase in the odds of death was approximately 4, with an odds ratio of 4.1 (95% CI, 2.9 to 5.9).
+Conclusion:
+Our dynamic prediction tool for mortality in ventilated patients with COVID-19 has excellent diagnostic properties.
+Background:
+Testing for hyperadrenocorticism is commonly pursued in adult dogs with dermatological disease, and adrenocortical suppression has been well-documented following the use of topical corticosteroids in otic preparations.
+An otic suspension that contains florfenicol, terbinafine and mometasone furoate, and lasts for 30 days after a single application, frequently is used to treat canine otitis externa (OE).
+This medication was shown to cause adrenocortical suppression on Day (D)2 postadministration and two weeks after two applications two weeks apart.
+Hypothesis/objectives:
+The objective of this study was to determine if topical florfenicol/terbinafine/mometasone furoate causes adrenocortical suppression in healthy, small-breed dogs with bilateral OE at D28 postapplication.
+Animal:
+Seven client-owned dogs weighing <10 kg diagnosed with non-Pseudomonas bilateral OE.
+Materials and methods:
+Cortisol was measured pre- and post-adrenocorticotropic (ACTH) stimulation on D0.
+Topical florfenicol/terbinafine/mometasone furoate was applied in both ears.
+Dogs were reassessed on D28, and cortisol was measured pre- and post-ACTH stimulation.
+Results:
+The median pre- and post-ACTH cortisol concentrations on D28 were 2.5 µg/dL (range 2.0-5.0 µg/dL) and 14.3 µg/dL (range 11.5-23.1 µg/dL), respectively.
+There was no significant difference (P = 0.85) between post-ACTH cortisol concentrations from D0 to D28.
+Conclusions and clinical relevance:
+Results demonstrated no evidence of adrenocortical suppression, suggesting that there is no need to delay adrenocortical function testing in dogs treated with topical florfenicol/terbinafine/mometasone furoate when applied as per the manufacturer's recommendations.
+Brachial plexus blockade (BPB) is a procedure of growing popularity amongst surgeons and anaesthesiologists involved with upper limb surgery.
+The safety and benefit in hand surgery is unclear.
+A retrospective chart review was performed examining all operative hand cases over a 2-year period.
+All cases of metacarpal open reduction internal fixation (ORIF) were included. Cases were excluded if paediatric patient, additional procedures performed, and/or a decreased LOC.
+Parametric statistical tests were performed.
+In total, 54 cases with general anaesthesia (GA) and 48 cases with BPB were identified for the study (n = 102).
+The average total time from operating theatre to discharge was 245 ± 72 minutes in GA group and 195 ± 54 minutes in BPB (<i>P</i> < .001).
+Of those who had a GA, 47/54 patients required analgesia post-operatively versus 12/48 in the BPB (<i>P</i> < .001).
+Of all, 25/52 and 5/48 patients required anti-emetics post-operatively in the GA and BPB groups, respectively (<i>P</i> < .001).
+Need for any parenteral medication post-operatively was also significantly different (<i>P</i> < .001).
+This is the first study to specifically examine anaesthetic techniques for ORIF of hand fractures; adding to the body of literature establishing BPB as a safe and efficient method of anaesthesia.
+-
+Background:
+Hormones like testosterone play a crucial role in performance enhancement and muscle growth.
+Therefore, various attempts to increase testosterone release and testosterone concentration have been made, especially in the context of resistance training.
+Among practitioners, sexual activity (coitus and masturbation) a few hours before training is often discussed to result in increases of testosterone concentration and thus promote muscle growth.
+However, there is no evidence to support this assumption and the kinetics of the testosterone and cortisol response after sexual activity have not been adequately investigated.
+Therefore, the aim of this pilot-study was to examine the kinetics of hormone concentrations of total testosterone, free testosterone and cortisol and their ratios after masturbation.
+In a three-arm single blinded cross-over study, the effects of masturbation with visual stimulus were compared to a visual stimulus without masturbation and the natural kinetics in healthy young men.
+Results:
+The results showed a significant between-condition difference in free testosterone concentrations.
+Masturbation (p < 0.01) and a visual stimulus (p < 0.05) may seem to counteract the circadian drop of free testosterone concentrations over the day.
+However, no statistical change was observed in the ratios between total testosterone, free testosterone and cortisol.
+Conclusions:
+It can be assumed that masturbation may have a potential effect on free testosterone concentrations but not on hormonal ratios.
+Sarcopenia, the age-related loss of skeletal muscle mass/function, has been identified as a marker of frailty.
+We examined the association between sarcopenia and adverse events following transcatheter aortic valve implantation (TAVI).
+A retrospective cohort study was conducted at Toronto General Hospital.
+All patients who underwent TAVI in the time period 2007-2017 with preoperative computed tomography were included.
+Skeletal muscle index (SMI) was calculated radiographically using psoas muscle area at the L3 vertebral level, divided by height.
+Various measures of sarcopenia, including mean SMI, SMI below the sex-specific median, and SMI in the lowest sex-specific quartile were calculated.
+The primary outcome was postoperative adverse events, defined as a composite of in-hospital mortality and morbidity including cardiovascular, pulmonary, neurologic, access-related, and gastrointestinal complications.
+Univariate and multivariate logistic regression were performed to determine the association between sarcopenia and adverse events.
+A total of 468 patients (mean age: 80.7 years) were included.
+Baseline comorbidity burden was high, particularly congestive heart failure (93.4%).
+Postoperative adverse events occurred in 62 patients (13.2%).
+Univariate logistic regression demonstrated that postoperative adverse events were correlated with mean SMI (odds ratio [OR] 0.81, 95% confidence interal [CI] 0.66-0.97), events were less than the SMI (OR 2.16, 95% CI 1.24-3.84), and SMI in the sex-specific lowest quartile (OR 2.34, 95% CI 1.33-4.07).
+On multivariate analysis, SMI in the sex-specific lowest quartile was an independent predictor of adverse events (OR 2.53, 95% CI 1.41-4.50).
+Sarcopenia defined by radiologic psoas muscle measurements was independently associated with in-hospital mortality and morbidity following TAVI.
+-
+Objectives:
+The First Nations people experience significant challenges that may influence the ability to follow COVID-19 public health directives on-reserve.
+This study aimed to describe experiences, perceptions and circumstances of an Alberta First Nations community, related to COVID-19 public health advice.
+We hypothesized that many challenges ensued when following and implementing advice from public health experts.
+Methods:
+With First Nations leadership and staff, an online cross-sectional survey was deployed between April 24 and June 25, 2020.
+It assessed the appropriateness of public health advice to curb COVID-19 within this large First Nations community.
+Both quantitative and qualitative data were captured and described.
+Results:
+A total of 106 adults living on-reserve responded; over 80% were female.
+Difficulty accessing food was significant by employment status (p = 0.0004).
+Those people with lower income found accessing food (p = 0.0190) and getting essential medical care (p = 0.0060), clothing (p = 0.0280) and transportation (p = 0.0027) more difficult.
+Some respondents described lost income associated with COVID-19 experiences, as well as difficulties accessing essential supplies.
+Respondents found 'proper handwashing' most easy (98%) and 'keeping a distance of 2 m from others' most difficult (23%).
+Many respondents found following public health advice within their personal domain easy and put 'family safety' first but experienced some difficulties when navigating social aspects and obligations, particularly when unable to control the actions of others.
+People stated wanting clear information, but were sometimes critical of the COVID-19 response.
+Conclusion:
+We determined the impact of electronic nicotine delivery systems (ENDS) on health outcomes and costs in Canada, based on their effect on smoking cessation and smoking initiation rates.
+We used gender-specific Markov models to estimate lifetime discounted life years, quality-adjusted life years (QALYs) and smoking-related health care costs for cohorts of males and females aged 15 to 19 years, in scenarios in which (1) ENDS are available (status quo); (2) ENDS are completely unavailable; and (3) ENDS are available for smoking cessation through health care provider prescription, in addition to currently recognized smoking cessation tools.
+Analysis was from the perspective of a publicly funded health care system.
+Outcomes are expressed per 1000 individuals and based on expected values obtained through a Monte Carlo simulation of 10 000 replications.
+For males aged 15 to 19 years, life years, QALYs and smoking-related health care costs were 41 553, 35 871 and CAD 79 645 964, respectively, when ENDS were available; 41 568, 35 894 and CAD 79 645 960 when ENDS were unavailable; and 41 570, 35 897 and CAD 79 605 869 when ENDS were available through prescription only.
+For females, life years, QALYs and smoking-related health care costs were 43 596, 37 416 and CAD 69 242 856, respectively, when ENDS were available; 43 610, 37 438 and CAD 69 085 926 when ENDS were unavailable; and 43 611, 37 438 and CAD 69 076 034 when ENDS were available through prescription only.
+Thus, situations in which ENDS are unavailable, or available through prescription only are dominant over the status quo.
+These results show that a policy change whereby ENDS were unavailable to the Canadian population or available through prescription only would likely increase population health and reduce health care costs.
+Background:
+Substandard and falsified medicines pose a serious threat to public health throughout the world but disproportionately afflict under-resourced nations with weak pharmaceutical regulatory mechanisms.
+The prescription of medicines is an event in which a medical practitioner(MP) is a decision maker for the ultimate consumer who is the patient.
+Aim:
+The study was aimed at describing awareness, identification, utilization, and barriers to utilization of point of-care overt anti-counterfeit medicine technologies(ACMTs) and the drivers, dangers and preventive measures of substandard and falsified medicines among MPs in Abia State.
+Methods:
+This was a cross-sectional study done on 178 MPs in Abia State, Nigeria.
+Data were collected using a self-administered questionnaire that elicited information on awareness, identification, utilization of overt ACMTs and its barriers.
+The drivers, dangers and preventive measures for substandard and falsified medicines were also studied.
+Results:
+The mean age±SD of the respondents was 34±8.2 (Range 24-72 years).
+There were 159(89.3%) males.
+All the respondents (100%) were aware of the point-of-care overt ACMTs with the most commonly identified types being labelling (100%), packaging (100%), printing graphics (100%), and mobile authentication numbers(MAN) (100%).
+The most commonly utilized ACMTs were labelling (100%), packaging (100%) and printing (100%) technologies.
+Time constraint (100%) was the predominant predisposing barrier to utilization of overt ACMTs.
+The commonest classes of falsified and substandard medicines were anti-malarial (100%), anti-bacterial (100%) and analgesics (100%).
+The most common driver and danger of substandard and falsified medicines alluded to by the respondents were poor pharmaceutical products regulatory systems (100%) and treatment failures (100%), respectively.
+The most recommended preventive measure was securing supply chain of medicines (100%).
+Conclusion:
+Awareness of point-of-care overt ACMTs was very high but did not appear to translate to comparable utilizations for all types.
+The most commonly utilized overt ACMTs were labelling, packaging and printing technologies.
+Time constraint was identified as a possible predominant barrier to utilization of overt ACMTs.
+The commonest classes of substandard and falsified medicines were anti-malarial, anti-bacterial and analgesic medicines.
+It was believed that the commonest driver of substandard and falsified medicines was poor pharmaceutical products regulatory system and all these could result in treatment failures.
+Securing supply chain of medicinal products may serve as an effective preventive measure.
+Keywords:
+Anti-Counterfeit medicine technologies; Nigeria; barriers; identification,; utilizations.
+The Canada Prenatal Nutrition Program (CPNP) supports community organizations to provide maternal-infant health services for socially/economically vulnerable women.
+As part of our research program exploring opportunities to provide postnatal breastfeeding support through the CPNP, we investigated the sociodemographic and psychosocial characteristics of clients enrolled in a Toronto CPNP site and explored associations with participation.
+Data were collected retrospectively from the charts of 339 women registered in one southwest Toronto CPNP site from 2013 to 2016.
+Multivariable regression analyses were used to assess associations between 10 maternal characteristics and three dimensions of prenatal program participation: initiation (gestational age at enrolment in weeks), intensity (number of times one-on-one supports were received) and duration (number of visits).
+The mean (SD) age of clients was 31 (5.7) years; 80% were born outside of Canada; 29% were single; and 65% had household incomes below the Statistics Canada family size-adjusted low-income cut-offs.
+Income was the only characteristic associated with all dimensions of participation.
+Compared to clients living above the low-income cut-off, those living below the low-income cut-off enrolled in the program 2.85 weeks earlier (95% CI: -5.55 to -0.16), had 1.29 times higher number of one-on-one supports (95% CI: 1.03 to 1.61) and had 1.29 times higher number of program visits (95% CI: 1.02 to 1.63).
+Our findings show that this CPNP site serves vulnerable women, with few differences in participation based on maternal characteristics.
+This evidence can guide service provision and monitoring decisions at this program site.
+Further research is needed to explore new program delivery models to enhance perinatal services for vulnerable women.
+Rhinoplasty is one of the most common procedures that act as a challenge for consistent outstanding results.
+Alar base reduction is a technique of rhinoplasty that is prescribed in many conditions.
+Wound closure requires using of sutures and there are several types of sutures for this purpose; however, good scar results are necessary for patients'satisfaction.
+To evaluate alar base resection scar results after surgical resection using different types of suturing material.
+This is a retrospective cohort study that was conducted at King Abdulaziz University Hospital, Riyadh, Kingdom of Saudi Arabia.
+The study was performed by reviewing patient's records and performing post-operative photography for patient who underwent alar base resection.
+The patients were divided into 2 groups, the first group of patients had the alar base wound closed with interrupted Polypropylene 6/0 and the other group wound was closed with monocryl 6/0 sutures.
+Visual analog scale was used to investigate basal views.
+The study included 80 patients divided into 2 groups, each group included 40 patients, in the first group (Polypropylene group) there were 25% males and 75% females, whereas in the second group (monocryl) there were 15% and 85% males and females, respectively.
+There were 85% and 82.5% unnoticeable scar reported by the first and second group, respectively; however there was no significant difference between the 2 groups (<i>P</i> = .75).
+Both Polypropylene and monocryl sutures result in the same result for closing alar base wound post surgically.
+A hydrogeological conceptual model of the source, circulation pathways and temporal variation of a low-enthalpy thermal spring in a fractured limestone setting is derived from a multidisciplinary approach.
+St. Gorman's Well is a thermal spring in east-central Ireland with a complex and variable temperature profile (maximum of 21.8 °C).
+Geophysical data from a three-dimensional(3D)audio-magnetotelluric(AMT) survey are combined with time-lapse hydrogeological data and information from a previously published hydrochemical analysis to investigate the operation of this intriguing hydrothermal system.
+Hydrochemical analysis and time-lapse measurements suggest that the thermal waters flow within the fractured limestones of the Carboniferous Dublin Basin at all times but display variability in discharge and temperature.
+The 3D electrical resistivity model of the subsurface revealed two prominent structures: (1) a NW-aligned faulted contact between two limestone lithologies; and (2) a dissolutionally enhanced, N-aligned, fault of probable Cenozoic age.
+The intersection of these two structures, which has allowed for karstification of the limestone bedrock, has created conduits facilitating the operation of relatively deep hydrothermal circulation (likely estimated depths between 240 and 1,000 m) within the limestone succession of the Dublin Basin.
+The results of this study support a hypothesis that the maximum temperature and simultaneous increased discharge observed at St. Gorman's Well each winter is the result of rapid infiltration, heating and recirculation of meteoric waters within a structurally controlled hydrothermal circulation system.
+-
+Background:
+Schistosomiasis is an acute and chronic disease caused by parasitic worms, that can take two main forms: intestinal or urogenital.
+If left untreated, the urogenital form can lead to female genital schistosomiasis (FGS) in women and girls; frequently resulting in severe reproductive health complications which are often misdiagnosed as sexually-transmitted infections (STIs) or can be confused with cervical cancer.
+Despite its impact on women's reproductive health, FGS is typically overlooked in medical training and remains poorly recognized with low awareness both in affected communities and in health professionals.
+FGS has been described as the one of the most neglected sexual and reproductive health issues in sub-Saharan Africa (Swai in BMC Infect Dis 6:134, 2006; Kukula in PLoS Negl Trop Dis 13:e0007207; Joint United Nations Programme on HIV/AIDS (UNAIDS) 2019).
+Increased knowledge and awareness of FGS is required to end this neglect, improve women's reproductive health, and decrease the burden of this preventable and treatable neglected tropical disease.
+Methods:
+We conducted interactive virtual workshops, in collaboration with the World Health Organization (WHO), engaging 64 participants with medical and public health backgrounds from around the world to establish standardized skills (or competencies) for prevention, diagnosis, and treatment of FGS at all levels of the health system.
+The competencies were drafted in small groups, peer-reviewed, and finalized by participants.
+Results:
+This participatory process led to identification of 27 skills needed for FGS prevention, diagnosis, and management for two categories of health workers; those working in a clinical setting, and those working in a community setting.
+Among them, ten relate to the diagnosis of FGS including three that involve a pelvic exam and seven that do not.
+Six constitute the appropriate behaviors required to treat FGS in a clinical setting.
+Eleven address the community setting, with six relating to the identification of women at risk and five relating to prevention.
+Conclusion:
+Defining the skills necessary for FGS management is a critical step to prepare for proper diagnosis and treatment of women and girls in sub-Saharan Africa by trained health professionals.
+Thirteen Canadians obtained a doctoral degree from the Faculty of Medicine of Paris between 1822 and 1905.
+Their studies in France played a decisive role in some of the major trends of 19<sup>th</sup>-century Canadian history: the formation of a French-Canadian professional bourgeoisie, the formalization of diplomatic ties between Canada and France, the development of bacteriology in America, and the rise of French-Canadian nationalism at the turn of the 20<sup>th</sup> century.
+This article traces the careers of these medical doctors by using unpublished sources, mainly their student files and doctoral theses, located through the Pierre Moulinier database and made available by the Bibliothèque Interuniversitaire de Santé of the Université Paris-Descartes.
+By examining these doctors' travels to Paris, it shows the impact on the Canadian medical profession of the relationship between a former North American colony and its former imperial capital.
+Distribution of hospital beds across Saudi Arabia from 2015 to 2019: a cross-sectional study
+Adequate access to health care systems is considered a basic human right.
+Therefore, it is important that health care services be delivered to those who need them most in the most efficient manner possible.
+We evaluated the distribution of hospital beds across Saudi Arabia from 2015 to 2019 to assess inequalities in hospital resource allocation.
+This cross-sectional study utilized data from the Health Statistical Yearbook published by the Ministry of Health during the period 2015-2019.
+The number of hospital beds per 100 000 population was calculated for the 20 health regions.
+Generation of other parameters, such as the Gini index and the Lorenz curve, was performed to assess the distribution of beds.
+The Pearson coefficient was calculated to assess the correlation between beds and population in each health region.
+The ratio of hospital beds to population improved from 2015 to 2019 in areas such as Ha'il, Tabouk and Ta'if, which increased by 89.6, 72.5 and 32.5 respectively.
+The calculated mean Gini index for bed distribution in the public sector was 0.21; in the private sector it was 0.53.
+There was a strong positive correlation between population and hospital beds in Riyadh, Qaseem, Eastern and Ha'il regions.
+In Saudi Arabia the observed inequalities in hospital bed distributions lie mainly in the private sector.
+It is recommended that policymakers be aware of such inequalities and work on possible reforms to achieve the goals of Saudi Vision 2030.
+-
+Objectives:
+Public health interventions for adolescent 'obesity prevention' have focused predominantly on individualistic health behaviours (e.g., diet and physical activity) at the expense of recognizing body weight diversity and the array of social factors (e.g., stigma and discrimination of marginalized identities) that may be linked to weight status.
+Research is needed to examine the extent to which individualistic health behaviours versus social factors contribute to weight status in adolescents.
+As such, the aim of this study was to investigate the relative contribution of individualistic health behaviours versus social factors to objective and perceptual indices of weight status.
+Methods:
+Cross-sectional survey data were collected as part of the Toronto Public Health Student Survey and comprised students 12 to 19 years of age (N = 5515).
+Measures included perceived and objective weight status, social and demographic factors (e.g., gender, sexual orientation, school connectedness), and health behaviours (e.g., physical activity, nutritious consumption).
+Results:
+Findings from latent variable regression models partially supported hypotheses, whereby social factors (i.e., age, sex, socio-economic access, sexual minority status) contribute similar amounts of variance, or relatively more variance in weight indices, compared to health behaviours (e.g., physical activity, nutritious consumption).
+Conclusion:
+Contrary to traditional views of adolescent weight status, physical activity (i.e., school-based, individual, active transport) and nutritious consumption (i.e., fruits, vegetables, milk) were not associated with weight status, when considering social factors.
+Acute cardiorenal syndrome (ACRS) is associated with adverse outcomes in patients with acute decompensated heart failure (ADHF).
+Intrarenal venous blood flow can be assessed using Doppler ultrasound and has prognostic significance in ADHF.
+Although intrarenal Doppler (IRD) may be sensitive to renal congestion, an association between IRD parameters and ACRS has not been demonstrated in an ADHF population.
+Hospitalized patients with ADHF (n = 21) or acute coronary syndrome (ACS; n = 21) were prospectively enrolled.
+Patients underwent echocardiography, including IRD, using a standard cardiac ultrasound transducer.
+Intrarenal venous flow was quantified with the renal venous stasis index (RVSI), defined as the duration of absent venous flow time divided by cardiac cycle duration.
+The primary outcome was acute kidney injury (AKI) as assessed using the Kidney Disease: Improving Global Outcomes (KDIGO) criteria.
+ADHF patients had a similar cardiac index (2.0 ± 0.6 vs 2.1 ± 0.4 L/min per m<sup>2</sup>, <i>P</i> = 0.91) but higher estimated central venous pressure (13.0 ± 3.2 vs 4.6 ± 2.4 mm Hg, <i>P</i> < 0.001) measured using echocardiography, compared with ACS patients.
+IRD was abnormal in all ADHF patients and normal in all ACS patients (RVSI 0.62 ± 0.20 vs 0.0 ± 0, <i>P</i> < 0.001).
+AKI stage II/III occurred in 10 of 21 ADHF patients (48%) vs 0 of 21 ACS patients (<i>P</i> < 0.001), with a mean rise in serum creatinine of 97.7 ± 79.3 vs 16.8 ± 10.9 μmol/L (<i>P</i> < 0.001), respectively.
+RVSI was correlated with AKI severity in ADHF patients (<i>r</i> = 0.57; <i>P</i> = 0.004).
+RVSI is associated with AKI among ADHF patients and may be a useful diagnostic biomarker for ACRS in this setting.
+Further studies are needed to validate this finding and evaluate the potential efficacy of IRD-guided decongestive therapy in this setting.
+-
+Purpose:
+To examine the efficacy of parent-directed anesthetic mask exposure and shaping practice to prevent child preoperative anxiety, with a specific focus on timing of exposure.
+Methods:
+This randomized-controlled trial included 110 children ages four to seven years undergoing day surgery dental procedures and their parents.
+Families were randomly assigned to one of three groups: 1) parent-directed mask exposure/shaping practice at least three times in the week prior to surgery (Group 1); 2) parent-directed mask exposure/shaping practice at least once on the day of surgery (Group 2); 3) no exposure prior to induction (Group 3).
+Child anxiety was observer-rated using the modified Yale Preoperative Anxiety Scale during the day surgery experience, and induction compliance was observer-rated using the Induction Compliance Checklist.
+Results:
+Results demonstrated significant differences in observer-rated child anxiety at anesthetic induction across groups.
+Group 2 demonstrated significantly lower observer-rated anxiety than Group 3 with a medium effect, F(1, 71) = 4.524, P = 0.04, η <sub>p</sub> <sup>2</sup> = 0.06.
+A significant interaction was observed between these two groups over time (i.e., admission to anesthesia induction), F(1, 71) = 4.365, P = 0.04, η <sub>p</sub> <sup>2</sup> = 0.06 (i.e., small to medium effect).
+Group 2 demonstrated the best anesthesia induction compliance (i.e., significantly lower scores than Group 3, P = 0.04).
+Conclusion:
+Timing of the delivery of mask exposure (i.e., on the day of surgery) to address child preoperative anxiety and induction compliance in the day surgery setting may be an important consideration.
+Paediatric endocrinology is a nascent subspecialty in Nigeria.
+Previous reports suggest a poor awareness of paediatric endocrine disorders resulting in late presentation, missed diagnosis and unnecessary death.
+The study aims to report the prevalence of paediatric endocrine disorders at UNIOSUN Teaching Hospital (UTH) and to provide essential information to enhance early presentation and management.
+This is a 10-year retrospective study of all children managed for paediatric endocrine disorders at UTH from March 2010 to March 2020.
+Relevant data were extracted from patients' records, entered into and analyzed with SPSS.
+Forty (0.42%) of 9,520 new consultations at UTH paediatric specialist clinic during the study period had endocrine disorders.
+There were 13 males and 27 females (M:F=1:2), with ages ranging from 1 month to 15.5years and 23 (57.5%) of them were under the age of 5 years.
+The four most common endocrine disorders were Rickets (45%), Diabetes (15%), Thyroid disorders (15%) and disorders of puberty (12.5%).
+There was a progressive yearly increase in the number of paediatric endocrine cases seen.
+At the time of this report, 34 (85%) of the patients were alive and doing very well, 5 (12.5%) has been lost to follow up and 1 (2.5%) mortality was recorded.
+Rickets, diabetes, thyroid disorders and disorders of puberty are the four leading paediatric endocrine disorders seen at UTH.
+Attrition is a notable challenge in paediatric endocrine disorders.
+Reasons for attrition and ways to terminate these challenges need to be identified and put into practice.
+Keywords:
+Diabetes; Nigeria; Paediatric; Rickets; awareness; endocrine disorders.
+How do changing levels of local economic inequality affect households' social capital?
+This article contributes to answering this question by examining the impact of village-level economic inequality in Andhra Pradesh on household levels of bridging and bonding social-network capital, using Two-Stage Least-Squares regressions of data from household surveys conducted between 2002 and 2014 by the Young Lives programme.
+The results of the study suggest that as local economic inequality rises, households' bridging social capital, measured through participation in efforts to resolve broader communal issues, declines whilst their bonding social capital, measured through membership in relatively demographically and socio-economically homogeneous voluntary associations, increases.
+Existing research suggests that the consequently growing fragmentation of communities along demographic and socio-economic division lines is likely to contribute to social conflicts.
+Perioperative atrial fibrillation (POAF) after cardiac surgery has been associated with an increased risk of stroke in some studies.
+However, the exact magnitude of this association during short-term and long-term follow-up remains unclear.
+We searched PubMed, Embase, and Cochrane Central Register of Controlled Trials (CENTRAL) for the time period from database inception to October 2020.
+We included observational studies with ≥ 100 patients that reported data on short-term or long-term stroke risk in patients with and without POAF after cardiac surgery.
+Data were pooled using random-effects models.
+We reported summary risk ratios (RRs) for studies reporting multivariable adjusted results and calculated absolute risk differences (ARDs) with 95% confidence intervals (CIs).
+A total of 55 studies with 540,209 patients were included.
+POAF was associated with both an increased relative risk (RR 1.69; 95% CI, 1.41-2.03; I<sup>2</sup> = 82%; 9 studies) and absolute risk of short-term stroke (4.5% vs 2.5%; ARD 2.0%; 95% CI, 1.28-2.89).
+POAF was associated with an increased relative risk (RR 1.20; 95% CI, 1.12-1.29; I<sup>2</sup> = 16%; 10 studies) and absolute risk of long-term stroke (1.06 vs 0.88 per 100 patient-years; ARD 0.18 per 100 patient-years; 95% CI, 0.07-0.26).
+Sensitivity analyses of high-quality studies and studies reporting either ischemic or embolic strokes yielded similar findings.
+POAF after cardiac surgery was associated with an increased risk of both short-term and long-term stroke.
+However, the long-term stroke ARD was small, and whether these patients will benefit from long-term oral anticoagulation therapy is unclear.
+Canadian Guidelines for Hereditary Transthyretin Amyloidosis Polyneuropathy Management
+Hereditary transthyretin-mediated (hATTR) amyloidosis is a progressive disease caused by mutations in the TTR gene leading to multisystem organ dysfunction.
+Pathogenic TTR aggregation, misfolding, and fibrillization lead to deposition of amyloid in multiple body organs and frequently involve the peripheral nerve system and the heart.
+Common neurologic manifestations include: sensorimotor polyneuropathy (PN), autonomic neuropathy, small-fiber PN, and carpal tunnel syndrome.
+Many patients have significant progression due to diagnostic delays as hATTR PN is not considered within the differential diagnosis.
+Recently, two effective novel disease-modifying therapies, inotersen and patisiran, were approved by Health Canada for the treatment of hATTR PN.
+Early diagnosis is crucial for the timely introduction of these disease-modifying treatments that reduce impairments, improve quality of life, and extend survival.
+In this guideline, we aim to improve awareness and outcomes of hATTR PN by making recommendations directed to the diagnosis, monitoring, and treatment in Canada.
+Background:
+Previous studies have shown that patch testing with food extracts can assist formulation of elimination diets (ED) in human patients with suspected adverse food reactions (AFR).
+Little is known about the use of these tests in dogs.
+Objectives:
+To evaluate the effectiveness of a combination of prick and patch testing in current protocols, and food challenge (FC) tests in dogs with AFR.
+Methods and materials:
+Prick and patch tests were performed on 21 dogs with chronic, nonseasonal pruritus.
+Dogs then were fed an ED formulated on the basis of the results.
+All dogs with improved clinical signs then were challenged with a food to which there had been a positive reaction in the tests.
+Six dogs subsequently were challenged with a food to which they had been negative on testing.
+Pruritus Visual Analog Scale (pVAS) and Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) were evaluated on Day (D)0, D30 and D60 of the ED.
+Sensitivity (SE), specificity (SP), positive (PPV) and negative (NPV) predictive values, and the Kappa (κ)value were calculated.
+Results:
+Of the 21 dogs, there was a significant mean improvement in pVAS and CADESI-04 scores in 16 (76%) dogs after D30 (P < 0.01) and D60 (P < 0.01) of the ED.
+There were no statistical differences between D30 and D60.
+The combination of tests had SE, SP, PPV, NPV and κ values of 80%, 66.7%, 66.7%, 80% and -0.17, respectively.
+Conclusions and clinical relevance:
+The combination of prick and patch testing reached high values of SE and NPV.
+A diagnosis of AFR was made in 76% of the dogs, and test results were useful for the selection of an ED.
+One of the challenging problems in neuroimaging is the principled incorporation of information from different imaging modalities.
+Data from each modality are frequently analyzed separately using, for instance, dimensionality reduction techniques, which result in a loss of mutual information.
+We propose a novel regularization method, generalized ridgified Partially Empirical Eigenvectors for Regression (griPEER), to estimate associations between the brain structure features and a scalar outcome within the generalized linear regression framework.
+griPEER improves the regression coefficient estimation by providing a principled approach to use external information from the structural brain connectivity.
+Specifically, we incorporate a penalty term, derived from the structural connectivity Laplacian matrix, in the penalized generalized linear regression.
+In this work, we address both theoretical and computational issues and demonstrate the robustness of our method despite incomplete information about the structural brain connectivity.
+In addition, we also provide a significance testing procedure for performing inference on the estimated coefficients.
+Finally, griPEER is evaluated both in extensive simulation studies and using clinical data to classify HIV+ and HIV- individuals.
+-
+The adoption and maintenance of healthy behaviours including age-appropriate amounts of physical activity, limited sedentary and screen time, and healthy eating are the foundations for youth development and thriving.
+In reviewing extant evidence, we observe that the COVID-19 pandemic has been associated with marked reductions in physical activity, increased sedentary and screen time, and increased food intake and unhealthy snacking.
+Deleterious effects in movement behaviours appear to be more pronounced among vulnerable groups and food insecurity has become more widespread.
+To contribute to mitigating these impacts, we advocate for strengthened evidence-based public health.
+Towards this end, ongoing surveillance should be intensified and augmented with additional indicators of social inequalities.
+Differentiation between precapillary and postcapillary pulmonary hypertension (PH) classically relies on mean pulmonary artery wedge pressure (mPAWP).
+The left ventricular end-diastolic pressure (LVEDP) is proposed as an equivalent alternative.
+However, mPAWP and LVEDP may differ substantially.
+We compared the impact of the choice of using the mPAWP vs the LVEDP on PH classification and mortality prediction in patients with severe aortic stenosis (AS) undergoing valve replacement.
+In 335 patients with severe AS , both mPAWP and LVEDP were measured.
+A mean pulmonary artery pressure ≥ 25 mm Hg was used to define PH, and either mPAWP or LVEDP was used to differentiate between precapillary and postcapillary PH (≤ 15 vs > 15 mm Hg).
+Mortality after a median follow-up of 1484 days after aortic valve replacement was assessed.
+Overall, mPAWP was lower than LVEDP (16 ± 8 mm Hg vs 21 ± 8 mm Hg; <i>P</i> < 0.001).
+Among 140 patients (42%) with PH, the PAWP-based classification revealed 76 (54% of those with PH) with isolated postcapillary PH, 48 (34%) with combined pre- and postcapillary PH, and 16 (12%) with precapillary PH.
+When the LVEDP was used, 59 patients (42%) were differently classified.
+These patients had higher mortality than those who were not differently classified [hazard ratio 2.79 (95% confidence interval, 1.17-6.65); <i>P</i> = 0.02].
+Higher mPAWP was associated with increased mortality [hazard ratio 1.07 (95% confidence interval, 1.03-1.11) per 1 mm Hg; <i>P</i> = 0.001], whereas higher LVEDP was not.
+Use of LVEDP rather than mPAWP results in a divergent PH classification in nearly every second patient with severe AS.
+These patients have higher mortality after aortic valve replacement.
+The mPAWP, but not the LVEDP, predicts mortality.
+To determine the influence of induced fatigue on dynamic balance in healthy athletes.
+Systematic review.
+PUBMED, MEDLINE, CINAHL, Sports Discus, and the Cochrane library from onset to May 28, 2019.
+Eligible studies included any study examining the effects of induced-fatigue on dynamic balance, as measured by the SEBT/YBT, in healthy athletic populations.
+Studies with a low risk of bias were considered scientifically admissible for a best evidence synthesis.
+Fifteen studies with low risk of bias were included - seven investigated recreational athletes while eight focused on competitive athletes.
+In the recreational population, five of the studies found significant decrease in dynamic balance following the fatiguing intervention.
+However, the remaining two concluded with insignificant changes.
+As for the competitive population, three studies showed significant effects of induced fatigue on dynamic balance, while five showed no effects.
+There are conflicting results regarding the effects of induced fatigue on dynamic balance.
+The majority of studies focused on competitive athletes found that fatigue did not alter their dynamic balance.
+Per contra, the majority of studies focused on recreational athletes concluded the opposite - fatigue did indeed affect dynamic balance.
