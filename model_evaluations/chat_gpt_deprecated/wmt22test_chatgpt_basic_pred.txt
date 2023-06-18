@@ -1,0 +1,144 @@
+Les chéloïdes auriculaires récalcitrantes sont des chéloïdes qui réapparaissent après tout traitement antérieur.
+On a constaté qu'elles ont une probabilité accrue de récidive.
+Il n'y a pas de consensus sur la meilleure façon de traiter les chéloïdes auriculaires récalcitrantes.
+Ici, nous réalisons la première revue systématique et méta-analyse examinant les preuves du traitement des chéloïdes auriculaires récalcitrantes.
+Nous avons effectué des recherches dans MEDLINE, EMBASE, CINAHL et EBM Reviews en utilisant des mots-clés spécifiques.
+Des critères d'inclusion et d'exclusion prédéfinis ont été utilisés pour évaluer l'éligibilité des articles.
+Les données ont été extraites pour le nombre de chéloïdes récalcitrantes, la modalité de traitement, la récidive et le temps de suivi minimum.
+Les articles inclus ont été stratifiés par traitement et attribués à un niveau de preuve (LP) selon les directives du Centre d'Oxford pour la médecine fondée sur les preuves. Une méta-analyse a été réalisée pour estimer les taux de récidive avec des intervalles de confiance à 95 % pour chaque modalité de traitement.
+Un total de 887 articles uniques ont été identifiés et 13 ont été inclus.
+Onze étaient de niveau de preuve III et 2 étaient de niveau de preuve IV.
+Les taux de récidive ont été de 9 % (IC à 95 % : 3 %-25 %) pour l'excision avec curiethérapie adjuvante, 14 % (IC à 95 % : 12 %-17 %) pour l'excision avec compression adjuvante, 17 % (IC à 95 % : 3 %-56 %) pour l'excision avec radiothérapie externe adjuvante, et 18 % (IC à 95 % : 4 %-53 %) pour l'excision avec injections de stéroïdes adjuvantes.
+Aucune différence statistiquement significative n'a été trouvée.
+Les données sur le traitement des chéloïdes auriculaires sont hétérogènes avec peu d'études de haute qualité.
+L'excision avec curiethérapie adjuvante présente le taux de récidive le plus faible dans notre analyse.
+Les intervalles de confiance étroits rapportés ici pour la curiethérapie et la compression peuvent aider les chirurgiens à recommander plus confiantiellement l'une ou l'autre de ces modalités de traitement aux patients.
+-
+Objectifs :
+Tester l'efficacité de l'étiquetage calorique des boissons alcoolisées et non alcoolisées sur les menus des restaurants pour la prise de conscience des informations caloriques, la connaissance des calories et l'influence perçue et réelle sur les commandes hypothétiques de boissons.
+Les participants étaient des étudiants universitaires de niveau supérieur de l'âge légal pour boire résidant en Ontario, Canada (n = 283).
+Méthodes :
+Dans le cadre d'une expérience entre groupes, les participants ont été répartis au hasard pour voir l'un des deux menus : (1) Pas d'information calorique (témoin), et (2) Information calorique à côté de chaque boisson.
+Les participants ont effectué une tâche de commande hypothétique, et des mesures liées à la prise de conscience des informations caloriques, à la connaissance des calories et à l'influence réelle et perçue des informations caloriques sur les boissons commandées ont été évaluées.
+Des modèles de régression linéaire, logistique et logistique multinomiale ont été utilisés pour examiner les quatre résultats.
+Les chances de remarquer les informations caloriques étaient significativement plus élevées dans la condition avec informations caloriques (72,6 %) par rapport à la condition sans informations caloriques (8,0 %) (OR = 43,7, IC à 95 % : 16,8, 113,8).
+Résultats :
+Comparés à ceux de la condition sans informations caloriques, les participants de la condition avec informations caloriques avaient des chances significativement plus faibles de répondre « Ne sait pas » (OR = 0,04, IC à 95 % : 0,02, 0,09), de sous-estimer (OR = 0,06, IC à 95 % : 0,02, 0,2) et de surestimer (OR = 0,05, IC à 95 % : 0,02, 0,2) les calories des boissons commandées par rapport à une estimation précise.
+Aucune différence significative n'a été observée entre les conditions d'étiquetage des menus concernant les calories des boissons commandées ou l'influence perçue des informations caloriques sur le nombre de boissons commandées.
+L'exposition à des menus avec des informations caloriques a permis aux consommateurs de remarquer les informations caloriques et d'estimer correctement les calories des boissons alcoolisées et non alcoolisées commandées.
+Conclusion :
+Contexte :
+Les infections staphylococciques nosocomiales résistantes à la méthicilline (MR) sont un problème mondial.
+Les surfaces des salles d'examen dermatologique vétérinaire peuvent constituer un réservoir en raison de la fréquence des pyodermes staphylococciques.
+Hypothèses/objectifs :
+Tout d'abord, l'efficacité de la décontamination des surfaces de la salle d'examen à l'aide d'un composé d'ammonium quaternaire a été évaluée après l'utilisation de deux protocoles de nettoyage différents.
+Deuxièmement, les comptages de colonies de staphylocoques coagulase-positifs (CoPS) ont été évalués après l'utilisation des salles par des chiens atteints de pyodermes, puis après le nettoyage et la désinfection.
+Méthodes et matériel :
+Dans la partie I, 10 surfaces des salles ont été marquées avec un colorant fluorescent discret, Glo Germ, pour évaluer l'efficacité du nettoyage des surfaces entre deux protocoles de nettoyage à base de Virex II 256.
+Dans la partie II, les colonies de CoPS ont été quantifiées à l'aide du système Staph Express de 3M.
+Dix surfaces de salle standardisées ont été échantillonnées après utilisation par un chien atteint de pyodermes staphylococciques, et immédiatement après un protocole de nettoyage et de désinfection détaillé.
+Résultats :
+Au total, 24 sur 100 et 81 sur 100 surfaces ont été entièrement nettoyées respectivement avec les protocoles général et détaillé.
+Le nombre moyen de surfaces correctement nettoyées était plus élevé avec le protocole détaillé (P = 0,003).
+Le protocole détaillé a réduit les comptages de colonies de CoPS de huit surfaces (P < 0,01), mais pas des chaises (P = 0,055).
+Aucun CoPS n'a été isolé de la table d'examen sous un tapis de table.
+Conclusions et pertinence clinique :
+Il est recommandé de mettre en place des protocoles de nettoyage et de désinfection détaillés pour minimiser la contamination des surfaces des salles d'examen vétérinaires par les staphylocoques.
+La désinfection appropriée des chaises nécessite des études supplémentaires.
+Il existe des preuves substantielles montrant que le bien-être des étudiants en médecine est un problème croissant au Canada. Il est évident que le bien-être des étudiants en médecine se détériore tout au long de leur formation.
+Les écoles de médecine et leurs organismes de réglementation réagissent en intégrant le bien-être dans les cadres de compétences et les normes d'accréditation par le biais d'approches à la fois systémiques et individuelles.
+Les stratégies au niveau du système qui tiennent compte de l'impact des politiques, de la culture médicale et du « curriculum caché » sur le bien-être des étudiants sont essentielles pour réduire la prévalence de l'épuisement professionnel et atteindre des résultats optimaux en matière de bien-être.
+Initiatives individuelles telles que les programmes de bien-être sont répandues et plus couramment utilisées.
+Ces initiatives sont souvent didactiques, mettant la responsabilité sur l'étudiant sans tenir compte de l'environnement d'apprentissage.
+Malgré des progrès significatifs, il existe peu de cohérence dans les programmes entre les écoles ou les niveaux de formation.
+Il n'existe pas de cadre de programme de bien-être pour l'éducation médicale de premier cycle au Canada qui corresponde aux compétences en résidence.
+La création d'un tel cadre permettrait d'harmoniser les initiatives individuelles et systémiques et de faciliter la transition entre l'école de médecine et la résidence.
+Le cadre organiserait les objectifs dans les domaines pertinents du bien-être, permettrait une adaptabilité locale, tiendrait compte des besoins fondamentaux des apprenants et serait basé sur les retours des apprenants.
+Les médecins dont le bien-être a été soutenu tout au long de leur formation contribueront positivement à la qualité des soins aux patients, aux environnements de travail et au maintien d'une population canadienne en bonne santé.
+Identification et caractérisation des moustiques provenant de différentes régions du Qatar en 2017-2019
+Les infections transmises par les moustiques ont des conséquences considérables pour la santé publique.
+La simple présence d'un cas de maladie transmise par un vecteur introduit un risque pour la communauté locale, en particulier lorsqu'elle est associée à un vecteur compatible, à un hôte et à des facteurs environnementaux favorables.
+Actuellement, il n'existe pas de programme de lutte antivectorielle et de surveillance bien établi au Qatar ; par conséquent, la probabilité de propagation des maladies transmises par les moustiques n'est pas déterminée.
+Il est donc urgent de combler cette lacune et de permettre une gestion efficace des maladies transmises par les moustiques.
+Cette étude présente les résultats de trois enquêtes sur le terrain consécutives menées entre 2017 et 2019 dans le but de définir les types et la distribution des moustiques d'importance pour la santé publique au Qatar.
+Les résultats des captures de moustiques adultes montrent que le moustique domestique du sud Culex quinquefasciatus est l'espèce de moustique la plus répandue et la plus abondante, suivi de Cx. perexiguus, les deux espèces représentant un risque de transmission du virus du Nil occidental.
+Toutes les méthodes d'échantillonnage montrent que le vecteur du paludisme Anopheles stephensi est répandu, y compris dans les zones urbanisées, ce qui suggère un risque de transmission locale du paludisme.
+Le moustique des zones humides Aedes caspius est également répandu, représentant un risque de transmission du virus de la fièvre de la vallée du Rift.
+Le vecteur de la dengue Ae. aegypti n'a pas été détecté et peut être considéré comme ni répandu ni abondant, ce qui suggère un risque minimal de transmission locale de la dengue, de la chikungunya et du virus Zika.
+Fait intéressant, l'étude a détecté pour la première fois au Qatar le moustique Culiseta longiareolata.
+Des études sur le terrain régulières sont nécessaires pour combler les lacunes en termes de distribution, d'écologie et d'habitudes de piqûre des différentes espèces de moustiques présentes actuellement au Qatar afin d'évaluer avec précision le risque de maladies transmises par les moustiques.
+Les femmes atteintes de maladies cardiaques connaissent des disparités dans le diagnostic, le traitement et la prise en charge de leur état.
+Cependant, on ignore si ces différences entre les sexes existent en ce qui concerne l'expérience des patients à l'hôpital.
+Nous avons examiné l'expérience globale des patients hospitalisés pour une cardiopathie ischémique (CI) dans l'ensemble de l'Alberta, au Canada, selon le sexe.
+Les patients ont rempli une version modifiée de l'Enquête canadienne sur l'expérience des patients - soins hospitaliers (CPES-IC) dans les 6 semaines suivant leur sortie.
+Nous avons examiné 37 questions, dont 33 concernant des processus de soins spécifiques et 4 échelles d'évaluation globale.
+Les réponses à l'enquête ont été rapportées en pourcentages bruts de la réponse « très positive » à chaque question.
+Les cotes et les intervalles de confiance à 95 % correspondants des femmes rapportant une réponse « très positive » ont ensuite été calculés pour chaque question, tout en tenant compte des facteurs démographiques et cliniques.
+De avril 2014 à mars 2020, un total de 5795 enquêtes (1612 femmes, 4183 hommes) ont été complétées.
+En tenant compte de la marge d'erreur de l'enquête, les femmes avaient des pourcentages plus faibles de réponses « très positives » pour 26 des 37 questions.
+Des résultats similaires ont été obtenus pour les cotes ajustées de réponse « très positive ».
+Les femmes n'avaient pas un pourcentage plus élevé de réponses « très positives » pour l'une des questions étudiées.
+Cette étude est la première du genre au Canada, stratifiant les expériences des patients hospitalisés atteints de cardiopathie ischémique selon le sexe.
+Nos résultats ont mis en évidence d'importantes différences entre les sexes.
+Des recherches futures sont nécessaires pour comprendre les mécanismes associés à ces différences observées entre les sexes en ce qui concerne les expériences rapportées par les patients.
+-
+Objectif :
+La surveillance intégrée de la résistance aux antimicrobiens (RAM) et de l'utilisation des antimicrobiens (UAM) dans tous les secteurs de la santé animale est d'une importance cruciale pour une politique, une gestion et un contrôle efficaces et fondés sur des données probantes de la RAM.
+Notre objectif était d'évaluer les progrès réalisés vers la réalisation d'une surveillance complète et intégrée de la RAM/UAM au Canada.
+Matériel et méthodes :
+Sur la base d'une analyse de l'environnement, d'entretiens avec des experts en la matière et de rapports du Centre de collaboration nationale des maladies infectieuses de 2014 et du Conseil canadien des médecins vétérinaires en chef de 2016, nous avons identifié 8 exigences de surveillance de base et leurs composants spécifiques ; ces derniers ont été évalués à l'aide d'une matrice de classification à deux voies, avec 7 éléments communs classés selon leur stade de développement.
+Résultats :
+Les composants qui correspondaient aux exigences d'un système de surveillance complet et entièrement intégré de la RAM/UAM étaient principalement au stade le plus bas de développement (Exploration ou Adoption de programme).
+Cependant, l'établissement du Système canadien de surveillance de la RAM avec rapport intégré et l'expansion des composants existants dans le cadre du Programme canadien de surveillance des infections nosocomiales et du Programme intégré canadien de surveillance de la RAM constituent des améliorations.
+Néanmoins, des lacunes évidentes dans la surveillance de la RAM/UAM au Canada empêchent la mise en place d'un programme complet et intégré de santé unique.
+Conclusion :
+Des actions sont nécessaires dans trois domaines cruciaux : i) développement d'un programme complet et intégré de surveillance de la RAM/UAM, en s'appuyant sur les succès actuels ; ii) modifications des politiques fédérales/provinciales/territoriales pour exiger des rapports normalisés sur la RAM/UAM ; et iii) allocation de plus de ressources pour la surveillance de la RAM/UAM (personnes dédiées, financement, structures et politiques favorables).
+-
+Objectif :
+Les prescriptions légitimes d'opioïdes peuvent augmenter le risque de mauvais usage, de dépendance et de surdose d'opioïdes chez les enfants et les adolescents.
+Cette étude visait à décrire les schémas de prescription des analgésiques opioïdes à la sortie des visites hospitalières et à déterminer les caractéristiques des patients et des prescripteurs associées à une prescription prolongée d'opioïdes.
+Méthodes :
+Dans une étude de cohorte historique, nous avons identifié les patients sortis de l'hôpital avec une prescription d'analgésiques opioïdes dans un hôpital pédiatrique tertiaire du 1er janvier 2016 au 30 juin 2017.
+Le critère principal était la durée de la prescription opioïde en nombre de jours.
+Nous avons évalué l'association entre les caractéristiques des patients et des prescripteurs et une durée de prescription opioïde supérieure à cinq jours en utilisant une équation d'estimation généralisée pour tenir compte de la clustering dû aux admissions répétées du même patient.
+Résultats :
+Pendant la période d'étude de 18 mois, 15,4% de tous les patients admis (3 787/24 571) se sont vu prescrire un total de 3 870 ordonnances d'opioïdes à la sortie.
+La durée médiane [intervalle interquartile] de la thérapie opioïde en ambulatoire prescrite était de 3,75 [3,00-5,00] jours.
+Soixante-dix-sept pour cent des prescriptions d'opioïdes étaient d'une durée de cinq jours ou moins.
+L'analyse par équation d'estimation généralisée a révélé que la durée d'hospitalisation supérieure à quatre jours, la prescription d'oxycodone et la prescription par des médecins stagiaires et le service d'orthopédie étaient tous indépendamment associés à une prescription d'opioïdes à la sortie de plus de cinq jours.
+Conclusions :
+La plupart des opioïdes prescrits à la sortie pour les enfants étaient prescrits pendant moins de cinq jours, ce qui est conforme aux directives actuelles pour les adultes.
+La maladie à coronavirus 2019 (COVID-19) est une crise mondiale de santé publique qui affecte de manière disproportionnée les personnes atteintes de conditions préexistantes.
+Les maladies cardiovasculaires (MCV) sont la principale cause de décès dans le monde et de nombreux facteurs de risque clés des MCV sont modifiables (par exemple, l'inactivité physique, le comportement sédentaire, l'obésité).
+Pour limiter la propagation du coronavirus 2019, la plupart des gouvernements ont mis en place des restrictions et recommandé de rester chez soi, de réduire les contacts sociaux à quelques personnes sélectionnées et de limiter les rassemblements importants.
+De telles contraintes de santé publique peuvent avoir des conséquences néfastes, non intentionnelles, sur les comportements de mouvement sur 24 heures.
+L'objectif principal de cette revue est de fournir des recommandations pratiques à domicile concernant le temps sédentaire, le sommeil et l'activité physique chez les personnes atteintes de MCV.
+Les adultes atteints de MCV bénéficieront de recommandations pratiques visant à réduire le temps sédentaire, à augmenter l'exercice délibéré et à maintenir des habitudes de sommeil optimales tout en restant chez eux et en respectant les restrictions de santé publique.
+Nos recommandations comprennent les points suivants : (i) surveillance du temps passé assis ; (ii) pratiquer de l'exercice délibéré 2 à 3 jours par semaine pour les personnes ayant une faible capacité d'exercice et plus de 3 jours par semaine pour celles ayant une capacité d'exercice modérée à élevée ; (iii) surveillance de l'intensité de l'exercice à l'aide d'échelles ou de dispositifs portables ; (iv) maintien d'un horaire régulier de sommeil ; et (v) bouger tous les jours.
+Les cliniciens doivent être conscients que communiquer clairement l'importance de limiter le temps prolongé passé en position assise, de pratiquer régulièrement une activité physique et de maintenir un sommeil optimal, tout en fournissant des conseils clairs, compréhensibles et pratiques, est fondamental pour s'assurer que les personnes atteintes de MCV répondent de manière optimale aux défis posés par la pandémie.
+Le fer intraveineux (IV) et les agents stimulant l'érythropoïèse (ASE) sont des traitements standard de l'anémie chez les patients recevant une hémodialyse d'entretien. Ces médicaments sont associés à des coûts importants pour les programmes d'hémodialyse et les patients.
+Des preuves d'essais récents ont démontré qu'un protocole de fer IV à haute dose réduit l'utilisation des ASE et améliore les résultats cardiovasculaires.
+Le coût de la mise en œuvre d'un protocole de fer IV à haute dose dans le contexte des soins de santé publics canadiens reste inconnu.
+Notre objectif principal était d'estimer les coûts d'un protocole de fer IV à haute dose dans un important programme canadien d'hémodialyse qui utilise actuellement une stratégie de fer IV à faible dose et réactive.
+Notre objectif secondaire était d'estimer la réduction de l'utilisation des ASE nécessaire pour maintenir la neutralité des coûts avec un protocole de fer IV à haute dose.
+Dans cette étude de modélisation de l'utilisation du fer IV et des ASE dans le cadre d'un programme régional d'hémodialyse, les changements dans l'utilisation des médicaments ont été calculés en fonction des effets observés dans les données d'essais publiés.
+En utilisant les données d'une amélioration de la qualité de l'audit de la gestion régionale de l'anémie et de l'utilisation des médicaments, nous avons estimé les différences de coûts potentielles dans diverses conditions de modélisation.
+Quatre unités d'hémodialyse pour adultes en milieu hospitalier et 9 unités d'hémodialyse communautaires dans le cadre du programme rénal de l'Alberta Kidney Care-South pendant la période d'observation du 1er septembre 2018 au 30 novembre 2018.
+Au total, les données de 826 patients ont été incluses.
+La dose mensuelle moyenne de fer IV et d'ASE a été obtenue à partir des données d'audit de routine enregistrées dans un dossier médical électronique.
+Les coûts ont été déterminés à partir des prix des médicaments négociés au niveau provincial.
+Les dosages actuels de fer IV et d'érythropoïétine ont été regroupés au niveau de l'unité d'hémodialyse.
+Nous avons utilisé les résultats de l'essai PIVOTAL pour estimer l'augmentation attendue de la dose de fer IV et la réduction de la dose d'ASE avec un protocole de fer IV à haute dose.
+Nous avons supposé que la répartition entre les différents fabricants de fer IV et d'ASE était maintenue dans notre modèle de coûts.
+Les coûts totaux des médicaments ont été regroupés par unité d'hémodialyse, et les coûts moyens de chaque unité ont été utilisés pour estimer les coûts par patient.
+Des analyses de sensibilité ont été réalisées, y compris des modèles supposant une utilisation à 100% du sucrose de fer IV, ainsi que des modèles où les unités d'hémodialyse communautaires et les unités d'hémodialyse en milieu hospitalier étaient examinées séparément.
+Enfin, nous avons calculé un point d'équilibre pour la réduction de la dose d'ASE nécessaire pour maintenir la neutralité des coûts.
+Les doses réelles de fer IV et d'ASE à la base dans 13 unités d'hémodialyse pour adultes étaient de 118 mg/patient/mois (intervalle de confiance à 95% [IC] : 102-134 mg) et de 20 764 UI/pt./mois (IC à 95% : 18 104-23 424 UI), respectivement.
+Le coût moyen combiné de l'ASE et du fer IV était de 315 $/pt./mois (IC à 95% : 274 $-355 $).
+En comparaison, en utilisant les résultats de l'essai PIVOTAL et en supposant un scénario de fer IV à haute dose, nous avons estimé une utilisation moyenne de fer IV de 215 mg/pt./mois (IC à 95% : 187-243 mg/pt./mois) et une réduction de l'utilisation moyenne d'ASE à 15 923 UI/pt./mois (IC à 95% : 13 883-17 962 UI/pt./mois). Cela a entraîné une économie de coûts estimée à 38 $/pt./mois (IC à 95% : 33 $-42 $/pt./mois) et des économies totales de programme de 370 000 $ par an (IC à 95% : 325 000 $-420 000 $).
+Des analyses de sensibilité dans diverses conditions alternatives ont également montré des économies de coûts potentielles.
+Nous avons estimé qu'une réduction de la dose d'ASE de 10% serait nécessaire pour maintenir la neutralité des coûts avec un protocole de fer IV à haute dose.
+Notre étude est limitée par l'utilisation de données issues d'un seul essai contrôlé randomisé (ECR) pour estimer les économies de coûts plutôt que l'utilisation réelle.
+Nos modèles ne tiennent pas compte des réductions anticipées des transfusions et des hospitalisations qui pourraient résulter d'un protocole de fer IV à haute dose.
+Sur la base de la modélisation des coûts, un protocole de fer IV à haute dose pourrait réduire les coûts de médicaments associés à l'anémie chez les patients en hémodialyse d'entretien.
+Des études de mise en œuvre sont nécessaires pour évaluer les avantages cliniques et économiques réels d'un tel protocole.
