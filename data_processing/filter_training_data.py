@@ -1,18 +1,22 @@
+import sys
 from datasets import Dataset, load_dataset
 import pandas as pd
 import langid, string
 from tqdm import tqdm
+
+#Helper function
+count = lambda l1,l2: sum([1 for x in l1 if x in l2])
 
 def generate_dataset(HF_repo): #Assumed to be public
     data = load_dataset(HF_repo, split = "train") #Split is "train" if unspecified in repo name; we've already split validation and test sentences
     #Assumed that data is in SRC [TAB] TGT [NEWLINE] format
     source = []
     target = []
-    for example in training_data['text']:
+    for example in data['text']:
         example = example.strip()
         sentences = example.split("\t")
-        source.append(sentences[0])
-        target.append(sentences[1])
+        source.append(sentences[0].strip())
+        target.append(sentences[1].strip())
     ready_data = Dataset.from_dict({"en":source, "fr":target})
     return ready_data
 
