@@ -26,9 +26,8 @@ def retain_sentence(row): #This defines a good sentence we wish to retain
     if ((row["en"] == row["fr"]) or (row["en"] == "") or (row["fr"] == "")):
         return False
     for sentence in (row["en"], row["fr"]):
-        #Exclude sentences with mismatched () or '' or ""
-        if ((sentence.count("(") != sentence.count(")")) or 
-            (sentence.count("'") % 2 != 0) or
+        #Exclude sentences with mismatched () or ""
+        if ((sentence.count("(") != sentence.count(")")) or #(sentence.count("'") % 2 != 0) or #French uses single quotes, e.g., l'eglise
             (sentence.count('"') % 2 != 0)):
             return False
         sent_length = len(sentence)
