@@ -1,0 +1,14 @@
+learning_rate: 2e-05
+train_batch_size: 16
+eval_batch_size: 16
+seed: 42 [DEFAULT]
+optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08 [DEFAULT]
+lr_scheduler_type: linear [DEFAULT]
+num_epochs: 3
+mixed_precision_training: Native AMP [DEFAULT]
+weight_decay: 0.01
+checkpoints_to_save: 3
+early stopping patience: 3
+early stopping threshold: 0.1 BLEU
+eval_steps: 8000
+save_steps: 8000
