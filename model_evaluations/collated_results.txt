@@ -12,11 +12,14 @@ Google Translate:
 {'CHRF++': 55.03599555068688}
 {'ter': 66.47560559535994}
 {'meteor': 0.5131336333440303}
-Total Terminologies:  2712
-Non-cased Matches:  2064
-{'tur': 0.7610619469026548}
-Non-cased Matches ignoring partitive article errors:  2064
-{'tur_loose': 0.7610619469026548}
+Total Terminologies:  3714
+Exact Matches:  2710
+{'tur': 0.7296715131933226}
+Non-cased Matches:  2736
+{'tur_caseless': 0.7366720516962844}
+Non-cased Matches ignoring partitive article errors:  2736
+{'tur_loose': 0.7366720516962844}
+
 
 OPUS:
 
@@ -24,12 +27,13 @@ OPUS:
 {'CHRF++': 52.15468747227986}
 {'ter': 69.66223132036848}
 {'meteor': 0.4897968754591237}
-Total Terminologies:  2712
-Non-cased Matches:  1967
-{'tur': 0.7252949852507374}
-Non-cased Matches ignoring partitive article errors:  1967
-{'tur_loose': 0.7252949852507374}
-
+Total Terminologies:  3714
+Exact Matches:  2531
+{'tur': 0.6814754981152397}
+Non-cased Matches:  2560
+{'tur_caseless': 0.6892837910608508}
+Non-cased Matches ignoring partitive article errors:  2560
+{'tur_loose': 0.6892837910608508}
 
 OPUS + FT on WMT 16+19+22:
 
@@ -37,9 +41,11 @@ OPUS + FT on WMT 16+19+22:
 {'CHRF++': 53.11409608472122}
 {'ter': 68.54998294097577}
 {'meteor': 0.4914593037881913}
-Total Terminologies:  2712
-Non-cased Matches:  1852
-{'tur': 0.6828908554572272}
-Non-cased Matches ignoring partitive article errors:  2003
-{'tur_loose': 0.7385693215339233}
+Total Terminologies:  3714
+Exact Matches:  2432
+{'tur': 0.6548196015078083}
+Non-cased Matches:  2465
+{'tur_caseless': 0.6637049003769521}
+Non-cased Matches ignoring partitive article errors:  2634
+{'tur_loose': 0.7092084006462036}
 FLOps Performed: 8.159003386734182e+16 = 81.590 PFLOps

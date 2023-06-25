@@ -1,2507 +1,3460 @@
-0	chéloïdes	1	1	1
-0	auriculaires	1	1	1
-0	traitement	1	1	1
-0	récalcitrantes	1	1	1
-1	récurrence	1	0	0
-1	risque	1	0	0
-2	consensus	1	1	1
-3	récalcitrantes	1	0	0
-3	méta-analyse	1	1	1
-3	auriculaires	1	1	1
-3	données	1	0	0
-3	chéloïdes	1	1	1
-4	mots-clés	1	1	1
-5	admissibilité	1	0	0
-5	inclusion	1	1	1
-5	exclusion	1	1	1
-6	données	1	1	1
-6	chéloïdes	1	1	1
-6	modalité	1	1	1
-6	récalcitrantes	1	1	1
-6	durée	1	1	1
-6	minimale	1	1	1
-6	suivi	1	1	1
-6	nombre	1	1	1
-6	récurrence	1	0	0
-7	récurrence	1	0	0
-7	traitement	1	1	1
-7	qdp	1	0	0
-7	intervalles	1	1	1
-7	méta-analyse	1	1	1
-7	taux	1	1	1
-7	modalité	1	1	1
-7	qualité	1	0	0
-7	directives	1	1	1
-10	excision	4	4	4
-10	adjuvante	3	2	2
-10	curiethérapie	1	1	1
-10	injections	1	1	1
-10	taux	1	1	1
-10	externe	1	1	1
-10	compression	1	0	0
-10	adjuvantes	1	1	1
-10	radiothérapie	1	0	0
-10	stéroïdes	1	1	1
-10	récurrence	1	0	0
-11	significative	1	1	1
-11	différence	1	1	1
-12	traitement	1	1	1
-12	auriculaires	1	1	1
-12	chéloïdes	1	1	1
-12	études	1	1	1
-12	données	1	1	1
-12	hétérogènes	1	1	1
-12	qualité	1	1	1
-13	analyse	1	1	1
-13	adjuvante	1	1	1
-13	récurrence	1	0	0
-13	excision	1	1	1
-13	curiethérapie	1	1	1
-13	taux	1	1	1
-14	curiethérapie	1	1	1
-14	intervalles	1	1	1
-14	faibles	1	0	0
-14	chirurgiens	1	1	1
-14	patients	1	1	1
-14	modalités	1	1	1
-14	thérapie	1	1	1
-14	confiance	1	1	1
-14	compression	1	1	1
-16	boissons	2	0	0
-17	méthodologie	1	0	0
-18	participants	1	1	1
-18	âge	1	1	1
-18	alcool	1	1	1
-19	groupes	1	0	0
-20	participants	1	1	1
-20	boissons	1	0	0
-21	multinomiale	1	0	0
-21	modèles	1	0	0
-21	données	1	0	0
-22	résultats	1	1	1
-23	probabilités	1	0	0
-23	rc	1	0	0
-23	groupe	2	0	0
-24	participants	1	0	0
-25	calories	1	1	1
-25	boissons	2	1	1
-25	différence	1	0	0
-25	groupes	1	0	0
-26	conclusion	1	0	0
-27	menu	1	0	0
-27	consommateurs	1	1	1
-27	boissons	1	1	1
-29	contexte	1	0	0
-30	nosocomiales	1	1	1
-30	résistants	1	1	1
-30	infections	1	0	0
-30	méticilline	1	1	1
-30	mondiale	1	1	1
-31	staphylococcique	1	0	0
-31	examen	1	1	1
-31	dermatologie	1	1	1
-31	pyodermite	1	0	0
-31	réservoir	1	1	1
-31	surfaces	1	1	1
-32	hypothèse	1	1	1
-32	objectifs	1	1	1
-33	utilisation	1	1	1
-33	décontamination	1	1	1
-33	quaternaire	1	1	1
-33	ammonium	1	1	1
-33	surface	1	1	1
-33	composé	1	1	1
-33	nettoyage	1	1	1
-33	protocoles	1	1	1
-33	efficacité	1	1	1
-33	salle	1	1	1
-34	coagulase	1	1	1
-34	nettoyage	1	1	1
-34	colonies	1	1	1
-34	staphylocoques	1	1	1
-34	positive	1	1	1
-34	nombre	1	1	1
-34	pyodermite	1	1	1
-34	désinfection	1	1	1
-34	utilisation	1	1	1
-35	matériels	1	0	0
-35	méthodes	1	1	1
-36	surfaces	1	1	1
-36	surface	1	1	1
-36	protocoles	1	1	1
-36	nettoyage	2	2	2
-36	efficacité	1	1	1
-36	fluorescent	1	1	1
-37	colonies	1	1	1
-38	utilisation	1	1	1
-38	pyodermite	1	1	1
-38	staphylococcique	1	1	1
-38	surfaces	1	1	1
-38	nettoyage	1	1	1
-38	désinfection	1	1	1
-38	protocole	1	1	1
-38	détaillé	1	1	1
-39	résultats	1	1	1
-40	surfaces	2	1	1
-40	détaillés	1	0	0
-40	total	1	1	1
-40	protocoles	1	1	1
-41	nombre	1	1	1
-41	détaillé	1	1	1
-41	élevé	1	1	1
-41	protocole	1	1	1
-41	surfaces	1	1	1
-41	p	1	1	1
-42	nombre	1	1	1
-42	protocole	1	1	1
-42	colonies	1	1	1
-42	surfaces	1	1	1
-42	p	2	2	2
-43	examen	1	1	1
-43	cops	1	1	1
-44	conclusions	1	1	1
-44	pertinence	1	1	1
-44	clinique	1	1	1
-45	examen	2	2	2
-45	contamination	1	1	1
-45	détaillés	1	1	1
-45	désinfection	1	1	1
-45	surfaces	1	1	1
-45	vétérinaire	1	1	1
-45	salle	2	2	2
-45	protocoles	1	1	1
-45	nettoyage	1	1	1
-45	staphylocoques	1	1	1
-46	étude	1	1	1
-46	désinfection	1	1	1
-47	cheminement	1	0	0
-47	bien-être	1	1	1
-47	données	1	0	0
-48	individuelle	1	0	0
-48	facultés	1	1	1
-48	compétences	1	1	1
-48	bien-être	1	1	1
-48	normes	1	1	1
-48	agrément	1	1	1
-48	directions	1	0	0
-48	approches	1	1	1
-49	politiques	1	1	1
-49	résultats	1	1	1
-49	bien-être	2	2	2
-49	curriculum	1	1	1
-49	indispensables	1	0	0
-49	médicale	1	1	1
-49	épuisement	1	1	1
-49	stratégies	1	1	1
-49	culture	1	1	1
-50	initiatives	1	1	1
-50	individuel	1	1	1
-50	bien-être	1	0	0
-51	environnement	1	1	1
-51	didactiques	1	1	1
-51	apprentissage	1	1	1
-52	formation	1	1	1
-52	uniformité	1	0	0
-52	importants	1	0	0
-52	progrès	1	1	1
-52	niveaux	1	1	1
-52	facultés	1	0	0
-53	cadre	1	1	1
-53	résidence	1	1	1
-53	compétences	1	1	1
-53	études	1	0	0
-54	niveau	2	0	0
-54	cadre	1	1	1
-54	résidence	1	1	1
-54	transition	1	1	1
-54	individuel	1	0	0
-54	initiatives	1	1	1
-54	faculté	1	0	0
-55	adaptation	1	0	0
-55	apprenants	1	1	1
-55	domaines	1	1	1
-55	objectifs	1	1	1
-55	bien-être	1	1	1
-55	souplesse	1	0	0
-56	soins	1	1	1
-56	environnement	1	0	0
-56	population	1	1	1
-56	canadienne	1	1	1
-56	qualité	1	1	1
-56	bien-être	1	1	1
-56	formation	1	1	1
-56	patients	1	1	1
-57	caractérisation	1	1	1
-57	identification	1	1	1
-57	moustiques	1	1	1
-58	considérables	1	1	1
-58	santé	1	1	1
-58	moustiques	1	1	1
-58	publique	1	1	1
-58	maladies	1	0	0
-59	communauté	1	1	1
-59	cas	1	1	1
-59	risque	1	1	1
-59	présence	1	1	1
-59	compatibles	1	0	0
-59	environnementaux	1	1	1
-59	locale	1	1	1
-59	maladie	1	1	1
-59	facteurs	1	1	1
-59	vecteur	1	1	1
-60	indéterminée	1	1	1
-60	programme	1	1	1
-60	probabilité	1	1	1
-60	mtv	1	0	0
-60	surveillance	1	1	1
-61	effective	1	0	0
-61	mtv	1	0	0
-61	gestion	1	1	1
-62	publique	1	1	1
-62	études	1	0	0
-62	moustiques	1	1	1
-62	distribution	1	0	0
-62	objectif	1	0	0
-62	santé	1	1	1
-62	résultats	1	1	1
-62	importance	1	0	0
-63	piégeages	1	0	0
-63	moustique	1	1	1
-63	risque	1	1	1
-63	adultes	1	1	1
-63	abondante	1	1	1
-63	transmission	1	1	1
-63	répandue	1	1	1
-63	résultats	1	1	1
-63	virus	1	1	1
-64	locale	1	1	1
-64	transmission	1	1	1
-64	échantillonnages	1	0	0
-64	paludisme	2	2	2
-64	zones	1	1	1
-64	risque	1	1	1
-65	risque	1	1	1
-65	transmission	1	1	1
-65	virus	1	1	1
-66	risque	1	1	1
-66	dengue	2	2	2
-66	transmission	1	1	1
-66	vecteur	1	1	1
-66	virus	1	1	1
-66	locale	1	1	1
-66	minimal	1	1	1
-66	abondant	1	1	1
-67	fois	1	1	1
-67	étude	1	1	1
-68	études	1	1	1
-68	lacunes	1	1	1
-68	écologie	1	1	1
-68	risque	1	1	1
-68	présentes	1	1	1
-68	distribution	1	1	1
-68	moustiques	2	2	2
-68	différentes	1	1	1
-68	maladies	1	1	1
-69	traitement	1	1	1
-69	diagnostic	1	1	1
-69	maladie	1	0	0
-69	maladies	1	1	1
-69	disparités	1	1	1
-70	patients	1	1	1
-70	différences	1	1	1
-70	sexes	1	1	1
-70	hôpital	1	0	0
-71	globale	1	0	0
-71	patients	1	1	1
-71	cardiopathie	1	1	1
-71	ischémique	1	1	1
-71	sexe	1	1	1
-72	version	1	1	1
-72	congé	1	1	1
-72	patients	2	2	2
-73	processus	1	1	1
-73	spécifiques	1	1	1
-73	soins	1	1	1
-73	échelles	1	1	1
-73	globale	1	0	0
-74	pourcentages	1	1	1
-74	réponse	1	1	1
-74	positive	1	0	0
-75	démographiques	1	1	1
-75	intervalles	1	1	1
-75	confiance	1	1	1
-75	facteurs	1	1	1
-75	réponse	1	1	1
-75	cliniques	1	1	1
-76	total	1	1	1
-77	compte	1	1	1
-77	sondage	1	0	0
-77	marge	1	1	1
-77	proportion	1	0	0
-78	similaires	1	1	1
-78	réponse	1	1	1
-78	résultats	1	1	1
-79	pourcentage	1	1	1
-79	réponse	1	0	0
-80	patients	1	1	1
-80	étude	1	1	1
-80	sexe	1	1	1
-80	ischémique	1	1	1
-80	cardiopathie	1	1	1
-81	sexes	1	1	1
-81	différences	1	1	1
-81	résultats	1	1	1
-82	patients	1	1	1
-82	différences	1	1	1
-82	mécanismes	1	1	1
-82	sexes	1	0	0
-82	futures	1	1	1
-85	surveillance	1	1	1
-90	surveillance	3	1	1
-90	système	1	1	1
-90	cadre	1	0	0
-90	améliorations	1	0	0
-91	surveillance	1	1	1
-92	conclusion	1	0	0
-94	surveillance	1	1	1
-94	financement	1	1	1
-94	provincial	1	0	0
-94	politiques	1	1	1
-94	territorial	1	0	0
-97	séjours	1	0	0
-97	prescription	2	0	0
-97	caractéristiques	1	0	0
-97	patients	1	0	0
-97	opioïdes	2	2	2
-97	prescripteurs	1	0	0
-100	prescription	1	0	0
-100	critère	1	0	0
-100	évaluation	1	0	0
-101	admissions	1	0	0
-101	durée	1	1	1
-101	opioïdes	1	1	1
-101	prescripteurs	1	0	0
-103	étude	1	0	0
-104	hôpital	1	0	0
-104	durée	1	0	0
-104	prescription	1	0	0
-104	opioïdes	1	1	1
-105	opioïdes	1	1	1
-106	prescription	2	0	0
-106	opioïdes	1	1	1
-107	conclusion	1	0	0
-108	congé	1	0	0
-109	opioïdes	1	1	1
-109	congé	1	0	0
-109	durée	1	0	0
-110	préexistantes	1	1	1
-110	pathologies	1	0	0
-110	santé	1	1	1
-110	maladie	1	1	1
-110	publique	1	1	1
-110	coronavirus	1	1	1
-110	mondiale	1	1	1
-111	obésité	1	1	1
-111	cause	1	1	1
-111	maladies	1	1	1
-111	risque	1	1	1
-111	facteurs	1	1	1
-111	physique	1	1	1
-111	modifiables	1	1	1
-111	comportement	1	1	1
-111	cardiovasculaires	1	1	1
-111	décès	1	1	1
-112	gouvernements	1	1	1
-112	sociaux	1	1	1
-112	restrictions	1	1	1
-112	coronavirus	1	1	1
-112	rassemblements	1	1	1
-113	santé	1	1	1
-113	déplacement	1	1	1
-113	contraintes	1	1	1
-113	habitudes	1	0	0
-113	publique	1	1	1
-113	négatives	1	1	1
-114	étude	1	0	0
-114	physique	1	1	1
-114	objectif	1	1	1
-114	principal	1	1	1
-114	pratiques	1	1	1
-114	sommeil	1	1	1
-114	domicile	1	1	1
-114	temps	1	0	0
-114	activité	1	1	1
-114	mcv	1	1	1
-115	mcv	1	0	0
-115	volontaire	1	0	0
-115	sommeil	1	1	1
-115	habitudes	1	1	1
-115	activité	1	0	0
-115	adultes	1	1	1
-115	optimales	1	1	1
-115	pratiques	1	1	1
-115	temps	1	1	1
-115	restrictions	1	1	1
-116	barème	1	0	0
-116	dispositifs	1	0	0
-116	portatifs	1	0	0
-116	utilisation	1	1	1
-116	réguliers	1	0	0
-116	temps	1	1	1
-116	sommeil	1	1	1
-116	exercice	2	2	2
-116	recommandations	1	1	1
-116	autosurveillance	2	1	1
-116	faible	1	1	1
-116	capacité	2	2	2
-117	sommeil	1	1	1
-117	cliniciens	1	1	1
-117	pratiques	1	1	1
-117	activité	1	1	1
-117	mcv	1	1	1
-117	importance	1	1	1
-117	temps	1	1	1
-117	pandémie	1	1	1
-117	exercice	1	1	1
-117	défis	1	1	1
-117	optimal	1	1	1
-117	fondamentale	1	1	1
-117	physique	1	1	1
-117	compréhensibles	1	1	1
-117	préconisation	1	0	0
-118	patients	2	2	2
-118	traitement	1	0	0
-118	intraveineuse	1	1	1
-118	médicaments	1	1	1
-118	hémodialyse	2	2	2
-118	fer	1	1	1
-118	coûteux	1	0	0
-118	programs	1	0	0
-118	érythropoïétine	1	1	1
-118	anémie	1	1	1
-119	protocole	1	1	1
-119	élevée	1	0	0
-119	dose	1	1	1
-119	utilization	1	0	0
-119	résultats	1	1	1
-119	fer	1	1	1
-119	études	1	0	0
-119	cardiovasculaires	1	1	1
-120	protocole	1	1	1
-120	canadien	1	0	0
-120	coûts	1	0	0
-121	coûts	1	1	1
-121	réactive	1	0	0
-121	objectif	1	1	1
-121	faible	1	1	1
-121	stratégie	1	1	1
-121	protocole	1	1	1
-121	fer	2	2	2
-121	principal	1	1	1
-121	canadien	1	1	1
-121	dose	2	2	2
-121	program	1	0	0
-121	hémodialyse	1	1	1
-122	fer	1	1	1
-122	protocole	1	1	1
-122	dose	1	1	1
-122	coûts	1	1	1
-122	réduction	1	1	1
-122	utilization	1	0	0
-122	élevée	1	0	0
-122	neutralité	1	1	1
-123	médicaments	1	1	1
-123	utilization	1	0	0
-123	données	1	1	1
-123	étude	1	1	1
-123	program	1	0	0
-123	hémodialyse	1	1	1
-123	régional	1	1	1
-123	fer	1	1	1
-123	effets	1	1	1
-124	audit	1	1	1
-124	coûts	1	1	1
-124	différences	1	1	1
-124	régional	1	0	0
-124	gestion	1	1	1
-124	données	1	1	1
-124	médicaments	1	1	1
-124	anémie	1	1	1
-124	qualité	1	1	1
-124	utilization	1	0	0
-125	hémodialyse	2	1	1
-125	adultes	1	1	1
-125	program	1	0	0
-125	unités	1	1	1
-126	patients	1	1	1
-126	données	1	1	1
-127	audit	1	1	1
-127	mensuelles	1	1	1
-127	fer	1	1	1
-127	électronique	1	1	1
-127	données	1	1	1
-128	médicaments	1	1	1
-128	coûts	1	1	1
-128	prix	1	1	1
-129	érythropoïétine	1	1	1
-129	posologies	1	0	0
-129	fer	1	1	1
-129	hémodialyse	1	1	1
-129	iv	1	1	1
-130	augmentation	1	1	1
-130	dose	3	3	3
-130	essai	1	1	1
-130	élevée	1	0	0
-130	protocole	1	1	1
-130	réduction	1	1	1
-130	fer	2	2	2
-130	résultats	1	1	1
-130	iv	2	2	2
-131	divers	1	1	1
-131	fabricants	1	1	1
-131	modèle	1	1	1
-131	fer	1	1	1
-131	coûts	1	0	0
-131	division	1	0	0
-132	médicaments	1	1	1
-132	hémodialyse	1	1	1
-132	coûts	3	3	3
-133	analyses	1	1	1
-133	sensibilité	1	1	1
-133	utilization	1	0	0
-133	fer	1	1	1
-133	hémodialyse	1	1	1
-133	modèles	2	2	2
-133	unités	1	1	1
-133	saccharose	1	1	1
-134	seuil	1	1	1
-134	coûts	1	1	1
-134	neutralité	1	1	1
-134	réduction	1	1	1
-135	ui	2	2	2
-135	unités	1	1	1
-135	fer	1	1	1
-135	pt	1	0	0
-135	mg	3	2	2
-135	mois	2	1	1
-135	adultes	1	1	1
-135	hd	1	1	1
-135	utilization	1	0	0
-136	coût	1	1	1
-136	fer	1	1	1
-137	essai	1	1	1
-137	résultats	1	1	1
-137	fer	2	2	2
-137	réduction	1	1	1
-137	mois	6	1	1
-137	ui	2	2	2
-137	mg	2	2	2
-137	moyenne	2	2	2
-137	pt	4	1	1
-137	program	1	0	0
-137	utilization	2	0	0
-137	comparaison	1	1	1
-137	élevée	1	0	0
-137	dose	1	1	1
-138	analyses	1	1	1
-138	sensibilité	1	1	1
-138	diverses	1	1	1
-139	fer	1	1	1
-139	protocole	1	1	1
-139	coûts	1	1	1
-139	réduction	1	1	1
-139	élevée	1	0	0
-139	neutralité	1	1	1
-139	dose	2	2	2
-140	essai	1	1	1
-140	coûts	1	1	1
-140	étude	1	1	1
-140	données	1	1	1
-140	utilization	1	0	0
-141	modèles	1	1	1
-141	transfusions	1	1	1
-141	protocole	1	1	1
-141	fer	1	1	1
-141	réductions	1	1	1
-141	hospitalisations	1	1	1
-141	compte	1	1	1
-141	élevée	1	0	0
-141	dose	1	1	1
-142	protocole	1	1	1
-142	hémodialyse	1	1	1
-142	coûts	2	1	1
-142	régional	1	1	1
-142	canadien	1	1	1
-142	fer	1	1	1
-142	program	1	0	0
-142	modélisation	1	1	1
-142	élevée	1	0	0
-142	dose	1	1	1
-143	protocole	2	2	2
-143	fer	1	1	1
-143	coûts	1	1	1
-143	programs	1	0	0
-143	essai	1	1	1
-143	epo	1	1	1
-143	contexte	1	1	1
-144	examen	1	1	1
-144	éthique	1	1	1
-144	examinateurs	1	1	1
-144	processus	1	1	1
-145	sillage	1	0	0
-145	pandémie	1	1	1
-145	comités	1	1	1
-145	propositions	1	1	1
-145	éthique	1	1	1
-147	examinateurs	1	1	1
-147	système	1	1	1
-147	propositions	1	1	1
-148	permanents	1	1	1
-148	démographique	1	1	1
-148	données	1	1	1
-148	étude	1	1	1
-148	questionnaire	1	1	1
-148	entretiens	1	1	1
-148	transversale	1	1	1
-148	groupes	1	1	1
-148	examen	1	1	1
-148	méthodes	1	1	1
-148	qualitatifs	1	1	1
-148	collecte	1	1	1
-148	examinateurs	1	1	1
-148	propositions	1	1	1
-149	permanents	1	1	1
-150	examen	2	1	1
-150	réception	1	1	1
-150	délai	1	1	1
-150	système	1	1	1
-151	mois	1	1	1
-152	présence	1	1	1
-152	système	1	1	1
-152	introduction	1	1	1
-152	participants	1	1	1
-152	apprentissage	1	1	1
-152	juniors	1	1	1
-153	reconnaissance	1	1	1
-153	système	1	1	1
-154	qualité	1	1	1
-154	système	1	1	1
-154	répondants	1	1	1
-154	examen	1	1	1
-154	délais	1	1	1
-154	initiale	1	1	1
-155	qualité	1	1	1
-155	pressions	1	1	1
-155	frustration	1	0	0
-155	propositions	1	1	1
-155	externes	1	1	1
-155	examinateurs	1	1	1
-155	approbation	1	1	1
-156	santé	1	1	1
-156	système	1	1	1
-156	publique	1	1	1
-156	situation	1	0	0
-156	viable	1	0	0
-157	examen	1	1	1
-157	indispensable	1	0	0
-157	adaptation	1	1	1
-157	éthique	1	1	1
-157	processus	1	1	1
-160	qualité	2	1	1
-160	régime	2	0	0
-163	représentatif	1	0	0
-164	rappels	1	0	0
-164	valeurs	1	0	0
-164	population	1	1	1
-165	linéaire	1	0	0
-165	ajustements	1	0	0
-165	ménages	1	0	0
-165	valeurs	1	1	1
-165	temps	1	0	0
-166	résultats	1	0	0
-168	inférieure	1	0	0
-168	qualité	1	0	0
-168	adultes	1	0	0
-169	énergie	1	0	0
-170	conclusion	1	0	0
-172	alimentaire	1	0	0
-172	insécurité	1	0	0
-172	populations	1	1	1
-173	qualité	1	1	1
-173	insécurité	1	1	1
-173	régime	1	0	0
-174	taux	1	1	1
-174	biopsie	1	0	0
-174	inefficacité	2	1	1
-175	patients	1	1	1
-175	africains	1	1	1
-175	fardeau	1	1	1
-175	prédicteurs	1	1	1
-175	morbidité	1	1	1
-176	histologiques	1	1	1
-176	transrectale	1	1	1
-176	fonction	1	1	1
-176	étude	1	1	1
-176	biopsie	1	1	1
-176	prostate	1	1	1
-176	patients	1	1	1
-176	population	1	1	1
-176	africaine	1	1	1
-176	incidence	1	1	1
-176	facteurs	1	1	1
-177	biopsie	1	1	1
-177	transrectale	1	1	1
-177	prostate	1	1	1
-177	observationnelle	1	1	1
-177	cohorte	1	1	1
-177	étude	1	1	1
-178	neurologiques	1	1	1
-178	miction	1	1	1
-179	patients	1	1	1
-179	caractéristiques	1	1	1
-179	données	1	1	1
-179	démographiques	1	1	1
-180	patients	1	1	1
-180	intervention	1	0	0
-180	débit	1	1	1
-180	uroflowmétrie	1	0	0
-181	volume	1	1	1
-181	histologiques	1	1	1
-181	prostate	1	1	1
-181	présence	1	1	1
-181	risque	2	1	1
-181	facteurs	2	1	1
-181	cliniques	2	1	1
-182	complications	1	1	1
-182	présence	1	1	1
-182	biopsie	1	1	1
-182	saignement	1	1	1
-183	p	1	1	1
-183	significative	1	1	1
-183	valeur	1	1	1
-183	analyse	1	1	1
-183	inférieure	1	1	1
-183	statistique	1	1	1
-184	débit	1	1	1
-184	septième	1	1	1
-184	insuffisance	1	0	0
-184	majorité	1	1	1
-184	patients	1	1	1
-184	valeurs	1	1	1
-184	diminution	1	1	1
-185	hématurie	1	1	1
-185	population	1	1	1
-186	caillots	1	1	1
-186	inefficacité	1	1	1
-186	p	1	1	1
-186	présence	1	1	1
-186	procédure	1	1	1
-186	fois	1	1	1
-186	hématurie	1	1	1
-186	risque	1	1	1
-187	insuffisance	1	0	0
-187	biopsie	1	0	0
-187	patients	1	1	1
-188	apparition	1	0	0
-188	morbidité	1	1	1
-188	caillots	1	1	1
-189	mots-clés	1	0	0
-190	prostate	1	1	1
-190	rétention	1	1	1
-190	facteurs	1	0	0
-190	urinaire	2	1	1
-190	biopsie	1	1	1
-190	risque	1	1	1
-191	médicale	1	1	1
-191	arthrite	1	1	1
-191	septique	1	1	1
-192	coûteux	1	1	1
-192	colonisation	1	1	1
-192	bactérienne	1	1	1
-192	traitement	1	1	1
-192	mortalité	1	1	1
-192	morbidité	1	1	1
-192	maladie	1	1	1
-193	stromales	1	1	1
-193	antimicrobiennes	1	1	1
-193	thérapies	1	1	1
-193	propriétés	1	1	1
-193	régénératives	1	1	1
-193	médecine	1	1	1
-194	résultats	1	1	1
-194	prometteurs	1	1	1
-194	études	1	1	1
-195	stromales	1	1	1
-195	but	1	1	1
-195	sang	1	1	1
-195	lysat	1	1	1
-195	croissance	1	1	1
-195	étude	1	1	1
-195	équin	1	1	1
-195	suppression	1	1	1
-195	mésenchymateuses	1	1	1
-195	bactérienne	1	1	1
-195	production	1	1	1
-196	stromales	1	1	1
-196	région	1	1	1
-196	adipeux	1	1	1
-196	mésenchymateuses	1	1	1
-197	design	1	0	0
-197	asc	1	1	1
-197	mesures	1	1	1
-197	incomplets	1	0	0
-197	étude	1	1	1
-197	groupes	1	1	1
-197	traitement	1	1	1
-197	équilibrés	1	0	0
-198	lectures	1	1	1
-198	optique	1	1	1
-198	unités	1	1	1
-198	ml	1	1	1
-198	colonie	1	1	1
-198	densité	1	1	1
-199	traitements	1	0	0
-199	hypothèse	1	1	1
-199	croissance	1	1	1
-199	bactérienne	1	1	1
-200	hypothèse	1	1	1
-200	croissance	1	1	1
-200	différence	1	1	1
-200	bactérienne	1	1	1
-200	traitement	1	0	0
-200	groupe	1	1	1
-200	e.	2	2	2
-201	effets	1	1	1
-201	antimicrobiens	1	1	1
-201	étude	1	1	1
-201	conclusion	1	1	1
-202	croissance	1	1	1
-202	effet	1	1	1
-202	effets	1	1	1
-202	significatif	1	1	1
-202	études	1	1	1
-203	approche	1	1	1
-203	norvégienne	1	0	0
-203	distinctive	1	1	1
-203	mondiaux	1	1	1
-203	antropologique	1	0	0
-203	archéologue	1	1	1
-204	post-processuel	1	0	0
-204	programmes	1	1	1
-204	paradigmes	1	1	1
-204	soutien	1	0	0
-204	processuel	1	1	1
-204	milieu	1	1	1
-204	multiforme	1	1	1
-204	formatrice	1	1	1
-206	compréhension	1	1	1
-206	passé	1	1	1
-206	production	1	1	1
-206	culture	1	1	1
-206	entretien	1	1	1
-206	genre	1	1	1
-209	régionales	1	0	0
-209	techniques	1	0	0
-209	douleur	1	1	1
-209	chirurgie	1	1	1
-211	techniques	1	0	0
-212	évaluation	2	0	0
-212	échelle	1	0	0
-212	score	1	0	0
-213	surface	1	0	0
-213	classement	1	0	0
-214	tailles	1	0	0
-214	aléatoires	1	0	0
-214	modèle	1	0	0
-215	consommation	1	0	0
-215	analyse	1	1	1
-216	résultats	1	0	0
-218	interventions	1	1	1
-219	antérieur	1	0	0
-219	continu	1	0	0
-219	scores	1	0	0
-219	douleur	1	0	0
-219	paravertébral	1	1	1
-219	bloc	2	2	2
-219	placebo	1	1	1
-220	techniques	1	0	0
-220	douleur	1	1	1
-220	placebo	1	1	1
-220	scores	1	1	1
-221	infiltration	1	0	0
-221	nausées	1	0	0
-221	vomissements	1	0	0
-221	efficaces	1	1	1
-221	perfusion	1	0	0
-221	plaie	2	0	0
-221	interventions	1	0	0
-222	conclusion	1	0	0
-224	faible	1	0	0
-224	probantes	1	0	0
-224	données	1	0	0
-224	fiabilité	1	0	0
-225	études	1	0	0
-226	études	1	1	1
-226	intervention	1	0	0
-227	étude	1	0	0
-229	chirurgicale	1	1	1
-229	performance	1	0	0
-229	formation	1	1	1
-229	rétroaction	1	1	1
-230	rétroaction	1	1	1
-230	moyen	1	0	0
-230	résidents	1	1	1
-230	visionnement	1	0	0
-230	efficace	1	1	1
-230	vidéos	1	0	0
-231	méthode	1	1	1
-232	pédagogiques	1	1	1
-232	salle	1	1	1
-232	gynécologie	1	1	1
-232	étude	1	1	1
-232	vidéos	1	0	0
-232	interactions	1	1	1
-232	obstétrique	1	1	1
-232	analyse	1	0	0
-232	postopératoire	1	1	1
-232	nature	1	1	1
-232	formation	1	0	0
-233	étude	1	1	1
-233	cas	1	1	1
-234	laparoscopiques	1	1	1
-234	résidents	1	1	1
-234	interventions	1	0	0
-234	chirurgiens	1	1	1
-235	peropératoires	1	1	1
-235	données	1	1	1
-235	codes	3	3	3
-235	vidéos	1	0	0
-235	seconds	1	0	0
-235	analyse	1	1	1
-235	littérature	1	1	1
-236	interactions	1	1	1
-237	rétroactions	1	0	0
-237	résident	1	1	1
-237	didactiques	1	1	1
-238	vidéos	1	0	0
-238	analyse	1	1	1
-238	postopératoires	1	0	0
-238	déductive	1	1	1
-238	interactions	1	1	1
-239	interactions	1	0	0
-239	didactiques	1	0	0
-239	enseignement	1	1	1
-239	composante	1	1	1
-240	déductive	1	1	1
-240	codes	1	1	1
-240	visionnement	1	0	0
-240	analyse	1	1	1
-240	vidéos	1	0	0
-240	objectif	1	0	0
-240	nature	1	1	1
-241	résidents	1	1	1
-241	herméneutique	1	1	1
-241	visionnement	1	0	0
-241	réflexions	1	0	0
-241	analyse	1	1	1
-241	phénoménologique	1	1	1
-241	dialogiques	1	1	1
-242	vidéos	1	0	0
-242	différentes	1	0	0
-242	collaboratif	1	1	1
-242	rétroaction	1	1	1
-242	apprentissage	1	1	1
-242	visionnement	1	0	0
-242	étude	1	1	1
-243	déterminants	1	1	1
-243	comparative	1	1	1
-244	bien-être	1	1	1
-244	développement	1	1	1
-244	crucial	1	1	1
-244	santé	1	1	1
-244	âge	1	0	0
-245	sociodémographiques	1	1	1
-245	influence	1	1	1
-246	enquêtes	1	1	1
-246	analyse	1	1	1
-246	transversales	1	1	1
-246	données	1	1	1
-246	indicateurs	1	1	1
-247	multivariée	1	1	1
-247	bivariée	1	1	1
-247	logistique	1	1	1
-247	pays	1	1	1
-247	analyse	2	2	2
-247	binaire	1	1	1
-247	modèle	1	1	1
-247	régression	1	1	1
-248	statistiques	1	1	1
-248	version	2	2	2
-248	r	1	1	1
-248	analyses	1	1	1
-249	difficultés	1	1	1
-249	sexe	1	1	1
-249	état	1	1	1
-249	fonctionnelles	1	1	1
-249	facteurs	1	0	0
-249	éducation	1	1	1
-249	nutritionnel	1	1	1
-249	situation	1	0	0
-249	économique	1	1	1
-249	âge	1	1	1
-250	développement	1	1	1
-250	mois	2	2	2
-250	faibles	1	0	0
-251	inférieures	1	1	1
-251	développement	1	1	1
-251	rurales	1	1	1
-252	bien-être	1	1	1
-252	équilibrée	1	1	1
-252	développement	1	1	1
-252	pays	1	1	1
-252	nécessaires	1	1	1
-252	éducation	1	1	1
-252	mesures	1	1	1
-252	gouvernements	1	1	1
-252	économiques	1	1	1
-252	nutrition	1	0	0
-253	efficacité	1	1	1
-253	apprentissage	1	1	1
-253	pandémie	1	1	1
-253	intergénérationnel	1	1	1
-253	résultats	1	0	0
-254	pandémie	1	1	1
-254	petits-enfants	1	1	1
-254	temps	1	1	1
-255	soutien	1	1	1
-255	apprentissage	1	1	1
-255	petits-enfants	1	1	1
-255	confinement	1	1	1
-255	rôle	1	1	1
-255	scolaire	1	1	1
-256	petits-enfants	1	0	0
-257	mois	1	1	1
-257	période	1	1	1
-257	apprentissage	1	1	1
-257	intergénérationnel	1	1	1
-257	primaires	1	1	1
-257	petits-enfants	1	1	1
-257	régions	1	1	1
-258	culture	1	1	1
-258	prévention	1	1	1
-258	pandémie	1	0	0
-258	santé	1	1	1
-259	enquête	1	1	1
-259	primaires	1	1	1
-259	auteurs	1	0	0
-259	impact	1	1	1
-260	compétences	1	1	1
-260	enseignants	1	1	1
-260	santé	1	1	1
-260	comportements	1	1	1
-260	petits-enfants	2	2	2
-260	concept	1	1	1
-260	vue	1	0	0
-260	apprentissage	2	2	2
-260	constats	1	0	0
-260	principaux	1	0	0
-260	interviews	1	0	0
-260	valeurs	1	1	1
-262	triage	1	0	0
-263	comparaisons	1	0	0
-263	mortalité	1	0	0
-263	patients	1	0	0
-266	estimation	1	0	0
-266	généralisées	1	0	0
-266	variables	1	0	0
-266	équations	1	0	0
-267	décès	2	0	0
-267	critère	1	0	0
-268	final	1	1	1
-268	coefficients	1	0	0
-269	résultats	1	0	0
-270	patients	1	0	0
-271	séjour	1	0	0
-272	mortalité	1	0	0
-273	mortalité	1	1	1
-274	risque	1	0	0
-275	score	1	1	1
-275	risque	1	1	1
-275	rapport	1	0	0
-276	conclusion	1	0	0
-278	validation	1	0	0
-279	contexte	1	0	0
-280	utilisation	1	1	1
-280	hypercorticisme	1	0	0
-280	adultes	1	1	1
-280	préparations	1	1	1
-280	corticostéroïdes	1	1	1
-280	adrénocorticale	1	0	0
-280	maladie	1	1	1
-280	auriculaires	1	0	0
-280	suppression	1	1	1
-280	dépistage	1	1	1
-280	dermatologique	1	1	1
-281	mométasone	1	1	1
-281	otite	1	1	1
-281	terbinafine	1	1	1
-281	furoate	1	1	1
-281	suspension	1	1	1
-281	florfénicol	1	1	1
-281	canine	1	1	1
-281	application	1	1	1
-282	corticosurrénale	1	0	0
-282	applications	1	1	1
-282	suppression	1	1	1
-283	objectifs	1	1	1
-283	hypothèse	1	1	1
-284	oe	1	1	1
-284	mométasone	1	1	1
-284	bilatérale	1	1	1
-284	florfénicol	1	1	1
-284	corticosurrénale	1	0	0
-284	furoate	1	1	1
-284	étude	1	1	1
-284	suppression	1	1	1
-284	terbinafine	1	1	1
-284	objectif	1	1	1
-286	kg	1	1	1
-286	non-liée	1	0	0
-286	oe	1	1	1
-286	bilatérale	1	1	1
-287	matériels	1	1	1
-287	méthodes	1	1	1
-288	acth	1	1	1
-288	stimulation	1	1	1
-288	cortisol	1	1	1
-288	post-corticotrope	1	0	0
-288	pré-	1	0	0
-289	topique	1	1	1
-289	mométasone	1	1	1
-289	florfénicol	1	1	1
-289	furoate	1	1	1
-289	terbinafine	1	1	1
-290	stimulation	1	1	1
-290	cortisol	1	1	1
-291	résultats	1	1	1
-292	µg	4	4	4
-292	moyennes	1	0	0
-292	concentrations	1	1	1
-292	écart	2	0	0
-292	dl	4	4	4
-292	pré-	1	1	1
-292	cortisol	1	1	1
-293	différence	1	1	1
-293	j0	1	1	1
-293	cortisol	1	1	1
-293	p	1	1	1
-293	significative	1	1	1
-293	concentrations	1	1	1
-294	clinique	1	1	1
-294	conclusions	1	1	1
-294	pertinence	1	1	1
-295	florfénicol	1	1	1
-295	corticosurrénalienne	1	1	1
-295	suppression	1	1	1
-295	mométasone	1	1	1
-295	tests	1	1	1
-295	fonction	1	1	1
-295	furoate	1	1	1
-295	résultats	1	1	1
-295	corticosurrénale	1	0	0
-295	recommandations	1	1	1
-295	terbinafine	1	1	1
-295	fabricant	1	1	1
-296	plexus	1	1	1
-296	anesthésiologistes	1	0	0
-296	bloc	1	0	0
-296	intervention	1	0	0
-296	brachial	1	1	1
-296	chirurgiens	1	1	1
-297	chirurgies	1	0	0
-297	caractère	1	0	0
-298	rétrospective	1	1	1
-298	période	1	1	1
-298	analyse	1	0	0
-298	opération	1	0	0
-299	patients	1	0	0
-299	supplémentaires	1	1	1
-299	métacarpienne	1	1	1
-299	interventions	1	1	1
-299	fixation	1	0	0
-299	cas	2	2	2
-299	pédiatriques	1	0	0
-299	interne	1	0	0
-300	tests	1	1	1
-300	statistiques	1	1	1
-300	paramétriques	1	1	1
-301	étude	1	1	1
-301	n	1	1	1
-301	anesthésie	1	1	1
-301	cas	2	2	2
-302	groupe	1	1	1
-302	congé	1	0	0
-302	moyenne	1	0	0
-302	opération	1	1	1
-302	durée	1	0	0
-303	analgésie	1	1	1
-303	patients	2	1	1
-304	groupes	1	1	1
-304	antiémétiques	1	0	0
-304	patients	2	1	1
-305	médication	1	0	0
-305	parentérale	1	0	0
-306	techniques	1	1	1
-306	méthodes	1	0	0
-306	publications	1	0	0
-306	étude	1	1	1
-306	anesthétiques	1	0	0
-306	efficaces	1	0	0
-306	anesthésie	1	1	1
-309	libération	1	0	0
-309	testostérone	2	1	1
-310	concentration	1	1	1
-310	entraînement	1	1	1
-310	testostérone	1	1	1
-311	activité	1	1	1
-311	testostérone	1	1	1
-311	sexuelle	1	1	1
-312	ratios	1	0	0
-312	cinétique	1	1	1
-312	cortisol	1	1	1
-312	masturbation	1	0	0
-312	testostérone	2	1	1
-313	étude	1	1	1
-313	effets	1	0	0
-313	cinétique	1	1	1
-313	masturbation	2	1	1
-315	résultats	1	1	1
-316	concentrations	1	1	1
-316	testostérone	1	1	1
-317	testostérone	2	1	1
-317	ratios	1	0	0
-317	cortisol	1	0	0
-319	ratios	1	0	0
-320	études	1	0	0
-321	masse	1	1	1
-321	âge	1	1	1
-321	squelettiques	1	0	0
-321	fonction	1	1	1
-321	fragilité	1	1	1
-321	sarcopénie	1	1	1
-321	marqueur	1	1	1
-322	aortique	1	1	1
-322	sarcopénie	1	1	1
-322	implantation	1	1	1
-322	association	1	1	1
-322	indésirables	1	1	1
-322	événements	1	1	1
-323	rétrospective	1	1	1
-323	cohorte	1	1	1
-323	étude	1	1	1
-324	période	1	1	1
-324	tomodensitométrie	1	1	1
-324	préopératoire	1	1	1
-324	patients	1	1	1
-325	masse	1	0	0
-325	musculaire	1	0	0
-325	surface	1	0	0
-325	taille	1	0	0
-325	squelettique	1	1	1
-325	psoas	1	1	1
-325	niveau	1	1	1
-325	indice	1	1	1
-326	inférieur	1	1	1
-326	quartile	1	1	1
-326	médiane	1	1	1
-326	imms	3	0	0
-326	sarcopénie	1	1	1
-326	mesures	1	1	1
-326	diverses	1	1	1
-326	sexe	2	2	2
-327	accès	1	1	1
-327	pulmonaires	1	1	1
-327	indésirables	1	1	1
-327	neurologiques	1	1	1
-327	morbidité	1	1	1
-327	complications	1	1	1
-327	gastro-intestinales	1	1	1
-327	cardiovasculaires	1	1	1
-327	hôpital	1	1	1
-327	événements	1	1	1
-327	postopératoires	1	1	1
-327	principal	1	1	1
-327	mortalité	1	1	1
-328	sarcopénie	1	1	1
-328	événements	1	1	1
-328	logistiques	1	0	0
-328	indésirables	1	1	1
-328	multivariée	1	1	1
-328	univariée	1	1	1
-328	association	1	1	1
-328	régressions	1	0	0
-329	total	1	1	1
-329	âge	1	1	1
-329	patients	1	1	1
-330	insuffisance	1	1	1
-330	élevé	1	1	1
-330	congestive	1	1	1
-330	comorbidité	1	1	1
-331	indésirables	1	1	1
-331	patients	1	1	1
-331	événements	1	1	1
-332	univariée	1	1	1
-332	postopératoires	1	1	1
-332	régression	1	1	1
-332	sexe	2	1	1
-332	confiance	1	1	1
-332	événements	1	1	1
-332	rc	3	0	0
-332	quartile	1	1	1
-332	ic	3	3	3
-332	rapport	1	1	1
-332	imms	3	0	0
-332	logistique	1	1	1
-332	indésirables	1	1	1
-332	intervalle	1	1	1
-332	inférieur	1	1	1
-332	moyen	1	1	1
-333	multivariée	1	1	1
-333	événements	1	1	1
-333	sexe	1	1	1
-333	indésirables	1	1	1
-333	analyse	1	1	1
-333	prédicteur	1	0	0
-333	quartile	1	1	1
-333	rc	1	0	0
-333	inférieur	1	1	1
-334	mesures	1	1	1
-334	psoas	1	1	1
-334	sarcopénie	1	1	1
-334	mortalité	1	1	1
-334	radiologiques	1	1	1
-334	morbidité	1	1	1
-334	hôpital	1	1	1
-336	directives	1	0	0
-337	consignes	1	0	0
-337	santé	1	1	1
-337	publique	1	1	1
-338	publique	1	1	1
-338	santé	1	1	1
-340	sondage	1	0	0
-341	sondage	1	1	1
-342	données	1	0	0
-343	résultats	1	0	0
-344	adultes	1	0	0
-345	difficultés	1	0	0
-345	significatives	1	0	0
-346	aliments	1	0	0
-346	p	4	1	1
-347	essentielles	1	0	0
-347	fournitures	1	0	0
-348	répondants	1	1	1
-349	répondants	1	1	1
-350	gens	1	0	0
-353	inhalateurs	1	0	0
-353	taux	1	1	1
-353	incidence	1	0	0
-353	initiation	1	1	1
-353	effet	1	1	1
-353	nicotine	1	1	1
-353	électroniques	1	1	1
-353	arrêt	1	0	0
-353	santé	1	1	1
-353	tabagisme	2	1	1
-353	coûts	1	1	1
-354	ordonnance	1	1	1
-354	accessibles	3	0	0
-354	soins	2	2	2
-354	scénarios	1	1	1
-354	inhalateurs	3	0	0
-354	cessation	1	0	0
-354	complément	1	0	0
-354	cohortes	1	1	1
-354	genre	1	0	0
-354	fournisseur	1	1	1
-354	santé	2	2	2
-354	tabagisme	2	1	1
-354	modèles	1	1	1
-354	avaq	1	0	0
-354	qualité	1	1	1
-354	coûts	1	1	1
-355	analyse	1	1	1
-355	vue	1	1	1
-355	santé	1	1	1
-355	soins	1	1	1
-355	système	1	1	1
-356	simulation	1	1	1
-356	résultats	1	1	1
-356	valeurs	1	1	1
-356	itérations	1	0	0
-357	inhalateurs	3	0	0
-357	accessibles	3	0	0
-357	ordonnance	1	1	1
-357	santé	1	1	1
-357	coûts	1	1	1
-357	tabagisme	1	1	1
-358	nicotine	3	0	0
-358	santé	1	1	1
-358	accessibles	3	0	0
-358	coûts	1	1	1
-358	tabagisme	1	1	1
-358	ordonnance	1	1	1
-358	inhalateurs	3	0	0
-359	accessibles	2	0	0
-359	scénarios	1	0	0
-359	statu	1	1	1
-359	ordonnance	1	1	1
-359	inhalateurs	1	0	0
-360	santé	2	2	2
-360	ordonnance	1	1	1
-360	coûts	1	1	1
-360	canadienne	1	1	1
-360	résultats	1	1	1
-360	inaccessibles	1	0	0
-360	accessibles	1	0	0
-360	population	2	2	2
-360	inhalateurs	1	0	0
-361	contexte	1	0	0
-362	monde	1	1	1
-362	santé	1	1	1
-362	médicaments	1	1	1
-362	pays	1	1	1
-362	pharmaceutique	1	1	1
-362	mécanismes	1	1	1
-362	inférieure	1	1	1
-362	faibles	1	1	1
-363	pm	1	0	0
-363	décideur	1	1	1
-363	final	1	1	1
-363	prescription	1	1	1
-363	praticien	1	1	1
-363	médicaments	1	1	1
-364	objectif	1	0	0
-365	mesures	1	1	1
-365	étude	1	1	1
-365	dangers	1	1	1
-365	acmt	1	1	1
-365	médicaments	2	2	2
-365	utilisation	2	2	2
-365	technologies	1	1	1
-365	préventives	1	1	1
-365	inférieure	1	1	1
-365	identification	1	1	1
-365	obstacles	1	1	1
-366	méthodes	1	1	1
-367	transversale	1	1	1
-367	étude	1	1	1
-368	acmt	1	1	1
-368	identification	1	1	1
-368	questionnaire	1	1	1
-368	obstacles	1	1	1
-368	utilisation	1	1	1
-368	données	1	1	1
-369	médicaments	1	1	1
-369	dangers	1	1	1
-369	préventives	1	0	0
-369	mesures	1	1	1
-370	résultats	1	1	1
-371	moyen±sd	1	0	0
-371	fourchette	1	0	0
-371	âge	1	1	1
-371	répondants	1	1	1
-373	acmt	1	1	1
-373	graphiques	1	1	1
-373	authentification	1	1	1
-373	étiquetage	1	1	1
-373	man	1	1	1
-373	emballage	1	1	1
-373	soins	1	0	0
-374	acmt	1	1	1
-374	étiquetage	1	1	1
-374	emballage	1	1	1
-374	impression	1	1	1
-374	technologies	1	1	1
-375	utilisation	1	1	1
-375	prédominant	1	0	0
-375	temps	1	1	1
-375	acmt	1	1	1
-375	obstacle	1	1	1
-376	médicaments	1	1	1
-376	analgésiques	1	1	1
-376	courantes	1	1	1
-377	pharmaceutiques	1	1	1
-377	traitement	1	1	1
-377	médicaments	1	1	1
-377	courants	1	1	1
-377	cause	1	0	0
-378	préventive	1	1	1
-378	médicaments	1	1	1
-379	conclusion	1	1	1
-380	élevée	1	1	1
-380	acmt	1	1	1
-380	comparable	1	0	0
-380	connaissance	1	1	1
-380	utilisation	1	0	0
-381	impression	1	1	1
-381	techniques	1	0	0
-381	étiquetage	1	1	1
-381	emballage	1	1	1
-382	prédominant	1	1	1
-382	acmt	1	1	1
-382	possible	1	1	1
-382	contraintes	1	0	0
-382	temps	1	1	1
-382	utilisation	1	1	1
-383	médicaments	1	1	1
-383	courantes	1	1	1
-384	système	1	1	1
-384	médicaments	1	1	1
-384	cause	1	0	0
-384	pharmaceutiques	1	1	1
-385	efficace	1	1	1
-385	préventive	1	1	1
-385	médicaments	1	1	1
-387	technologies	1	1	1
-387	médicaments	1	1	1
-387	barrières	1	1	1
-387	utilisations	1	1	1
-387	identification	1	1	1
-388	vulnérables	1	1	1
-388	organismes	1	1	1
-388	santé	1	1	1
-389	centre	1	0	0
-389	soutien	1	1	1
-389	clientes	1	0	0
-389	sociodémographiques	1	1	1
-389	participation	1	1	1
-389	associations	1	1	1
-389	programme	2	1	1
-389	cadre	1	1	1
-389	allaitement	1	1	1
-389	psychosociales	1	1	1
-389	caractéristiques	2	1	1
-390	données	1	1	1
-390	centre	1	0	0
-391	programme	1	1	1
-391	nombre	2	2	2
-391	caractéristiques	1	1	1
-391	associations	1	1	1
-391	durée	1	1	1
-391	régression	1	1	1
-391	analyses	1	1	1
-391	prénatal	1	1	1
-391	intensité	1	1	1
-391	fois	1	1	1
-391	gestationnel	1	1	1
-391	participation	2	1	1
-391	dimensions	1	1	1
-391	soutien	1	0	0
-391	multivariée	1	0	0
-391	âge	1	1	1
-391	début	1	0	0
-391	maternelles	1	1	1
-392	revenu	2	1	1
-392	clientes	1	0	0
-392	faible	1	1	1
-392	âge	1	1	1
-392	taille	1	1	1
-393	participation	1	1	1
-393	revenu	1	1	1
-393	dimensions	1	1	1
-394	nombre	2	2	2
-394	ic	2	2	2
-394	faible	2	2	2
-394	revenu	4	2	2
-394	programme	2	2	2
-394	fois	1	1	1
-394	clientes	2	0	0
-395	participation	1	1	1
-395	maternelles	1	1	1
-395	caractéristiques	1	1	1
-395	résultats	1	1	1
-395	différences	1	1	1
-396	suivi	1	1	1
-396	données	1	0	0
-396	centre	1	0	0
-397	supplémentaires	1	1	1
-397	modèles	1	1	1
-397	prestation	1	1	1
-397	vulnérables	1	1	1
-397	périnataux	1	1	1
-398	interventions	1	0	0
-398	résultats	1	1	1
-398	remarquables	1	0	0
-398	principales	1	0	0
-398	rhinoplastie	1	1	1
-399	technique	1	1	1
-399	affections	1	0	0
-399	réduction	1	1	1
-399	base	1	1	1
-400	sutures	1	1	1
-400	cicatrices	1	0	0
-400	patients	1	1	1
-401	divers	1	0	0
-401	base	1	1	1
-401	résections	1	0	0
-401	résultats	1	1	1
-401	chirurgicales	1	0	0
-402	cohorte	1	1	1
-402	étude	1	1	1
-402	rétrospective	1	1	1
-403	patients	1	1	1
-403	résection	1	1	1
-403	chercheurs	1	0	0
-403	base	1	1	1
-404	base	1	1	1
-404	sutures	2	1	1
-404	groupes	1	1	1
-404	deuxième	1	0	0
-404	patients	2	2	2
-404	monocryl	1	1	1
-405	analogique	1	1	1
-405	vues	1	1	1
-405	échelle	1	0	0
-405	visuelle	1	1	1
-406	groupe	1	1	1
-406	patients	2	2	2
-406	groupes	1	1	1
-406	étude	1	1	1
-406	deuxième	1	0	0
-406	monocryl	1	1	1
-407	groupe	1	1	1
-407	significative	1	1	1
-407	différence	1	1	1
-407	deuxième	1	1	1
-407	cicatrices	1	1	1
-408	polypropylène	1	1	1
-408	monocryl	1	1	1
-408	sutures	1	0	0
-408	base	1	1	1
-409	hydrogéologique	1	1	1
-409	contexte	1	0	0
-409	calcaire	1	1	1
-409	faible	1	0	0
-409	modèle	1	1	1
-409	source	2	2	2
-409	conceptuel	1	1	1
-409	circulation	1	1	1
-409	approche	1	1	1
-409	variation	1	1	1
-409	thermale	1	1	1
-409	multidisciplinaire	1	1	1
-410	complexe	1	1	1
-410	c	1	1	1
-410	profil	1	1	1
-410	°	1	1	1
-410	source	1	1	1
-410	variable	1	1	1
-410	température	1	1	1
-410	thermale	1	1	1
-411	temps	1	0	0
-411	hydrogéologiques	1	1	1
-411	données	2	2	2
-411	système	1	1	1
-411	audio-magnétotellurique	1	0	0
-411	amt	1	1	1
-411	fonctionnement	1	1	1
-411	intrigant	1	1	1
-411	hydrothermal	1	1	1
-411	analyse	1	1	1
-411	géophysiques	1	1	1
-412	température	1	1	1
-412	variabilité	1	1	1
-412	calcaires	1	1	1
-412	analyse	1	0	0
-412	thermales	1	1	1
-412	carbonifère	1	1	1
-412	mesures	1	1	1
-412	débit	1	1	1
-413	3d	1	1	1
-413	lithologies	1	1	1
-413	probable	1	1	1
-413	âge	1	1	1
-413	structures	1	1	1
-413	faille	1	1	1
-413	nw	1	1	1
-413	modèle	1	1	1
-413	résistivité	1	1	1
-413	sous-sol	1	1	1
-414	conduits	1	1	1
-414	structures	1	1	1
-414	fonctionnement	1	1	1
-414	hydrothermale	1	1	1
-414	intersection	1	1	1
-414	succession	1	1	1
-414	circulation	1	1	1
-414	karstification	1	1	1
-414	m	1	1	1
-415	simultanée	1	1	1
-415	résultats	1	1	1
-415	réchauffement	1	1	1
-415	météoriques	1	1	1
-415	circulation	1	1	1
-415	recirculation	1	1	1
-415	infiltration	1	1	1
-415	hydrothermale	1	1	1
-415	hypothèse	1	1	1
-415	température	1	1	1
-415	hiver	1	1	1
-415	étude	1	1	1
-415	système	1	1	1
-415	débit	1	1	1
-418	bilharziose	1	0	0
-418	infections	1	0	0
-418	urogénitale	1	1	1
-419	cancers	1	0	0
-419	séquelles	1	0	0
-419	infections	1	1	1
-420	professionnels	1	1	1
-420	communautés	1	1	1
-420	faible	1	1	1
-420	sensibilisation	1	1	1
-420	médicale	1	1	1
-420	impact	1	1	1
-420	reproductive	1	1	1
-420	santé	2	2	2
-420	formation	1	1	1
-421	sexuelle	1	1	1
-421	santé	1	1	1
-421	reproductive	1	1	1
-421	subsaharienne	1	1	1
-422	maladie	1	1	1
-422	traitable	1	1	1
-422	santé	1	1	1
-422	négligence	1	1	1
-422	reproductive	1	1	1
-422	tropicale	1	1	1
-422	connaissance	1	1	1
-422	fardeau	1	1	1
-423	méthode	1	0	0
-424	interactifs	1	1	1
-424	collaboration	1	1	1
-424	traitement	1	1	1
-424	diagnostic	1	1	1
-424	prévention	1	1	1
-424	système	1	1	1
-424	participants	1	1	1
-424	santé	3	3	3
-424	ateliers	1	1	1
-424	niveaux	1	1	1
-424	virtuels	1	1	1
-424	monde	1	1	1
-424	compétences	1	1	1
-425	compétences	1	1	1
-425	groupes	1	1	1
-425	participants	1	1	1
-426	résultats	1	1	1
-427	diagnostic	1	1	1
-427	professionnels	1	0	0
-427	prévention	1	1	1
-427	traitement	1	0	0
-427	cadre	2	0	0
-427	participatif	1	1	1
-427	compétences	1	1	1
-427	catégories	1	1	1
-427	processus	1	1	1
-427	santé	1	1	1
-428	pelvien	1	1	1
-428	examen	1	1	1
-428	diagnostic	1	1	1
-429	comportements	1	1	1
-430	risque	1	1	1
-430	identification	1	1	1
-430	prévention	1	1	1
-431	conclusion	1	1	1
-432	santé	1	1	1
-432	diagnostic	1	1	1
-432	professionnels	1	1	1
-432	traitement	1	1	1
-432	compétences	1	1	1
-432	nécessaires	1	1	1
-432	subsaharienne	1	1	1
-434	rôle	1	1	1
-434	canadien	1	1	1
-434	montée	1	1	1
-434	formation	1	1	1
-434	diplomatiques	1	1	1
-434	canadienne	2	2	2
-434	nationalisme	1	1	1
-434	bourgeoisie	1	1	1
-434	majeures	1	0	0
-434	officialisation	1	1	1
-434	essor	1	0	0
-434	tournant	1	1	1
-434	déterminant	1	1	1
-434	bactériologie	1	1	1
-434	séjours	1	0	0
-434	tendances	1	1	1
-435	doctorales	1	0	0
-435	parcours	1	0	0
-435	inédites	1	1	1
-435	thèses	1	1	1
-436	colonie	1	1	1
-436	séjours	1	0	0
-436	médicale	1	1	1
-436	effets	1	0	0
-436	profession	1	1	1
-436	rapports	1	0	0
-437	transversale	1	1	1
-437	étude	1	1	1
-437	hôpital	1	0	0
-437	lits	1	1	1
-437	répartition	1	1	1
-438	santé	1	1	1
-438	adéquat	1	1	1
-438	accès	1	1	1
-438	fondamental	1	1	1
-439	efficace	1	1	1
-439	soins	1	0	0
-439	possible	1	1	1
-439	manière	1	1	1
-440	allocation	1	1	1
-440	inégalités	1	1	1
-440	lits	1	1	1
-440	ressources	1	1	1
-440	hôpital	1	0	0
-440	répartition	1	1	1
-441	transversale	1	1	1
-441	données	1	1	1
-441	étude	1	1	1
-441	période	1	1	1
-442	nombre	1	1	1
-442	régions	1	1	1
-442	hôpital	1	0	0
-442	lits	1	1	1
-443	indice	1	1	1
-443	lits	1	1	1
-443	courbe	1	1	1
-443	répartition	1	0	0
-443	tels	1	1	1
-443	paramètres	1	1	1
-444	coefficient	1	1	1
-444	lits	1	1	1
-444	corrélation	1	1	1
-444	région	1	1	1
-444	population	1	1	1
-445	population	1	1	1
-445	rapport	1	0	0
-445	telles	1	1	1
-445	lits	1	1	1
-445	hôpital	1	0	0
-445	régions	1	0	0
-446	secteur	2	2	2
-446	indice	1	1	1
-446	lits	1	1	1
-446	répartition	1	1	1
-447	régions	1	1	1
-447	hôpital	1	0	0
-447	population	1	1	1
-447	corrélation	1	1	1
-447	positive	1	1	1
-447	lits	1	1	1
-448	secteur	1	1	1
-448	hôpital	1	0	0
-448	répartition	1	1	1
-448	lits	1	1	1
-448	inégalités	1	1	1
-449	objectifs	1	1	1
-449	réformes	1	1	1
-449	décideurs	1	1	1
-449	inégalités	1	1	1
-451	comportements	1	0	0
-452	sociaux	1	1	1
-452	santé	1	1	1
-452	individualistes	1	1	1
-452	poids	1	1	1
-452	facteurs	1	1	1
-452	comportements	1	1	1
-453	sociaux	1	1	1
-453	santé	1	1	1
-453	rôle	1	0	0
-453	facteurs	1	1	1
-453	individualistes	1	1	1
-453	comportements	1	1	1
-453	poids	1	0	0
-454	méthodes	1	0	0
-455	données	1	0	0
-456	mesures	1	0	0
-457	résultats	1	0	0
-459	conclusion	1	0	0
-461	déterminants	1	0	0
-461	comportements	1	0	0
-461	approches	1	0	0
-461	individualistes	1	0	0
-461	facteurs	1	1	1
-462	patients	1	1	1
-462	cardiorénal	1	1	1
-462	insuffisance	1	1	1
-462	résultats	1	1	1
-462	défavorables	1	0	0
-462	syndrome	1	1	1
-463	échographie	1	1	1
-463	pronostique	1	1	1
-463	flux	1	0	0
-463	intrarénal	1	1	1
-463	veineux	1	1	1
-463	importance	1	0	0
-464	paramètres	1	1	1
-464	rénale	1	1	1
-464	intrarénale	1	0	0
-464	congestion	1	1	1
-464	population	1	1	1
-464	association	1	1	1
-465	syndrome	1	1	1
-465	coronarien	1	1	1
-465	patients	1	1	1
-465	n	2	2	2
-466	transducteur	1	1	1
-466	échocardiographie	1	1	1
-466	cardiaque	1	1	1
-466	standard	1	1	1
-466	patients	1	1	1
-466	dir	1	0	0
-467	indice	1	1	1
-467	veineux	2	2	2
-467	cardiaque	1	1	1
-467	durée	2	2	2
-467	flux	1	0	0
-467	stase	1	1	1
-467	intrarénal	1	1	1
-467	veineuse	1	1	1
-467	cycle	1	1	1
-468	critères	1	1	1
-468	principal	1	1	1
-468	insuffisance	1	1	1
-469	mmhg	1	0	0
-469	similaire	1	1	1
-469	échocardiographie	1	1	1
-469	l	1	1	1
-469	min	1	1	1
-469	pression	1	1	1
-469	m	1	1	1
-469	cardiaque	1	1	1
-469	indice	1	0	0
-469	patients	2	2	2
-469	veineuse	1	1	1
-470	patients	2	2	2
-470	isvr	1	0	0
-470	anormale	1	1	1
-471	stade	1	1	1
-471	patients	2	2	2
-471	créatinine	1	1	1
-471	iii	1	1	1
-471	moyenne	1	1	1
-471	sériques	1	0	0
-471	augmentation	1	1	1
-471	μmol	1	1	1
-471	l	1	0	0
-472	gravité	1	0	0
-472	patients	1	1	1
-473	biomarqueur	1	1	1
-473	patients	1	1	1
-473	contexte	1	1	1
-474	contexte	1	1	1
-474	conclusions	1	0	0
-474	traitement	1	0	0
-474	études	1	1	1
-474	efficacité	1	1	1
-476	efficacité	1	0	0
-477	méthodes	1	0	0
-479	fois	2	0	0
-479	randomisation	1	0	0
-479	intervention	1	0	0
-480	conformité	2	0	0
-480	chirurgie	1	1	1
-480	induction	2	1	1
-480	anxiété	2	0	0
-481	résultats	1	0	0
-482	résultats	1	1	1
-483	groupe	2	0	0
-483	observateur	1	1	1
-483	anxiété	1	1	1
-484	sub	1	1	1
-484	effet	1	1	1
-484	moyen	1	1	1
-484	admission	1	0	0
-484	f	1	0	0
-484	groupes	1	0	0
-484	anesthésie	1	0	0
-484	p	1	1	1
-484	η	1	1	1
-485	induction	1	1	1
-485	anesthésie	1	1	1
-485	groupe	2	0	0
-485	p	1	1	1
-485	conformité	1	0	0
-486	conclusion	1	0	0
-488	intégration	1	0	0
-488	stratégie	1	0	0
-488	pratique	1	0	0
-489	endocrinologie	1	1	1
-489	surspécialité	1	0	0
-489	naissante	1	1	1
-489	pédiatrique	1	1	1
-490	troubles	1	1	1
-490	tardive	1	1	1
-490	présentation	1	1	1
-490	pédiatriques	1	1	1
-490	rapports	1	1	1
-490	diagnostic	1	1	1
-490	precedents	1	0	0
-490	connaissance	1	1	1
-490	endocriniens	1	1	1
-491	endocriniens	1	1	1
-491	prévalence	1	1	1
-491	pédiatriques	1	1	1
-491	présentation	1	1	1
-491	étude	1	1	1
-491	essentielles	1	1	1
-491	troubles	1	1	1
-492	rétrospective	1	1	1
-492	troubles	1	1	1
-492	endocriniens	1	1	1
-492	pédiatriques	1	1	1
-493	patients	1	1	1
-493	données	1	1	1
-493	pertinentes	1	1	1
-494	endocriniens	1	1	1
-494	consultations	1	1	1
-494	troubles	1	1	1
-494	clinique	1	1	1
-494	pédiatrique	1	1	1
-494	étude	1	1	1
-494	période	1	1	1
-495	m	1	1	1
-495	mois	1	1	1
-496	rachitisme	1	1	1
-496	courants	1	1	1
-496	puberté	1	1	1
-496	endocriniens	1	1	1
-496	troubles	3	3	3
-497	régulière	1	0	0
-497	cas	1	1	1
-497	pédiatriques	1	1	1
-497	nombre	1	1	1
-497	augmentation	1	1	1
-497	endocriniens	1	1	1
-498	mortalité	1	0	0
-498	patients	1	1	1
-499	pédiatriques	1	1	1
-499	troubles	3	3	3
-499	puberté	1	1	1
-499	endocriniens	1	1	1
-500	défi	1	1	1
-500	notable	1	1	1
-500	endocriniens	1	1	1
-500	pédiatriques	1	1	1
-500	troubles	1	1	1
-500	attrition	1	1	1
-501	attrition	1	1	1
-501	défi	1	0	0
-501	pratique	1	1	1
-503	diabète	1	1	1
-503	endocriniens	1	1	1
-503	sensibilisation	1	0	0
-503	troubles	1	1	1
-504	ménages	1	1	1
-504	économiques	1	0	0
-504	locales	1	0	0
-504	inégalités	1	0	0
-504	capital	1	1	1
-504	niveau	1	0	0
-505	ménages	2	2	2
-505	économiques	1	0	0
-505	carrés	1	1	1
-505	impact	1	1	1
-505	niveau	1	1	1
-505	capital	1	1	1
-505	inégalités	1	0	0
-505	enquêtes	1	1	1
-505	programme	1	1	1
-505	données	1	1	1
-506	locales	1	1	1
-506	capital	2	2	2
-506	homogènes	1	1	1
-506	économiques	1	1	1
-506	inégalités	1	1	1
-506	appartenance	1	0	0
-506	participation	1	1	1
-506	ménages	1	1	1
-506	communs	1	0	0
-506	associations	1	1	1
-506	bénévoles	1	1	1
-506	résultats	1	1	1
-506	étude	1	1	1
-507	sociaux	1	1	1
-507	socio-économiques	1	1	1
-507	études	1	0	0
-507	susceptible	1	1	1
-507	démographiques	1	1	1
-507	communautés	1	1	1
-508	fibrillation	1	1	1
-508	études	1	1	1
-508	auriculaire	1	1	1
-508	chirurgie	1	1	1
-508	cardiaque	1	1	1
-508	risque	1	1	1
-508	périopératoire	1	1	1
-509	suivi	1	1	1
-509	terme	1	1	1
-509	incertaine	1	1	1
-509	association	1	1	1
-509	ampleur	1	1	1
-510	création	1	1	1
-510	période	1	1	1
-511	données	1	1	1
-511	études	1	1	1
-511	patients	2	2	2
-511	terme	1	1	1
-511	fapo	1	0	0
-511	risque	1	1	1
-511	chirurgie	1	1	1
-511	cardiaque	1	1	1
-512	modèles	1	1	1
-512	données	1	1	1
-512	effets	1	1	1
-513	rr	1	1	1
-513	intervalles	1	1	1
-513	études	1	1	1
-513	multivariables	1	1	1
-513	différences	1	1	1
-513	risque	2	1	1
-513	rapports	1	0	0
-513	dra	1	1	1
-513	résultats	1	1	1
-513	confiance	1	1	1
-513	ic	1	1	1
-514	études	1	1	1
-514	patients	1	1	1
-514	total	1	1	1
-515	études	1	1	1
-515	terme	1	1	1
-515	rr	1	1	1
-515	risque	2	2	2
-515	relatif	1	1	1
-516	risque	2	2	2
-516	études	1	1	1
-516	terme	1	1	1
-516	patients	2	2	2
-516	relatif	1	1	1
-517	études	2	2	2
-517	qualité	1	1	1
-517	emboliques	1	1	1
-517	ischémiques	1	1	1
-517	sensibilité	1	1	1
-517	résultats	1	1	1
-517	similaires	1	1	1
-517	avc	1	1	1
-517	analyses	1	1	1
-518	cardiaque	1	1	1
-518	chirurgie	1	1	1
-518	risque	1	1	1
-518	terme	1	1	1
-519	orale	1	0	0
-519	patients	1	1	1
-519	terme	2	2	2
-519	anticoagulothérapie	1	0	0
-519	faible	1	1	1
-519	avc	1	1	1
-519	incertaine	1	0	0
-520	transthyrétine	1	1	1
-520	héréditaire	1	1	1
-521	amylose	1	0	0
-521	transthyrétine	2	1	1
-521	héréditaire	1	1	1
-521	maladie	1	1	1
-521	dysfonctionnement	1	1	1
-521	évolutive	1	1	1
-521	plurisystémique	1	0	0
-521	mutations	1	1	1
-522	agrégation	1	1	1
-522	système	1	1	1
-522	pathogènes	1	0	0
-522	périphérique	1	1	1
-522	cœur	1	1	1
-522	fibrillisation	1	0	0
-522	dépôt	1	1	1
-522	repliement	1	1	1
-523	autonome	1	1	1
-523	neuropathie	1	1	1
-523	sensorimotrice	1	1	1
-523	neurologiques	1	1	1
-523	troubles	1	0	0
-523	pn	1	0	0
-523	polyneuropathie	2	1	1
-523	syndrome	1	1	1
-524	diagnostic	2	2	2
-524	patients	1	1	1
-524	évolution	1	0	0
-525	médicaments	1	0	0
-525	efficaces	1	1	1
-526	instauration	1	0	0
-526	traitements	1	1	1
-526	cruciale	1	0	0
-526	précoce	1	1	1
-526	qualité	1	1	1
-526	diagnostic	1	1	1
-526	troubles	1	0	0
-527	traitement	1	1	1
-527	recommandations	1	1	1
-527	diagnostic	1	1	1
-528	contexte	1	0	0
-529	patients	1	1	1
-529	régimes	1	1	1
-529	formulation	1	1	1
-529	études	1	1	1
-529	indésirables	1	1	1
-529	extraits	1	1	1
-529	précédentes	1	0	0
-529	tests	1	1	1
-530	tests	1	1	1
-530	utilisation	1	1	1
-531	objectifs	1	1	1
-532	actuels	1	1	1
-532	efficacité	1	1	1
-532	prick	1	0	0
-532	provocation	1	1	1
-532	combinaison	1	1	1
-532	patch	1	1	1
-532	protocoles	1	1	1
-532	tests	2	2	2
-533	matériels	1	0	0
-533	méthodes	1	1	1
-534	tests	2	1	1
-534	patch	1	1	1
-534	prurit	1	1	1
-534	chronique	1	1	1
-534	prick	1	0	0
-535	base	1	1	1
-535	résultats	1	1	1
-535	ed	1	1	1
-536	positive	1	1	1
-536	aliment	1	1	1
-536	tests	1	1	1
-537	tests	1	1	1
-537	négatifs	1	1	1
-537	aliment	1	1	1
-538	itération	1	1	1
-538	4e	1	1	1
-539	se	1	1	1
-539	valeurs	1	1	1
-539	valeur	1	1	1
-539	sensibilité	1	1	1
-539	sp	1	1	1
-539	npv	1	1	1
-539	prédictives	1	1	1
-539	ppv	1	1	1
-539	κ	1	1	1
-539	spécificité	1	1	1
-539	négatives	1	1	1
-539	positives	1	1	1
-540	résultats	1	1	1
-541	p	2	2	2
-541	amélioration	1	1	1
-541	moyenne	1	1	1
-541	pvas	1	1	1
-541	j30	1	1	1
-541	j60	1	1	1
-541	significative	1	1	1
-541	scores	1	1	1
-542	statistiques	1	1	1
-542	différences	1	1	1
-543	valeurs	1	1	1
-543	tests	1	1	1
-543	combinaison	1	1	1
-544	conclusions	1	1	1
-544	pertinence	1	1	1
-544	clinique	1	1	1
-545	vpn	1	0	0
-545	se	1	1	1
-545	combinaison	1	1	1
-545	élevées	1	1	1
-545	valeurs	1	1	1
-545	prick	1	1	1
-545	patch	1	1	1
-545	tests	2	2	2
-546	tests	1	1	1
-546	diagnostic	1	1	1
-546	de	1	0	0
-546	résultats	1	1	1
-546	sélection	1	1	1
-547	modalités	1	1	1
-547	imagerie	2	1	1
-548	réduction	1	1	1
-548	exemple	1	1	1
-548	modalité	1	1	1
-548	données	1	1	1
-548	techniques	1	1	1
-549	méthode	1	1	1
-549	régularisation	1	1	1
-549	association	1	0	0
-549	cerveau	1	0	0
-549	régression	2	2	2
-549	réponse	1	0	0
-549	généralisée	1	1	1
-549	généralisés	1	1	1
-549	structures	1	0	0
-549	scalaire	1	1	1
-550	coefficients	1	0	0
-550	approche	1	1	1
-550	externes	1	1	1
-550	régression	1	1	1
-550	estimation	1	1	1
-550	cerveau	1	1	1
-550	connectivité	1	1	1
-551	terme	1	1	1
-551	pénalité	1	1	1
-551	matrice	1	1	1
-551	connectivité	1	1	1
-551	laplacienne	1	1	1
-551	régression	1	1	1
-552	robustesse	1	1	1
-552	cerveau	1	0	0
-552	incomplète	1	0	0
-552	calculatoires	1	0	0
-552	connectivité	1	1	1
-552	méthode	1	1	1
-552	auteurs	1	0	0
-552	théoriques	1	1	1
-553	inférence	1	1	1
-553	procédure	1	1	1
-553	paramètres	1	0	0
-554	études	1	1	1
-554	vastes	1	0	0
-554	données	1	1	1
-554	simulation	1	1	1
-556	sédentaires	1	0	0
-556	temps	1	1	1
-556	physique	1	1	1
-556	consommation	1	0	0
-556	activité	1	1	1
-556	écran	1	1	1
-557	physique	1	1	1
-557	activité	1	1	1
-557	comportements	1	0	0
-557	insécurité	1	0	0
-557	effets	1	0	0
-558	renforcement	1	0	0
-558	impacts	1	0	0
-558	santé	1	0	0
-559	inégalités	1	0	0
-559	santé	1	1	1
-560	habitudes	1	0	0
-561	postcapillaire	1	1	1
-561	papom	1	0	0
-561	hypertension	1	1	1
-561	différentiation	1	0	0
-561	pulmonaire	2	2	2
-561	pression	1	1	1
-561	précapillaire	1	1	1
-561	occlusion	1	0	0
-562	télédiastolique	1	1	1
-562	pression	1	1	1
-562	alternative	1	1	1
-562	gauche	1	1	1
-562	équivalente	1	1	1
-564	patients	1	1	1
-564	classification	1	1	1
-564	prédiction	1	1	1
-564	choix	1	1	1
-564	mortalité	1	1	1
-564	remplacement	1	1	1
-564	sténose	1	1	1
-564	répercussions	1	0	0
-564	aortique	1	1	1
-564	hp	1	0	0
-565	patients	1	1	1
-565	grave	1	0	0
-565	sa	1	1	1
-566	postcapillaire	1	1	1
-566	artérielle	1	1	1
-566	pulmonaire	1	1	1
-566	hp	2	0	0
-566	précapillaire	1	1	1
-566	mmhg	3	0	0
-566	pression	1	1	1
-567	suivi	1	1	1
-567	mortalité	1	1	1
-567	remplacement	1	1	1
-567	médian	1	1	1
-567	aortique	1	1	1
-568	faible	1	0	0
-568	mmhg	2	0	0
-569	patients	5	1	1
-569	classification	1	1	1
-569	hp	5	2	2
-569	postcapillaire	2	0	0
-569	précapillaire	2	1	1
-570	patients	1	1	1
-571	confiance	1	1	1
-571	mortalité	1	1	1
-571	risque	1	1	1
-571	intervalle	1	1	1
-571	patients	2	1	1
-572	risque	1	1	1
-572	mmhg	1	0	0
-572	mortalité	1	1	1
-572	confiance	1	1	1
-572	intervalle	1	1	1
-573	grave	1	0	0
-573	classification	1	1	1
-573	divergente	1	1	1
-573	patients	1	0	0
-573	sa	1	1	1
-574	patients	1	1	1
-574	mortalité	1	1	1
-574	remplacement	1	1	1
-574	aortique	1	1	1
-575	mortalité	1	1	1
-576	équilibre	1	1	1
-576	effets	1	0	0
-576	athlètes	1	1	1
-576	fatigue	1	1	1
-577	systématique	1	1	1
-578	bibliothèque	1	1	1
-578	début	1	1	1
-579	effets	1	1	1
-579	fatigue	1	1	1
-579	études	1	1	1
-579	populations	1	1	1
-579	équilibre	1	1	1
-580	études	1	1	1
-580	biais	1	1	1
-580	données	1	0	0
-580	risque	1	1	1
-580	synthèse	1	1	1
-580	faible	1	1	1
-580	admissibles	1	0	0
-581	risque	1	1	1
-581	études	1	1	1
-581	biais	1	1	1
-581	athlètes	2	2	2
-581	faible	1	1	1
-582	activité	1	0	0
-582	diminution	1	1	1
-582	études	1	1	1
-582	équilibre	1	1	1
-584	fatigue	1	1	1
-584	importants	1	0	0
-584	équilibre	1	1	1
-584	études	1	1	1
-584	effets	1	1	1
-585	fatigue	1	1	1
-585	effets	1	1	1
-585	équilibre	1	1	1
-585	résultats	1	1	1
-586	équilibre	1	1	1
-586	athlètes	1	1	1
-586	majorité	1	1	1
-586	fatigue	1	1	1
-586	études	1	1	1
-587	athlètes	1	0	0
-587	dynamique	1	1	1
-587	fatigue	1	1	1
-587	équilibre	1	1	1
-587	majorité	1	1	1
-587	contraire	1	1	1
+sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
+0	récalcitrantes	1	1	1	1
+0	auriculaires	1	1	1	1
+0	chéloïdes	1	1	1	1
+0	traitement	1	1	1	1
+1	élevé	1	0	0	0
+1	risque	1	0	0	0
+1	récurrence	1	0	0	0
+2	traitement	1	0	0	0
+3	méta-analyse	1	1	1	1
+3	données	1	0	0	0
+3	traitement	1	1	1	1
+3	récalcitrantes	1	0	0	0
+3	auriculaires	1	1	1	1
+3	chéloïdes	1	1	1	1
+4	MEDLINE	1	1	1	1
+4	EMBASE	1	1	1	1
+4	CINAHL	1	1	1	1
+4	EBM	1	1	1	1
+4	mots-clés	1	1	1	1
+5	critères	1	1	1	1
+5	préétablis	1	0	0	0
+5	admissibilité	1	0	0	0
+5	inclusion	1	1	1	1
+5	exclusion	1	1	1	1
+5	articles	1	1	1	1
+6	données	1	1	1	1
+6	récalcitrantes	1	1	1	1
+6	chéloïdes	1	1	1	1
+6	modalité	1	1	1	1
+6	récurrence	1	0	0	0
+6	minimale	1	1	1	1
+6	suivi	1	1	1	1
+7	articles	1	1	1	1
+7	stratifié	1	0	0	0
+7	traitement	1	1	1	1
+7	qualité	1	0	0	0
+7	preuve	1	1	1	1
+7	QdP	1	0	0	0
+7	Oxford	1	1	1	1
+7	directives	1	1	1	1
+7	méta-analyse	1	1	1	1
+7	évaluer	1	0	0	0
+7	récurrence	1	0	0	0
+7	taux	1	1	1	1
+7	intervalles	1	1	1	1
+7	modalité	1	1	1	1
+8	uniques	1	1	1	1
+8	articles	1	1	1	1
+9	QdP	2	0	0	0
+9	III	1	1	1	1
+9	IV	1	1	1	1
+10	récurrence	1	0	0	0
+10	taux	1	1	1	1
+10	IC	4	4	4	4
+10	excision	4	4	4	4
+10	adjuvante	3	2	2	2
+10	curiethérapie	1	1	1	1
+10	radiothérapie	1	0	0	0
+10	compression	1	0	0	0
+10	externe	1	1	1	1
+10	adjuvantes	1	1	1	1
+10	stéroïdes	1	1	1	1
+10	injections	1	1	1	1
+12	données	1	1	1	1
+12	traitement	1	1	1	1
+12	auriculaires	1	1	1	1
+12	chéloïdes	1	1	1	1
+12	hétérogènes	1	1	1	1
+12	qualité	1	1	1	1
+12	études	1	1	1	1
+13	excision	1	1	1	1
+13	adjuvante	1	1	1	1
+13	curiethérapie	1	1	1	1
+13	récurrence	1	0	0	0
+13	taux	1	1	1	1
+13	analyse	1	1	1	1
+14	faibles	1	0	0	0
+14	confiance	1	1	1	1
+14	intervalles	1	1	1	1
+14	curiethérapie	1	1	1	1
+14	thérapie	1	1	1	1
+14	compression	1	1	1	1
+14	chirurgiens	1	1	1	1
+14	modalités	1	1	1	1
+14	patients	1	1	1	1
+16	boissons	2	0	0	0
+17	MéTHODOLOGIE	1	0	0	0
+18	participants	1	1	1	1
+18	étudiants	1	1	1	1
+18	légal	1	1	1	1
+18	alcool	1	1	1	1
+18	Ontario	1	1	1	1
+18	Canada	1	1	1	1
+19	groupes	1	0	0	0
+20	participants	1	1	1	1
+20	commandes	1	0	0	0
+20	caloriques	2	0	0	0
+20	information	1	1	1	1
+20	boissons	1	0	0	0
+21	régression	1	0	0	0
+21	multinomiale	1	0	0	0
+21	modèles	1	0	0	0
+21	logistique	2	0	0	0
+21	données	1	0	0	0
+21	recueillies	1	0	0	0
+21	employés	1	0	0	0
+22	RéSULTATS	1	0	1	1
+23	probabilités	1	0	0	0
+23	remarquer	1	1	1	1
+23	caloriques	3	0	0	0
+23	valeurs	3	0	0	0
+23	groupe	2	0	0	0
+23	IC	1	1	1	1
+24	participants	1	0	0	0
+25	groupes	1	0	0	0
+25	différence	1	0	0	0
+25	calories	1	1	1	1
+25	boissons	2	1	1	1
+25	commandées	2	1	1	1
+26	CONCLUSION	1	0	0	0
+27	menu	1	0	0	0
+27	caloriques	2	0	0	0
+27	augmente	1	0	0	0
+27	consommateurs	1	1	1	1
+27	calorique	1	0	0	0
+27	alcoolisées	2	2	2	2
+27	boissons	1	1	1	1
+27	commandées	1	1	1	1
+30	nosocomiales	1	1	1	1
+30	résistants	1	1	1	1
+30	méticilline	1	1	1	1
+30	MR	1	1	1	1
+30	staphylocoques	1	1	1	1
+30	infections	1	0	0	0
+30	mondiale	1	1	1	1
+31	dermatologie	1	1	1	1
+31	salles	1	1	1	1
+31	surfaces	1	1	1	1
+31	réservoir	1	1	1	1
+31	fréquence	1	1	1	1
+31	staphylococcique	1	0	0	0
+31	pyodermite	1	0	0	0
+32	HYPOTHÈSE	1	0	1	1
+32	OBJECTIFS	1	0	1	1
+33	efficacité	1	1	1	1
+33	salle	1	1	1	1
+33	décontamination	1	1	1	1
+33	quaternaire	1	1	1	1
+33	ammonium	1	1	1	1
+33	composé	1	1	1	1
+33	évaluée	1	1	1	1
+33	nettoyage	1	1	1	1
+33	instructions	1	1	1	1
+34	coagulase	1	1	1	1
+34	positive	1	1	1	1
+34	staphylocoques	1	1	1	1
+34	CoPS	1	1	1	1
+34	colonies	1	1	1	1
+34	nombre	1	1	1	1
+34	évalué	1	1	1	1
+34	locaux	1	0	0	0
+34	chiens	1	1	1	1
+34	pyodermite	1	1	1	1
+34	nettoyage	1	1	1	1
+34	désinfection	1	1	1	1
+35	MÉTHODES	1	0	1	1
+36	surfaces	1	1	1	1
+36	étiquetées	1	1	1	1
+36	discret	1	1	1	1
+36	fluorescent	1	1	1	1
+36	évaluer	1	1	1	1
+36	efficacité	1	1	1	1
+36	surface	1	1	1	1
+36	nettoyage	2	2	2	2
+36	Virex	1	1	1	1
+36	II	1	1	1	1
+36	base	1	1	1	1
+36	protocoles	1	1	1	1
+37	CoPS	1	1	1	1
+37	colonies	1	1	1	1
+37	quantifiées	1	1	1	1
+37	3	1	1	1	1
+37	M	1	1	1	1
+37	Staph	1	1	1	1
+37	Express	1	1	1	1
+37	système	1	1	1	1
+38	standardisées	1	1	1	1
+38	surfaces	1	1	1	1
+38	échantillonnées	1	1	1	1
+38	chien	1	1	1	1
+38	staphylococcique	1	1	1	1
+38	pyodermite	1	1	1	1
+38	nettoyage	1	1	1	1
+38	désinfection	1	1	1	1
+38	protocole	1	1	1	1
+39	RÉSULTATS	1	0	1	1
+40	surfaces	2	1	1	1
+40	nettoyées	1	1	1	1
+40	protocoles	1	1	1	1
+40	détaillés	1	0	0	0
+41	surfaces	1	1	1	1
+41	nettoyées	1	1	1	1
+41	protocole	1	1	1	1
+41	P	1	1	1	1
+42	protocole	1	1	1	1
+42	CoPS	1	1	1	1
+42	colonies	1	1	1	1
+42	nombre	1	1	1	1
+42	surfaces	1	1	1	1
+42	chaises	1	1	1	1
+43	CoPS	1	1	1	1
+43	isolé	1	1	1	1
+44	Conclusions	1	1	1	1
+44	clinique	1	1	1	1
+44	pertinence	1	1	1	1
+45	salle	2	2	2	2
+45	nettoyage	1	1	1	1
+45	désinfection	1	1	1	1
+45	protocoles	1	1	1	1
+45	contamination	1	1	1	1
+45	vétérinaire	1	1	1	1
+45	surfaces	1	1	1	1
+45	staphylocoques	1	1	1	1
+46	désinfection	1	1	1	1
+46	chaises	1	1	1	1
+46	nécessite	1	1	1	1
+46	étude	1	1	1	1
+47	données	1	0	0	0
+47	médecine	1	1	1	1
+47	bien-être	1	1	1	1
+47	problème	1	1	1	1
+47	Canada	1	1	1	1
+47	étudiants	1	1	1	1
+47	détériore	1	1	1	1
+47	cheminement	1	0	0	0
+48	médecine	1	1	1	1
+48	facultés	1	1	1	1
+48	directions	1	0	0	0
+48	bien-être	1	1	1	1
+48	compétences	1	1	1	1
+48	cadres	1	1	1	1
+48	agrément	1	1	1	1
+48	normes	1	1	1	1
+48	systémique	1	0	0	0
+48	individuelle	1	0	0	0
+48	approches	1	1	1	1
+49	systémiques	1	0	0	0
+49	politiques	1	1	1	1
+49	médicale	1	1	1	1
+49	culture	1	1	1	1
+49	impact	1	1	1	1
+49	étudiants	1	0	0	0
+49	bien-être	2	2	2	2
+49	prévenir	1	0	0	0
+49	épuisement	1	1	1	1
+49	résultats	1	1	1	1
+50	individuel	1	1	1	1
+50	initiatives	1	1	1	1
+50	bien-être	1	0	0	0
+51	didactiques	1	1	1	1
+51	étudiant	1	1	1	1
+51	apprentissage	1	1	1	1
+51	environnement	1	1	1	1
+52	importants	1	0	0	0
+52	progrès	1	1	1	1
+52	uniformité	1	0	0	0
+52	facultés	1	0	0	0
+52	formation	1	1	1	1
+52	niveaux	1	1	1	1
+53	cadre	1	1	1	1
+53	Canada	1	1	1	1
+53	études	1	0	0	0
+53	résidence	1	1	1	1
+53	compétences	1	1	1	1
+54	création	1	1	1	1
+54	cadre	1	1	1	1
+54	niveau	2	0	0	0
+54	systémique	1	0	0	0
+54	initiatives	1	1	1	1
+54	faciliter	1	1	1	1
+54	transition	1	1	1	1
+54	médecine	1	1	1	1
+54	faculté	1	0	0	0
+54	résidence	1	1	1	1
+55	objectifs	1	1	1	1
+55	bien-être	1	1	1	1
+55	domaines	1	1	1	1
+55	souplesse	1	0	0	0
+55	adaptation	1	0	0	0
+55	consultation	1	0	0	0
+56	médecins	1	1	1	1
+56	bien-être	1	1	1	1
+56	formation	1	1	1	1
+56	qualité	1	1	1	1
+56	patients	1	1	1	1
+56	soins	1	1	1	1
+56	travail	1	1	1	1
+56	environnement	1	0	0	0
+56	canadienne	1	1	1	1
+56	population	1	1	1	1
+57	Identification	1	1	1	1
+57	caractérisation	1	1	1	1
+57	moustiques	1	1	1	1
+57	sites	1	0	0	0
+57	Qatar	1	1	1	1
+58	moustiques	1	1	1	1
+58	maladies	1	0	0	0
+58	risques	1	0	0	0
+58	publique	1	1	1	1
+58	santé	1	1	1	1
+59	simple	1	1	1	1
+59	présence	1	1	1	1
+59	vectorielle	1	1	1	1
+59	maladie	1	1	1	1
+59	MTV	1	0	0	0
+59	introduit	1	0	0	0
+59	risque	1	1	1	1
+59	locale	1	1	1	1
+59	communauté	1	1	1	1
+59	associé	1	0	0	0
+59	compatibles	1	0	0	0
+59	vecteur	1	1	1	1
+59	environnementaux	1	1	1	1
+59	facteurs	1	1	1	1
+60	surveillance	1	1	1	1
+60	programme	1	1	1	1
+60	Qatar	1	1	1	1
+60	probabilité	1	1	1	1
+60	MTV	1	0	0	0
+60	diffusion	1	0	0	0
+60	indéterminée	1	1	1	1
+61	vide	1	0	0	0
+61	gestion	1	1	1	1
+61	MTV	1	0	0	0
+62	travail	1	0	0	0
+62	résultats	1	1	1	1
+62	études	1	0	0	0
+62	distribution	1	0	0	0
+62	moustiques	1	1	1	1
+62	publique	1	1	1	1
+62	santé	1	1	1	1
+62	Qatar	1	1	1	1
+63	résultats	1	1	1	1
+63	adultes	1	1	1	1
+63	piégeages	1	0	0	0
+63	moustique	1	1	1	1
+63	méridional	1	0	0	0
+63	Culex	1	1	1	1
+63	quinquefasciatus	1	1	1	1
+63	répandue	1	1	1	1
+63	abondante	1	1	1	1
+63	espèce	1	1	1	1
+63	Cx	1	1	1	1
+63	perexiguus	1	1	1	1
+63	espèces	1	1	1	1
+63	risque	1	1	1	1
+63	Nile	1	0	0	0
+63	virus	1	1	1	1
+63	transmission	1	1	1	1
+64	échantillonnages	1	0	0	0
+64	paludisme	2	2	2	2
+64	Anopheles	1	1	1	1
+64	stephensi	1	1	1	1
+64	urbanisées	1	1	1	1
+64	zones	1	1	1	1
+64	risque	1	1	1	1
+64	locale	1	1	1	1
+64	transmission	1	1	1	1
+65	humides	1	1	1	1
+65	caspius	1	1	1	1
+65	risque	1	1	1	1
+65	Rift	1	1	1	1
+65	Vallée	1	0	1	1
+65	virus	1	1	1	1
+65	transmission	1	1	1	1
+66	dengue	2	2	2	2
+66	vecteur	1	1	1	1
+66	Ae	1	1	1	1
+66	aegypti	1	1	1	1
+66	détecté	1	1	1	1
+66	abondant	1	1	1	1
+66	minimal	1	1	1	1
+66	risque	1	1	1	1
+66	locale	1	1	1	1
+66	transmission	1	1	1	1
+66	chikungunya	1	1	1	1
+66	Zika	1	1	1	1
+66	virus	1	1	1	1
+67	étude	1	1	1	1
+67	détecté	1	1	1	1
+67	Culiseta	1	1	1	1
+67	longiareolata	1	1	1	1
+67	Qatar	1	1	1	1
+68	études	1	1	1	1
+68	connaissances	1	1	1	1
+68	lacunes	1	1	1	1
+68	distribution	1	1	1	1
+68	écologie	1	1	1	1
+68	moustiques	2	2	2	2
+68	espèces	1	1	1	1
+68	Qatar	1	1	1	1
+68	évaluer	1	1	1	1
+68	risque	1	1	1	1
+68	maladies	1	1	1	1
+69	femmes	1	1	1	1
+69	cardiaques	1	1	1	1
+69	maladies	1	1	1	1
+69	disparités	1	1	1	1
+69	diagnostic	1	1	1	1
+69	traitement	1	1	1	1
+69	maladie	1	0	0	0
+70	sexes	1	1	1	1
+70	différences	1	1	1	1
+70	hôpital	1	0	0	0
+70	patients	1	1	1	1
+70	expérience	1	1	1	1
+71	globale	1	0	0	0
+71	expérience	1	1	1	1
+71	patients	1	1	1	1
+71	hospitalisés	1	1	1	1
+71	ischémique	1	1	1	1
+71	cardiopathie	1	1	1	1
+71	Alberta	1	1	1	1
+71	Canada	1	1	1	1
+71	sexe	1	1	1	1
+72	patients	2	2	2	2
+72	modifiée	1	1	1	1
+72	version	1	1	1	1
+72	canadiens	1	0	0	0
+72	expériences	1	0	0	0
+72	SEHPC	1	0	0	0
+72	semaines	1	1	1	1
+72	congé	1	1	1	1
+73	examiné	1	1	1	1
+73	spécifiques	1	1	1	1
+73	soins	1	1	1	1
+73	processus	1	1	1	1
+73	globale	1	0	0	0
+73	échelles	1	1	1	1
+74	réponses	1	1	1	1
+74	pourcentages	1	1	1	1
+74	positive	1	0	0	0
+75	confiance	1	1	1	1
+75	intervalles	1	1	1	1
+75	femmes	1	1	1	1
+75	réponse	1	1	1	1
+75	calculés	1	1	1	1
+75	question	1	1	1	1
+75	démographiques	1	1	1	1
+75	cliniques	1	1	1	1
+75	facteurs	1	1	1	1
+76	sondages	1	0	0	0
+76	femmes	1	1	1	1
+76	hommes	1	1	1	1
+76	remplis	1	0	0	0
+77	sondage	1	0	0	0
+77	marge	1	1	1	1
+77	erreur	1	1	1	1
+77	femmes	1	1	1	1
+77	proportion	1	0	0	0
+78	résultats	1	1	1	1
+78	ajustés	1	0	0	0
+78	réponse	1	1	1	1
+79	femmes	1	1	1	1
+79	réponse	1	0	0	0
+79	questions	1	1	1	1
+80	étude	1	1	1	1
+80	Canada	1	0	0	0
+80	première	1	1	1	1
+80	stratifié	1	1	1	1
+80	expériences	1	1	1	1
+80	hospitalisés	1	1	1	1
+80	patients	1	1	1	1
+80	ischémique	1	1	1	1
+80	cardiopathie	1	1	1	1
+80	sexe	1	1	1	1
+81	résultats	1	1	1	1
+81	sexes	1	1	1	1
+81	différences	1	1	1	1
+82	recherches	1	1	1	1
+82	mécanismes	1	1	1	1
+82	associés	1	1	1	1
+82	sexes	1	0	0	0
+82	signalées	1	0	0	0
+82	patients	1	1	1	1
+85	surveillance	1	1	1	1
+85	Canada	1	0	0	0
+85	complète	1	0	0	0
+85	évaluer	1	0	0	0
+85	UAM	1	0	0	0
+86	MéTHODES	1	0	0	0
+87	voies	1	0	0	0
+88	RéSULTATS	1	0	0	0
+90	éléments	1	0	0	0
+90	cadre	1	0	0	0
+90	RAM	2	0	0	0
+90	améliorations	1	0	0	0
+91	canadienne	1	0	0	0
+91	UAM	1	0	0	0
+91	intégré	1	1	1	1
+94	créer	1	0	0	0
+94	systèmes	1	0	0	0
+94	fédéral	1	0	0	0
+94	provincial	1	0	0	0
+94	territorial	1	0	0	0
+94	priorités	1	0	0	0
+94	gouvernance	2	0	0	0
+94	surveillance	1	1	1	1
+94	financement	1	1	1	1
+94	politiques	1	1	1	1
+97	opioïdes	2	2	2	2
+97	prescription	2	0	0	0
+97	séjours	1	0	0	0
+97	déterminer	1	0	0	0
+97	caractéristiques	1	0	0	0
+97	prescripteurs	1	0	0	0
+97	prolongée	1	0	0	0
+97	patients	1	0	0	0
+97	hospitaliers	1	0	0	0
+100	critère	1	0	0	0
+100	évaluation	1	0	0	0
+100	jours	1	0	0	0
+100	opioïdes	1	0	0	0
+100	prescription	1	0	0	0
+101	durée	1	1	1	1
+101	opioïdes	1	1	1	1
+101	prescripteurs	1	0	0	0
+101	admissions	1	0	0	0
+101	jours	1	1	1	1
+102	RéSULTATS	1	0	0	0
+103	étude	1	0	0	0
+104	durée	1	0	0	0
+104	opioïdes	1	1	1	1
+104	prescription	1	0	0	0
+104	hôpital	1	0	0	0
+105	ordonnances	1	0	0	0
+105	opioïdes	1	1	1	1
+105	jours	1	1	1	1
+106	opioïdes	1	1	1	1
+106	prescription	2	0	0	0
+106	associés	1	0	0	0
+106	jours	2	1	1	1
+107	CONCLUSION	1	0	0	0
+108	congé	1	0	0	0
+108	prescrits	2	0	0	0
+109	opioïdes	1	1	1	1
+109	congé	1	0	0	0
+109	prescrits	1	1	1	1
+109	durée	1	0	0	0
+110	coronavirus	1	1	1	1
+110	maladie	1	1	1	1
+110	mondiale	1	1	1	1
+110	publique	1	1	1	1
+110	santé	1	1	1	1
+110	crise	1	1	1	1
+110	préexistantes	1	1	1	1
+110	pathologies	1	0	0	0
+111	cardiovasculaires	1	1	1	1
+111	maladies	1	1	1	1
+111	MCV	2	2	2	2
+111	décès	1	1	1	1
+111	risque	1	1	1	1
+111	facteurs	1	1	1	1
+111	modifiables	1	1	1	1
+111	physique	1	1	1	1
+111	sédentaire	1	1	1	1
+111	comportement	1	1	1	1
+111	obésité	1	1	1	1
+112	coronavirus	1	1	1	1
+112	gouvernements	1	1	1	1
+112	mis	1	1	1	1
+112	restrictions	1	1	1	1
+112	recommandé	1	1	1	1
+112	rester	1	1	1	1
+112	maison	1	1	1	1
+112	réduire	1	1	1	1
+112	sociaux	1	1	1	1
+112	contacts	1	1	1	1
+112	rassemblements	1	1	1	1
+113	publique	1	1	1	1
+113	santé	1	1	1	1
+113	négatives	1	1	1	1
+113	sanitaires	1	1	1	1
+113	conséquences	1	1	1	1
+113	heures	1	1	1	1
+113	déplacement	1	1	1	1
+114	étude	1	0	0	0
+114	sédentarité	1	1	1	1
+114	temps	1	0	0	0
+114	sommeil	1	1	1	1
+114	physique	1	1	1	1
+114	activité	1	1	1	1
+114	MCV	1	1	1	1
+115	adultes	1	1	1	1
+115	MCV	1	0	0	0
+115	réduire	1	1	1	1
+115	sédentarité	1	1	1	1
+115	volontaire	1	0	0	0
+115	temps	1	1	1	1
+115	augmenter	1	1	1	1
+115	activité	1	0	0	0
+115	optimales	1	1	1	1
+115	sommeil	1	1	1	1
+115	habitudes	1	1	1	1
+115	maison	1	1	1	1
+115	respectant	1	1	1	1
+115	sanitaires	1	0	0	0
+115	restrictions	1	1	1	1
+116	recommandations	1	1	1	1
+116	autosurveillance	2	1	1	1
+116	temps	1	1	1	1
+116	pratique	1	0	0	0
+116	jours	2	2	2	2
+116	faible	1	1	1	1
+116	exercice	2	2	2	2
+116	capacité	2	2	2	2
+116	barème	1	0	0	0
+116	portatifs	1	0	0	0
+116	dispositifs	1	0	0	0
+116	réguliers	1	0	0	0
+116	sommeil	1	1	1	1
+116	horaires	1	0	0	0
+117	cliniciens	1	1	1	1
+117	communication	1	1	1	1
+117	limiter	1	1	1	1
+117	prolongée	1	0	0	0
+117	sédentarité	1	1	1	1
+117	temps	1	1	1	1
+117	physique	1	1	1	1
+117	activité	1	1	1	1
+117	exercice	1	1	1	1
+117	optimal	1	1	1	1
+117	sommeil	1	1	1	1
+117	associée	1	0	0	0
+117	préconisation	1	0	0	0
+117	compréhensibles	1	1	1	1
+117	pratiques	1	1	1	1
+117	conseils	1	1	1	1
+117	MCV	1	1	1	1
+117	posés	1	1	1	1
+117	pandémie	1	1	1	1
+118	intraveineuse	1	1	1	1
+118	IV	1	1	1	1
+118	fer	1	1	1	1
+118	érythropoïétine	1	1	1	1
+118	stimulation	1	0	0	0
+118	agents	1	1	1	1
+118	ASE	1	1	1	1
+118	traitement	1	0	0	0
+118	anémie	1	1	1	1
+118	patients	2	2	2	2
+118	hémodialyse	2	2	2	2
+118	médicaments	1	1	1	1
+118	coûteux	1	0	0	0
+118	programs	1	0	0	0
+119	études	1	0	0	0
+119	dose	1	1	1	1
+119	élevée	1	0	0	0
+119	IV	1	1	1	1
+119	fer	1	1	1	1
+119	protocole	1	1	1	1
+119	ASE	1	1	1	1
+119	utilization	1	0	0	0
+119	améliorait	1	0	0	0
+119	cardiovasculaires	1	1	1	1
+119	résultats	1	1	1	1
+120	coûts	1	0	0	0
+120	mise	1	1	1	1
+120	œuvre	1	1	1	1
+120	protocole	1	1	1	1
+120	canadien	1	0	0	0
+120	public	1	0	0	0
+121	objectif	1	1	1	1
+121	estimer	1	1	1	1
+121	coûts	1	1	1	1
+121	dose	2	2	2	2
+121	IV	2	2	2	2
+121	fer	2	2	2	2
+121	protocole	1	1	1	1
+121	canadien	1	1	1	1
+121	hémodialyse	1	1	1	1
+121	faible	1	1	1	1
+121	réactive	1	0	0	0
+121	stratégie	1	1	1	1
+122	estimer	1	1	1	1
+122	réduction	1	1	1	1
+122	ASE	1	1	1	1
+122	coûts	1	1	1	1
+122	neutralité	1	1	1	1
+122	dose	1	1	1	1
+122	élevée	1	0	0	0
+122	IV	1	1	1	1
+122	fer	1	1	1	1
+122	protocole	1	1	1	1
+123	étude	1	1	1	1
+123	IV	1	1	1	1
+123	fer	1	1	1	1
+123	ASE	1	1	1	1
+123	régional	1	1	1	1
+123	hémodialyse	1	1	1	1
+123	program	1	0	0	0
+123	changements	1	1	1	1
+123	médicaments	1	1	1	1
+123	utilization	1	0	0	0
+123	calculés	1	1	1	1
+123	effets	1	1	1	1
+123	publiées	1	1	1	1
+123	données	1	1	1	1
+124	données	1	1	1	1
+124	qualité	1	1	1	1
+124	régional	1	0	0	0
+124	anémie	1	1	1	1
+124	gestion	1	1	1	1
+124	médicaments	1	1	1	1
+124	utilization	1	0	0	0
+124	coûts	1	1	1	1
+124	différences	1	1	1	1
+124	modélisation	1	1	1	1
+124	conditions	1	1	1	1
+125	adultes	1	1	1	1
+125	hospitalier	1	1	1	1
+125	hémodialyse	2	1	1	1
+125	Alberta	1	1	1	1
+125	program	1	0	0	0
+126	données	1	1	1	1
+126	patients	1	1	1	1
+127	mensuelles	1	1	1	1
+127	IV	1	1	1	1
+127	fer	1	1	1	1
+127	ASE	1	1	1	1
+127	doses	1	1	1	1
+127	audit	1	1	1	1
+127	données	1	1	1	1
+127	électronique	1	1	1	1
+127	médical	1	1	1	1
+128	coûts	1	1	1	1
+128	province	1	0	0	0
+128	négociés	1	1	1	1
+128	médicaments	1	1	1	1
+128	prix	1	1	1	1
+129	IV	1	1	1	1
+129	fer	1	1	1	1
+129	érythropoïétine	1	1	1	1
+129	posologies	1	0	0	0
+129	agrégées	1	0	0	0
+129	hémodialyse	1	1	1	1
+130	résultats	1	1	1	1
+130	PIVOTAL	1	1	1	1
+130	essai	1	1	1	1
+130	estimer	1	1	1	1
+130	augmentation	1	1	1	1
+130	IV	2	2	2	2
+130	fer	2	2	2	2
+130	dose	3	3	3	3
+130	réduction	1	1	1	1
+130	ASE	1	1	1	1
+130	élevée	1	0	0	0
+130	protocole	1	1	1	1
+131	IV	1	1	1	1
+131	fer	1	1	1	1
+131	ASE	1	0	0	0
+131	maintenue	1	1	1	1
+131	coûts	1	0	0	0
+131	modèle	1	1	1	1
+132	médicaments	1	1	1	1
+132	agrégés	1	0	0	0
+132	hémodialyse	1	1	1	1
+132	unité	2	2	2	2
+132	coûts	3	3	3	3
+132	estimer	1	1	1	1
+132	patient	1	1	1	1
+133	sensibilité	1	1	1	1
+133	analyses	1	1	1	1
+133	modèles	2	2	2	2
+133	IV	1	1	1	1
+133	fer	1	1	1	1
+133	saccharose	1	1	1	1
+133	utilization	1	0	0	0
+133	hémodialyse	1	1	1	1
+133	hospitalières	1	0	0	0
+133	unités	1	1	1	1
+134	calculé	1	1	1	1
+134	seuil	1	1	1	1
+134	réduction	1	1	1	1
+134	coûts	1	1	1	1
+134	neutralité	1	1	1	1
+135	fer	1	1	1	1
+135	ASE	1	1	1	1
+135	utilization	1	0	0	0
+135	adultes	1	1	1	1
+135	HD	1	1	1	1
+135	mg	3	2	2	2
+135	patient	1	1	1	1
+135	mois	2	1	1	1
+135	IC	2	2	2	2
+135	UI	2	2	2	2
+135	pt	1	0	0	0
+136	fer	1	1	1	1
+136	IC	1	1	1	1
+137	comparaison	1	1	1	1
+137	résultats	1	1	1	1
+137	PIVOTAL	1	0	0	0
+137	essai	1	1	1	1
+137	dose	1	1	1	1
+137	élevée	1	0	0	0
+137	IV	2	2	2	2
+137	fer	2	2	2	2
+137	scénario	1	1	1	1
+137	mg	2	2	2	2
+137	pt	4	1	1	1
+137	mois	6	1	1	1
+137	IC	4	4	4	4
+137	réduction	1	1	1	1
+137	moyenne	2	2	2	2
+137	UI	2	2	2	2
+137	économie	2	2	2	2
+138	sensibilité	1	1	1	1
+138	analyses	1	1	1	1
+138	conditions	1	1	1	1
+138	économies	1	1	1	1
+139	dose	2	2	2	2
+139	réduction	1	1	1	1
+139	ASE	1	1	1	1
+139	coûts	1	1	1	1
+139	neutralité	1	1	1	1
+139	élevée	1	0	0	0
+139	IV	1	1	1	1
+139	fer	1	1	1	1
+139	protocole	1	1	1	1
+140	étude	1	1	1	1
+140	données	1	1	1	1
+140	randomisé	1	1	1	1
+140	essai	1	1	1	1
+140	estimer	1	1	1	1
+140	coûts	1	1	1	1
+140	actualisée	1	1	1	1
+140	utilization	1	0	0	0
+141	modèles	1	1	1	1
+141	réductions	1	1	1	1
+141	transfusions	1	1	1	1
+141	hospitalisations	1	1	1	1
+141	découler	1	0	0	0
+141	dose	1	1	1	1
+141	élevée	1	0	0	0
+141	IV	1	1	1	1
+141	fer	1	1	1	1
+141	protocole	1	1	1	1
+142	coûts	2	1	1	1
+142	modélisation	1	1	1	1
+142	dose	1	1	1	1
+142	élevée	1	0	0	0
+142	IV	1	1	1	1
+142	fer	1	1	1	1
+142	protocole	1	1	1	1
+142	canadien	1	1	1	1
+142	régional	1	1	1	1
+143	programs	1	0	0	0
+143	mettent	1	0	0	0
+143	protocole	2	2	2	2
+143	surveiller	1	1	1	1
+143	IV	1	1	1	1
+143	fer	1	1	1	1
+143	EPO	1	1	1	1
+143	essai	1	1	1	1
+143	réel	1	1	1	1
+143	contexte	1	1	1	1
+143	coûts	1	1	1	1
+144	Adaptation	1	0	0	0
+144	éthique	1	1	1	1
+144	examen	1	1	1	1
+144	COVID-19	1	1	1	1
+144	recherche	1	1	1	1
+144	examinateurs	1	1	1	1
+144	points	1	1	1	1
+144	Pakistan	1	1	1	1
+145	recherche	2	2	2	2
+145	éthique	1	1	1	1
+145	comités	1	1	1	1
+145	CER	1	1	1	1
+145	monde	1	1	1	1
+145	réponses	1	1	1	1
+145	examiner	1	0	0	0
+145	propositions	1	1	1	1
+145	COVID-19	1	1	1	1
+145	pandémie	1	1	1	1
+146	CER	1	0	0	0
+146	national	1	1	1	1
+146	bioéthique	1	1	1	1
+146	Comité	1	1	1	1
+146	CNB	1	0	0	0
+146	Pakistan	1	1	1	1
+147	propositions	1	1	1	1
+147	CNB	1	0	0	0
+147	examinateurs	1	1	1	1
+147	étudié	1	0	0	0
+147	COVID-19	1	1	1	1
+147	recherche	1	1	1	1
+148	transversale	1	1	1	1
+148	étude	1	1	1	1
+148	méthodes	1	1	1	1
+148	données	1	1	1	1
+148	collecte	1	1	1	1
+148	démographique	1	1	1	1
+148	questionnaire	1	1	1	1
+148	rempli	1	1	1	1
+148	permanents	1	1	1	1
+148	membres	1	1	1	1
+148	cooptés	1	1	1	1
+148	examinateurs	1	1	1	1
+148	qualitatifs	1	1	1	1
+148	approfondis	1	1	1	1
+148	entretiens	1	1	1	1
+148	groupes	1	1	1	1
+148	documentaire	1	0	0	0
+148	examen	1	1	1	1
+148	COVID-19	1	1	1	1
+148	recherche	1	1	1	1
+148	propositions	1	1	1	1
+149	permanents	1	1	1	1
+149	membres	2	2	2	2
+149	cooptés	1	1	1	1
+150	système	1	1	1	1
+150	examen	2	1	1	1
+150	heures	1	1	1	1
+150	proposition	1	1	1	1
+151	comité	1	0	1	1
+151	examiné	1	1	1	1
+151	projets	1	1	1	1
+151	mois	1	1	1	1
+152	participants	1	1	1	1
+152	forts	1	1	1	1
+152	système	1	1	1	1
+152	introduction	1	1	1	1
+152	ligne	1	1	1	1
+152	discussions	1	1	1	1
+152	Zoom	1	1	1	1
+152	présence	1	1	1	1
+152	cooptés	1	1	1	1
+152	membres	1	1	1	1
+152	apprentissage	1	1	1	1
+152	possibilités	1	0	0	0
+152	juniors	1	1	1	1
+153	CER	1	0	0	0
+153	système	1	1	1	1
+153	CNB	1	0	0	0
+154	répondants	1	1	1	1
+154	difficulté	1	1	1	1
+154	système	1	1	1	1
+154	délais	1	1	1	1
+154	examen	1	1	1	1
+154	qualité	1	1	1	1
+155	scientifique	1	1	1	1
+155	qualité	1	1	1	1
+155	propositions	1	1	1	1
+155	externes	1	1	1	1
+155	pressions	1	1	1	1
+155	rapide	1	1	1	1
+155	approbation	1	1	1	1
+155	examinateurs	1	1	1	1
+155	frustration	1	0	0	0
+156	système	1	1	1	1
+156	publique	1	1	1	1
+156	santé	1	1	1	1
+156	situation	1	0	0	0
+157	adaptation	1	1	1	1
+157	éthique	1	1	1	1
+157	examen	1	1	1	1
+157	indispensable	1	0	0	0
+157	urgence	1	1	1	1
+157	directives	1	1	1	1
+157	modifiées	1	1	1	1
+160	alimentaire	1	0	0	0
+160	régime	2	0	0	0
+160	qualité	2	1	1	1
+160	prédictive	1	0	0	0
+162	utilisant	1	0	0	0
+163	échantillon	1	0	0	0
+163	représentatif	1	0	0	0
+163	canadienne	1	0	0	0
+163	population	1	0	0	0
+163	enquêtes	1	0	1	1
+163	réserves	1	0	0	0
+164	rappels	1	0	0	0
+164	valeurs	1	0	0	0
+164	population	1	1	1	1
+165	alimentaire	1	0	0	0
+165	découvrir	1	0	0	0
+165	linéaire	1	0	0	0
+165	ajustements	1	0	0	0
+165	ménages	1	0	0	0
+165	temps	1	0	0	0
+166	RéSULTATS	1	0	0	0
+168	qualité	1	0	0	0
+168	adultes	1	0	0	0
+169	provenant	1	0	0	0
+169	énergie	1	0	0	0
+170	CONCLUSION	1	0	0	0
+172	alimentaire	1	0	0	0
+172	populations	1	1	1	1
+173	alimentaire	1	1	1	1
+173	insécurité	1	1	1	1
+173	autochtones	1	1	1	1
+173	accentuent	1	0	0	0
+173	régime	1	0	0	0
+173	qualité	1	1	1	1
+174	variable	1	0	0	0
+174	taux	1	1	1	1
+174	prostate	2	1	1	1
+174	biopsie	1	0	0	0
+174	inefficacité	2	1	1	1
+175	fardeau	1	1	1	1
+175	prédicteurs	1	1	1	1
+175	potentiels	1	1	1	1
+175	morbidité	1	1	1	1
+175	africains	1	1	1	1
+175	patients	1	1	1	1
+176	étude	1	1	1	1
+176	évaluer	1	1	1	1
+176	incidence	1	1	1	1
+176	histologiques	1	1	1	1
+176	facteurs	1	1	1	1
+176	fonction	1	1	1	1
+176	patients	1	1	1	1
+176	transrectale	1	1	1	1
+176	prostate	1	1	1	1
+176	biopsie	1	1	1	1
+176	africaine	1	1	1	1
+176	population	1	1	1	1
+177	observationnelle	1	1	1	1
+177	cohorte	1	1	1	1
+177	étude	1	1	1	1
+177	adultes	1	1	1	1
+177	ans	1	1	1	1
+177	programmés	1	0	0	0
+177	transrectale	1	1	1	1
+177	prostate	1	1	1	1
+177	biopsie	1	1	1	1
+178	neurologiques	1	1	1	1
+178	drogues	1	0	0	0
+178	miction	1	1	1	1
+178	exclus	1	1	1	1
+178	recherche	1	1	1	1
+179	données	1	1	1	1
+179	démographiques	1	1	1	1
+179	caractéristiques	1	1	1	1
+179	patients	1	1	1	1
+179	recueillies	1	1	1	1
+180	uroflowmétrie	1	0	0	0
+180	urinaire	1	1	1	1
+180	débit	1	1	1	1
+180	patients	1	1	1	1
+180	jours	1	1	1	1
+180	intervention	1	0	0	0
+181	prostate	1	1	1	1
+181	volume	1	1	1	1
+181	présence	1	1	1	1
+181	cliniques	2	1	1	1
+181	histologiques	1	1	1	1
+181	risque	2	1	1	1
+181	facteurs	2	1	1	1
+182	présence	1	1	1	1
+182	liées	1	1	1	1
+182	saignement	1	1	1	1
+182	biopsie	1	1	1	1
+182	complications	1	1	1	1
+183	statistique	1	1	1	1
+183	analyse	1	1	1	1
+183	SPSS	1	1	1	1
+183	valeur	1	1	1	1
+183	p	1	1	1	1
+183	significative	1	1	1	1
+184	insuffisance	1	0	0	0
+184	mictionnelle	1	1	1	1
+184	patients	1	1	1	1
+184	majorité	1	1	1	1
+184	diminution	1	1	1	1
+184	jour	1	1	1	1
+184	débit	1	1	1	1
+184	valeurs	1	1	1	1
+185	post-biopsie	1	1	1	1
+185	hématurie	1	1	1	1
+185	population	1	1	1	1
+186	présence	1	1	1	1
+186	hématurie	1	1	1	1
+186	sanguins	1	1	1	1
+186	caillots	1	1	1	1
+186	associée	1	1	1	1
+186	risque	1	1	1	1
+186	inefficacité	1	1	1	1
+186	procédure	1	1	1	1
+187	patients	1	1	1	1
+187	prostate	1	1	1	1
+187	biopsie	1	0	0	0
+187	insuffisance	1	0	0	0
+188	sanguins	1	1	1	1
+188	caillots	1	1	1	1
+188	associée	1	1	1	1
+188	apparition	1	0	0	0
+188	morbidité	1	1	1	1
+189	Mots-clés	1	0	0	0
+190	bas	1	0	0	0
+190	urinaire	2	1	1	1
+190	prostate	1	1	1	1
+190	biopsie	1	1	1	1
+190	risque	1	1	1	1
+190	facteurs	1	0	0	0
+190	rétention	1	1	1	1
+191	septique	1	1	1	1
+191	arthrite	1	1	1	1
+191	médicale	1	1	1	1
+191	urgence	1	1	1	1
+192	maladie	1	1	1	1
+192	bactérienne	1	1	1	1
+192	colonisation	1	1	1	1
+192	morbidité	1	1	1	1
+192	mortalité	1	1	1	1
+192	coûteux	1	1	1	1
+192	traitement	1	1	1	1
+193	antimicrobiennes	1	1	1	1
+193	régénératives	1	1	1	1
+193	thérapies	1	1	1	1
+193	stromales	1	1	1	1
+193	cellules	1	1	1	1
+193	plaquettaires	1	1	1	1
+193	produits	1	1	1	1
+193	humaine	1	1	1	1
+193	médecine	1	1	1	1
+194	études	1	1	1	1
+194	espèces	1	1	1	1
+194	résultats	1	1	1	1
+195	étude	1	1	1	1
+195	évaluer	1	1	1	1
+195	bactérienne	1	1	1	1
+195	suppression	1	1	1	1
+195	équin	1	1	1	1
+195	plaquettaire	1	1	1	1
+195	lysat	1	1	1	1
+195	EPL	2	2	2	2
+195	adipeuses	1	0	0	0
+195	stromales	1	1	1	1
+195	mésenchymateuses	1	1	1	1
+195	cellules	1	1	1	1
+195	ASC	1	1	1	1
+195	produits	1	1	1	1
+195	inhiberaient	1	1	1	1
+195	croissance	1	1	1	1
+195	pool	1	0	0	0
+195	sang	1	1	1	1
+195	chevaux	1	1	1	1
+195	production	1	1	1	1
+196	mésenchymateuses	1	1	1	1
+196	stromales	1	1	1	1
+196	cellules	1	1	1	1
+196	isolées	1	1	1	1
+196	adipeux	1	1	1	1
+196	tissu	1	1	1	1
+196	prélevé	1	1	1	1
+196	région	1	1	1	1
+196	chevaux	1	1	1	1
+197	étude	1	1	1	1
+197	traitement	1	1	1	1
+197	groupes	1	1	1	1
+197	EPL	1	1	1	1
+197	ASC	1	1	1	1
+197	témoin	1	1	1	1
+197	incomplets	1	0	0	0
+197	équilibrés	1	0	0	0
+197	blocs	1	0	0	0
+197	design	1	0	0	0
+197	répétées	1	1	1	1
+197	mesures	1	1	1	1
+198	optique	1	1	1	1
+198	densité	1	1	1	1
+198	lectures	1	1	1	1
+198	colonie	1	1	1	1
+198	calculées	1	1	1	1
+199	bactérienne	1	1	1	1
+199	croissance	1	1	1	1
+199	moments	1	1	1	1
+199	traitements	1	0	0	0
+199	hypothèse	1	1	1	1
+200	accrue	1	1	1	1
+200	bactérienne	1	1	1	1
+200	croissance	1	1	1	1
+200	groupe	1	1	1	1
+200	différence	1	1	1	1
+200	traitement	1	0	0	0
+200	hypothèse	1	1	1	1
+201	antimicrobiens	1	1	1	1
+201	EPL	1	1	1	1
+201	ASC	1	1	1	1
+201	étude	1	1	1	1
+202	ASC	1	1	1	1
+202	effet	1	1	1	1
+202	diminution	1	1	1	1
+202	croissance	1	1	1	1
+202	études	1	1	1	1
+202	effets	1	1	1	1
+202	Gram	1	1	1	1
+202	positif	1	0	0	0
+202	bactéries	1	1	1	1
+203	professeure	1	0	0	0
+203	Randi	1	1	1	1
+203	Haaland	1	1	1	1
+203	norvégienne	1	0	0	0
+203	archéologue	1	1	1	1
+203	antropologique	1	0	0	0
+203	approche	1	1	1	1
+203	mondiaux	1	1	1	1
+203	recherche	1	1	1	1
+203	intérêts	1	1	1	1
+204	conversation	1	1	1	1
+204	Randi	1	1	1	1
+204	Haaland	1	1	1	1
+204	extraordinaire	1	1	1	1
+204	multiforme	1	1	1	1
+204	engagement	1	1	1	1
+204	lʼarchéologie	1	0	0	0
+204	ans	1	1	1	1
+204	formatrice	1	1	1	1
+204	expérience	1	1	1	1
+204	jeune	1	1	1	1
+204	femme	1	1	1	1
+204	Soudan	1	1	1	1
+204	milieu	1	1	1	1
+204	années	1	1	1	1
+204	recherches	1	0	0	0
+204	processuel	1	1	1	1
+204	post-processuel	1	0	0	0
+204	paradigmes	1	1	1	1
+204	capacités	1	1	1	1
+204	programmes	1	1	1	1
+204	initiés	1	1	1	1
+204	norvégienne	1	1	1	1
+204	développement	1	1	1	1
+204	coopération	1	1	1	1
+204	NORAD	1	1	1	1
+205	Randi	1	1	1	1
+205	unique	1	1	1	1
+205	voie	1	0	0	0
+205	lʼarchéologie	1	0	0	0
+206	entretien	1	1	1	1
+206	bonne	1	0	0	0
+206	voie	1	0	0	0
+206	nouvelle	1	1	1	1
+206	humain	1	1	1	1
+206	culture	1	1	1	1
+206	débuts	1	1	1	1
+206	production	1	1	1	1
+206	genre	1	1	1	1
+206	technologie	1	1	1	1
+209	régionales	1	0	0	0
+209	techniques	1	0	0	0
+209	douleur	1	1	1	1
+209	mammaire	1	0	0	0
+210	MéTHODE	1	0	0	0
+211	techniques	1	0	0	0
+212	critère	1	0	0	0
+212	évaluation	2	0	0	0
+212	échelle	1	0	0	0
+213	surface	1	0	0	0
+213	classement	1	0	0	0
+213	cotée	1	0	0	0
+214	aléatoires	1	0	0	0
+214	ICr	1	0	0	0
+214	tailles	1	0	0	0
+215	analyse	1	1	1	1
+215	consommation	1	0	0	0
+215	incidence	1	0	0	0
+216	RéSULTATS	1	0	0	0
+218	interventions	1	1	1	1
+218	heures	1	0	0	0
+219	estimée	1	0	0	0
+219	douleur	1	0	0	0
+219	scores	1	0	0	0
+219	continu	1	0	0	0
+219	paravertébral	1	1	1	1
+219	bloc	2	2	2	2
+219	serratus	1	0	0	0
+219	antérieur	1	0	0	0
+219	plan	1	1	1	1
+219	placebo	1	1	1	1
+220	combinant	1	0	0	0
+220	placebo	1	1	1	1
+220	techniques	1	0	0	0
+220	analgésie	1	0	0	0
+220	grappes	1	0	0	0
+220	douleur	1	1	1	1
+220	scores	1	1	1	1
+221	plaie	2	0	0	0
+221	nausées	1	0	0	0
+221	infiltration	1	0	0	0
+221	perfusion	1	0	0	0
+221	interventions	1	0	0	0
+221	efficaces	1	1	1	1
+221	vomissements	1	0	0	0
+221	postopératoires	1	0	0	0
+222	CONCLUSION	1	0	0	0
+224	probantes	1	0	0	0
+224	fiabilité	1	0	0	0
+224	données	1	0	0	0
+225	études	1	0	0	0
+226	études	1	1	1	1
+226	comparant	1	0	0	0
+226	clinique	1	0	0	0
+226	intervention	1	0	0	0
+227	Enregistrement	1	0	0	0
+227	étude	1	0	0	0
+228	enregistrée	1	0	0	0
+229	rétroaction	1	1	1	1
+229	performance	1	0	0	0
+229	chirurgicale	1	1	1	1
+229	formation	1	1	1	1
+230	vidéos	1	0	0	0
+230	visionnement	1	0	0	0
+230	moyen	1	0	0	0
+230	chirurgie	1	1	1	1
+230	résidents	1	1	1	1
+231	recherches	1	1	1	1
+231	méthode	1	1	1	1
+232	étude	1	1	1	1
+232	pédagogiques	1	1	1	1
+232	interactions	1	1	1	1
+232	salle	1	1	1	1
+232	vidéos	1	0	0	0
+232	postopératoire	1	1	1	1
+232	analyse	1	0	0	0
+232	obstétrique	1	1	1	1
+232	gynécologie	1	1	1	1
+232	formation	1	0	0	0
+233	cas	1	1	1	1
+233	étude	1	1	1	1
+234	résidents	1	1	1	1
+234	chirurgiens	1	1	1	1
+234	laparoscopiques	1	1	1	1
+234	interventions	1	0	0	0
+235	peropératoires	1	1	1	1
+235	vidéos	1	0	0	0
+235	dialogues	1	1	1	1
+235	enregistrés	1	1	1	1
+235	analysés	1	1	1	1
+235	codes	3	3	3	3
+235	tirés	1	0	0	0
+235	littérature	1	1	1	1
+235	données	1	1	1	1
+235	analyse	1	1	1	1
+236	interactions	1	1	1	1
+236	recensées	1	0	0	0
+236	dialogue	1	1	1	1
+237	rétroactions	1	0	0	0
+237	didactiques	1	1	1	1
+237	résident	1	1	1	1
+237	instrument	1	1	1	1
+237	tâche	1	1	1	1
+238	déductive	1	1	1	1
+238	analyse	1	1	1	1
+238	postopératoires	1	0	0	0
+238	vidéos	1	0	0	0
+238	interactions	1	1	1	1
+238	minutes	1	1	1	1
+239	interactions	1	0	0	0
+239	didactiques	1	0	0	0
+239	enseignement	1	1	1	1
+239	composante	1	1	1	1
+240	avéré	1	0	0	0
+240	déductive	1	1	1	1
+240	analyse	1	1	1	1
+240	codes	1	1	1	1
+240	nature	1	1	1	1
+240	vidéos	1	0	0	0
+240	visionnement	1	0	0	0
+241	herméneutique	1	1	1	1
+241	phénoménologique	1	1	1	1
+241	analyse	1	1	1	1
+241	dialogiques	1	1	1	1
+241	visionnement	1	0	0	0
+241	séances	1	0	0	0
+241	résidents	1	1	1	1
+241	questions	1	1	1	1
+241	réflexions	1	0	0	0
+242	étude	1	1	1	1
+242	vidéos	1	0	0	0
+242	visionnement	1	0	0	0
+242	favorise	1	0	0	0
+242	collaboratif	1	1	1	1
+242	efficacité	1	0	0	0
+242	apprentissage	1	1	1	1
+243	Déterminants	1	1	1	1
+243	enfants	1	1	1	1
+243	ans	1	1	1	1
+243	Bangladesh	1	1	1	1
+243	Costa	1	1	1	1
+243	Rica	1	1	1	1
+243	Ghana	1	1	1	1
+243	comparative	1	1	1	1
+244	développement	1	1	1	1
+244	facteur	1	1	1	1
+244	influence	1	0	0	0
+244	santé	1	1	1	1
+244	bien-être	1	1	1	1
+244	âge	1	0	0	0
+245	influence	1	1	1	1
+245	sociodémographiques	1	1	1	1
+245	enfants	1	1	1	1
+245	ans	1	1	1	1
+246	analyse	1	1	1	1
+246	transversales	1	1	1	1
+246	enquêtes	1	1	1	1
+246	données	1	1	1	1
+246	multiples	1	1	1	1
+246	indicateurs	1	1	1	1
+246	grappes	1	1	1	1
+246	Bangladesh	1	1	1	1
+246	Ghana	1	1	1	1
+246	Costa	1	1	1	1
+246	Rica	1	1	1	1
+247	bivariée	1	1	1	1
+247	analyse	2	2	2	2
+247	binaire	1	1	1	1
+247	logistique	1	1	1	1
+247	régression	1	1	1	1
+247	modèle	1	1	1	1
+247	multivariée	1	1	1	1
+247	pays	1	1	1	1
+248	statistiques	1	1	1	1
+248	analyses	1	1	1	1
+248	IBM	1	1	1	1
+248	SPSS	1	1	1	1
+248	version	2	2	2	2
+248	R	1	1	1	1
+249	âge	1	1	1	1
+249	sexe	1	1	1	1
+249	mère	2	2	2	2
+249	éducation	1	1	1	1
+249	économique	1	1	1	1
+249	situation	1	0	0	0
+249	nutritionnel	1	1	1	1
+249	état	1	1	1	1
+249	lecture	1	1	1	1
+249	enfants	1	1	1	1
+249	livres	1	1	1	1
+249	fonctionnelles	1	1	1	1
+249	difficultés	1	1	1	1
+249	facteurs	1	0	0	0
+250	enfants	1	1	1	1
+250	âgés	2	1	1	1
+250	mois	2	2	2	2
+250	chances	1	1	1	1
+250	développement	1	1	1	1
+250	filles	1	1	1	1
+250	Bangladesh	1	1	1	1
+250	Costa	1	1	1	1
+250	Rica	1	1	1	1
+250	Ghana	1	1	1	1
+251	enfants	2	2	2	2
+251	chances	1	1	1	1
+251	développement	1	1	1	1
+251	rurales	1	1	1	1
+251	Costa	1	1	1	1
+251	Rica	1	1	1	1
+251	Ghana	1	1	1	1
+252	gouvernements	1	1	1	1
+252	améliorer	1	1	1	1
+252	enfants	1	1	1	1
+252	développement	1	1	1	1
+252	bien-être	1	1	1	1
+252	pays	1	1	1	1
+252	éducation	1	1	1	1
+252	économiques	1	1	1	1
+252	conditions	1	1	1	1
+252	équilibrée	1	1	1	1
+252	nutrition	1	0	0	0
+253	efficacité	1	1	1	1
+253	intergénérationnel	1	1	1	1
+253	apprentissage	1	1	1	1
+253	COVID-19	1	1	1	1
+253	pandémie	1	1	1	1
+253	résultats	1	0	0	0
+253	Chine	1	1	1	1
+254	COVID-19	1	1	1	1
+254	pandémie	1	1	1	1
+254	grands	1	1	1	1
+254	parents	1	1	1	1
+254	Chine	1	1	1	1
+254	temps	1	1	1	1
+254	petits-enfants	1	1	1	1
+255	enfants	1	1	1	1
+255	confinement	1	1	1	1
+255	étendu	1	0	0	0
+255	tâches	1	1	1	1
+255	petits-enfants	1	1	1	1
+255	ligne	1	1	1	1
+255	apprentissage	1	1	1	1
+255	scolaire	1	1	1	1
+256	petits-enfants	1	0	0	0
+257	période	1	1	1	1
+257	maison	1	0	0	0
+257	chinois	1	0	0	0
+257	projet	1	1	1	1
+257	SSVLP	1	1	1	1
+257	SMILE	1	1	1	1
+257	ECNU	1	1	1	1
+257	mois	1	1	1	1
+257	étudié	1	1	1	1
+257	intergénérationnel	1	1	1	1
+257	apprentissage	1	1	1	1
+257	grands	1	1	1	1
+257	parents	1	1	1	1
+257	grandparents	1	0	0	0
+257	petits-enfants	1	1	1	1
+257	IL	1	1	1	1
+257	GP&GC	1	1	1	1
+257	primaires	1	1	1	1
+257	écoles	1	1	1	1
+257	Chine	2	2	2	2
+258	pandémie	1	0	0	0
+258	prévention	1	1	1	1
+258	santé	1	1	1	1
+258	traditionnelle	1	1	1	1
+258	culture	1	1	1	1
+258	information	1	1	1	1
+259	auteurs	1	0	0	0
+259	enquête	1	1	1	1
+259	primaires	1	1	1	1
+259	écoles	1	1	1	1
+259	mis	1	1	1	1
+259	projet	1	1	1	1
+259	impact	1	1	1	1
+260	interviews	1	0	0	0
+260	enseignants	1	1	1	1
+260	familles	1	1	1	1
+260	petits-enfants	2	2	2	2
+260	âgés	2	2	2	2
+260	grands	3	3	3	3
+260	parents	3	3	3	3
+260	constats	1	0	0	0
+260	générations	1	1	1	1
+260	santé	1	1	1	1
+260	vie	2	2	2	2
+260	compétences	1	1	1	1
+260	valeurs	1	1	1	1
+260	vue	1	0	0	0
+260	comportements	1	1	1	1
+260	jeunes	1	0	0	0
+260	concept	1	1	1	1
+260	apprentissage	2	2	2	2
+260	liens	1	0	0	0
+263	COVID-19	1	1	1	1
+263	outil	1	0	0	0
+263	mortalité	1	0	0	0
+263	prise	1	0	0	0
+263	patients	1	0	0	0
+263	comparaisons	1	0	0	0
+264	MéTHODE	1	0	0	0
+266	généralisées	1	0	0	0
+266	équations	1	0	0	0
+266	estimation	1	0	0	0
+266	prédictives	1	0	0	0
+266	mortalité	1	0	0	0
+266	variables	1	0	0	0
+267	évaluation	1	0	0	0
+267	critère	1	0	0	0
+267	probabilité	2	0	0	0
+267	décès	2	0	0	0
+268	coefficients	1	0	0	0
+268	numérique	1	0	0	0
+269	RéSULTATS	1	0	0	0
+270	patients	1	0	0	0
+271	séjour	1	0	0	0
+273	mortalité	1	1	1	1
+274	clinique	1	0	0	0
+274	intervalle	1	0	0	0
+274	risque	1	0	0	0
+275	risque	1	1	1	1
+275	score	1	1	1	1
+275	rapport	1	0	0	0
+275	IC	1	1	1	1
+276	CONCLUSION	1	0	0	0
+278	validation	1	0	0	0
+280	dépistage	1	1	1	1
+280	hypercorticisme	1	0	0	0
+280	adrénocorticale	1	0	0	0
+280	adultes	1	1	1	1
+280	chiens	1	1	1	1
+280	dermatologique	1	1	1	1
+280	maladie	1	1	1	1
+280	suppression	1	1	1	1
+280	documentée	1	1	1	1
+280	corticostéroïdes	1	1	1	1
+280	auriculaires	1	0	0	0
+280	préparations	1	1	1	1
+281	suspension	1	1	1	1
+281	contenant	1	1	1	1
+281	florfénicol	1	1	1	1
+281	terbinafine	1	1	1	1
+281	mométasone	1	1	1	1
+281	furoate	1	1	1	1
+281	dure	1	1	1	1
+281	jours	1	1	1	1
+281	traiter	1	1	1	1
+281	canine	1	1	1	1
+281	otite	1	1	1	1
+281	OE	1	1	1	1
+282	médicament	1	1	1	1
+282	corticosurrénale	1	0	0	0
+282	suppression	1	1	1	1
+282	jour	1	1	1	1
+282	semaines	2	2	2	2
+283	HYPOTHÈSE	1	0	1	1
+283	OBJECTIFS	1	0	1	1
+284	étude	1	1	1	1
+284	florfénicol	1	1	1	1
+284	terbinafine	1	1	1	1
+284	mométasone	1	1	1	1
+284	furoate	1	1	1	1
+284	corticosurrénale	1	0	0	0
+284	suppression	1	1	1	1
+284	petite	1	1	1	1
+284	chiens	1	1	1	1
+284	bilatérale	1	1	1	1
+284	OE	1	1	1	1
+284	J28	1	1	1	1
+285	Animaux	1	0	0	0
+286	propriétaires	1	1	1	1
+286	chiens	1	1	1	1
+286	diagnostiqués	1	0	0	0
+286	non-liée	1	0	0	0
+286	Pseudomonas	1	1	1	1
+286	bilatérale	1	1	1	1
+286	OE	1	1	1	1
+287	MATÉRIELS	1	0	1	1
+287	MÉTHODES	1	0	1	1
+288	cortisol	1	1	1	1
+288	pré-	1	0	0	0
+288	post-corticotrope	1	0	0	0
+288	ACTH	1	1	1	1
+288	stimulation	1	1	1	1
+289	topique	1	1	1	1
+289	florfénicol	1	1	1	1
+289	terbinafine	1	1	1	1
+289	mométasone	1	1	1	1
+289	furoate	1	1	1	1
+289	oreilles	1	1	1	1
+290	chiens	1	1	1	1
+290	J28	1	1	1	1
+290	cortisol	1	1	1	1
+290	ACTH	1	1	1	1
+290	stimulation	1	1	1	1
+291	RÉSULTATS	1	0	1	1
+292	post-ACTH	1	1	1	1
+292	cortisol	1	1	1	1
+292	concentrations	1	1	1	1
+292	J28	1	1	1	1
+293	significative	1	1	1	1
+293	différence	1	1	1	1
+293	P	1	1	1	1
+293	post-ACTH	1	1	1	1
+293	cortisol	1	1	1	1
+293	concentrations	1	1	1	1
+293	J28	1	1	1	1
+294	Conclusions	1	1	1	1
+294	clinique	1	1	1	1
+294	pertinence	1	1	1	1
+295	résultats	1	1	1	1
+295	corticosurrénalienne	1	1	1	1
+295	suppression	1	1	1	1
+295	corticosurrénale	1	0	0	0
+295	fonction	1	1	1	1
+295	tests	1	1	1	1
+295	chiens	1	1	1	1
+295	traités	1	1	1	1
+295	florfénicol	1	1	1	1
+295	terbinafine	1	1	1	1
+295	mométasone	1	1	1	1
+295	furoate	1	1	1	1
+295	fabricant	1	1	1	1
+295	recommandations	1	1	1	1
+296	brachial	1	1	1	1
+296	plexus	1	1	1	1
+296	bloc	1	0	0	0
+296	BPB	1	1	1	1
+296	intervention	1	0	0	0
+296	utilisée	1	0	0	0
+296	chirurgiens	1	1	1	1
+296	membres	1	0	0	0
+296	opérations	1	0	0	0
+297	caractère	1	0	0	0
+297	avantages	1	1	1	1
+297	main	1	1	1	1
+297	chirurgies	1	0	0	0
+298	rétrospective	1	1	1	1
+298	analyse	1	0	0	0
+298	main	1	1	1	1
+298	période	1	1	1	1
+299	cas	2	2	2	2
+299	métacarpienne	1	1	1	1
+299	interne	1	0	0	0
+299	fixation	1	0	0	0
+299	pédiatriques	1	0	0	0
+299	patients	1	0	0	0
+299	interventions	1	1	1	1
+299	diminution	1	0	0	0
+300	paramétriques	1	1	1	1
+300	statistiques	1	1	1	1
+300	tests	1	1	1	1
+300	effectué	1	0	0	0
+301	cas	2	2	2	2
+301	générale	1	1	1	1
+301	anesthésie	1	1	1	1
+301	AG	1	1	1	1
+301	BPB	1	1	1	1
+301	extrait	1	0	0	0
+301	étude	1	1	1	1
+302	congé	1	0	0	0
+302	AG	1	0	0	0
+302	groupe	1	1	1	1
+302	minutes	2	2	2	2
+302	BPB	1	1	1	1
+303	AG	1	1	1	1
+303	patients	2	1	1	1
+303	analgésie	1	1	1	1
+303	BPB	1	1	1	1
+304	patients	2	1	1	1
+304	antiémétiques	1	0	0	0
+304	AG	1	0	0	0
+304	BPB	1	1	1	1
+304	groupes	1	1	1	1
+305	parentérale	1	0	0	0
+305	médication	1	0	0	0
+306	étude	1	1	1	1
+306	anesthétiques	1	0	0	0
+306	techniques	1	1	1	1
+306	main	1	1	1	1
+306	fractures	1	1	1	1
+306	publications	1	0	0	0
+306	efficaces	1	0	0	0
+306	méthodes	1	0	0	0
+306	anesthésie	1	1	1	1
+309	tentatives	1	0	0	0
+309	testostérone	2	1	1	1
+309	augmenter	1	0	0	0
+309	libération	1	0	0	0
+310	augmentation	1	0	0	0
+310	testostérone	1	1	1	1
+310	concentration	1	1	1	1
+310	entraînement	1	1	1	1
+311	adéquate	1	0	0	0
+311	sexuelle	1	1	1	1
+311	testostérone	1	1	1	1
+311	activité	1	1	1	1
+312	cinétique	1	1	1	1
+312	testostérone	2	1	1	1
+312	cortisol	1	1	1	1
+312	ratios	1	0	0	0
+312	masturbation	1	0	0	0
+312	examiner	1	0	0	0
+313	étude	1	1	1	1
+313	cinétique	1	1	1	1
+313	effets	1	0	0	0
+313	visuel	2	0	0	0
+313	masturbation	2	1	1	1
+315	résultats	1	0	1	1
+316	libre	1	1	1	1
+316	testostérone	1	1	1	1
+316	concentrations	1	1	1	1
+317	statistique	1	0	0	0
+317	changement	1	0	0	0
+317	libre	1	1	1	1
+317	testostérone	2	1	1	1
+317	cortisol	1	0	0	0
+317	ratios	1	0	0	0
+318	CONCLUSION	1	0	0	0
+319	ratios	1	0	0	0
+320	études	1	0	0	0
+320	échantillons	1	0	0	0
+321	sarcopénie	1	1	1	1
+321	liée	1	1	1	1
+321	âge	1	1	1	1
+321	perte	1	1	1	1
+321	muscles	1	0	0	0
+321	squelettiques	1	0	0	0
+321	masse	1	1	1	1
+321	fonction	1	1	1	1
+321	identifiée	1	1	1	1
+321	marqueur	1	1	1	1
+321	fragilité	1	1	1	1
+322	association	1	1	1	1
+322	sarcopénie	1	1	1	1
+322	indésirables	1	1	1	1
+322	événements	1	1	1	1
+322	cathéter	1	0	0	0
+322	aortique	1	1	1	1
+322	implantation	1	1	1	1
+322	IVAC	1	0	0	0
+323	rétrospective	1	1	1	1
+323	cohorte	1	1	1	1
+323	étude	1	1	1	1
+323	Toronto	1	1	1	1
+324	patients	1	1	1	1
+324	IVAC	1	0	0	0
+324	période	1	1	1	1
+324	préopératoire	1	1	1	1
+324	tomodensitométrie	1	1	1	1
+325	musculaire	1	0	0	0
+325	squelettique	1	1	1	1
+325	masse	1	0	0	0
+325	indice	1	1	1	1
+325	IMMS	1	0	0	0
+325	psoas	1	1	1	1
+325	L3	1	1	1	1
+325	vertèbre	1	0	0	0
+325	niveau	1	1	1	1
+325	taille	1	0	0	0
+326	mesures	1	1	1	1
+326	sarcopénie	1	1	1	1
+326	IMMS	3	0	0	0
+326	sexe	2	2	2	2
+326	médiane	1	1	1	1
+326	quartile	1	1	1	1
+326	calculées	1	0	0	0
+327	principal	1	1	1	1
+327	postopératoires	1	1	1	1
+327	indésirables	1	1	1	1
+327	événements	1	1	1	1
+327	composite	1	1	1	1
+327	hôpital	1	1	1	1
+327	mortalité	1	1	1	1
+327	morbidité	1	1	1	1
+327	cardiovasculaires	1	1	1	1
+327	pulmonaires	1	1	1	1
+327	neurologiques	1	1	1	1
+327	accès	1	1	1	1
+327	gastro-intestinales	1	1	1	1
+327	complications	1	1	1	1
+328	univariée	1	1	1	1
+328	multivariée	1	1	1	1
+328	logistiques	1	0	0	0
+328	régressions	1	0	0	0
+328	association	1	1	1	1
+328	sarcopénie	1	1	1	1
+328	indésirables	1	1	1	1
+328	événements	1	1	1	1
+329	patients	1	1	1	1
+329	âge	1	1	1	1
+329	ans	1	1	1	1
+330	comorbidité	1	1	1	1
+330	congestive	1	1	1	1
+330	cardiaque	1	1	1	1
+330	insuffisance	1	1	1	1
+331	indésirables	1	1	1	1
+331	événements	1	1	1	1
+331	patients	1	1	1	1
+332	univariée	1	1	1	1
+332	logistique	1	1	1	1
+332	régression	1	1	1	1
+332	postopératoires	1	1	1	1
+332	indésirables	1	1	1	1
+332	événements	1	1	1	1
+332	corrélation	1	0	0	0
+332	moyen	1	1	1	1
+332	IMMS	3	0	0	0
+332	intervalle	1	1	1	1
+332	rapport	1	1	1	1
+332	RC	3	0	0	0
+332	confiance	1	1	1	1
+332	IC	3	3	3	3
+332	sexe	2	1	1	1
+332	inférieur	1	1	1	1
+332	quartile	1	1	1	1
+333	multivariée	1	1	1	1
+333	analyse	1	1	1	1
+333	IMMS	1	0	0	0
+333	sexe	1	1	1	1
+333	inférieur	1	1	1	1
+333	quartile	1	1	1	1
+333	prédicteur	1	0	0	0
+333	indésirables	1	1	1	1
+333	événements	1	1	1	1
+333	RC	1	0	0	0
+333	IC	1	1	1	1
+334	sarcopénie	1	1	1	1
+334	radiologiques	1	1	1	1
+334	psoas	1	1	1	1
+334	mesures	1	1	1	1
+334	associée	1	1	1	1
+334	hôpital	1	1	1	1
+334	mortalité	1	1	1	1
+334	morbidité	1	1	1	1
+334	IVAC	1	0	0	0
+336	directives	1	0	0	0
+337	Première	1	0	0	0
+337	Nation	1	0	0	0
+337	décrire	1	0	0	0
+337	COVID-19	1	1	1	1
+337	publique	1	1	1	1
+337	santé	1	1	1	1
+337	consignes	1	0	0	0
+338	publique	1	1	1	1
+338	santé	1	1	1	1
+338	conseils	1	1	1	1
+340	sondage	1	0	0	0
+341	consignes	1	0	0	0
+341	sondage	1	1	1	1
+342	décrites	1	0	0	0
+343	RéSULTATS	1	0	0	0
+344	adultes	1	0	0	0
+345	difficultés	1	0	0	0
+345	emploi	1	0	0	0
+345	significatives	1	0	0	0
+346	difficile	1	0	0	0
+346	accéder	1	0	0	0
+346	procurer	1	0	0	0
+346	aliments	1	0	0	0
+347	revenus	1	0	0	0
+347	accès	1	1	1	1
+347	essentielles	1	0	0	0
+347	fournitures	1	0	0	0
+347	difficultés	1	0	0	0
+348	répondants	1	1	1	1
+348	consigne	1	0	0	0
+348	difficile	1	0	0	0
+348	mètres	1	0	0	0
+349	répondants	1	1	1	1
+349	priorité	1	0	0	0
+350	gens	1	0	0	0
+350	COVID-19	1	0	0	0
+351	CONCLUSION	1	0	0	0
+353	incidence	1	0	0	0
+353	électroniques	1	1	1	1
+353	nicotine	1	1	1	1
+353	inhalateurs	1	0	0	0
+353	santé	1	1	1	1
+353	coûts	1	1	1	1
+353	Canada	1	1	1	1
+353	effet	1	1	1	1
+353	tabagisme	2	1	1	1
+353	arrêt	1	0	0	0
+353	initiation	1	1	1	1
+353	taux	1	1	1	1
+354	genre	1	0	0	0
+354	Markov	1	1	1	1
+354	modèles	1	1	1	1
+354	estimer	1	1	1	1
+354	ajustées	1	1	1	1
+354	qualité	1	1	1	1
+354	années	2	2	2	2
+354	AVAQ	1	0	0	0
+354	liés	1	1	1	1
+354	tabagisme	2	1	1	1
+354	santé	2	2	2	2
+354	coûts	1	1	1	1
+354	cohortes	1	1	1	1
+354	garçons	1	0	0	0
+354	filles	1	0	0	0
+354	ans	1	1	1	1
+354	scénarios	1	1	1	1
+354	statu	1	1	1	1
+354	électroniques	3	0	0	0
+354	accessibles	3	0	0	0
+354	inhalateurs	3	0	0	0
+354	cessation	1	0	0	0
+354	soins	2	2	2	2
+354	fournisseur	1	1	1	1
+354	ordonnance	1	1	1	1
+354	tabagique	1	1	1	1
+355	analyse	1	1	1	1
+355	soins	1	1	1	1
+355	santé	1	1	1	1
+355	système	1	1	1	1
+356	résultats	1	1	1	1
+356	exprimés	1	1	1	1
+356	personnes	1	0	0	0
+356	Monte	1	1	1	1
+356	Carlo	1	1	1	1
+356	simulation	1	1	1	1
+356	itérations	1	0	0	0
+357	garçons	1	0	0	0
+357	ans	1	1	1	1
+357	AVAQ	1	0	0	0
+357	liés	1	1	1	1
+357	tabagisme	1	1	1	1
+357	santé	1	1	1	1
+357	coûts	1	1	1	1
+357	CA	3	0	0	0
+357	inhalateurs	3	0	0	0
+357	électroniques	3	0	0	0
+357	accessibles	3	0	0	0
+357	ordonnance	1	1	1	1
+358	filles	1	0	0	0
+358	vie	1	1	1	1
+358	années	1	1	1	1
+358	AVAQ	1	0	0	0
+358	liés	1	1	1	1
+358	tabagisme	1	1	1	1
+358	santé	1	1	1	1
+358	coûts	1	1	1	1
+358	inhalateurs	3	0	0	0
+358	électroniques	3	0	0	0
+358	CA	3	0	0	0
+358	accessibles	3	0	0	0
+358	nicotine	3	0	0	0
+358	ordonnance	1	1	1	1
+359	scénarios	1	0	0	0
+359	inhalateurs	1	0	0	0
+359	accessibles	2	0	0	0
+359	ordonnance	1	1	1	1
+359	statu	1	1	1	1
+360	résultats	1	1	1	1
+360	politique	1	1	1	1
+360	changement	1	1	1	1
+360	inhalateurs	1	0	0	0
+360	canadienne	1	1	1	1
+360	population	2	2	2	2
+360	ordonnance	1	1	1	1
+360	améliorer	1	0	0	0
+360	santé	2	2	2	2
+360	réduire	1	0	0	0
+360	coûts	1	1	1	1
+362	inférieure	1	1	1	1
+362	médicaments	1	1	1	1
+362	menace	1	1	1	1
+362	santé	1	1	1	1
+362	monde	1	1	1	1
+362	touchent	1	0	0	0
+362	pays	1	1	1	1
+362	faibles	1	1	1	1
+362	pharmaceutique	1	1	1	1
+362	mécanismes	1	1	1	1
+363	prescription	1	1	1	1
+363	médicaments	1	1	1	1
+363	événement	1	1	1	1
+363	médical	1	0	0	0
+363	praticien	1	1	1	1
+363	PM	1	0	0	0
+363	décideur	1	1	1	1
+363	patient	1	1	1	1
+365	étude	1	1	1	1
+365	identification	1	1	1	1
+365	utilisation	2	2	2	2
+365	obstacles	1	1	1	1
+365	point	1	1	1	1
+365	service	1	1	1	1
+365	contrefaçon	1	0	0	0
+365	médicaments	2	2	2	2
+365	technologies	1	1	1	1
+365	ACMT	1	1	1	1
+365	dangers	1	1	1	1
+365	préventives	1	1	1	1
+365	mesures	1	1	1	1
+365	inférieure	1	1	1	1
+365	médecins	1	0	0	0
+365	Abia	1	1	1	1
+365	État	1	1	1	1
+366	Méthodes	1	1	1	1
+367	transversale	1	1	1	1
+367	étude	1	1	1	1
+367	députés	1	1	1	1
+367	Abia	1	1	1	1
+367	État	1	1	1	1
+367	Nigeria	1	0	0	0
+368	données	1	1	1	1
+368	collectées	1	0	0	0
+368	auto-administré	1	1	1	1
+368	questionnaire	1	1	1	1
+368	permis	1	0	0	0
+368	informations	1	1	1	1
+368	identification	1	1	1	1
+368	utilisation	1	1	1	1
+368	ACMT	1	1	1	1
+368	obstacles	1	1	1	1
+369	moteurs	1	1	1	1
+369	dangers	1	1	1	1
+369	préventives	1	0	0	0
+369	mesures	1	1	1	1
+369	médicaments	1	1	1	1
+370	RéSULTATS	1	0	1	1
+371	répondants	1	1	1	1
+371	ans	1	1	1	1
+372	hommes	1	1	1	1
+373	personnes	1	0	0	0
+373	lieu	1	0	0	0
+373	soins	1	0	0	0
+373	ACMT	1	1	1	1
+373	identifiés	1	1	1	1
+373	emballage	1	1	1	1
+373	graphiques	1	1	1	1
+373	mobile	1	0	0	0
+373	authentification	1	1	1	1
+373	numéros	1	1	1	1
+373	MAN	1	1	1	1
+374	ACMT	1	1	1	1
+374	emballage	1	1	1	1
+374	impression	1	1	1	1
+374	technologies	1	1	1	1
+375	prédominant	1	0	0	0
+375	obstacle	1	1	1	1
+375	ACMT	1	1	1	1
+375	manifestes	1	0	0	0
+376	classes	1	1	1	1
+376	falsifiés	1	1	1	1
+376	médicaments	1	1	1	1
+376	antipaludéens	1	1	1	1
+376	antibactériens	1	1	1	1
+376	analgésiques	1	1	1	1
+377	cause	1	0	0	0
+377	danger	1	1	1	1
+377	médicaments	1	1	1	1
+377	interrogées	1	0	0	0
+377	pharmaceutiques	1	1	1	1
+377	produits	1	1	1	1
+377	systèmes	1	1	1	1
+377	traitement	1	1	1	1
+377	échecs	1	1	1	1
+378	préventive	1	1	1	1
+378	mesure	1	1	1	1
+378	chaîne	1	1	1	1
+378	médicaments	1	1	1	1
+380	connaissance	1	1	1	1
+380	point	1	1	1	1
+380	ACMT	1	1	1	1
+380	utilisation	1	0	0	0
+381	étiquetage	1	1	1	1
+381	emballage	1	1	1	1
+381	impression	1	1	1	1
+381	techniques	1	0	0	0
+382	temps	1	1	1	1
+382	contraintes	1	0	0	0
+382	ACMT	1	1	1	1
+382	ouvertes	1	0	0	0
+383	classes	1	1	1	1
+383	médicaments	1	1	1	1
+383	antipaludéens	1	1	1	1
+383	antibactériens	1	1	1	1
+383	analgésiques	1	1	1	1
+384	cause	1	0	0	0
+384	médicaments	1	1	1	1
+384	pharmaceutiques	1	1	1	1
+384	système	1	1	1	1
+384	entraîner	1	1	1	1
+384	échecs	1	1	1	1
+385	médicaments	1	1	1	1
+385	préventive	1	1	1	1
+385	mesure	1	1	1	1
+386	Mots	1	1	1	1
+387	contrefaçon	1	0	0	0
+387	médicaments	1	1	1	1
+387	Technologies	1	1	1	1
+387	Nigeria	1	1	1	1
+387	barrières	1	1	1	1
+387	identification	1	1	1	1
+387	utilisations	1	1	1	1
+388	canadien	1	1	1	1
+388	prénatale	1	1	1	1
+388	nutrition	1	1	1	1
+388	Programme	1	1	1	1
+388	PCNP	1	1	1	1
+388	communautaires	1	1	1	1
+388	organismes	1	1	1	1
+388	maternelle	1	1	1	1
+388	infantile	1	1	1	1
+388	social	1	0	0	0
+388	économique	1	0	0	0
+388	vulnérables	1	1	1	1
+388	femmes	1	1	1	1
+389	recherche	1	1	1	1
+389	programme	1	1	1	1
+389	possibilités	1	1	1	1
+389	allaitement	1	1	1	1
+389	PCNP	2	2	2	2
+389	étudié	1	1	1	1
+389	sociodémographiques	1	1	1	1
+389	psychosociales	1	1	1	1
+389	caractéristiques	2	1	1	1
+389	clientes	1	0	0	0
+389	Toronto	1	1	1	1
+389	associations	1	1	1	1
+389	participation	1	1	1	1
+390	données	1	1	1	1
+390	rétrospectives	1	0	0	0
+390	dossiers	1	1	1	1
+390	femmes	1	1	1	1
+390	inscrites	1	1	1	1
+390	Toronto	1	1	1	1
+390	PCNP	1	1	1	1
+391	multivariée	1	0	0	0
+391	régression	1	1	1	1
+391	analyses	1	1	1	1
+391	associations	1	1	1	1
+391	maternelles	1	1	1	1
+391	caractéristiques	1	1	1	1
+391	dimensions	1	1	1	1
+391	prénatal	1	1	1	1
+391	programme	1	1	1	1
+391	participation	2	1	1	1
+391	début	1	0	0	0
+391	gestationnel	1	1	1	1
+391	âge	1	1	1	1
+391	semaines	1	1	1	1
+391	intensité	1	1	1	1
+391	reçu	1	0	0	0
+391	durée	1	1	1	1
+391	visites	1	1	1	1
+392	moyenne	1	0	0	0
+392	âge	1	1	1	1
+392	clientes	1	0	0	0
+392	ans	1	1	1	1
+392	nées	1	0	0	0
+392	Canada	2	2	2	2
+392	célibataires	1	1	1	1
+392	revenu	2	1	1	1
+392	Statistique	1	1	1	1
+392	famille	1	1	1	1
+392	ajusté	1	0	0	0
+392	taille	1	1	1	1
+392	faible	1	1	1	1
+393	revenu	1	1	1	1
+393	associée	1	1	1	1
+393	dimensions	1	1	1	1
+393	participation	1	1	1	1
+394	clientes	2	0	0	0
+394	faible	2	2	2	2
+394	revenu	4	2	2	2
+394	programme	2	2	2	2
+394	semaines	1	1	1	1
+394	IC	2	2	2	2
+394	visites	1	1	1	1
+395	résultats	1	1	1	1
+395	PCNP	1	1	1	1
+395	femmes	1	1	1	1
+395	participation	1	1	1	1
+395	maternelles	1	1	1	1
+395	caractéristiques	1	1	1	1
+396	données	1	0	0	0
+396	services	1	1	1	1
+396	suivi	1	1	1	1
+396	décisions	1	1	1	1
+396	centre	1	0	0	0
+397	recherches	1	1	1	1
+397	prestation	1	1	1	1
+397	modèles	1	1	1	1
+397	améliorer	1	1	1	1
+397	périnataux	1	1	1	1
+397	services	1	1	1	1
+397	vulnérables	1	1	1	1
+397	femmes	1	1	1	1
+398	rhinoplastie	1	1	1	1
+398	interventions	1	0	0	0
+398	résultats	1	1	1	1
+399	base	1	1	1	1
+399	réduction	1	1	1	1
+399	technique	1	1	1	1
+399	prescrite	1	1	1	1
+399	affections	1	0	0	0
+400	sutures	1	1	1	1
+400	cicatrices	1	0	0	0
+400	satisfaire	1	0	0	0
+400	patients	1	1	1	1
+401	évalué	1	0	0	0
+401	ailes	1	0	0	0
+401	base	1	1	1	1
+401	chirurgicales	1	0	0	0
+401	résections	1	0	0	0
+401	suture	1	1	1	1
+401	matériaux	1	0	0	0
+402	rétrospective	1	1	1	1
+402	cohorte	1	1	1	1
+402	Étude	1	0	1	1
+402	roi	1	0	0	0
+402	Abdulaziz	1	1	1	1
+402	universitaire	1	1	1	1
+402	hôpital	1	1	1	1
+402	Riyad	1	1	1	1
+402	Arabie	1	1	1	1
+403	chercheurs	1	0	0	0
+403	examiné	1	0	0	0
+403	patients	1	1	1	1
+403	dossiers	1	1	1	1
+403	photographié	1	0	0	0
+403	base	1	1	1	1
+403	résection	1	1	1	1
+404	patients	2	2	2	2
+404	groupes	1	1	1	1
+404	plaies	1	0	0	0
+404	base	1	1	1	1
+404	fermées	1	0	0	0
+404	polypropylène	1	1	1	1
+404	6/0	2	2	2	2
+404	sutures	2	1	1	1
+405	visuelle	1	1	1	1
+405	analogique	1	1	1	1
+405	échelle	1	0	0	0
+405	évaluer	1	0	0	0
+405	base	1	0	0	0
+405	vues	1	1	1	1
+406	étude	1	1	1	1
+406	patients	2	2	2	2
+406	groupes	1	1	1	1
+406	groupe	1	1	1	1
+406	polypropylène	1	0	1	1
+406	hommes	2	2	2	2
+406	femmes	2	2	2	2
+406	deuxième	1	0	0	0
+406	monocryl	1	1	1	1
+407	cicatrices	1	1	1	1
+407	groupe	1	1	1	1
+407	significative	1	1	1	1
+408	polypropylène	1	1	1	1
+408	monocryl	1	1	1	1
+408	sutures	1	0	0	0
+408	donnent	1	1	1	1
+408	résultat	1	1	1	1
+408	base	1	1	1	1
+409	hydrogéologique	1	1	1	1
+409	conceptuel	1	1	1	1
+409	modèle	1	1	1	1
+409	source	2	2	2	2
+409	circulation	1	1	1	1
+409	voies	1	1	1	1
+409	temporelle	1	1	1	1
+409	variation	1	1	1	1
+409	faible	1	0	0	0
+409	enthalpie	1	1	1	1
+409	thermale	1	1	1	1
+409	fracturé	1	1	1	1
+409	calcaire	1	1	1	1
+409	multidisciplinaire	1	1	1	1
+410	St.	1	1	1	1
+410	thermale	1	1	1	1
+410	source	1	1	1	1
+410	centre	1	1	1	1
+410	Irlande	1	1	1	1
+410	complexe	1	1	1	1
+410	variable	1	1	1	1
+410	température	1	1	1	1
+410	profil	1	1	1	1
+411	géophysiques	1	1	1	1
+411	données	2	2	2	2
+411	audio-magnétotellurique	1	0	0	0
+411	AMT	1	1	1	1
+411	dimensions	1	0	0	0
+411	3D	1	1	1	1
+411	temps	1	0	0	0
+411	hydrogéologiques	1	1	1	1
+411	informations	1	1	1	1
+411	publiée	1	1	1	1
+411	hydrochimique	1	1	1	1
+411	analyse	1	1	1	1
+411	étudier	1	1	1	1
+411	fonctionnement	1	1	1	1
+411	hydrothermal	1	1	1	1
+411	système	1	1	1	1
+412	hydrochimique	1	1	1	1
+412	analyse	1	0	0	0
+412	mesures	1	1	1	1
+412	thermales	1	1	1	1
+412	eaux	1	1	1	1
+412	fracturés	1	1	1	1
+412	calcaires	1	1	1	1
+412	carbonifère	1	1	1	1
+412	Dublin	1	1	1	1
+412	bassin	1	1	1	1
+412	moment	1	1	1	1
+412	variabilité	1	1	1	1
+412	débit	1	1	1	1
+412	température	1	1	1	1
+413	électrique	1	1	1	1
+413	résistivité	1	1	1	1
+413	modèle	1	1	1	1
+413	structures	1	1	1	1
+413	orienté	1	0	0	0
+413	NW	1	1	1	1
+413	faillé	1	1	1	1
+413	contact	1	1	1	1
+413	lithologies	1	1	1	1
+413	calcaires	1	1	1	1
+413	dissolution	1	1	1	1
+413	alignée	1	1	1	1
+413	cénozoïque	1	1	1	1
+413	âge	1	1	1	1
+414	intersection	1	1	1	1
+414	structures	1	1	1	1
+414	karstification	1	1	1	1
+414	calcaire	2	2	2	2
+414	fonctionnement	1	1	1	1
+414	profonde	1	1	1	1
+414	hydrothermale	1	1	1	1
+414	circulation	1	1	1	1
+414	profondeurs	1	1	1	1
+414	succession	1	1	1	1
+414	Dublin	1	1	1	1
+414	bassin	1	1	1	1
+415	résultats	1	1	1	1
+415	étude	1	1	1	1
+415	hypothèse	1	1	1	1
+415	maximale	1	1	1	1
+415	température	1	1	1	1
+415	simultanée	1	1	1	1
+415	augmentation	1	1	1	1
+415	débit	1	1	1	1
+415	Gorman’	1	0	0	0
+415	hiver	1	1	1	1
+415	rapides	1	1	1	1
+415	infiltration	1	1	1	1
+415	réchauffement	1	1	1	1
+415	recirculation	1	1	1	1
+415	météoriques	1	1	1	1
+415	eaux	1	1	1	1
+418	bilharziose	1	0	0	0
+418	BGF	2	0	0	0
+418	graves	1	0	0	0
+418	infections	1	0	0	0
+418	utérus	1	0	0	0
+418	urogénitale	1	1	1	1
+419	séquelles	1	0	0	0
+419	diagnostiquées	1	1	1	1
+419	transmissibles	1	1	1	1
+419	infections	1	1	1	1
+419	IST	1	1	1	1
+419	cancers	1	0	0	0
+420	impact	1	1	1	1
+420	femmes	1	1	1	1
+420	reproductive	1	1	1	1
+420	santé	2	2	2	2
+420	BGF	1	0	0	0
+420	médicale	1	1	1	1
+420	formation	1	1	1	1
+420	faible	1	1	1	1
+420	sensibilisation	1	1	1	1
+420	communautés	1	1	1	1
+420	professionnels	1	1	1	1
+421	BGF	1	0	0	0
+421	négligés	1	1	1	1
+421	sexuelle	1	1	1	1
+421	reproductive	1	1	1	1
+421	santé	1	1	1	1
+421	problèmes	1	1	1	1
+421	subsaharienne	1	1	1	1
+421	Afrique	1	1	1	1
+421	Swai	1	1	1	1
+421	BMC	1	1	1	1
+421	Kukula	1	1	1	1
+421	PLoS	1	1	1	1
+421	HIV	1	0	0	0
+421	AIDS	1	0	0	0
+421	UNAIDS	1	0	0	0
+422	connaissance	1	1	1	1
+422	BGF	1	0	0	0
+422	négligence	1	1	1	1
+422	femmes	1	1	1	1
+422	reproductive	1	1	1	1
+422	santé	1	1	1	1
+422	diminuer	1	0	0	0
+422	fardeau	1	1	1	1
+422	traitable	1	1	1	1
+422	tropicale	1	1	1	1
+422	maladie	1	1	1	1
+423	MéTHODE	1	0	0	0
+424	virtuels	1	1	1	1
+424	ateliers	1	1	1	1
+424	collaboration	1	1	1	1
+424	mondiale	1	1	1	1
+424	santé	3	3	3	3
+424	Organisation	1	1	1	1
+424	OMS	1	1	1	1
+424	participants	1	1	1	1
+424	médecine	1	1	1	1
+424	formés	1	0	0	0
+424	compétences	1	1	1	1
+424	prévention	1	1	1	1
+424	diagnostic	1	1	1	1
+424	traitement	1	1	1	1
+424	BGF	1	0	0	0
+424	système	1	1	1	1
+425	compétences	1	1	1	1
+425	rédigées	1	1	1	1
+425	petits	1	1	1	1
+425	groupes	1	1	1	1
+425	révisées	1	1	1	1
+425	participants	1	1	1	1
+426	RéSULTATS	1	0	1	1
+427	participatif	1	1	1	1
+427	processus	1	1	1	1
+427	identifier	1	0	0	0
+427	compétences	1	1	1	1
+427	BGF	1	0	0	0
+427	prévention	1	1	1	1
+427	diagnostic	1	1	1	1
+427	traitement	1	0	0	0
+427	catégories	1	1	1	1
+427	santé	1	1	1	1
+427	professionnels	1	0	0	0
+427	cadre	2	0	0	0
+427	communautaire	1	1	1	1
+428	diagnostic	1	1	1	1
+428	BGF	1	0	0	0
+428	pelvien	1	1	1	1
+428	examen	1	1	1	1
+429	comportements	1	1	1	1
+429	traiter	1	1	1	1
+429	BGF	1	0	0	0
+430	communautaire	1	1	1	1
+430	identification	1	1	1	1
+430	femmes	1	1	1	1
+430	risque	1	1	1	1
+430	prévention	1	1	1	1
+432	compétences	1	1	1	1
+432	BGF	1	0	0	0
+432	diagnostic	1	1	1	1
+432	traitement	1	1	1	1
+432	femmes	1	1	1	1
+432	filles	1	1	1	1
+432	subsaharienne	1	1	1	1
+432	Afrique	1	1	1	1
+432	santé	1	1	1	1
+432	professionnels	1	1	1	1
+433	Canadiens	1	1	1	1
+433	docteurs	1	0	0	0
+433	Faculté	1	1	1	1
+433	médecine	1	1	1	1
+433	Paris	1	1	1	1
+434	séjours	1	0	0	0
+434	France	2	2	2	2
+434	tendances	1	1	1	1
+434	e	0	0	0	0
+434	canadienne	2	2	2	2
+434	histoire	1	1	1	1
+434	formation	1	1	1	1
+434	française	1	1	1	1
+434	professionnelle	1	1	1	1
+434	bourgeoisie	1	1	1	1
+434	officialisation	1	1	1	1
+434	diplomatiques	1	1	1	1
+434	liens	1	1	1	1
+434	Canada	1	1	1	1
+434	essor	1	0	0	0
+434	bactériologie	1	1	1	1
+434	Amérique	1	1	1	1
+434	canadien	1	1	1	1
+434	nationalisme	1	1	1	1
+434	siècle	2	2	2	2
+435	parcours	1	0	0	0
+435	docteurs	1	0	0	0
+435	inédites	1	1	1	1
+435	sources	1	1	1	1
+435	étudiants	1	1	1	1
+435	dossiers	1	1	1	1
+435	doctorales	1	0	0	0
+435	thèses	1	1	1	1
+435	Pierre	1	1	1	1
+435	Moulinier	1	1	1	1
+435	fichier	1	0	0	0
+435	Bibliothèque	1	1	1	1
+435	Interuniversitaire	1	1	1	1
+435	Santé	1	1	1	1
+435	Université	1	1	1	1
+435	Paris	1	1	1	1
+435	Descartes	1	1	1	1
+436	séjours	1	0	0	0
+436	Paris	1	1	1	1
+436	effets	1	0	0	0
+436	médicale	1	1	1	1
+436	profession	1	1	1	1
+436	rapports	1	0	0	0
+436	Amérique	1	0	0	0
+436	colonie	1	1	1	1
+436	impériale	1	1	1	1
+437	Répartition	1	1	1	1
+437	hôpital	1	0	0	0
+437	Arabie	1	1	1	1
+437	saoudite	1	1	1	1
+437	transversale	1	1	1	1
+437	étude	1	1	1	1
+438	adéquat	1	1	1	1
+438	accès	1	1	1	1
+438	santé	1	1	1	1
+438	systèmes	1	1	1	1
+438	humain	1	1	1	1
+439	soins	1	0	0	0
+439	services	1	1	1	1
+439	efficace	1	1	1	1
+440	évalué	1	1	1	1
+440	répartition	1	1	1	1
+440	hôpital	1	0	0	0
+440	saoudite	1	1	1	1
+440	inégalités	1	1	1	1
+440	hospitalières	1	1	1	1
+440	ressources	1	1	1	1
+440	allocation	1	1	1	1
+441	transversale	1	1	1	1
+441	étude	1	1	1	1
+441	données	1	1	1	1
+441	sanitaires	1	0	0	0
+441	statistiques	1	0	0	0
+441	Annuaire	1	1	1	1
+441	publié	1	1	1	1
+441	ministère	1	1	1	1
+441	Santé	1	1	1	1
+441	période	1	1	1	1
+442	habitants	1	1	1	1
+442	calculé	1	1	1	1
+442	régions	1	1	1	1
+443	paramètres	1	1	1	1
+443	Gini	1	1	1	1
+443	indice	1	1	1	1
+443	Lorenz	1	1	1	1
+443	courbe	1	1	1	1
+443	évaluer	1	1	1	1
+443	répartition	1	0	0	0
+443	lits	1	1	1	1
+444	Pearson	1	1	1	1
+444	coefficient	1	1	1	1
+444	évaluer	1	1	1	1
+444	corrélation	1	1	1	1
+444	lits	1	1	1	1
+444	population	1	1	1	1
+444	sanitaire	1	1	1	1
+444	région	1	1	1	1
+445	rapport	1	0	0	0
+445	hôpital	1	0	0	0
+445	population	1	1	1	1
+445	amélioré	1	1	1	1
+445	Haïl	1	0	0	0
+445	Tabouk	1	1	1	1
+445	Taïf	1	0	0	0
+445	augmenté	1	1	1	1
+446	lits	1	1	1	1
+446	répartition	1	1	1	1
+446	public	1	1	1	1
+446	secteur	2	2	2	2
+446	privé	1	1	1	1
+447	positive	1	1	1	1
+447	corrélation	1	1	1	1
+447	population	1	1	1	1
+447	hôpital	1	0	0	0
+447	lits	1	1	1	1
+447	Riyad	1	1	1	1
+447	Qassim	1	0	0	0
+447	Haïl	1	0	0	0
+447	régions	1	1	1	1
+448	Arabie	1	1	1	1
+448	saoudite	1	1	1	1
+448	inégalités	1	1	1	1
+448	hôpital	1	0	0	0
+448	privé	1	1	1	1
+448	secteur	1	1	1	1
+449	décideurs	1	1	1	1
+449	politiques	1	1	1	1
+449	inégalités	1	1	1	1
+449	réformes	1	1	1	1
+449	objectifs	1	1	1	1
+449	Vision	1	1	1	1
+451	comportements	1	0	0	0
+452	recherches	1	0	0	0
+452	adolescents	1	1	1	1
+452	individualistes	1	1	1	1
+452	santé	1	1	1	1
+452	comportements	1	1	1	1
+452	déterminer	1	0	0	0
+452	sociaux	1	1	1	1
+452	facteurs	1	1	1	1
+452	favoriser	1	0	0	0
+452	poids	1	1	1	1
+453	individualistes	1	1	1	1
+453	santé	1	1	1	1
+453	comportements	1	1	1	1
+453	sociaux	1	1	1	1
+453	facteurs	1	1	1	1
+453	poids	1	0	0	0
+454	MéTHODES	1	0	0	0
+455	données	1	0	0	0
+456	mesures	1	0	0	0
+456	santé	1	0	0	0
+456	comportements	1	0	0	0
+456	sexuelle	1	0	0	0
+457	RéSULTATS	1	0	0	0
+459	CONCLUSION	1	0	0	0
+461	approches	1	0	0	0
+461	adolescence	1	0	0	0
+461	comportements	1	0	0	0
+461	individualistes	1	0	0	0
+461	déterminants	1	0	0	0
+461	santé	1	0	0	0
+461	facteurs	1	1	1	1
+462	cardiorénal	1	1	1	1
+462	syndrome	1	1	1	1
+462	SCRA	1	0	0	0
+462	associé	1	1	1	1
+462	défavorables	1	0	0	0
+462	résultats	1	1	1	1
+462	patients	1	1	1	1
+462	décompensation	1	0	0	0
+462	insuffisance	1	1	1	1
+462	ICDA	1	0	0	0
+463	intrarénal	1	1	1	1
+463	veineux	1	1	1	1
+463	flux	1	0	0	0
+463	évalué	1	1	1	1
+463	Doppler	1	1	1	1
+463	échographie	1	1	1	1
+463	pronostique	1	1	1	1
+463	importance	1	0	0	0
+463	ICDA	1	0	0	0
+464	intrarénale	1	0	0	0
+464	Doppler	1	1	1	1
+464	DIR	2	0	0	0
+464	sensible	1	1	1	1
+464	rénale	1	1	1	1
+464	congestion	1	1	1	1
+464	association	1	1	1	1
+464	paramètres	1	1	1	1
+464	SCRA	1	0	0	0
+464	population	1	1	1	1
+465	hospitalisés	1	1	1	1
+465	patients	1	1	1	1
+465	ICDA	1	0	0	0
+465	coronarien	1	1	1	1
+465	syndrome	1	1	1	1
+465	SCA	1	1	1	1
+466	patients	1	1	1	1
+466	échocardiographie	1	1	1	1
+466	DIR	1	0	0	0
+466	standard	1	1	1	1
+466	cardiaque	1	1	1	1
+466	transducteur	1	1	1	1
+467	intrarénal	1	1	1	1
+467	veineux	2	2	2	2
+467	flux	1	0	0	0
+467	quantifié	1	1	1	1
+467	veineuse	1	1	1	1
+467	stase	1	1	1	1
+467	indice	1	1	1	1
+467	ISVR	1	0	0	0
+467	durée	2	2	2	2
+467	absence	1	0	0	0
+467	cardiaque	1	1	1	1
+467	cycle	1	1	1	1
+468	principal	1	1	1	1
+468	rénale	1	1	1	1
+468	insuffisance	1	1	1	1
+468	IRA	1	1	1	1
+468	évaluation	1	0	0	0
+469	ICDA	1	0	0	0
+469	patients	2	2	2	2
+469	cardiaque	1	1	1	1
+469	indice	1	0	0	0
+469	centrale	1	1	1	1
+469	veineuse	1	1	1	1
+469	pression	1	1	1	1
+469	mesures	1	0	0	0
+469	échocardiographie	1	1	1	1
+469	SCA	1	1	1	1
+470	DIR	1	0	0	0
+470	anormale	1	1	1	1
+470	ICDA	1	0	0	0
+470	patients	2	2	2	2
+470	normale	1	1	1	1
+470	SCA	1	1	1	1
+470	ISVR	1	0	0	0
+471	IRA	1	1	1	1
+471	stade	1	1	1	1
+471	ICDA	1	0	0	0
+471	patients	2	2	2	2
+471	SCA	1	1	1	1
+471	sériques	1	0	0	0
+471	créatinine	1	1	1	1
+472	ISVR	1	0	0	0
+472	corrélait	1	0	0	0
+472	gravité	1	0	0	0
+472	ICDA	1	0	0	0
+472	patients	1	1	1	1
+473	ISVR	1	0	0	0
+473	associé	1	1	1	1
+473	patients	1	1	1	1
+473	biomarqueur	1	1	1	1
+473	SCRA	1	0	0	0
+474	études	1	1	1	1
+474	conclusions	1	0	0	0
+474	évaluer	1	1	1	1
+474	efficacité	1	1	1	1
+474	DIR	1	0	0	0
+474	décongestion	1	0	0	0
+474	traitement	1	0	0	0
+477	MéTHODES	1	0	0	0
+479	randomisation	1	0	0	0
+479	familles	1	0	0	0
+479	fois	2	0	0	0
+479	jour	1	1	1	1
+479	intervention	1	0	0	0
+480	enfant	1	0	0	0
+480	jour	1	1	1	1
+480	chirurgie	1	1	1	1
+480	conformité	2	0	0	0
+480	induction	2	1	1	1
+481	RéSULTATS	1	0	0	0
+482	résultats	1	0	1	1
+483	anxiété	1	1	1	1
+483	observateur	1	1	1	1
+483	Groupe	2	0	0	0
+484	groupes	1	0	0	0
+484	admission	1	0	0	0
+484	anesthésie	1	0	0	0
+484	moyen	1	1	1	1
+484	effet	1	1	1	1
+485	conformité	1	0	0	0
+485	Groupe	2	0	0	0
+485	anesthésie	1	1	1	1
+485	induction	1	1	1	1
+485	scores	1	0	0	0
+486	CONCLUSION	1	0	0	0
+488	intégration	1	0	0	0
+488	stratégie	1	0	0	0
+488	simple	1	0	0	0
+489	pédiatrique	1	1	1	1
+489	endocrinologie	1	1	1	1
+489	naissante	1	1	1	1
+489	surspécialité	1	0	0	0
+489	Nigéria	1	1	1	1
+490	rapports	1	1	1	1
+490	connaissance	1	1	1	1
+490	pédiatriques	1	1	1	1
+490	endocriniens	1	1	1	1
+490	troubles	1	1	1	1
+490	tardive	1	1	1	1
+490	présentation	1	1	1	1
+490	diagnostic	1	1	1	1
+490	inutile	1	1	1	1
+490	mort	1	1	1	1
+491	étude	1	1	1	1
+491	prévalence	1	1	1	1
+491	endocriniens	1	1	1	1
+491	pédiatriques	1	1	1	1
+491	troubles	1	1	1	1
+491	UTH	1	1	1	1
+491	essentielles	1	1	1	1
+491	informations	1	1	1	1
+491	présentation	1	1	1	1
+492	rétrospective	1	1	1	1
+492	enfants	1	1	1	1
+492	pédiatriques	1	1	1	1
+492	endocriniens	1	1	1	1
+492	troubles	1	1	1	1
+492	UTH	1	1	1	1
+493	pertinentes	1	1	1	1
+493	données	1	1	1	1
+493	patients	1	1	1	1
+493	dossiers	1	1	1	1
+493	analysées	1	1	1	1
+493	SPSS	1	1	1	1
+494	consultations	1	1	1	1
+494	UTH	1	1	1	1
+494	pédiatrique	1	1	1	1
+494	spécialisée	1	1	1	1
+494	Clinique	1	0	1	1
+494	étude	1	1	1	1
+494	période	1	1	1	1
+494	endocriniens	1	1	1	1
+494	troubles	1	1	1	1
+495	hommes	1	1	1	1
+495	femmes	1	1	1	1
+495	M	1	1	1	1
+495	F	1	0	0	0
+495	âgés	1	0	0	0
+495	mois	1	1	1	1
+495	ans	2	2	2	2
+496	endocriniens	1	1	1	1
+496	troubles	3	3	3	3
+496	rachitisme	1	1	1	1
+496	diabète	1	1	1	1
+496	thyroïdiens	1	1	1	1
+496	puberté	1	1	1	1
+497	régulière	1	0	0	0
+497	augmentation	1	1	1	1
+497	endocriniens	1	1	1	1
+497	pédiatriques	1	1	1	1
+498	patients	1	1	1	1
+498	vivants	1	1	1	1
+498	vue	1	1	1	1
+498	mortalité	1	0	0	0
+499	thyroïdiens	1	1	1	1
+499	troubles	3	3	3	3
+499	puberté	1	1	1	1
+499	pédiatriques	1	1	1	1
+499	endocriniens	1	1	1	1
+499	UTH	1	1	1	1
+500	attrition	1	1	1	1
+500	pédiatriques	1	1	1	1
+500	endocriniens	1	1	1	1
+500	troubles	1	1	1	1
+501	raisons	1	1	1	1
+501	attrition	1	1	1	1
+501	mettre	1	1	1	1
+501	fin	1	1	1	1
+501	identifiés	1	1	1	1
+501	pratique	1	1	1	1
+502	Mots	1	1	1	1
+503	diabète	1	0	1	1
+503	Nigéria	1	0	0	0
+503	Pédiatrie	1	0	0	0
+503	endocriniens	1	1	1	1
+503	sensibilisation	1	0	0	0
+503	troubles	1	0	1	1
+504	niveau	1	0	0	0
+504	locales	1	0	0	0
+504	économiques	1	0	0	0
+504	inégalités	1	0	0	0
+504	ménages	1	1	1	1
+504	social	1	1	1	1
+504	capital	1	1	1	1
+505	répondre	1	1	1	1
+505	impact	1	1	1	1
+505	village	1	1	1	1
+505	économiques	1	0	0	0
+505	inégalités	1	0	0	0
+505	Andhra	1	1	1	1
+505	Pradesh	1	1	1	1
+505	ménages	2	2	2	2
+505	niveau	1	1	1	1
+505	bridging	1	0	0	0
+505	bonding	1	0	0	0
+505	social	1	1	1	1
+505	capital	1	1	1	1
+505	étapes	1	1	1	1
+505	carrés	1	1	1	1
+505	données	1	1	1	1
+505	enquêtes	1	1	1	1
+505	programme	1	1	1	1
+506	résultats	1	1	1	1
+506	étude	1	1	1	1
+506	économiques	1	1	1	1
+506	inégalités	1	1	1	1
+506	augmentent	1	1	1	1
+506	ménages	1	1	1	1
+506	social	2	2	2	2
+506	capital	2	2	2	2
+506	mesuré	2	2	2	2
+506	participation	1	1	1	1
+506	diminue	1	1	1	1
+506	liaison	1	1	1	1
+506	appartenance	1	0	0	0
+506	démographique	1	1	1	1
+506	homogènes	1	1	1	1
+506	bénévoles	1	1	1	1
+507	études	1	0	0	0
+507	croissante	1	1	1	1
+507	communautés	1	1	1	1
+507	démographiques	1	1	1	1
+507	socio-économiques	1	1	1	1
+507	plans	1	0	0	0
+507	sociaux	1	1	1	1
+507	conflits	1	1	1	1
+508	périopératoire	1	1	1	1
+508	auriculaire	1	1	1	1
+508	fibrillation	1	1	1	1
+508	FAPO	1	0	0	0
+508	cardiaque	1	1	1	1
+508	chirurgie	1	1	1	1
+508	associée	1	1	1	1
+508	risque	1	1	1	1
+508	études	1	1	1	1
+509	ampleur	1	1	1	1
+509	association	1	1	1	1
+509	court	1	1	1	1
+509	long	1	1	1	1
+509	terme	1	1	1	1
+509	suivi	1	1	1	1
+509	incertaine	1	1	1	1
+510	PubMed	1	1	1	1
+510	Embase	1	1	1	1
+510	CENTRAL	1	1	1	1
+510	période	1	1	1	1
+510	création	1	1	1	1
+511	observation	1	0	0	0
+511	études	1	1	1	1
+511	patients	2	2	2	2
+511	données	1	1	1	1
+511	court	1	1	1	1
+511	long	1	1	1	1
+511	terme	1	1	1	1
+511	risque	1	1	1	1
+511	FAPO	1	0	0	0
+511	cardiaque	1	1	1	1
+511	chirurgie	1	1	1	1
+512	données	1	1	1	1
+512	regroupées	1	1	1	1
+512	effets	1	1	1	1
+512	modèles	1	1	1	1
+513	risque	2	1	1	1
+513	rapports	1	0	0	0
+513	sommaires	1	0	0	0
+513	RR	1	1	1	1
+513	études	1	1	1	1
+513	multivariables	1	1	1	1
+513	résultats	1	1	1	1
+513	calculé	1	1	1	1
+513	DRA	1	1	1	1
+513	confiance	1	1	1	1
+513	différences	1	1	1	1
+513	intervalles	1	1	1	1
+513	IC	1	1	1	1
+514	études	1	1	1	1
+514	patients	1	1	1	1
+515	FAPO	1	0	0	0
+515	associée	1	1	1	1
+515	augmentation	1	0	0	0
+515	relatif	1	1	1	1
+515	risque	2	2	2	2
+515	RR	1	1	1	1
+515	IC	2	2	2	2
+515	études	1	1	1	1
+515	court	1	1	1	1
+515	terme	1	1	1	1
+515	DRA	1	1	1	1
+516	FAPO	1	1	1	1
+516	associée	1	1	1	1
+516	augmentation	1	1	1	1
+516	relatif	1	1	1	1
+516	risque	2	2	2	2
+516	RR	1	1	1	1
+516	IC	2	2	2	2
+516	études	1	1	1	1
+516	long	1	1	1	1
+516	terme	1	1	1	1
+516	années	2	2	2	2
+516	patients	2	2	2	2
+516	DRA	1	1	1	1
+517	sensibilité	1	1	1	1
+517	analyses	1	1	1	1
+517	haute	1	1	1	1
+517	qualité	1	1	1	1
+517	études	2	2	2	2
+517	ischémiques	1	1	1	1
+517	emboliques	1	1	1	1
+517	AVC	1	1	1	1
+517	résultats	1	1	1	1
+518	FAPO	1	0	0	0
+518	cardiaque	1	1	1	1
+518	chirurgie	1	1	1	1
+518	associée	1	1	1	1
+518	risque	1	1	1	1
+518	court	1	1	1	1
+518	long	1	1	1	1
+518	terme	1	1	1	1
+519	long	2	2	2	2
+519	terme	2	2	2	2
+519	AVC	1	1	1	1
+519	patients	1	1	1	1
+519	bénéfique	1	0	0	0
+519	orale	1	0	0	0
+519	anticoagulothérapie	1	0	0	0
+519	incertaine	1	0	0	0
+520	Canada	1	0	0	0
+520	directrices	1	1	1	1
+520	héréditaire	1	1	1	1
+520	transthyrétine	1	1	1	1
+520	amylose	1	1	1	1
+520	polyneuropathie	1	1	1	1
+521	héréditaire	1	1	1	1
+521	transthyrétine	2	1	1	1
+521	ATTRh	1	0	0	0
+521	amylose	1	0	0	0
+521	évolutive	1	1	1	1
+521	maladie	1	1	1	1
+521	mutations	1	1	1	1
+521	TTR	1	1	1	1
+521	gène	1	1	1	1
+521	plurisystémique	1	0	0	0
+521	dysfonctionnement	1	1	1	1
+522	pathogènes	1	0	0	0
+522	TTR	1	1	1	1
+522	agrégation	1	1	1	1
+522	mauvais	1	1	1	1
+522	repliement	1	1	1	1
+522	fibrillisation	1	0	0	0
+522	dépôt	1	1	1	1
+522	amyloïdes	1	0	0	0
+522	organes	1	1	1	1
+522	nerveux	1	1	1	1
+522	périphérique	1	1	1	1
+522	système	1	1	1	1
+522	cœur	1	1	1	1
+523	neurologiques	1	1	1	1
+523	sensorimotrice	1	1	1	1
+523	polyneuropathie	2	1	1	1
+523	PN	1	0	0	0
+523	autonome	1	1	1	1
+523	neuropathie	1	1	1	1
+523	carpien	1	1	1	1
+523	canal	1	1	1	1
+523	syndrome	1	1	1	1
+524	patients	1	1	1	1
+524	évolution	1	0	0	0
+524	tardive	1	0	0	0
+524	ATTRh	1	0	0	0
+524	PN	1	0	0	0
+524	diagnostic	2	2	2	2
+525	modificateurs	1	1	1	1
+525	médicaments	1	0	0	0
+525	inotersen	1	1	1	1
+525	patisiran	1	1	1	1
+525	Santé	1	1	1	1
+525	Canada	1	1	1	1
+525	ATTRh	1	0	0	0
+525	PN	1	0	0	0
+526	diagnostic	1	1	1	1
+526	instauration	1	0	0	0
+526	nouveaux	1	0	0	0
+526	traitements	1	1	1	1
+526	atténuent	1	0	0	0
+526	troubles	1	0	0	0
+526	améliorent	1	1	1	1
+526	qualité	1	1	1	1
+526	vie	1	1	1	1
+526	prolongent	1	1	1	1
+527	directrice	1	1	1	1
+527	améliorer	1	1	1	1
+527	ATTRh	1	0	0	0
+527	PN	1	0	0	0
+527	recommandations	1	1	1	1
+527	diagnostic	1	1	1	1
+527	traitement	1	1	1	1
+527	Canada	1	1	1	1
+529	études	1	1	1	1
+529	tests	1	1	1	1
+529	alimentaires	2	2	2	2
+529	extraits	1	1	1	1
+529	formulation	1	1	1	1
+529	régimes	1	1	1	1
+529	DE	1	0	1	1
+529	humains	1	1	1	1
+529	patients	1	1	1	1
+529	suspectées	1	0	0	0
+529	indésirables	1	1	1	1
+529	réactions	1	1	1	1
+529	AFR	1	1	1	1
+530	tests	1	1	1	1
+530	chiens	1	0	0	0
+531	Objectifs	1	1	1	1
+532	Évaluer	1	1	1	1
+532	efficacité	1	1	1	1
+532	combinaison	1	1	1	1
+532	prick	1	0	0	0
+532	patch	1	1	1	1
+532	tests	2	2	2	2
+532	protocoles	1	1	1	1
+532	actuels	1	1	1	1
+532	alimentaire	1	1	1	1
+532	provocation	1	1	1	1
+532	chiens	1	1	1	1
+532	RFA	1	0	0	0
+533	MÉTHODES	1	0	1	1
+534	prick	1	0	0	0
+534	patch	1	1	1	1
+534	tests	2	1	1	1
+534	chiens	1	1	1	1
+534	chronique	1	1	1	1
+534	prurit	1	1	1	1
+535	chiens	1	1	1	1
+535	ED	1	1	1	1
+535	résultats	1	1	1	1
+536	chiens	1	1	1	1
+536	signes	1	1	1	1
+536	aliment	1	1	1	1
+536	positive	1	1	1	1
+536	réaction	1	1	1	1
+536	tests	1	1	1	1
+537	chiens	1	1	1	1
+537	aliment	1	1	1	1
+537	négatifs	1	1	1	1
+537	tests	1	1	1	1
+538	prurit	1	1	1	1
+538	visuelle	1	1	1	1
+538	analogique	1	1	1	1
+538	échelle	1	1	1	1
+538	pVAS	1	1	1	1
+538	canine	1	1	1	1
+538	atopique	1	1	1	1
+538	dermatite	1	1	1	1
+538	gravité	1	1	1	1
+538	indice	1	1	1	1
+538	4e	1	1	1	1
+538	itération	1	1	1	1
+538	CADESI-04	1	1	1	1
+538	évalués	1	1	1	1
+538	jours	1	1	1	1
+538	J30	1	1	1	1
+539	sensibilité	1	1	1	1
+539	SE	1	1	1	1
+539	spécificité	1	1	1	1
+539	SP	1	1	1	1
+539	positives	1	1	1	1
+539	PPV	1	1	1	1
+539	négatives	1	1	1	1
+539	NPV	1	1	1	1
+539	prédictives	1	1	1	1
+539	valeurs	1	1	1	1
+539	Kappa	1	1	1	1
+539	calculées	1	1	1	1
+540	RÉSULTATS	1	0	1	1
+541	chiens	2	2	2	2
+541	moyenne	1	1	1	1
+541	amélioration	1	1	1	1
+541	pVAS	1	1	1	1
+541	CADESI-04	1	1	1	1
+541	scores	1	1	1	1
+541	J30	1	1	1	1
+541	P	2	2	2	2
+541	DE	1	0	1	1
+542	J30	1	1	1	1
+543	combinaison	1	1	1	1
+543	tests	1	1	1	1
+543	SE	1	1	1	1
+543	SP	1	1	1	1
+543	VPP	1	0	0	0
+543	valeurs	1	1	1	1
+544	Conclusions	1	1	1	1
+544	clinique	1	1	1	1
+544	pertinence	1	1	1	1
+545	combinaison	1	1	1	1
+545	prick	1	1	1	1
+545	patch	1	1	1	1
+545	tests	2	2	2	2
+545	SE	1	1	1	1
+545	VPN	1	0	0	0
+546	diagnostic	1	1	1	1
+546	AFR	1	1	1	1
+546	chiens	1	1	1	1
+546	tests	1	1	1	1
+546	résultats	1	1	1	1
+546	sélection	1	1	1	1
+546	DE	1	0	0	0
+547	imagerie	2	1	1	1
+547	incorporer	1	0	0	0
+547	information	1	0	0	0
+547	modalités	1	1	1	1
+548	données	1	1	1	1
+548	modalité	1	1	1	1
+548	analysées	1	1	1	1
+548	dimension	1	0	0	0
+548	réduction	1	1	1	1
+548	techniques	1	1	1	1
+548	perte	1	1	1	1
+548	information	1	0	0	0
+549	régularisation	1	1	1	1
+549	méthode	1	1	1	1
+549	empiriques	1	1	1	1
+549	vecteurs	1	1	1	1
+549	régression	2	2	2	2
+549	griPEER	1	1	1	1
+549	association	1	0	0	0
+549	cerveau	1	0	0	0
+549	structures	1	0	0	0
+549	scalaire	1	1	1	1
+549	réponse	1	0	0	0
+549	généralisée	1	1	1	1
+550	griPEER	1	1	1	1
+550	améliorent	1	0	0	0
+550	régression	1	1	1	1
+550	coefficients	1	0	0	0
+550	estimation	1	1	1	1
+550	externes	1	1	1	1
+550	informations	1	1	1	1
+550	structures	1	0	0	0
+550	cerveau	1	1	1	1
+550	connectivité	1	1	1	1
+551	connectivité	1	1	1	1
+551	laplacienne	1	1	1	1
+551	matrice	1	1	1	1
+551	généralisé	1	0	0	0
+551	régression	1	1	1	1
+552	théoriques	1	1	1	1
+552	calculatoires	1	0	0	0
+552	problèmes	1	1	1	1
+552	robustesse	1	1	1	1
+552	méthode	1	1	1	1
+552	information	1	0	0	0
+552	cerveau	1	0	0	0
+553	test	1	1	1	1
+553	procédure	1	1	1	1
+553	inférence	1	1	1	1
+553	estimés	1	1	1	1
+553	paramètres	1	0	0	0
+554	griPEER	1	1	1	1
+554	évaluent	1	0	0	0
+554	simulation	1	1	1	1
+554	études	1	1	1	1
+554	données	1	1	1	1
+554	VIH+	1	0	0	0
+554	individus	1	1	1	1
+556	sédentaires	1	0	0	0
+556	physique	1	1	1	1
+556	activité	1	1	1	1
+556	écran	1	1	1	1
+556	consommation	1	0	0	0
+556	sucrées	1	0	0	0
+557	effets	1	0	0	0
+557	prononcés	1	0	0	0
+557	comportements	1	0	0	0
+557	physique	1	1	1	1
+557	activité	1	1	1	1
+557	alimentaire	1	1	1	1
+557	insécurité	1	0	0	0
+558	impacts	1	0	0	0
+558	santé	1	0	0	0
+558	renforcement	1	0	0	0
+558	publique	1	0	0	0
+559	bonification	1	0	0	0
+559	mesurer	1	0	0	0
+559	inégalités	1	0	0	0
+560	mouvement	1	0	0	0
+560	investis	1	0	0	0
+560	évaluation	1	0	0	0
+560	habitudes	1	0	0	0
+560	résidentiels	1	0	0	0
+561	différentiation	1	0	0	0
+561	précapillaire	1	1	1	1
+561	postcapillaire	1	1	1	1
+561	pulmonaire	2	2	2	2
+561	hypertension	1	1	1	1
+561	HP	1	0	0	0
+561	artérielle	1	1	1	1
+561	occlusion	1	0	0	0
+561	pression	1	1	1	1
+561	PAPOm	1	0	0	0
+562	gauche	1	1	1	1
+562	ventricule	1	0	0	0
+562	télédiastolique	1	1	1	1
+562	pression	1	1	1	1
+562	PTDVG	1	0	0	0
+562	équivalente	1	1	1	1
+562	alternative	1	1	1	1
+563	PAPOm	1	0	0	0
+563	PTDVG	1	0	0	0
+564	répercussions	1	0	0	0
+564	PAPOm	1	0	0	0
+564	PTDVG	1	0	0	0
+564	HP	1	0	0	0
+564	classification	1	1	1	1
+564	mortalité	1	1	1	1
+564	prédiction	1	1	1	1
+564	patients	1	1	1	1
+564	aortique	1	1	1	1
+564	sténose	1	1	1	1
+564	SA	1	1	1	1
+564	remplacement	1	1	1	1
+565	patients	1	1	1	1
+565	grave	1	0	0	0
+565	SA	1	1	1	1
+565	PAPOm	1	0	0	0
+565	PTDVG	1	0	0	0
+565	mesuré	1	0	0	0
+566	artérielle	1	1	1	1
+566	pulmonaire	1	1	1	1
+566	pression	1	1	1	1
+566	HP	2	0	0	0
+566	PAPOm	1	0	0	0
+566	PTVDG	1	0	0	0
+566	précapillaire	1	1	1	1
+566	postcapillaire	1	1	1	1
+567	mortalité	1	1	1	1
+567	suivi	1	1	1	1
+567	jours	1	1	1	1
+567	aortique	1	1	1	1
+567	remplacement	1	1	1	1
+567	évalué	1	0	0	0
+568	PAPOm	1	0	0	0
+568	PTVDG	1	0	0	0
+569	patients	5	1	1	1
+569	HP	5	2	2	2
+569	PAPO	1	0	0	0
+569	classification	1	1	1	1
+569	isolée	1	1	1	1
+569	postcapillaire	2	0	0	0
+569	précapillaire	2	1	1	1
+570	PTVDG	1	0	0	0
+570	patients	1	1	1	1
+571	patients	2	1	1	1
+571	mortalité	1	1	1	1
+571	risque	1	1	1	1
+571	confiance	1	1	1	1
+571	intervalle	1	1	1	1
+572	PAPOm	1	0	0	0
+572	associée	1	1	1	1
+572	mortalité	1	1	1	1
+572	risque	1	1	1	1
+572	confiance	1	1	1	1
+572	intervalle	1	1	1	1
+572	PTVDG	1	0	0	0
+573	PTVDG	1	0	0	0
+573	PAPOm	1	0	0	0
+573	entraîne	1	1	1	1
+573	divergente	1	1	1	1
+573	HP	1	0	0	0
+573	classification	1	1	1	1
+573	patients	1	0	0	0
+573	grave	1	0	0	0
+573	SA	1	1	1	1
+574	patients	1	1	1	1
+574	mortalité	1	1	1	1
+574	aortique	1	1	1	1
+574	remplacement	1	1	1	1
+575	PAPOm	1	0	0	0
+575	PTVDG	1	0	0	0
+575	mortalité	1	1	1	1
+576	effets	1	0	0	0
+576	fatigue	1	1	1	1
+576	athlètes	1	1	1	1
+577	systématique	1	1	1	1
+578	PUBMED	1	1	1	1
+578	MEDLINE	1	1	1	1
+578	CINAHL	1	1	1	1
+578	Sports	1	1	1	1
+578	Discus	1	1	1	1
+578	Cochrane	1	1	1	1
+578	bibliothèque	1	1	1	1
+579	effets	1	1	1	1
+579	fatigue	1	1	1	1
+579	équilibre	1	1	1	1
+579	SEBT	1	1	1	1
+579	YBT	1	1	1	1
+579	sportifs	1	0	0	0
+579	populations	1	1	1	1
+580	études	1	1	1	1
+580	faible	1	1	1	1
+580	risque	1	1	1	1
+580	biais	1	1	1	1
+580	données	1	0	0	0
+580	synthèse	1	1	1	1
+581	études	1	1	1	1
+581	faible	1	1	1	1
+581	risque	1	1	1	1
+581	biais	1	1	1	1
+581	retenues	1	0	0	0
+581	amateurs	1	0	0	0
+581	athlètes	2	2	2	2
+582	amateurs	1	0	0	0
+582	études	1	1	1	1
+582	diminution	1	1	1	1
+582	fatigue	1	0	0	0
+582	activité	1	0	0	0
+583	changements	1	1	1	1
+584	compétition	1	0	0	0
+584	études	1	1	1	1
+584	effets	1	1	1	1
+584	fatigue	1	1	1	1
+584	équilibre	1	1	1	1
+585	effets	1	1	1	1
+585	fatigue	1	1	1	1
+585	équilibre	1	1	1	1
+586	études	1	1	1	1
+586	compétition	1	1	1	1
+586	athlètes	1	1	1	1
+586	fatigue	1	1	1	1
+586	équilibre	1	1	1	1
+587	contre	1	0	0	0
+587	athlètes	1	0	0	0
+587	contraire	1	1	1	1
+587	fatigue	1	1	1	1
+587	dynamique	1	1	1	1
+587	équilibre	1	1	1	1
