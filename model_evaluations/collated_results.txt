@@ -37,15 +37,15 @@ Non-cased Matches ignoring partitive article errors:  2560
 
 OPUS + FT on WMT 16+19+22:
 
-{'bleu': 34.09763299804602}
-{'CHRF++': 53.11409608472122}
-{'ter': 68.54998294097577}
-{'meteor': 0.4914593037881913}
+{'bleu': 34.076880158534024}
+{'CHRF++': 53.071341805791874}
+{'ter': 68.5568065506653}
+{'meteor': 0.4893784889234509}
 Total Terminologies:  3714
-Exact Matches:  2432
-{'tur': 0.6548196015078083}
-Non-cased Matches:  2465
-{'tur_caseless': 0.6637049003769521}
-Non-cased Matches ignoring partitive article errors:  2634
-{'tur_loose': 0.7092084006462036}
-FLOps Performed: 8.159003386734182e+16 = 81.590 PFLOps
+Exact Matches:  2429
+{'tur': 0.6540118470651589}
+Non-cased Matches:  2460
+{'tur_caseless': 0.6623586429725363}
+Non-cased Matches ignoring partitive article errors:  2635
+{'tur_loose': 0.7094776521270867}
+Estimated FLOPs (Upper Limit) = 15237.4931 seconds * 32 TFLOPs = 487.6 PFLOPs

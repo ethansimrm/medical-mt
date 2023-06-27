@@ -1,0 +1,14 @@
+OPUS + FT on WMT 16+19+22 [KAGGLE]:
+
+{'bleu': 34.09763299804602}
+{'CHRF++': 53.11409608472122}
+{'ter': 68.54998294097577}
+{'meteor': 0.4914593037881913}
+Total Terminologies:  3714
+Exact Matches:  2432
+{'tur': 0.6548196015078083}
+Non-cased Matches:  2465
+{'tur_caseless': 0.6637049003769521}
+Non-cased Matches ignoring partitive article errors:  2634
+{'tur_loose': 0.7092084006462036}
+FLOps Performed: 8.159003386734182e+16 = 81.590 PFLOps (accurate)
