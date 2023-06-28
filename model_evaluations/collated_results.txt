@@ -48,4 +48,4 @@ Non-cased Matches:  2460
 {'tur_caseless': 0.6623586429725363}
 Non-cased Matches ignoring partitive article errors:  2635
 {'tur_loose': 0.7094776521270867}
-Estimated FLOPs (Upper Limit) = 15237.4931 seconds * 32 TFLOPs = 487.6 PFLOPs
+Estimated FLOPs = 15237.4931 seconds * 32.6 TFLOPs * 0.3 estimated utilisation = 149.022 PFLOPs (RTX6000)
