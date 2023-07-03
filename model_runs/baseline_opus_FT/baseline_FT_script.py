@@ -1,5 +1,9 @@
 import os
 
+#Explicitly set seed for reproducible behaviour
+from transformers import set_seed
+set_seed(42)
+
 #Converts data in src [TAB] tgt [NEWLINE] format to a format suitable for model training
 def convertToDictFormat(data):
     source = []
