@@ -1,0 +1,588 @@
+Les chéloïdes auriculaires récalcitrants sont des chéloïdes qui ont récidivé après tout traitement antérieur.
+Il a été démontré quils étaient plus susceptibles dêtre récidivants.
+Il nexiste pas de consensus sur la meilleure façon de traiter les chéloïdes auriculaires récalcitrants.
+Nous réalisons ici la première revue systématique et méta-analyse des données probantes sur le traitement des chéloïdes auriculaires récalcitrants.
+MéTHODE: Nous avons recherché MEDLINE, EMBASE, CINAHL et EBM Reviews en utilisant des mots clés spécifiques.
+Des critères dinclusion et dexclusion prédéfinis ont été utilisés pour évaluer ladmissibilité aux articles.
+Les données ont été extraites pour le nombre de chéloïdes récalcitrants, la modalité de traitement, la récurrence et le temps minimum de suivi.
+Les articles inclus ont été stratifiés par traitement et ont attribué un niveau de preuve (LOE) selon les lignes directrices du Oxford Centre for Evidence-Based Medicine. Une méta-analyse a été réalisée pour estimer les taux de récidive avec des intervalles de confiance de 95 % pour chaque modalité de traitement.
+Au total, 887 articles uniques ont été identifiés et 13 ont été inclus.
+Onze dentre eux étaient des LOE III et deux dentre eux étaient des LOE IV.
+Les taux de récidive se sont avérés être de 9 % (IC à 95 % : 3 % à 25 %) pour lexérèse par curiethérapie adjuvante, de 14 % (IC à 95 % : 12 % à 17 %) pour lexérèse par compression adjuvante, de 17 % (IC à 95 % : 3 % à 56 %) pour lexérèse par rayonnement externe adjuvant, et de 18 % (IC à 95 % : 4 % à 53 %) pour lexérèse par injection de stéroïdes adjuvants.
+Aucune différence significative sur le plan statistique na été observée.
+Les données pour le traitement des chéloïdes auriculaires sont hétérogènes, avec peu détudes de haute qualité.
+Lexérèse par curiethérapie adjuvante a le taux de récidive le plus faible dans notre analyse.
+Les intervalles de confiance serrés rapportés ici pour la curiethérapie et la thérapie par compression peuvent aider les chirurgiens à recommander plus en toute confiance lune ou lautre de ces modalités de traitement aux patients.
+A propos d'un cas.
+Objectifs:
+Tester lefficacité de létiquetage des calories pour les boissons alcooliques et non alcooliques sur les menus des restaurants à légard de linformation sur les calories, de la connaissance des calories et de linfluence perçue et réelle sur les ordonnances hypothétiques de boissons.
+Les participants incluaient des étudiants universitaires de niveau supérieur en âge légal de consommer de lalcool résidant en Ontario, au Canada (n = 283).
+Méthodes:
+À laide dune expérience entre groupes, les participants ont été randomisés pour visualiser lun des deux menus : (1) No Calorie Information (contrôle) et (2) Calorie Information adjacente à chaque boisson.
+Les participants ont rempli une tâche hypothétique de commande, et les mesures liées à linformation sur la calorie, à la connaissance de la calorie et à linfluence réelle et perçue de linformation sur la calorie sur les boissons commandées ont été évaluées.
+Des modèles de régression logistique linéaire, logistique et multinomiale ont été utilisés pour examiner les quatre résultats.
+Les chances de noter linformation sur la calorie étaient significativement plus élevées dans linformation sur la calorie (72,6 %) par rapport à linformation sur labsence de calorie (8,0 %) (RC = 43,7, IC à 95 % : 16,8, 113,8).
+Résultats:
+Comparativement à ceux de la condition de No Calorie Information, les participants de la condition de Calorie Information avaient des chances significativement plus faibles de répondre « Ne sait pas » (OR = 0,04, IC à 95 % : 0,02 à 0,09), de sous-estimer (OR = 0,06, IC à 95 % : 0,02 à 0,2) et de surestimer (OR = 0,05, IC à 95 % : 0,02 à 0,2) par rapport à estimer avec précision les calories dans les boissons commandées.
+Aucune différence significative na été observée entre les conditions détiquetage des menus pour les calories dans les boissons commandées ou linfluence perçue de linformation sur le nombre de boissons commandées.
+Lexposition aux menus contenant de linformation sur la calorie a augmenté les consommateurs en ce qui concerne linformation sur la calorie et en ce qui concerne lestimation précise des calories dans les boissons alcoolisées et non alcoolisées commandées.
+Conclusion:
+Contexte:
+Les staphylococcies nosocomiales résistantes à la méticilline (MR) sont une préoccupation mondiale.
+Les surfaces des salles dexamens de dermatologie vétérinaire peuvent être un réservoir compte tenu de la banalité des pyodermites staphylococciques.
+Hypothèse/objectifs:
+Tout dabord, lefficacité de la décontamination de la surface de la salle dexamen à laide dun composé dammonium quaternaire a été évaluée après lutilisation de deux protocoles dinstruction de nettoyage différents.
+Deuxièmement, le nombre de colonies de staphylococciques (CoPS) positives à la coagulase a été évalué après utilisation de chambres par des chiens atteints de pyodermie, puis après nettoyage et désinfection.
+Méthodes et matériaux:
+Dans la Partie I, 10 surfaces de pièce ont été marquées avec un colorant fluorescent discret, Glo Germ, pour évaluer lefficacité du nettoyage de surface entre deux protocoles de nettoyage basés sur Virex II 256.
+Dans la Partie II, les colonies de CoPS ont été quantifiées via le système de Staph Express 3M.
+Dix surfaces de pièce standardisées ont été prélevées après utilisation par un chien porteur dune pyodermie staphylococcique, et immédiatement après un protocole détaillé de nettoyage et de désinfection.
+Résultats:
+Au total, 24 des 100 surfaces et 81 des 100 surfaces ont été entièrement nettoyées par les protocoles généraux et détaillés, respectivement.
+Le nombre moyen de surfaces suffisamment nettoyées était plus élevé avec le protocole détaillé (P = 0,003).
+Le protocole détaillé a réduit le nombre de colonies de CoPS de huit surfaces (P < 0.01) et non de fauteuils (P = 0.055).
+Aucun CoPS na été isolé de la table dexamen sous un tapis de table.
+Conclusions et pertinence clinique:
+Des protocoles détaillés de nettoyage et de désinfection des salles dexamens sont recommandés pour minimiser la contamination des surfaces des salles dexamens vétérinaires par les staphylocoques.
+La désinfection appropriée des fauteuils nécessite une étude plus approfondie.
+Les données probantes montrent que le bien-être des étudiants en médecine est un problème daggravation au Canada. Il est évident que le bien-être des étudiants en médecine se dégrade tout au long de leur formation.
+Les facultés de médecine et leurs organes directeurs répondent par lintégration du bien-être dans les cadres de compétences et les normes daccréditation grâce à une combinaison dapproches au niveau du système et de lindividu.
+Les stratégies au niveau du système qui tiennent compte de la façon dont les politiques, la culture médicale et le « curriculum caché » influent sur le bien-être des étudiants sont essentielles pour réduire la prévalence de lépuisement professionnel et obtenir des résultats optimaux en matière de bien-être.
+Les initiatives individuelles telles que la programmation du bien-être sont très répandues et sont plus fréquemment utilisées.
+Celles-ci sont souvent didactiques, mettant la charge sur létudiant sans sintéresser à lenvironnement dapprentissage.
+Malgré des progrès significatifs, il y a peu de cohérence de la programmation entre les écoles ou les niveaux de formation.
+Il nexiste pas de cadre de programme de mieux-être pour la formation médicale de premier cycle au Canada qui sharmonise avec les compétences en résidence.
+La création dun tel cadre permettrait dharmoniser les initiatives individuelles et systémiques et de faciliter la transition entre lécole de médecine et la résidence.
+Le cadre organiserait les objectifs dans les domaines pertinents du bien-être, permettrait ladaptabilité locale, tenir compte des besoins de base de lapprenant et serait éclairé par lapprenant.
+Les médecins dont le bien-être a été soutenu tout au long de leur formation contribueront positivement à la qualité des soins aux patients, des milieux de travail et au maintien dune population canadienne en santé.
+Identification et caractérisation des moustiques de différentes localisations au Qatar en 2017-2019
+Les infections transmises par les moustiques ont des conséquences considérables pour la santé publique.
+La simple présence dun seul cas de maladie à transmission vectorielle (MV) introduit un risque pour la communauté locale, en particulier lorsquelle est associée à des facteurs environnementaux compatibles, comme le vecteur, lhôte et les facteurs environnementaux appropriés.
+Actuellement, il nexiste pas de programme bien établi de lutte antivectorielle et de surveillance au Qatar; par conséquent, la probabilité de propagation des MVB est indéterminée.
+Par conséquent, il est urgent de remédier à cette lacune et de permettre une gestion efficace des MVB.
+La présente étude présente les résultats de trois enquêtes de terrain consécutives menées entre 2017 et 2019 dans le but de définir les types et la distribution des moustiques qui sont importants pour la santé publique au Qatar.
+Les résultats des piégeages de moustiques adultes montrent que le moustique de maison sud Culex quinquefasciatus est lespèce de moustiques la plus répandue et abondante, suivie de Cx. perexiguus, les deux espèces représentant un risque de transmission du virus West Nile.
+Toutes les méthodes déchantillonnage montrent que le vecteur du paludisme Anopheles stephensi est répandu, y compris dans les zones urbanisées, ce qui suggère un risque de transmission locale du paludisme.
+Le moustique de zone humide Aedes caspius est également très répandu, ce qui représente un risque de transmission du virus de la fièvre de la Vallée du Rift.
+Le vecteur de la dengue Ae. aegypti na pas été détecté et ne peut être considéré ni répandu ni abondant, ce qui suggère un risque minimal de transmission locale des virus de la dengue, du chikungunya et du Zika.
+Fait intéressant, létude a détecté Culiseta longiareolata pour la première fois au Qatar.
+Des études sur le terrain régulières sont nécessaires pour combler les lacunes en matière de connaissances en termes de distribution, décologie et de morsure de différentes espèces de moustiques actuellement présentes au Qatar afin dévaluer avec précision le risque de maladies transmises par les moustiques.
+Les femmes atteintes de cardiopathies souffrent de disparités dans le diagnostic, le traitement et la prise en charge de leur état.
+Cependant, on ne sait pas si ces différences sexuelles existent en ce qui concerne lexpérience des patients hospitalisés.
+Nous avons examiné lexpérience complète des patients hospitalisés en raison dune cardiopathie ischémique (HMI) dans lAlberta, au Canada, selon le sexe.
+Les patients ont rempli une version modifiée du Canadian Patient Experiences Survey-Inpatient Care (CPES-IC) dans les six semaines suivant leur congé.
+Nous avons examiné 37 questions, dont 33 concernant des processus de soins spécifiques et 4 échelles mondiales d'évaluation.
+Les réponses au sondage ont été rapportées sous forme de pourcentages bruts « top-box », cest-à-dire le choix de réponse le plus positif à chaque question.
+Les cotes et les intervalles de confiance correspondants à 95 % des femmes ayant déclaré une réponse de la case supérieure ont ensuite été calculés pour chaque question, tout en contrôlant les facteurs démographiques et cliniques.
+Entre avril 2014 et mars 2020, 5795 questionnaires (1612 femmes, 4183 hommes) ont été remplis.
+En tenant compte de la marge d'erreur de l'enquête, les femmes avaient des pourcentages de la case supérieure plus bas sur 26 des 37 questions.
+Des résultats similaires ont été obtenus pour les cotes ajustées de déclaration dune réponse de la case supérieure.
+Les femmes navaient pas de pourcentage plus élevé de réponses dans les cases supérieures à lune ou lautre des questions étudiées.
+La présente étude est une première canadienne qui a stratifié lexpérience des patients hospitalisés atteints de cardiopathie ischémique selon le sexe.
+Nos résultats ont mis en évidence dimportantes différences entre les sexes.
+Des recherches futures pour comprendre les mécanismes associés à ces différences sexuelles observées dans les expériences rapportées par les patients sont nécessaires.
+A propos d'un cas.
+Objectif:
+La surveillance intégrée de la résistance aux antimicrobiens (ARM) et de lutilisation des antimicrobiens (UMA) dans les secteurs Une seule santé est essentielle pour lefficacité des politiques fondées sur des données probantes, la gérance et le contrôle de la RAM.
+Notre objectif était dévaluer les progrès vers la mise en place dune surveillance complète et intégrée de la RAM/MUA au Canada.
+Matériel et méthodes:
+À partir dune analyse de lenvironnement, dentrevues avec des experts en la matière et de rapports du Centre national de collaboration pour les maladies infectieuses de 2014 et du Conseil canadien des chefs des vétérinaires de 2016, nous avons identifié huit exigences principales en matière de surveillance et leurs composantes spécifiques; ces dernières ont été évaluées à laide dune matrice de classification bidirectionnelle, avec sept éléments communs classés selon le stade de développement.
+Résultats:
+Les composantes qui correspondaient aux exigences dun système de surveillance complet et pleinement intégré de la RAM/MUA se situaient principalement aux stades de développement les plus bas (Exploration ou adoption du programme).
+Cependant, la mise en place du Système canadien de surveillance de la RAM a intégré la déclaration et lexpansion des composantes existantes dans le cadre du Programme canadien de surveillance des infections nosocomiales et du Programme canadien intégré de surveillance de la RAM sont des améliorations.
+Quoi quil en soit, des lacunes évidentes en matière de surveillance de la RAM/MUA au Canada empêchent ce programme global et intégré Une seule santé.
+Conclusion:
+Des mesures sont nécessaires dans trois domaines cruciaux : i) lélaboration dun programme de surveillance complet et intégré de la RAM/MUA, en fonction du succès actuel; ii) les changements apportés aux politiques fédérales, provinciales et territoriales pour exiger des rapports standardisés de la RAM/MUA; et iii) plus de ressources pour la surveillance de la RAM/MUA (personnes dédiées, financement, structures et politiques habilitantes).
+A propos d'un cas.
+Pour quoi faire?
+Les prescriptions opioïdes légitimes peuvent accroître le risque dabus, daddiction et de surdosage des opioïdes chez lenfant et ladolescent.
+La présente étude visait à décrire les habitudes de prescription des analgésiques opioïdes de sortie après une consultation en milieu hospitalier et à déterminer les caractéristiques des patients et des prescripteurs qui sont associés à une prescription prolongée dopioïdes.
+Méthodes:
+Dans une étude de cohorte historique, nous avons identifié les patients qui ont reçu leur congé de lhôpital pour une prescription danalgésique aux opioïdes dans un hôpital pédiatrique tertiaire entre le 1<sup>er</sup> janvier 2016 et le 30 juin 2017.
+Le critère dévaluation principal était la durée de prescription des opioïdes en nombre de jours.
+Nous avons évalué lassociation entre les caractéristiques du patient et du prescripteur et une prescription dopioïdes de plus de cinq jours à laide dune équation destimation généralisée pour tenir compte du regroupement en raison dadmissions répétées dun même patient.
+Résultats:
+Au cours de la période de 18 mois de létude, 15,4 % de tous les patients admis (3 787/24 571) ont reçu un total de 3 870 ordonnances dopioïdes au moment du congé.
+La durée médiane [intervalle interquartile] prescrite de la thérapie opioïde externe était de 3,75 [3,00–5,00] jours.
+Soixante-dix-sept pour cent des ordonnances dopioïdes ont duré cinq jours ou moins.
+Lanalyse des équations destimation généralisée a révélé que le séjour hospitalier > 4 jours, la prescription doxycodone et la prescription par les cliniciens et le service dorthopédie étaient tous indépendamment associés à une prescription dopioïdes de sortie de plus de 5 jours.
+Conclusions:
+La plupart des opioïdes de sortie pour enfants ont été prescrits pour moins de cinq jours, conformément aux lignes directrices actuelles pour les adultes.
+La nouvelle maladie à coronavirus de 2019 est une crise mondiale de santé publique qui touche de manière disproportionnée les patients atteints de maladies préexistantes.
+La maladie cardiovasculaire (MCV) est la principale cause de décès dans le monde et de nombreux facteurs de risque de MCV sont modifiables (p. ex., inactivité physique, comportement sédentaire, obésité).
+Afin de limiter la propagation du coronavirus 2019, la plupart des gouvernements ont mis en place des restrictions et recommandé de rester à domicile, réduisant les contacts sociaux à un nombre restreint et exclusif, et limitant les grands rassemblements.
+Ces contraintes de santé publique peuvent avoir des conséquences sanitaires imprévues et négatives sur les comportements de mouvement des 24 heures.
+Lobjectif principal de cette revue est de fournir des recommandations pratiques à domicile concernant le temps sédentaire, le sommeil et lactivité physique chez les personnes vivant avec une MCV.
+Les adultes atteints de MCV bénéficieront de recommandations pratiques visant à réduire le temps sédentaire, à accroître lexercice ciblé et à maintenir des habitudes de sommeil optimales tout en étant à domicile et en respectant les restrictions de santé publique.
+Nos recommandations sont les suivantes : (i) lautomesure du temps de séance; (ii) lexercice de 2-3 jours par semaine pour ceux qui ont une faible capacité deffort et > 3 jours par semaine pour ceux qui ont une capacité dexercice de moyenne à élevée; (iii) lintensité de lautomesure de lexercice par lutilisation déchelles ou dappareils portables; (iv) le maintien dun horaire de sommeil régulier; et (v) le mouvement quotidien.
+Les cliniciens devraient être conscients que la communication claire de limportance de limiter le temps sédentaire prolongé, de sengager dans une activité physique régulière et dexercer, et dassurer un sommeil optimal en association avec la prestation de conseils clairs, compréhensibles et pratiques est essentielle pour garantir que les personnes vivant avec une MCV répondent de manière optimale aux défis posés par la pandémie.
+Les agents stimulant la fer et lérythropoïétine (ASE) intraveineux (IV) sont des traitements standards de lanémie chez les patients hémodialysés dentretien. Ces médicaments sont associés à des coûts importants pour les programmes dhémodialyse et les patients.
+Des études récentes ont démontré quun protocole de fer IV à forte dose réduit lutilisation de lASE et améliore les résultats cardiovasculaires.
+Le coût de la mise en œuvre dun protocole de fer à fortes doses dans le contexte des soins de santé publics au Canada demeure inconnu.
+Notre objectif principal était destimer les coûts dun protocole de fer IV à forte dose dans un vaste programme canadien dhémodialyse qui utilise actuellement une stratégie de fer IV réactive et à faible dose.
+Notre objectif secondaire était destimer la réduction de lutilisation de lASE nécessaire pour maintenir la neutralité des coûts avec un protocole de fer IV à forte dose.
+Dans cette étude de modélisation de lutilisation du fer IV et de lASE à partir dun programme régional dhémodialyse, les changements dans lutilisation des médicaments ont été calculés à partir des effets observés à partir des données dessais publiés.
+À laide des données dune vérification de lamélioration de la qualité de la prise en charge de lanémie régionale et de lutilisation des médicaments, nous avons estimé les différences potentielles de coûts dans diverses conditions de modélisation.
+Quatre unités d'hémodialyse hospitalière et 9 unités communautaires d'hémodialyse en centre dans le programme de soins rénaux du Rein-Sud de l'Alberta pendant la période d'observation du 1er septembre 2018 au 30 novembre 2018.
+Au total, les données de 826 patients ont été incluses.
+Les doses mensuelles moyennes de fer et dASE ont été obtenues à partir des données de vérification de routine saisies dans un dossier médical électronique.
+Les coûts ont été déterminés à partir des prix des médicaments négociées par la province.
+Les dosages IV actuels du fer et de lérythropoïétine ont été agrégés au niveau de lunité dhémodialyse.
+Nous avons utilisé les résultats de l'essai PIVOTAL pour estimer l'augmentation attendue de la dose de fer IV et la réduction de la dose d'ASE avec un protocole de fer IV à forte dose.
+Nous avons supposé que la division entre différents fabricants de fer IV et dASE était maintenue dans notre modèle de coût.
+Les coûts totaux des médicaments ont été regroupés par unité dhémodialyse, et les coûts moyens dans chaque unité ont été utilisés pour estimer les coûts par patient.
+Les analyses de sensibilité incluaient des modèles qui supposaient une utilisation de 100 % de saccharose en fer par IV, ainsi que des modèles où les unités dhémodialyse communautaire et les unités dhémodialyse hospitalière étaient examinées séparément.
+Enfin, nous avons calculé un seuil de rentabilité pour la réduction de la dose dASE nécessaire au maintien de la neutralité des coûts.
+RÉSULTATS: L'utilisation réelle de la dose de base de fer IV et de l'ASE dans 13 unités d'HD adultes était de 118 mg/patient/mois (intervalle de confiance [IC] de 95%: 102-134 mg) et de 20,764 UI/pt/mois (IC de 95%: 18,104-23,424 UI), respectivement.
+Le coût combiné moyen de l'ASE et du fer IV était de 315 $/pt/mois (IC à 95%: 274 $355).
+En comparaison, à laide des résultats de lessai PIVOTAL et en supposant un scénario de fer IV à dose élevée, nous avons estimé lutilisation moyenne du fer IV à 215 mg/pt./mo. (IC à 95 % : 187-243 mg/pt./mo.) et une réduction de lutilisation moyenne de lASE à 15 923 UI/pt./mo. (IC à 95 % : 13 883-17 962 UI/pt./mo.). Cela a entraîné des économies de coûts estimées à 38 $/pt./mo. (IC à 95 % : 33 $-42 $/pt./mo.) et une économie totale du programme de 370 000 $ par année (IC à 95 % : 325 000 $-420,000 $).
+Les analyses de sensibilité dans diverses conditions alternatives ont également montré des économies potentielles.
+Nous avons estimé qu'une réduction de la dose d'ASE de 10 % serait nécessaire pour assurer la neutralité des coûts grâce à un protocole de fer IV à forte dose.
+Notre étude est limitée dans son utilisation des données dun seul essai contrôlé randomisé (ECR) pour estimer les économies de coûts plutôt que lutilisation actualisée.
+Nos modèles ne tiennent pas compte des réductions anticipées des transfusions et des hospitalisations qui pourraient être réalisées à partir dun protocole de fer IV à forte dose.
+Daprès la modélisation des coûts, un protocole de fer IV à forte dose pourrait être intégré dans un vaste programme dhémodialyse régionale au Canada de manière à réduire les coûts.
+Les programmes de mise en œuvre dun tel protocole devraient surveiller de manière prospective lutilisation du fer IV et de lEPO pour déterminer si le protocole dessai appliqué dans un contexte réel se traduit par des économies de coûts.
+Adapter le processus d'examen éthique de la recherche sur la COVID-19: le point de vue des réviseurs du Pakistan
+Les comités déthique de la recherche (CER) dans le monde ont adapté leurs réponses pour fournir des revues rapides des propositions de recherche à la suite de la pandémie de COVID-19.
+Le C.R.C. du Comité national de bioéthique (CNB) du Pakistan a suivi la même voie.
+Explorer les perceptions des réviseurs de NBC-REC qui ont examiné les propositions de recherche sur la COVID-19 tout en décrivant le système de révision rapide des délais (RRT) récemment mis en place.
+La présente étude transversale a utilisé trois méthodes de collecte de données : un questionnaire démographique rempli par des membres permanents et des examinateurs cooptés; des entretiens qualitatifs approfondis menés auprès des deux groupes; et un examen des documents liés aux propositions de recherche sur la COVID-19.
+Huit membres permanents et trois membres cooptés ont participé.
+Dans le cadre du système RTR, le délai dexamen a été établi à 72 heures après la réception de la proposition.
+Le comité a examiné 55 projets sur 10 mois.
+Les participants ont décrit de nombreux points forts du nouveau système, y compris lintroduction de discussions en ligne via Zoom ainsi que la présence de membres cooptés menant à des possibilités dapprentissage, particulièrement pour les membres juniors.
+Le système RTR a également permis à NBC-REC dobtenir une reconnaissance quil navait pas déjà apprécié.
+Les difficultés identifiées par les répondants incluaient la difficulté initiale de mettre en route le système et des délais plus serrés qui pourraient avoir compromis la qualité de lexamen.
+La mauvaise qualité scientifique des propositions, aggravée par des pressions externes visant à obtenir une approbation rapide, sajoute aux frustrations des examinateurs.
+Bien que fructueuse, le système RTR a été considéré comme non viable au-delà d'une urgence de santé publique.
+Ladaptation des processus dexamen éthique est essentielle en situation durgence, mais les lignes directrices existantes doivent être modifiées en fonction des besoins contextuels.
+A propos d'un cas.
+Objectifs:
+La Commission de vérité et de réconciliation comprend un appel à laction pour combler les lacunes en matière de résultats pour la santé, y compris le diabète de type 2, dont la qualité de lalimentation doit être considérée comme un important médiateur.
+Les objectifs de cette étude étaient de comparer la qualité de lalimentation entre adultes autochtones et non autochtones hors réserve en 2004 et 2015, et dexaminer la sécurité alimentaire comme un prédicteur de la qualité de lalimentation.
+Méthodes:
+Nous avons utilisé un modèle transversal répété à laide des Enquêtes sur la santé dans les collectivités canadiennes de 2004 et de 2015-nutrition.
+Les deux enquêtes incluent un échantillon représentatif de la population canadienne dans les 10 provinces, à lexclusion des territoires du Nord et des personnes vivant dans les réserves.
+Les valeurs de lindice de santé alimentaire (HEI) ont été estimées, à laide de rappels alimentaires de 24 heures, pour la population autochtone et non autochtone dans chaque période.
+Après lappariement, un modèle linéaire généralisé a été appliqué pour tester les différences dICH entre les groupes au cours de la période, en tenant compte de la sécurité alimentaire des ménages.
+Résultats:
+Dans lensemble, les scores dIRA nétaient pas significativement différents pour les hommes et les femmes autochtones en 2015 par rapport à 2004, mais ils ont continué dêtre inférieurs à ceux de la population non autochtone.
+Les adultes autochtones ont fait état dune qualité de leur alimentation significativement inférieure, indépendamment du statut de sécurité alimentaire et dautres facteurs.
+Les scores relatifs au pourcentage d'énergie des « autres » aliments se sont améliorés en 2015 par rapport à 2004.
+Conclusion:
+Les disparités alimentaires persistent entre les populations autochtones et non autochtones.
+Bien quil soit nécessaire de sattaquer à linsécurité alimentaire des ménages au sein des populations autochtones pour améliorer la qualité de lalimentation, elle ne suffit pas.
+Il y a une variabilité du taux déclaré dinefficacité de la biopsie post-prostataire.
+La charge et les facteurs prédictifs potentiels de cette morbidité ne sont pas bien étudiés chez les patients africains.
+La présente étude visait à évaluer lincidence ainsi que les facteurs cliniques et histologiques affectant la fonction dannulation chez les patients subissant une biopsie transrectale de la prostate dans une population africaine.
+Une étude de cohorte observationnelle a été réalisée chez 68 hommes adultes, 40 ans et plus, qui devaient subir une biopsie transrectale de prostate pour un cancer de prostate suspect.
+Ceux qui ne pouvaient pas se vider spontanément, qui avaient des troubles neurologiques ou qui prenaient des médicaments qui pouvaient affecter la vidange, ont été exclus de la recherche.
+Les données sur les caractéristiques démographiques des patients ont été collectées.
+Lurofluorométrie a été réalisée pour obtenir le débit durine maximum des patients au départ et sept jours après lintervention.
+Le volume prostatique a été déterminé et la présence dautres facteurs de risque cliniques et histologiques potentiels a été enregistrée.
+La présence dautres complications de biopsie liées aux saignements a également été consignée.
+Lanalyse statistique a été effectuée à laide du SPSS, avec une valeur de p inférieure à 0,05 déclarée significativement.
+Linefficacité de la vidange a été notée chez 28 (41,2 %) des patients ayant une majorité, 21 (75,0 %), avec une diminution de 5 à 9 points de leurs valeurs de débit de pointe de septième jour.
+Lhématurie post-biopsie est survenue dans 37 (54,4 %) de la population.
+La présence d'hématurie avec caillots sanguins a été associée à une augmentation de 10,9 fois du risque d'annulation de l'inefficacité après l'intervention (p = 0,006).
+Environ deux patients sur cinq ont développé une biopsie post-prostataire qui a pour effet déviter linefficacité.
+La présence de caillots sanguins était indépendamment. associée à la survenue de cette morbidité.
+Mot-clé:
+Symptômes du bas appareil urinaire; biopsie prostatique; facteur de risque; rétention urinaire.
+Larthrite septique est considérée comme une urgence médicale.
+La maladie après colonisation bactérienne peut entraîner une morbidité et une mortalité importantes et nécessite un traitement coûteux.
+Les propriétés antimicrobiennes des thérapies régénératives, y compris les cellules stromales mésenchymateuses et les produits plaquettaires, ont fait lobjet de recherches approfondies en médecine humaine.
+Bien que moins détudes aient été menées sur des espèces vétérinaires, elles ont montré des résultats prometteurs.
+Lobjectif de cette étude était dévaluer la suppression bactérienne par le lysat de plaquettes équines (LEP) et les cellules stromales mésenchymateuses dérivées de ladipode (ASC) <i>in vitro</i>. Nous avons émis lhypothèse que les deux produits inhiberaient significativement la croissance de <i>Staphylococcus aureus</i> et <i>Escherichia coli</i>. Le sang en grappe de 10 chevaux a été utilisé pour la production dEPL.
+Les cellules stromales mésenchymateuses ont été isolées du tissu adipeux prélevé dans la région fessière de trois chevaux.
+Létude a évalué trois groupes de traitement : 10 × EPL, 1,6 million de SCA, et un témoin, à laide dune conception incomplète de blocs déséquilibrés avec des mesures répétées.
+Les valeurs de densité optique et les unités formant des colonies/mL ont été calculées à 0, 3, 6, 9, 12, 18 et 24 heures.
+La diminution de la croissance bactérienne a été observée à plusieurs moments pour les traitements de <i>S. aureus</i>-ASC et <i>S. aureus</i>-EPL, soutenant notre hypothèse.
+Une augmentation de la croissance bactérienne a été observée dans le groupe <i>E. coli</i>-EPL, sans différence dans le traitement de <i>E. coli</i>-ASC, ce qui sest opposé à notre hypothèse.
+Une conclusion claire des effets antimicrobiens des EPL et des ASC ne peut être faite à partir de cette étude <i>in vitro</i>.
+Bien quil semble que les SCA aient un effet significatif sur la diminution de la croissance de <i>S. aureus</i>, dautres études sont nécessaires pour explorer ces effets, particulièrement chez les bactéries à Gram positif.
+Le professeur Randi Haaland est un archéologue norvégien avec une approche anthropologique distinctive et des intérêts de recherche mondiaux.
+Dans cette conversation, Randi Haaland réfléchit à son engagement extraordinaire et multidimensionnel avec larchéologie et lAfrique depuis plus de 50 ans, de son expérience formative en tant que jeune femme parmi la Fur au Soudan au milieu des années 1960, à travers sa recherche entre les paradigmes processuel et post-processus, aux programmes de renforcement des capacités quelle a mis en œuvre avec le soutien de lAgence norvégienne de coopération au développement (NORAD).
+Randi Haaland a créé son chemin unique dans l'archéologie de l'Afrique.
+Cet entretien montre quil sagit de la bonne voie vers une compréhension nouvelle et approfondie du passé humain, en particulier sur la culture alimentaire, les débuts de la production alimentaire, le genre et la technologie.
+A propos d'un cas.
+Contexte:
+La technique régionale optimale de lutte contre la douleur après chirurgie du cancer du sein reste floue.
+Nous avons voulu synthétiser les données disponibles issues dessais contrôlés randomisés comparant les résultats liés à la douleur selon diverses techniques régionales de chirurgie mammaire oncologique majeure.
+Méthodes:
+Dans une revue systématique et une méta-analyse en réseau, nous avons recherché des essais dans PubMed, Embase Scopus, Medline, Cochrane Central et Google Scholar, depuis leur création jusquau 31 juillet 2020, pour les techniques régionales couramment utilisées.
+Le critère dévaluation principal était le score de douleur au repos de 24 heures mesuré sur un score numérique de 0-10.
+Nous avons utilisé la surface sous la courbe cumulative de classement (SUCRA) pour établir la probabilité dune intervention qui se classe le plus haut.
+Lanalyse a été réalisée à laide du modèle des effets aléatoires bayésiens, et la taille des effets est rapportée comme un intervalle crédible (Crl) de 95 %.
+Nous avons procédé à une analyse par grappes en combinant le classement de la douleur sur 24 heures à lutilisation dopioïdes sur 24 heures ou à lincidence des nausées et vomissements postopératoires.
+Résultats:
+Soixante-dix-neuf essais contrôlés randomisés contenant 11 interventions différentes chez 5 686 patients ont été inclus.
+Les valeurs SUCRA des interventions pour score de douleur au repos de 24 heures étaient le bloc paravertébral continu (0,83), le bloc du plan antérieur de serratus (0,76), l'infusion continue de plaie (0,76), le bloc paravertébral à un seul niveau (0,68), le bloc du plan de spinae érectile (0,59), le bloc pectoral modifié (0,49), le bloc intercostal (0,45), le bloc paravertébral à plusieurs niveaux (0,41), l'infiltration de plaie (0,33), aucune intervention (0,12) et le placebo (0,08).
+Par rapport au placebo, le bloc paravertébral continu (différence moyenne, 1,26; Crl à 95 %, 0,43 à 2,12) et le bloc du plan antérieur du serratus (différence moyenne, 1,12; Crl à 95 %, 0,32 à 1,9) avaient la plus forte probabilité estimée de diminuer les scores de douleur au repos de 24 heures.
+Lanalyse par regroupement associant les scores de douleur au repos de 24 heures et lutilisation dopioïdes a montré que la plupart des techniques danalgésie régionale étaient plus efficaces que labsence dintervention ou de placebo.
+Néanmoins, linfiltration de plaies et la perfusion continue de plaies peuvent être les interventions actives les moins efficaces pour réduire les nausées et vomissements postopératoires.
+Conclusion:
+Le bloc paravertébral continu et le bloc du plan antérieur du serratus avaient une forte probabilité de réduire la douleur à 24 heures après une chirurgie mammaire oncologique majeure.
+La certitude des données probantes était modérée à très faible.
+Les études futures devraient comparer différentes techniques danesthésie régionale, y compris les techniques administrées par le chirurgien, telles que linfiltration de plaies ou les cathéters.
+Il est peu probable que les essais comparant lintervention active au placebo modifient la pratique clinique.
+Inscription à l'étude:
+La rétroaction sur la performance peropératoire demeure une pierre angulaire de la formation chirurgicale.
+La lecture vidéo offre une méthode potentielle pour une rétroaction plus efficace aux résidents en chirurgie.
+Dautres recherches sont nécessaires pour mieux comprendre cette méthode.
+La présente étude explore la nature des interactions et des commentaires pédagogiques au bloc opératoire (OR) et lors de lutilisation de la lecture vidéo lors de lexamen postopératoire en formation en gynécologie-obstétrique (OBGYN).
+Cette étude de cas a eu lieu entre septembre 2016 et février 2017.
+Trois résidents de lOBGYN et cinq chirurgiens superviseurs de lOBGYN ont été impliqués dans six cas de laparoscopie.
+Des dialogues peropératoires et de lecture vidéo ont été enregistrés et analysés, les premiers utilisant de manière déductive des codes identifiés à partir de la littérature publiée, et les seconds utilisant de manière déductive les mêmes codes, et inductive, avec des codes qui sont ressortis des données au cours de l'analyse.
+1090 interactions peropératoires ont été identifiées dans les 376 minutes suivant le dialogue.
+La plupart des interactions étaient didactiques, ce qui expliquait au résident comment utiliser un instrument pour effectuer une tâche.
+Lanalyse déductive de la lecture vidéo postopératoire a permis didentifier 146 interactions en 155 minutes.
+Bien que le type dinteraction le plus courant soit resté didactique, un élément denseignement a été inclus plus souvent.
+Il est devenu évident que lanalyse déductive utilisant les codes peropératoires ne permettait pas de saisir adéquatement la nature et le foyer de la rétroaction lors de la lecture vidéo.
+Lanalyse phénoménologique herméneutique a permis didentifier plus de séances de lecture vidéo en dialogue avec plus de questions et de réflexions initiées par des résidents.
+Cette étude démontre que la nature de la rétroaction lors de la lecture vidéo est fondamentalement différente de celle du bloc opératoire, offrant un plus grand potentiel dapprentissage collaboratif et amélioré.
+Déterminants de l'indice de développement de la petite enfance chez les enfants de moins de 5 ans au Bangladesh, au Costa Rica et au Ghana : étude comparative
+Le développement précoce de lenfant est un facteur crucial pour les enfants qui contrôlent la santé et le bien-être dans la vie ultérieure.
+Déterminer linfluence des facteurs sociodémographiques sur lindice de développement de la petite enfance (IDCE) chez les enfants de moins de 5 ans.
+Lanalyse a été réalisée à laide des données denquêtes transversales de 2019, 2017-2018 et des enquêtes par grappes à indicateurs multiples de 2018 du Bangladesh, du Ghana et du Costa Rica, respectivement.
+Nous avons utilisé le test χ<sup>2</sup> pour lanalyse bivariée et le modèle de régression logistique binaire pour lanalyse multivariée dans les trois pays.
+Toutes les analyses statistiques ont été effectuées avec IBM SPSS version 25 et R version 4.0.0.
+L'âge et le sexe de l'enfant, suivis du niveau d'éducation de la mère, de l'état économique, de l'état nutritionnel de l'enfant, de la lecture des livres d'enfants et des difficultés fonctionnelles de la mère ont eu le plus grand impact sur l'EDIC.
+Les enfants âgés de 36 à 47 mois avaient des chances de développement plus faibles que ceux âgés de 48 à 59 mois, et les garçons avaient des chances de développement plus faibles que les filles au Bangladesh, au Costa Rica et au Ghana.
+Les chances de développement des enfants en milieu urbain étaient plus faibles que celles des enfants en milieu rural au Costa Rica, mais plus élevées au Ghana.
+Nous recommandons que les gouvernements prennent les mesures nécessaires pour améliorer le développement et le bien-être précoces des enfants dans les trois pays en élevant l'éducation, en améliorant les conditions économiques et en assurant une nutrition équilibrée.
+Mise en œuvre et efficacité de l'apprentissage intergénérationnel au cours de la pandémie de COVID-19 : données probantes de la Chine
+Pendant la pandémie de COVID-19, de nombreux grands-parents chinois ont passé plus de temps avec leurs petits-enfants quauparavant.
+Lorsque leurs enfants adultes sont retournés au travail après une période de confinement, de nombreux grands-parents ont élargi leur rôle à la prise en charge des tâches du ménage et à la prise en charge des besoins fondamentaux de leurs petits-enfants afin de superviser leur apprentissage en ligne et de fournir un soutien scolaire.
+Cela a été une occasion précieuse pour les enfants et leurs grands-parents dapprendre à mieux se connaître et à apprendre les uns des autres.
+Pendant cette période difficile dapprentissage à domicile, une initiative chinoise appelée « Shaping Students' Vacation Life Project » (SSVLP), dirigée par lInstitut municipal de Shanghai pour léducation tout au long de la vie (SMILE) de lUniversité normale de Chine orientale (ECNU), a mené un projet de deux mois qui portait sur lapprentissage intergénérationnel entre grands-parents et petits-enfants (IL-GP&GC) dans sept écoles primaires situées dans six régions de Chine.
+Ils ont exploré des sujets tels que la prévention de la pandémie, la santé et la condition physique, la culture traditionnelle et la littératie en information.
+Par la suite, les co-auteurs de cet article ont mené une enquête interprétative afin dexplorer comment les écoles primaires participantes ont mis en œuvre le projet IL-GP&GC et de comprendre son impact.
+À partir dentretiens approfondis avec 11 enseignants et 7 familles (dont 7 petits-enfants âgés de 7 à 13 ans, et leurs 7 grands-parents âgés de 60 à 68 ans), quatre principaux résultats se sont dégagés : (1) les deux générations ont acquis davantage de connaissances sur la santé, de compétences et de valeurs en matière de vie quotidienne; (2) la génération plus âgée a modifié leur perspective dapprentissage et leurs comportements; (3) la génération plus jeune a mieux compris leurs grands-parents et a cultivé le concept dapprentissage tout au long de la vie; et (4) les relations entre grands-parents et petits-enfants se sont rapprochées.
+A propos d'un cas.
+Pour quoi faire?
+La pandémie de COVID-19 a entraîné des unités de soins intensifs (USI) à atteindre des capacités nécessitant un triage.
+Un outil de prédiction du risque de mortalité chez les patients ventilés atteints de COVID-19 pourrait éclairer la prise de décision et lallocation des ressources, et permettre des comparaisons au niveau de la population entre les établissements.
+Méthodes:
+Cette étude de cohorte rétrospective incluait tous les adultes ventilés mécaniquement atteints de COVID-19 admis dans trois USI de soins tertiaires à Toronto, en Ontario, entre le 1er mars 2020 et le 15 décembre 2020.
+Des équations destimation généralisée ont été utilisées pour identifier les variables prédictives de la mortalité.
+Le critère dévaluation principal était la probabilité de décès à trois jours dintervalle entre le moment de ladmission à lUSI (jour 0), avec un nouveau calcul du risque tous les trois jours jusquau jour 15; le calcul du risque final a estimé la probabilité de décès au jour 15 et au-delà.
+Un algorithme numérique a été développé à partir des coefficients du modèle final.
+Résultats:
+Cent vingt-sept patients étaient admissibles à linclusion.
+La durée médiane du séjour à lUSI était de 26,9 jours (intervalle interquartile, de 15,4 à 52,0 jours).
+La mortalité globale a été de 42 %.
+Du jour 0 au jour 15, les variables dâge, de température, de taux de lactate, de volume de ventouse et dutilisation des vasopresseurs prédisaient significativement la mortalité.
+Notre score de risque clinique final avait une zone sous la courbe des caractéristiques de fonctionnement du récepteur de 0,9 (intervalle de confiance [IC] de 95 %, de 0,8 à 0,9).
+Pour chaque augmentation de dix points du score de risque, laugmentation relative des chances de décès était denviron 4, avec un ratio de cotes de 4,1 (IC à 95 % : 2,9 à 5,9).
+Conclusion:
+Notre outil de prédiction dynamique de la mortalité chez les patients ventilés atteints de COVID-19 a dexcellentes propriétés diagnostiques.
+Contexte:
+Les tests dhyperadrénocorticisme sont généralement pratiqués chez des chiens adultes atteints de maladie dermatologique, et la suppression cortico-surrénale a été bien documentée après lutilisation de corticoïdes topiques dans les préparations doties.
+Une suspension otique contenant du florfénicol, de la terbinafine et du furoate de mometasone, et dure 30 jours après une application unique, est fréquemment utilisée pour traiter lotite externe canine (OE).
+Il a été démontré que ce médicament provoque une suppression cortico-surrénale le jour (D)2 après ladministration et deux semaines après deux applications dintervalle de deux semaines.
+Hypothèse/objectifs:
+Lobjectif de cette étude était de déterminer si le furoate de florfénicol topique/terbinafine/mométasone provoque une suppression corticale surrénalienne chez des chiens sains de petit races avec une OE bilatérale à D28 post-application.
+Animal:
+Sept chiens de propriétaires pesant moins de 10 kg et diagnostiqués avec une OE bilatérale non pseudomonas.
+Matériel et méthodes:
+Le cortisol a été mesuré par stimulation pré- et post-adrénocorticotrope (ACTH) sur D0.
+Le furoate topique de florfénicol/terbinafine/mométasone a été appliqué dans les deux oreilles.
+Les chiens ont été réévalués sur D28, et le cortisol a été mesuré avant et après stimulation par lACTH.
+Résultats:
+Les concentrations médianes de cortisol avant et après lACTH sur D28 étaient de 2,5 μg/dL (entre 2,0 et 5,0 μg/dL) et de 14,3 μg/dL (entre 11,5 et 23,1 μg/dL), respectivement.
+Il ny avait pas de différence significative (P = 0,85) entre les concentrations de cortisol post-ACTH de D0 à D28.
+Conclusions et pertinence clinique:
+Les résultats nont démontré aucune preuve de suppression cortico-surrénale, ce qui suggère quil nest pas nécessaire de retarder lexamen de la fonction cortico-surrénale chez les chiens traités par furoate de florfénicol/terbinafine/mométasone topique lorsquil est appliqué conformément aux recommandations du fabricant.
+Le blocage du plexus brachial (BPB) est une procédure de plus en plus populaire chez les chirurgiens et les anesthésistes impliqués dans la chirurgie des membres supérieurs.
+La sécurité et les bénéfices de la chirurgie de la main ne sont pas clairs.
+Un examen rétrospectif des dossiers a été effectué pour examiner tous les cas de main opératoire sur une période de deux ans.
+Tous les cas de fixation interne de réduction ouverte du métacarpien (ORIF) ont été inclus. Les cas ont été exclus si le patient en pédiatrie, des interventions supplémentaires effectuées, et/ou une diminution de la LOC.
+Des tests statistiques paramétriques ont été effectués.
+Au total, 54 cas avec anesthésie générale (AG) et 48 cas avec BPB ont été identifiés pour létude (n = 102).
+Le temps total moyen entre le bloc opératoire et le congé a été de 245 ± 72 minutes dans le groupe GA et de 195 ± 54 minutes dans le groupe BPB (<i>P</i> < 0,001).
+Parmi ceux qui avaient une GA, 47 patients/54 ont eu besoin dune analgésie postopératoire contre 12/48 dans la BPB (<i>P</i> < 0,001).
+De tous, 25/52 et 5/48 patients ont eu besoin dun antiémétique postopératoire dans les groupes GA et BPB, respectivement (<i>P</i> < 0,001).
+La nécessité dune médication parentérale postopératoire était également significativement différente (<i>P</i> < 0,001).
+Il sagit de la première étude à examiner spécifiquement les techniques danesthésique de lORIF des fractures de la main, en ajoutant au corpus de la littérature établissant la BPB comme méthode sûre et efficace danesthésie.
+A propos d'un cas.
+Contexte:
+Des hormones comme la testostérone jouent un rôle crucial dans lamélioration de la performance et la croissance musculaire.
+Par conséquent, diverses tentatives daugmentation de la libération de testostérone et de la concentration de testostérone ont été faites, en particulier dans le contexte de lentraînement à la résistance.
+Chez les praticiens, lactivité sexuelle (coitus et masturbation) quelques heures avant lentraînement est souvent discutée pour entraîner une augmentation de la concentration de testostérone et ainsi favoriser la croissance musculaire.
+Cependant, il nexiste aucune preuve à lappui de cette hypothèse et la cinétique de la réponse à la testostérone et au cortisol après lactivité sexuelle na pas fait lobjet détudes adéquates.
+Par conséquent, le but de cette étude pilote était dexaminer la cinétique des concentrations hormonales de testostérone totale, de testostérone libre et de cortisol et leurs rapports après la masturbation.
+Dans une étude croisée à trois bras en aveugle, les effets de la masturbation avec stimulus visuel ont été comparés à un stimulus visuel sans masturbation et à la cinétique naturelle chez des jeunes hommes en santé.
+Résultats:
+Les résultats ont montré une différence significative entre les conditions de concentration de testostérone libre.
+La masturbation (p < 0,01) et un stimulus visuel (p < 0,05) peuvent sembler contrer la chute circadienne des concentrations de testostérone libre au cours de la journée.
+Cependant, aucun changement statistique na été observé dans les rapports entre la testostérone totale, la testostérone libre et le cortisol.
+Conclusions:
+On peut supposer que la masturbation peut avoir un effet potentiel sur les concentrations de testostérone libre, mais pas sur les rapports hormonaux.
+La sarcopénie, perte de masse/fonction du muscle squelettique liée à lâge, a été identifiée comme un marqueur de fragilité.
+Nous avons examiné lassociation entre la sarcopénie et les événements indésirables après limplantation valvulaire aortique transcathéter (TAVI).
+Une étude de cohorte rétrospective a été menée à lHôpital général de Toronto.
+Tous les patients ayant subi une VAT entre 2007 et 2017 avec tomodensitométrie préopératoire ont été inclus.
+Lindice du muscle squelettique (IMS) a été calculé par radiographie à laide de la zone du muscle psoas au niveau vertébral L3, divisé par la taille.
+Diverses mesures de la sarcopénie, y compris l'IMS moyen, l'IMS inférieur à la médiane spécifique du sexe et l'IMS dans le quartile spécifique du sexe le plus bas, ont été calculées.
+Le critère dévaluation principal était les effets indésirables postopératoires, définis comme une combinaison de la mortalité et de la morbidité à lhôpital, y compris les complications cardiovasculaires, pulmonaires, neurologiques, liées à laccès et gastrointestinales.
+Une régression logistique univariée et multivariée a été réalisée pour déterminer lassociation entre la sarcopénie et les événements indésirables.
+Au total, 468 patients (âge moyen: 80,7 ans) ont été inclus.
+Le fardeau de la comorbidité de base était élevé, particulièrement linsuffisance cardiaque congestive (93,4 %).
+Les événements indésirables postopératoires sont survenus chez 62 patients (13,2%).
+Une régression logistique univariée a démontré que les événements indésirables postopératoires étaient corrélés avec l'IMS moyen (rapport des cotes [RC] 0,81, IC de confiance interale [95 %] 0,66-0,97), les événements étaient inférieurs à l'IMS (RC 2,16, IC de 95 % 1,24-3,84) et à l'IMS dans le quartile le plus bas (RC 2,34, IC de 95 % 1,33-4,07).
+À lanalyse multivariée, lIMS dans le quartile le plus bas sex-spécifique était un prédicteur indépendant des événements indésirables (OR 2,53, IC à 95 % 1,41-4,50).
+La sarcopénie définie par des mesures radiologiques du psoas était indépendamment associée à la mortalité et à la morbidité en milieu hospitalier après lIVT.
+A propos d'un cas.
+Objectifs:
+Les membres des Premières Nations sont confrontés à des défis importants qui peuvent influer sur la capacité de respecter les directives de santé publique de la COVID-19 dans les réserves.
+La présente étude visait à décrire les expériences, les perceptions et les circonstances dune communauté des Premières Nations de lAlberta, liées aux conseils de santé publique en matière de COVID-19.
+Nous avons émis l'hypothèse que de nombreux défis se posaient lorsqu'il s'agissait de suivre et de mettre en œuvre les conseils d'experts en santé publique.
+Méthodes:
+Avec le leadership et le personnel des Premières Nations, un sondage transversal en ligne a été déployé entre le 24 avril et le 25 juin 2020.
+Il a évalué la pertinence des conseils de santé publique pour réduire la COVID-19 au sein de cette importante communauté des Premières Nations.
+Les données quantitatives et qualitatives ont été saisies et décrites.
+Résultats:
+Au total, 106 adultes vivant dans les réserves ont répondu; plus de 80 % étaient des femmes.
+La difficulté daccéder à la nourriture était significative en fonction du statut demploi (p = 0,0004).
+Les personnes à faible revenu ont trouvé plus difficile daccéder à la nourriture (p = 0,0190) et dobtenir des soins médicaux essentiels (p = 0,0060), des vêtements (p = 0,0280) et des transports (p = 0,0027).
+Certains répondants ont décrit les pertes de revenus associées aux expériences de COVID-19, ainsi que les difficultés daccès aux fournitures essentielles.
+Les répondants ont trouvé le « lavage des mains propre » plus facile (98 %) et « garder une distance de 2 m des autres » plus difficile (23 %).
+De nombreux répondants ont trouvé quil était facile de suivre les conseils de santé publique dans leur domaine personnel et daccorder la priorité à la « sécurité familiale », mais ils ont éprouvé certaines difficultés lorsquils naviguaient sur des aspects et des obligations sociaux, particulièrement lorsquils nétaient pas en mesure de contrôler les actions des autres.
+Les gens ont dit vouloir une information claire, mais ont parfois critiqué la réponse de la COVID-19.
+Conclusion:
+Nous avons déterminé limpact des systèmes électroniques dadministration de nicotine sur les résultats et les coûts pour la santé au Canada, en fonction de leurs effets sur les taux dabandon du tabac et dinitiation du tabagisme.
+Nous avons utilisé des modèles de Markov spécifiques au sexe pour estimer les années de vie actualisées à vie, les années de vie ajustées sur la qualité (QALY) et les coûts des soins de santé liés au tabagisme pour les cohortes d'hommes et de femmes âgés de 15 à 19 ans, dans des scénarios où (1) les SDN sont disponibles (quotidien); (2) les SDN sont complètement indisponibles; et (3) les SDN sont disponibles pour l'arrêt du tabac par prescription du fournisseur de soins de santé, en plus des outils d'arrêt du tabac actuellement reconnus.
+Lanalyse était du point de vue dun système de santé financé par lÉtat.
+Les résultats sont exprimés pour 1000 individus et basés sur les valeurs attendues obtenues par une simulation de Monte Carlo de 10 000 réplications.
+Pour les hommes âgés de 15 à 19 ans, les années de vie, les QALY et les coûts des soins de santé liés au tabagisme étaient de 41 553, 35 871 et 79 645 964 CAD, respectivement, lorsque les SDN étaient disponibles; de 41 568, 35 894 CAD et 79 645 960 CAD lorsque les SDN nétaient pas disponibles; et de 41 570, 35 897 CAD et 79 605 869 CAD lorsque les SDN étaient disponibles uniquement sur ordonnance.
+Pour les femmes, les années de vie, les AVCI et les coûts des soins de santé liés au tabagisme étaient de 43 596, 37 416 et 69 242 856 CAD, respectivement, lorsque les SPDN étaient disponibles; 43 610, 37 438 et 69 085 926 CAD lorsque les SPDN nétaient pas disponibles; et 43 611, 37 438 et 69 076 034 CAD lorsque les SPDN étaient disponibles uniquement sur ordonnance.
+Ainsi, les situations dans lesquelles les SDN ne sont pas disponibles ou disponibles par prescription seulement sont dominantes par rapport au statu quo.
+Ces résultats montrent quun changement de politique selon lequel les SPDN nétaient pas disponibles pour la population canadienne ou disponibles uniquement sur ordonnance augmenterait probablement la santé de la population et réduirait les coûts des soins de santé.
+Contexte:
+Les médicaments de qualité inférieure et les médicaments falsifiés représentent une grave menace pour la santé publique dans le monde entier, mais affectent de manière disproportionnée les pays qui ne disposent pas de ressources suffisantes pour mettre en place des mécanismes de réglementation pharmaceutique faibles.
+La prescription de médicaments est un événement dans lequel un médecin praticien (MP) est un décideur pour le consommateur ultime qui est le patient.
+But:
+Létude visait à décrire la sensibilisation, lidentification, lutilisation et les obstacles à lutilisation des technologies de lutte contre la contrefaçon au point de service et les facteurs, les dangers et les mesures de prévention des médicaments sous-normaux et falsifiés parmi les MP dans lÉtat de lAbia.
+Méthodes:
+Il s'agissait d'une étude transversale réalisée sur 178 MP dans l'État d'Abia, au Nigéria.
+Les données ont été collectées à laide dun questionnaire auto-administré qui a permis dobtenir de linformation sur la sensibilisation, lidentification, lutilisation des TCA et ses obstacles.
+Les facteurs de risque, les dangers et les mesures de prévention des médicaments inférieurs et falsifiés ont également été étudiés.
+Résultats:
+Lâge moyen ± TS des répondants était de 34±8,2 (plage de 24 à 72 ans).
+Il y avait 159 hommes (89,3 %).
+Tous les répondants (100 %) étaient au courant des cas dACMT au point de service, les types les plus souvent identifiés étant létiquetage (100 %), lemballage (100 %), limpression graphique (100 %) et les numéros didentification mobiles (MAN) (100 %).
+Les technologies détiquetage (100%), demballage (100%) et dimpression (100%) étaient les plus utilisées.
+La contrainte de temps (100 %) était la principale barrière prédisposante à lutilisation des TCA.
+Les classes les plus fréquentes de médicaments falsifiés et sous-standard étaient les antipaludéens (100%), antibactériens (100%) et analgésiques (100%).
+Le facteur le plus fréquent et le danger des médicaments sous-normes et falsifiés évoqués par les répondants étaient les mauvais systèmes de réglementation des produits pharmaceutiques (100 %) et les échecs du traitement (100 %), respectivement.
+La mesure de prévention la plus recommandée était la sécurisation de la chaîne d'approvisionnement des médicaments (100%).
+Conclusion:
+La connaissance des TCA au point de service était très élevée, mais ne semblait pas se traduire par des utilisations comparables pour tous les types.
+Les techniques détiquetage, demballage et dimpression les plus utilisées étaient les TCA les plus utilisées.
+La contrainte de temps a été identifiée comme un possible obstacle prédominant à lutilisation des TCA.
+Les classes les plus fréquentes de médicaments sous-standard et falsifiés étaient les médicaments antipaludéens, antibactériens et analgésiques.
+On a estimé que le facteur le plus courant des médicaments sous-normes et falsifiés était le mauvais système de réglementation des produits pharmaceutiques et que tout cela pourrait entraîner des échecs de traitement.
+La sécurisation de la chaîne dapprovisionnement des médicaments peut servir de mesure préventive efficace.
+Mot-clé:
+Les technologies de la médecine anti-Counterfeit; Nigéria; les obstacles; l'identification; les utilisations.
+Le Programme canadien de nutrition prénatale (PCNP) aide les organismes communautaires à fournir des services de santé maternels aux femmes vulnérables sur le plan social et économique.
+Dans le cadre de notre programme de recherche explorant les possibilités doffrir un soutien postnatal à lallaitement par lentremise du PCNP, nous avons étudié les caractéristiques sociodémographiques et psychosociales des clients inscrits dans un site du PCNP de Toronto et avons exploré les associations avec la participation.
+Les données ont été recueillies rétrospectivement à partir des dossiers de 339 femmes enregistrées dans un site du PCNP du sud-ouest de Toronto entre 2013 et 2016.
+Des analyses de régression multivariées ont été utilisées pour évaluer les associations entre 10 caractéristiques maternelles et trois dimensions de la participation au programme prénatal : initiation (âge gestationnel à linscription en semaines), intensité (nombre de fois que des soutiens uniques ont été reçus) et durée (nombre de visites).
+Lâge moyen (ET) des clients était de 31 (5,7) ans; 80 % étaient nés à lextérieur du Canada; 29 % étaient célibataires; et 65 % avaient un revenu du ménage inférieur aux seuils de faible revenu ajustés par la taille de la famille de Statistique Canada.
+Le revenu était la seule caractéristique associée à toutes les dimensions de la participation.
+Comparativement aux clients vivant au-dessus du seuil de faible revenu, ceux vivant au-dessous du seuil de faible revenu inscrits dans le programme 2,85 semaines plus tôt (IC de 95 % : −5,55 à −0,16), avaient un nombre de soutiens de 1,29 fois plus élevé (IC de 95 % : 1,03 à 1,61) et un nombre de visites de programme de 1,29 fois plus élevé (IC de 95 % : 1,02 à 1,63).
+Nos résultats montrent que ce site du PCNP sert les femmes vulnérables, avec peu de différences dans la participation en fonction des caractéristiques maternelles.
+Ces données probantes peuvent guider les décisions de prestation de services et de surveillance dans ce site de programme.
+Dautres recherches sont nécessaires pour explorer de nouveaux modèles dexécution des programmes afin daméliorer les services périnatals pour les femmes vulnérables.
+La rhinoplastie est lune des procédures les plus courantes qui constituent un défi pour des résultats constants et remarquables.
+La réduction de la base alaire est une technique de rhinoplastie prescrite dans de nombreuses conditions.
+La fermeture des plaies nécessite lutilisation de sutures et il existe plusieurs types de sutures à cette fin, mais de bons résultats cicatriciels sont nécessaires pour la satisfaction des patients.
+Évaluer les résultats de la résection de la base alar après la résection chirurgicale à laide de différents types de matériel de suture.
+Il sagit dune étude de cohorte rétrospective menée au CHU du Roi Abdulaziz, à Riyad, Royaume dArabie saoudite.
+Létude a été réalisée en examinant les dossiers des patients et en effectuant des photographies postopératoires pour les patients ayant subi une résection de la base alaire.
+Les patients ont été divisés en deux groupes, le premier groupe de patients avait la plaie de la base alaire fermée avec le polypropylène 6/0 interrompu et lautre plaie du groupe était fermée avec des sutures monocryl 6/0.
+Léchelle visuelle analogique a été utilisée pour étudier les vues de base.
+Létude incluait 80 patients répartis en 2 groupes, chaque groupe incluait 40 patients, dans le premier groupe (groupe du polypropylène) il y avait 25 % dhommes et 75 % de femmes, tandis que dans le deuxième groupe (monocryl) il y avait 15 % et 85 % dhommes et de femmes, respectivement.
+On a observé une cicatrice incoercible de 85 % et de 82,5 % chez le premier et le deuxième groupe, respectivement, mais aucune différence significative na été observée entre les deux groupes (<i>p</i> = 0,75).
+Les sutures en polypropylène et en monocryl se traduisent toutes deux par le même résultat pour la fermeture post-opératoire dune plaie de la base alaire.
+Un modèle conceptuel hydrogéologique de la source, des voies de circulation et de la variation temporelle dune source thermique basse en enthalpie dans un contexte de calcaire fracturé est dérivé dune approche multidisciplinaire.
+Le puits de St. Gorman est une source thermale en Irlande du centre-est avec un profil thermique complexe et variable (maximum de 21,8 °C).
+Les données géophysiques dune enquête tridimensionnelle (3D) audio-magneto-tellurique (AMT) sont combinées avec les données hydrogéologiques du laps de temps et les informations dune analyse hydrochimique déjà publiée pour étudier le fonctionnement de ce système hydrothermal intrigant.
+Lanalyse hydrochimique et les mesures du laps de temps suggèrent que le débit des eaux thermales dans les calcaires fracturés du bassin carbonifère de Dublin à tout moment, mais montre une variabilité de la décharge et de la température.
+Le modèle de résistivité électrique 3D de la sous-surface a révélé deux structures proéminentes : (1) un contact avec deux lithologies calcaires, en accord avec le NW, et (2) une faille sans issue, en accord avec le N, de lâge cénozoïque probable.
+Lintersection de ces deux structures, qui a permis la karstification du rocher calcaire, a permis de créer des conduits facilitant lopération dune circulation hydrothermale relativement profonde (probablement estimée entre 240 et 1,000 m) dans la succession calcaire du bassin de Dublin.
+Les résultats de cette étude soutiennent lhypothèse que la température maximale et laugmentation simultanée de la décharge observée au puits de St. Gorman chaque hiver sont le résultat dune infiltration rapide, du chauffage et de la recirculation des eaux météorologiques dans un système de circulation hydrothermale contrôlé par la structure.
+A propos d'un cas.
+Contexte:
+La schistosomiase est une maladie aiguë et chronique due aux vers parasites, qui peut prendre deux formes principales: intestinale ou urogénitale.
+Si elle nest pas traitée, la forme urogénitale peut conduire à une bilharziose génitale féminine (GSF) chez les femmes et les filles; elle entraîne souvent de graves complications de santé reproductive qui sont souvent diagnostiquées à tort comme des infections sexuellement transmissibles (IST) ou peut être confondue avec le cancer du col utérin.
+Malgré son impact sur la santé reproductive des femmes, la FGS est généralement négligée dans la formation médicale et reste mal connue avec une faible sensibilisation à la fois dans les communautés touchées et dans les professionnels de la santé.
+La FGS a été décrite comme lune des questions de santé sexuelle et reproductive les plus négligées en Afrique subsaharienne (Swai in BMC Infect Dis 6:134, 2006; Kukula in PloS Negl Trop Dis 13:e0007207; Programme commun des Nations Unies sur le VIH/sida (ONUSIDA) 2019).
+Une connaissance et une sensibilisation accrues de la FGS sont nécessaires pour mettre fin à cette négligence, améliorer la santé reproductive des femmes et réduire le fardeau de cette maladie tropicale négligée évitable et traitable.
+Méthodes:
+Nous avons organisé des ateliers virtuels interactifs, en collaboration avec l'Organisation mondiale de la Santé (OMS), qui ont mobilisé 64 participants issus de milieux médicaux et de santé publique du monde entier afin d'établir des compétences standardisées (ou des compétences) en matière de prévention, de diagnostic et de traitement des BSF à tous les niveaux du système de santé.
+Les compétences ont été rédigées en petits groupes, revues par les pairs et finalisées par les participants.
+Résultats:
+Ce processus participatif a abouti à lidentification de 27 compétences nécessaires à la prévention, au diagnostic et à la prise en charge de la FGS pour deux catégories dagents de santé; ceux travaillant dans un contexte clinique et ceux travaillant dans un contexte communautaire.
+Parmi eux, dix se rapportent au diagnostic de FGS, dont trois qui impliquent un examen pelvien et sept qui ne le font pas.
+Six constituent les comportements appropriés pour traiter la FGS dans un contexte clinique.
+Onze abordent le contexte communautaire, dont six ont trait à l'identification des femmes à risque et cinq à la prévention.
+Conclusion:
+Définir les compétences nécessaires à la prise en charge de la FGS est une étape critique pour préparer au bon diagnostic et au bon traitement des femmes et des filles en Afrique subsaharienne par des professionnels de la santé formés.
+Treize Canadiens ont obtenu un doctorat à la Faculté de médecine de Paris entre 1822 et 1905.
+Leurs études en France ont joué un rôle déterminant dans certaines des grandes tendances de lhistoire canadienne du XIXe siècle : la formation dune bourgeoisie professionnelle canadienne-française, la formalisation des liens entre le Canada et la France, le développement de la bactériologie en Amérique et lessor du nationalisme canadien-français au tournant du XXe siècle.
+Cet article retrace la carrière de ces médecins en utilisant des sources inédites, principalement leurs dossiers étudiants et thèses de doctorat, situées à travers la base de données Pierre Moulinier et mises à disposition par la Bibliothèque Interuniversitaire de Santé de l'Université Paris-Descartes.
+En examinant les déplacements de ces médecins à Paris, elle montre limpact sur la profession médicale canadienne de la relation entre une ancienne colonie nord-américaine et son ancienne capitale impériale.
+Répartition des lits d'hôpitaux en Arabie saoudite de 2015 à 2019: étude transversale
+L'accès adéquat aux systèmes de santé est considéré comme un droit fondamental de l'homme.
+Par conséquent, il est important que les services de santé soient fournis à ceux qui en ont le plus besoin de la manière la plus efficiente possible.
+Nous avons évalué la répartition des lits d'hôpitaux en Arabie saoudite entre 2015 et 2019 afin d'évaluer les inégalités dans l'allocation des ressources hospitalières.
+La présente étude transversale a utilisé les données de l'annuaire statistique de la santé publiées par le ministère de la Santé au cours de la période 2015-2019.
+Le nombre de lits hospitaliers pour 100 000 habitants a été calculé pour les 20 régions sanitaires.
+La génération dautres paramètres, tels que lindice de Gini et la courbe de Lorenz, a été réalisée pour évaluer la répartition des lits.
+Le coefficient de Pearson a été calculé pour évaluer la corrélation entre les lits et la population dans chaque région sanitaire.
+Le ratio lits d'hôpitaux par rapport à la population s'est amélioré entre 2015 et 2019 dans des zones telles que Ha'il, Tabouk et Ta'if, qui ont augmenté de 89,6, 72,5 et 32,5 respectivement.
+L'indice moyen calculé de Gini pour la distribution des lits dans le secteur public était de 0,21; dans le secteur privé, il était de 0,53.
+Il y avait une forte corrélation positive entre la population et les lits hospitaliers dans les régions de Riyad, Qaseem, Est et Ha'il.
+En Arabie saoudite, les inégalités observées dans la distribution des lits hospitaliers résident principalement dans le secteur privé.
+Il est recommandé que les décideurs soient conscients de ces inégalités et travaillent à déventuelles réformes pour atteindre les objectifs de la Vision 2030 de lArabie saoudite.
+A propos d'un cas.
+Objectifs:
+Les interventions de santé publique en faveur de la « prévention de lobésité » des adolescents se sont concentrées principalement sur les comportements de santé individualistes (p. ex., alimentation et activité physique) au détriment de la reconnaissance de la diversité pondérale et de léventail de facteurs sociaux (p. ex., stigmatisation et discrimination des identités marginalisées) qui peuvent être liés à létat pondérale.
+Des recherches sont nécessaires pour examiner dans quelle mesure les comportements de santé individualistes par rapport aux facteurs sociaux contribuent à létat de poids chez les adolescents.
+Lobjectif de cette étude était donc détudier lapport relatif des comportements de santé individualistes par rapport aux facteurs sociaux aux indices objectifs et perceptifs de létat pondéral.
+Méthodes:
+Les données du sondage transversal ont été recueillies dans le cadre du Sondage auprès des étudiants en santé publique de Toronto et comprenaient des étudiants de 12 à 19 ans (N = 5515).
+Les mesures comprenaient létat de poids perçu et objectif, les facteurs sociaux et démographiques (par exemple, le sexe, lorientation sexuelle, la connexion scolaire) et les comportements de santé (par exemple, lactivité physique, la consommation nutritive).
+Résultats:
+Les résultats des modèles de régression variable latente étayaient en partie les hypothèses selon lesquelles les facteurs sociaux (c.-à-d. lâge, le sexe, laccès socio-économique, le statut de minorité sexuelle) contribuent à des niveaux de variance similaires, ou relativement plus de variance des indices de poids, par rapport aux comportements de santé (p. ex. activité physique, consommation nutritive).
+Conclusion:
+Contrairement aux opinions traditionnelles sur létat pondéral des adolescents, lactivité physique (c.-à-d. en milieu scolaire, individuelle, transport actif) et la consommation nutritionnelle (c.-à-d. fruits, légumes, lait) nétaient pas associées à létat pondéral, en tenant compte des facteurs sociaux.
+Le syndrome cardiorénal aigu (SCA) est associé à des résultats indésirables chez les patients atteints dinsuffisance cardiaque aiguë décompensée (HAD).
+Le débit veineux intrarénalien peut être évalué à laide de léchographie Doppler et a une signification pronostique dans lADHF.
+Bien que le Doppler intrarénal (DRI) puisse être sensible à la congestion rénale, une association entre les paramètres du DRI et le SCA na pas été démontrée dans une population dAHF.
+Les patients hospitalisés atteints dADHF (n = 21) ou de syndrome coronarien aigu (SCA; n = 21) ont été recrutés de manière prospective.
+Les patients ont subi une échocardiographie, y compris lIRD, à laide dun capteur déchographie cardiaque standard.
+Le débit veineux intrarénalien a été quantifié à laide de lindice de stase veineuse rénale (IRV), défini comme la durée du temps découlement veineux absent divisée par la durée du cycle cardiaque.
+Le principal critère dévaluation était linsuffisance rénale aiguë (IRA) selon les critères de Kidney Disease: Improving Global Outcomes (KDIGO).
+Les patients atteints dHAD avaient un indice cardiaque similaire (2,0 ± 0,6 vs 2,1 ± 0,4 L/min par m<sup>2</sup>, <i>P</i> = 0,91), mais une pression veineuse centrale estimée plus élevée (13,0 ± 3,2 vs 4,6 ± 2,4 mm Hg, <i>P</i> < 0,001) mesurée par échocardiographie que les patients atteints dun SCA.
+LIRD était anormale chez tous les patients atteints dune HAD et normale chez tous les patients atteints dune SCA (RRVSI 0,62 ± 0,20 vs 0,0 ± 0, <i>p</i> < 0,001).
+LIRA de stade II/III sest produite chez 10 des 21 patients atteints dIRA (48 %) contre 0 des 21 patients atteints dIRA (<i>P</i> < 0,001), avec une augmentation moyenne de la créatinine sérique de 97,7 ± 79,3 vs 16,8 ± 10,9 μmol/L (<i>P</i> < 0,001), respectivement.
+LIRA était corrélée avec la sévérité de lIRA chez les patients atteints dIRA (<i>r</i> = 0,57; <i>P</i> = 0,004).
+Le RVSI est associé à lIRA chez les patients atteints dAHF et peut être un biomarqueur diagnostique utile pour lACRS dans ce contexte.
+Dautres études sont nécessaires pour valider cette découverte et évaluer lefficacité potentielle du traitement décongestif dirigé par lIRD dans ce contexte.
+A propos d'un cas.
+Pour quoi faire?
+Examiner lefficacité de lexposition au masque anesthésique dirigé par les parents et façonner la pratique pour prévenir lanxiété préopératoire de lenfant, en mettant particulièrement laccent sur le moment de lexposition.
+Méthodes:
+Cet essai randomisé contrôlé incluait 110 enfants âgés de 4 à 7 ans soumis à des interventions de chirurgie dentaire de jour et leurs parents.
+Les familles ont été assignées de manière aléatoire à lun des trois groupes : 1) lexposition ou la pratique du masque dirigé par les parents au moins trois fois dans la semaine précédant la chirurgie (groupe 1); 2) lexposition ou la pratique du masque dirigé par les parents au moins une fois le jour de la chirurgie (groupe 2); 3) aucune exposition avant linduction (groupe 3).
+Lanxiété de lenfant a été évaluée par lobservateur à laide de léchelle danxiété préopératoire Yale modifiée pendant lexpérience de chirurgie de jour, et la conformité à linduction a été évaluée par lobservateur à laide de la liste de contrôle de conformité à linduction.
+Résultats:
+Les résultats ont démontré des différences significatives dans lanxiété de lenfant évaluée par les observateurs lors de linduction anesthésique entre les groupes.
+Le groupe 2 a démontré une anxiété significativement plus faible chez les observateurs que le groupe 3 avec un effet moyen, F(1, 71) = 4,524, P = 0,04, η <sub>p</sub> <sup>2</sup> = 0.06.
+Une interaction significative a été observée entre ces deux groupes au fil du temps (c.-à-d., admission à linduction de lanesthésie), F(1, 71) = 4,365, P = 0,04, η <sub>p</sub> <sup>2</sup> = 0,06 (c.-à-d., effet petit à moyen).
+Le groupe 2 a démontré la meilleure compliance à linduction de lanesthésie (c.-à-d., des scores significativement plus bas que le groupe 3, P = 0,04).
+Conclusion:
+Le moment de laccouchement de lexposition au masque (cest-à-dire le jour de la chirurgie) pour traiter de lanxiété préopératoire de lenfant et de la compliance à linduction dans le cadre de la chirurgie de jour peut être une considération importante.
+Lendocrinologie pédiatrique est une sous-spécialité naissante au Nigéria.
+Les rapports précédents suggèrent une mauvaise connaissance des troubles endocriniens de lenfant entraînant une présentation tardive, un diagnostic manqué et un décès inutile.
+Létude vise à faire état de la prévalence des troubles endocriniens pédiatriques au CHU UNIOSUN et à fournir des informations essentielles pour améliorer la présentation et la prise en charge précoces.
+Il sagit dune étude rétrospective sur 10 ans de tous les enfants pris en charge pour des troubles endocriniens pédiatriques à lUTH de mars 2010 à mars 2020.
+Les données pertinentes ont été extraites des dossiers des patients, saisies et analysées par SPSS.
+Quarante (0,42 %) des 9 520 nouvelles consultations de la clinique spécialisée en pédiatrie de lUTH au cours de la période de létude présentaient des troubles endocriniens.
+Il y avait 13 hommes et 27 femmes (M:F=1:2), dont l'âge variait de 1 mois à 15,5 ans et 23 (57,5 %) avaient moins de 5 ans.
+Les quatre troubles endocriniens les plus fréquents étaient les rickets (45 %), le diabète (15 %), les troubles thyroïdiens (15 %) et les troubles de la puberté (12,5%).
+On a constaté une augmentation annuelle progressive du nombre de cas endocriniens chez lenfant.
+Au moment du présent rapport, 34 (85 %) des patients étaient en vie et sen sortaient très bien, 5 (12,5 %) ont été perdus de vue et une (2,5 %) mortalité a été enregistrée.
+Les rickets, le diabète, les troubles thyroïdiens et les troubles de la puberté sont les quatre principaux troubles endocriniens observés à lUTH.
+Lattrition est un défi remarquable dans les troubles endocriniens pédiatriques.
+Les raisons de lattrition et les moyens de mettre fin à ces défis doivent être identifiés et mis en pratique.
+Mot-clé:
+Diabète; Nigéria; pédiatrie; rickets; sensibilisation; troubles endocriniens.
+Comment l'évolution des niveaux d'inégalités économiques locales affecte-t-elle le capital social des ménages?
+Cet article contribue à répondre à cette question en examinant l'impact de l'inégalité économique au niveau du village en Andhra Pradesh sur le niveau des ménages de relais et de liaison du capital du réseau social, à l'aide de régressions bistades des moindres quadrages des données des enquêtes sur les ménages menées entre 2002 et 2014 par le programme Young Lives.
+Les résultats de létude suggèrent quà mesure que les inégalités économiques locales augmentent, le capital social des ménages, mesuré par la participation aux efforts de résolution de problèmes communautaires plus larges, diminue pendant que leur capital social lié, mesuré par ladhésion dans des associations volontaires relativement homogènes sur le plan démographique et socio-économique, augmente.
+Les recherches existantes suggèrent que la fragmentation par conséquent croissante des communautés le long des lignes de division démographiques et socio-économiques est susceptible de contribuer aux conflits sociaux.
+La fibrillation auriculaire périopératoire (POAF) après chirurgie cardiaque a été associée à un risque accru daccident vasculaire cérébral dans certaines études.
+Cependant, lampleur exacte de cette association au cours du suivi à court et à long terme demeure obscure.
+Nous avons effectué des recherches dans PubMed, Embase et Cochrane Central Register of Controlled Trials (CENTRAL) pour la période allant de la création de la base de données à octobre 2020.
+Nous avons inclus des études observationnelles auprès dau moins 100 patients qui ont rapporté des données sur le risque daccident vasculaire cérébral à court terme ou à long terme chez des patients atteints ou non de POAF après une chirurgie cardiaque.
+Les données ont été regroupées à laide de modèles à effets aléatoires.
+Nous avons fait état de rapports de risque (RR) résumés pour les études faisant état de résultats ajustés multivariés et de différences de risque absolu (ARD) calculées avec des intervalles de confiance (IC) de 95 %.
+Au total, 55 études portant sur 540 209 patients ont été incluses.
+Le POAF était associé à la fois à un risque relatif accru (RR 1,69; IC à 95 %, 1,41-2,03; I<sup>2</sup> = 82 %; 9 études) et au risque absolu d'accident vasculaire cérébral à court terme (4,5 % vs 2,5 %; ARD 2,0 %; IC à 95 %, 1,28-2,89).
+Le POAF était associé à une augmentation du risque relatif (RR 1,20; IC à 95 %, 1,12-1,29; I<sup>2</sup> = 16 %; 10 études) et du risque absolu d'accident vasculaire cérébral de longue durée (1,06 vs 0,88 par 100 années-patients; ARD 0,18 par 100 années-patients; IC à 95 %, 0,07-0,26).
+Les analyses de sensibilité détudes de haute qualité et détudes faisant état daccidents ischémiques ou emboliques ont donné des résultats similaires.
+Le POAF après chirurgie cardiaque était associé à un risque accru daccident vasculaire cérébral à court et à long terme.
+Cependant, lART à long terme était faible, et on ne sait pas si ces patients bénéficieront dune anticoagulation orale à long terme.
+Recommandations canadiennes pour la prise en charge de la polyneuropathie de la transthyrétine héréditaire
+Lamylose héréditaire à médiation par la transthyrétine (hATTR) est une maladie progressive due à des mutations du gène TTR conduisant à une dysfonction multisystémique des organes.
+Lagrégation pathogénique de la TTR, le mauvais pliage et la fibrillation conduisent au dépôt de lamyloïde dans de multiples organes corporels et impliquent souvent le système nerveux périphérique et le coeur.
+Les manifestations neurologiques communes incluent la polyneuropathie sensori-motrice (PN), la neuropathie végétative, le PN à petites fibres et le syndrome du canal carpien.
+De nombreux patients ont une progression significative en raison des retards diagnostiques, car la NP de lHATTR nest pas prise en compte dans le diagnostic différentiel.
+Récemment, deux nouvelles thérapies efficaces, linotersen et le patisiran, ont été approuvées par Santé Canada pour le traitement de lARN de lhATTR.
+Le diagnostic précoce est crucial pour lintroduction en temps opportun de ces traitements modificateurs de la maladie qui réduisent les déficiences, améliorent la qualité de vie et prolongent la survie.
+Dans cette ligne directrice, nous avons pour objectif daméliorer la sensibilisation et les résultats à légard de lAP de lhATTR en faisant des recommandations axées sur le diagnostic, la surveillance et le traitement au Canada.
+Contexte:
+Des études antérieures ont montré que le patch-test avec des extraits daliments peut aider à la formulation de régimes délimination (DE) chez des patients humains suspects deffets indésirables des aliments (AFR).
+On en sait peu sur lutilisation de ces tests chez le chien.
+Objectifs:
+Évaluer lefficacité dune combinaison de tests de piqûre et de patch dans les protocoles actuels, et de tests de défi alimentaire (FC) chez les chiens atteints dAFR.
+Méthodes et matériaux:
+Des tests de prick et de patch ont été effectués chez 21 chiens atteints de prurit chronique non saisonnier.
+Les chiens ont ensuite été nourris avec un ED formulé sur la base des résultats.
+Tous les chiens avec des signes cliniques améliorés ont ensuite été mis au défi avec un aliment auquel il y avait eu une réaction positive dans les tests.
+Six chiens ont par la suite été mis en cause avec un aliment auquel ils avaient été négatifs lors du test.
+Léchelle visuelle analogique prurit (pVAS) et lindice Canine Atopic Dermatitis Extent and Severity Index, 4e itération (CADESI-04) ont été évalués au jour (D)0, D30 et D60 du SU.
+Les valeurs prédictives de sensibilité (SE), de spécificité (SP), de positif (PPV) et de négatif (NPV) et de Kappa (κ) ont été calculées.
+Résultats:
+Sur les 21 chiens, il y avait une amélioration significative moyenne des scores pVAS et CADESI-04 chez 16 (76 %) chiens après D30 (P < 0,01) et D60 (P < 0,01) du SU.
+Aucune différence statistique na été observée entre D30 et D60.
+Lassociation de tests avait des valeurs de SE, SP, PPV, NPV et κ de 80 %, 66,7%, 66,7%, 80 % et −0,17, respectivement.
+Conclusions et pertinence clinique:
+Lassociation prick et patch test a atteint des valeurs élevées de SE et de NPV.
+Un diagnostic dAFR a été posé chez 76 % des chiens, et les résultats des tests ont été utiles pour la sélection dun SU.
+Lun des problèmes difficiles de la neuroimagerie est lincorporation de principe dinformations provenant de différentes modalités dimagerie.
+Les données de chaque modalité sont fréquemment analysées séparément à laide, par exemple, de techniques de réduction de dimensionnalité, ce qui entraîne une perte dinformations mutuelles.
+Nous proposons une nouvelle méthode de régularisation, les Eigenvectors partiellement empiriques ridgés pour la régression (griPEER), afin destimer les associations entre les caractéristiques de structure cérébrale et un résultat scalaire dans le cadre de la régression linéaire généralisée.
+GRIPEER améliore lestimation du coefficient de régression en fournissant une approche de principe pour lutilisation de linformation externe provenant de la connectivité cérébrale structurale.
+Plus précisément, nous intégrons un terme de pénalisation, dérivé de la matrice de connectivité structurale de Laplacian, dans la régression linéaire généralisée pénalisée.
+Dans ce travail, nous abordons les questions théoriques et informatiques et démontrons la robustesse de notre méthode malgré des informations incomplètes sur la connectivité cérébrale structurale.
+En outre, nous proposons également une méthode de test de signification pour réaliser une inférence sur les coefficients estimés.
+Enfin, la GRIPEER est évaluée à la fois dans des études de simulation approfondies et à laide de données cliniques pour classer les personnes vivant avec le VIH+ et le VIH-.
+A propos d'un cas.
+Ladoption et le maintien de comportements sains, y compris des niveaux dactivité physique adaptés à lâge, un temps sédentaire et de dépistage limité, et une alimentation saine sont les fondements du développement et de la prospérité des jeunes.
+En examinant les données probantes existantes, nous observons que la pandémie de COVID-19 a été associée à des réductions marquées de lactivité physique, à une augmentation du temps sédentaire et de dépistage, ainsi quà une augmentation de la consommation alimentaire et à des collations malsaines.
+Les effets délétères dans les comportements de mouvement semblent être plus prononcés chez les groupes vulnérables et l'insécurité alimentaire est devenue plus répandue.
+Pour contribuer à atténuer ces effets, nous préconisons un renforcement de la santé publique fondée sur des données probantes.
+À cette fin, la surveillance en cours devrait être intensifiée et renforcée par des indicateurs supplémentaires des inégalités sociales.
+La différenciation entre lhypertension pulmonaire précapillaire et postcapillaire (HP) repose classiquement sur la pression moyenne du coin de lartère pulmonaire (PPMPm).
+La pression end-diastolique ventriculaire gauche (LVEDP) est proposée comme alternative équivalente.
+Cependant, mPAWP et LVEDP peuvent différer considérablement.
+Nous avons comparé l'impact du choix d'utiliser le MPAWP vs le LVEDP sur la classification de la PH et la prédiction de la mortalité chez les patients atteints de sténose aortique sévère (SA) subissant un remplacement valvulaire.
+RÉSULTATS: Chez 335 patients atteints d'une AS sévère, les deux MPAWP et LVEDP ont été mesurés.
+Une pression artérielle pulmonaire moyenne ≥ 25 mm Hg a été utilisée pour définir la PH, et soit mPAWP ou LVEDP a été utilisé pour différencier la PH précapillaire et postcapillaire (γ 15 vs > 15 mm Hg).
+La mortalité après un suivi médian de 1484 jours après le remplacement valvulaire aortique a été évaluée.
+Dans lensemble, le PPAm était plus faible que le PVEG (16 ± 8 mm Hg vs 21 ± 8 mm Hg; <i>P</i> < 0,001).
+Chez 140 patients (42%) atteints dune PH, la classification basée sur le PTPA a révélé 76 (54%) de ceux atteints dune PH isolée postcapillaire, 48 (34%) atteints dune PH combinée pré et postcapillaire, et 16 (12%) atteints dune PH précapillaire.
+Lorsque le PVELD a été utilisé, 59 patients (42 %) ont été classés différemment.
+Ces patients avaient une mortalité plus élevée que ceux qui navaient pas été classés différemment [rapport des risques 2,79 (intervalle de confiance de 95 %, 1,17–6,65); <i>P</i> = 0,02].
+Une PPAm plus élevée était associée à une mortalité accrue [rapport des risques 1,07 (intervalle de confiance de 95 %, 1,03-1,11) par 1 mm Hg; <i>P</i> = 0,001], alors quune PVEG plus élevée ne létait pas.
+Lutilisation de lEPVG plutôt que de lEPMm se traduit par une classification dHP divergente chez presque tous les patients atteints dAS sévère.
+Ces patients ont une mortalité plus élevée après remplacement valvulaire aortique.
+Le MPAWP, mais pas le LVEDP, prédit la mortalité.
+Déterminer linfluence de la fatigue provoquée sur léquilibre dynamique chez les athlètes en santé.
+Revue systématique.
+PUBMED, MEDLINE, CINAHL, Sports Discus et la bibliothèque Cochrane de début au 28 mai 2019.
+Les études admissibles incluaient toute étude examinant les effets de la fatigue provoquée sur léquilibre dynamique, tel que mesuré par la TSE/TY, dans des populations sportives saines.
+Les études avec un faible risque de biais ont été jugées scientifiquement admissibles pour une synthèse des meilleures données probantes.
+Quinze études avec un faible risque de biais ont été incluses - sept ont étudié des athlètes récréatifs, tandis que huit se concentraient sur des athlètes de compétition.
+Dans la population récréative, cinq des études ont constaté une diminution significative de léquilibre dynamique après lintervention fatiguante.
+Cependant, les deux autres ont conclu par des changements non significatifs.
+Quant à la population compétitive, trois études ont montré des effets significatifs de la fatigue provoquée sur léquilibre dynamique, tandis que cinq nont montré aucun effet.
+Il existe des résultats contradictoires concernant les effets de la fatigue provoquée sur léquilibre dynamique.
+La majorité des études ont porté sur des athlètes de compétition, et ont révélé que la fatigue navait pas modifié leur équilibre dynamique.
+Par contre, la majorité des études axées sur les athlètes récréatifs ont conclu le contraire - la fatigue a en effet affecté léquilibre dynamique.
