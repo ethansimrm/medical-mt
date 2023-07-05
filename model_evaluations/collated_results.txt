@@ -110,7 +110,6 @@ Choi et al. (2022) Soft-constrain, append, and fine-tune:
 {'CHRF++': 52.28725175810823}
 {'ter': 69.4575230296827}
 {'meteor': 0.4901979364141276}
-100%|##########| 588/588 [00:42<00:00, 13.91it/s]
 Total Terminologies:  3714
 Exact Matches:  2382
 {'tur': 0.6413570274636511}
