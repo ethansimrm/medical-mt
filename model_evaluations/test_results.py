@@ -52,14 +52,14 @@ def find_term_in_sentence(row, stringency):
         return row["counts"]
 
 #Terminology usage metric expressed as proportion of found terminologies for all three stringency levels.
-def generate_TUR(pred_list, term_refs):
+def generate_TUR(pred_list, term_refs, found_terms_output):
     
     #Check for terms
     generate_tokens(pred_list)
     term_refs["matches_strict"] = term_refs.apply(find_term_in_sentence, args=("strict",), axis=1)
     term_refs["matches_caseless"] = term_refs.apply(find_term_in_sentence, args=("caseless",), axis=1)
     term_refs["matches_loose"] = term_refs.apply(find_term_in_sentence, args=("loose",), axis=1)
-    term_refs.to_csv("found_terminology.txt", sep="\t", index=False, header=True)
+    term_refs.to_csv(found_terms_output, sep="\t", index=False, header=True)
     
     #Compute statistics
     total = term_refs["counts"].sum()
@@ -76,7 +76,7 @@ def generate_TUR(pred_list, term_refs):
     print("Non-cased Matches ignoring partitive article errors: ", non_cased_matches_loose)
     print({"tur_loose": non_cased_matches_loose/total})
         
-def generate_results(pred_file, ref_file, terms_file):
+def generate_results(pred_file, ref_file, terms_file, found_terms_output):
     preds = getSentences(pred_file)
     refs = getSentences(ref_file)
     term_refs = pd.read_csv(terms_file, sep = "\t", header = None, names = ["sent_ID", "fr_term", "counts"]) #Default encoding is UTF-8
@@ -92,8 +92,8 @@ def generate_results(pred_file, ref_file, terms_file):
     print(result)
     result = meteor.compute(predictions = preds, references = refs)
     print(result)
-    generate_TUR(preds, term_refs)
+    generate_TUR(preds, term_refs, found_terms_output)
     print("\n")
     
 if __name__ == '__main__':
-	generate_results(sys.argv[1], sys.argv[2], sys.argv[3]) #Provide relative path from current directory
+	generate_results(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]) #Provide relative path from current directory

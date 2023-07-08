@@ -4,9 +4,9 @@ import sys
 #Parameters chosen by user
 TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0]
 TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
-GLOSSARY_PROPORTION_LIST = [0.25, 0.5, 0.75]
-GLOSSARY_SAMPLE = GLOSSARY_PROPORTION_LIST[int(sys.argv[2])]
-OUTPUT_DIR = "wce_weights_" + str(TERM_WEIGHT) + "_glossary_" + str(GLOSSARY_SAMPLE) #Where the model is saved
+TRAIN_PROPORTION_LIST = [0.25, 0.5, 0.75]
+TRAIN_SAMPLE = TRAIN_PROPORTION_LIST[int(sys.argv[2])]
+OUTPUT_DIR = "wce_weights_" + str(TERM_WEIGHT) + "_train_" + str(TRAIN_SAMPLE) #Where the model is saved
 
 #Explicitly set seed for reproducible behaviour
 from transformers import set_seed
@@ -26,7 +26,7 @@ def convertToDictFormat(data):
 
 #Import HF token
 curr = os.getcwd()
-filepath = os.path.join(curr, "../../hf_token.txt")
+filepath = os.path.join(curr, "../../../hf_token.txt")
 f = open(filepath, "r", encoding = "utf8")
 hf_token = f.readline().strip()
 f.close()
@@ -42,13 +42,26 @@ validation_data = load_dataset("ethansimrm/wmt_20_21_biomed_validation", split =
 train_data_ready = convertToDictFormat(training_data['text'])
 val_data_ready = convertToDictFormat(validation_data['text'])
 
+#Sample our training data
+train_sampled = train_data_ready.train_test_split(train_size = TRAIN_SAMPLE, seed = 42)["train"] #Seed for reproducibility
+
 #Also load in our glossary
 term_candidates = load_dataset("ethansimrm/MeSpEn_enfr_cleaned_glossary", split = "train")
 terms_ready = convertToDictFormat(term_candidates['text'])
 
-#Sample our glossary
-terms_ready_sampled = terms_ready.train_test_split(train_size = GLOSSARY_SAMPLE, seed = 42)["train"] #Seed for reproducibility
+#Find glossary terms which occur within the sampled portion of our dataset and gather them - this takes very long
+#Batch-mapping does not properly identify this, and multiprocessing failed due to null string cast error (problem with library)
+terms_ready_fr_set = set()
+for bitext in train_sampled:
+  for term in terms_ready:
+    if (term['fr'] in terms_ready_fr_set): #Lookup and skip
+      continue
+    if ((term['en'] in bitext['en']) and (term['fr'] in bitext['fr'])):
+      terms_ready_fr_set.add(term['fr'])
 
+#Convert to list for tokenisation      
+terms_ready_fr = list(terms_ready_fr_set)
+    
 #Load in our metric
 from datasets import load_metric
 metric = load_metric("sacrebleu")
@@ -58,9 +71,8 @@ from transformers import AutoTokenizer
 checkpoint = "Helsinki-NLP/opus-mt-en-fr"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 
-#Process sampled glossary using tokeniser and obtain token counts
-terms_ready_fr = terms_ready_sampled['fr']
-tokenized_terms = tokenizer(terms_ready_fr)
+#Process sampled terms using tokeniser and obtain token counts
+tokenized_terms = tokenizer(text_target=terms_ready_fr)
 tokens = tokenized_terms["input_ids"]
 
 from collections import Counter
@@ -77,7 +89,7 @@ import numpy as np
 import torch
 
 #All vocabulary labels (tokens) are weighted equally initially
-weights = np.ones(59514, dtype=np.float32) 
+weights = np.ones(len(tokenizer), dtype=np.float32) 
 
 for tok_id in unique_tokens.keys():
     weights[tok_id] = TERM_WEIGHT
