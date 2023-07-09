@@ -1,6 +1,9 @@
 import sys
-from transformers import pipeline, AutoTokenizer
+from transformers import pipeline, AutoTokenizer, set_seed
 from tqdm import tqdm
+
+#For reproducibility
+set_seed(42)
 
 def read_in_queries(input_file):
     f = open(input_file, 'r', encoding = 'utf-8')
