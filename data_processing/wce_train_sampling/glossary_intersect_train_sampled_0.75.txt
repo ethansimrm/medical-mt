@@ -1,0 +1,1899 @@
+stone	lithiase
+side effect	effet secondaire
+spasm	spasme
+Health promotion	Promotion de la santé
+Regression line	Droite de régression
+feedback	autorégulation
+Symbiosis	Symbiose
+diet	alimentation
+Incidence rate	Taux d'incidence
+protective effect	effet protecteur
+Determinant	Déterminant
+Dengue fever	Dengue
+calcaneus	calcaneum
+target cell	cellule cible
+site	foyer
+Impetigo	Impétigo
+upper limbs	membres supérieurs
+coagulant	coagulant
+corticosteroids	corticostéroïdes
+osteogenic fibroma	fibrome ostéogénique
+granulocyte	granulocyte
+spitting	crachat
+genu valgum	genu valgum
+gestodene	gestodène
+re-excision	reprise
+hyaluronic acid	acide hyaluronique
+Program	Programme
+food allergy	allergie alimentaire
+Contact dermatitis	Dermatite de contact
+muscle cell	cellule musculaire
+Mifepristone	Mifepristone
+Angioma	Angiome
+confidentiality	confidentialité
+rod	Tige
+hypotensive	hypotendu
+CPT-11	CPT-11
+booster dose	dose de rappel
+Cyanosis	Cyanose
+vicryl	vicryl
+arthroscopy	arthroscopie
+Premunition	Prémunition
+dry skin	peau sèche
+Utility	Utilité
+femur	fémur
+supplies	approvisionnement
+muscular pain	douleurs musculaires
+SCLC	CPPC
+circulation	circulation
+Corticosteroid	Corticostéroïde
+Inoculation	Inoculation
+hemopericardium	hémopéricarde
+cerebral palsy	paralysie cérébrale
+patellofemoral	fémoro-patellaire
+deformitie	déformation
+anuria	anurie
+blood transfusion	transfusion sanguine
+autopsy	autopsie
+life-threatening	engageant le pronostic vital
+Vascular	Vasculaire
+folate	folates
+damaged	endommagé
+fasting	jeune
+access	abord vasculaire
+Diagnosis	Diagnostic
+lung disease	maladie pulmonaire
+Age	Age
+recurrent	récidivant
+tumour	tumeur
+pregnant	enceinte
+catabolism	catabolisme
+coma	coma
+obesity	obésité
+aggregate	agrégat
+Folic acid	Acide folique
+digitoxin	digitoxine
+doctor	docteur
+rewards	récompenses
+calcification	calcification
+Hibernation	Hibernation
+Yellow fever	fièvre jaune
+carpectomy	carpectomie
+framework	armature
+fusion	fusion
+myocardial ischemia	MI
+administrative tasks	tâches administratives
+bladder distension	globe vésical
+Public Health	Santé publique
+cable	câble
+waste	déchets
+Detection	Détection
+failure	échec
+cephalosporin	céphalosporine
+user friendly	convivial
+Peritoneum	Péritoine
+cannula	canule
+CB	PC
+develop	faire
+proximal	en amont de
+Avulsion	Avulsion
+bedpan	bassin
+area	aire
+Retrograde cystography	Cystographie rétrograde
+dermatitis	dermite
+inflation	gonflement
+bromocriptine	bromocriptine
+accessory	accessoire
+Arbovirus	Arbovirus
+Genome	Génome
+creatinine	créatinine
+capillary	capillaire
+Adaptation	Adaptation
+anticonvulsant	anticonvulsivant
+implantable defibrillator	défibrillateur implantable
+gonorrhoea	blennorragie
+ambulatory	ambulatoire
+Erythropoietin	érythropoïétine
+Dispersion	Dispersion
+abuse	abus
+Acute	aiguë
+Audit	Audit
+arthritis	arthritiques
+surgical	chirugicale
+serious	grave
+captopril	captopril
+carpal tunnel syndrome	Syndrome du canal carpien
+Relationship	Relation
+leads	sondes
+on average	en moyenne
+throughput	débit
+exploratory	exploratrice
+sweat gland	glande sudoripare
+fasciotomy	aponévrotomie
+lactate dehydrogenase	LDH
+liver	foie
+Family	Famille
+low anterior resection	résection antérieure basse
+autoclave	autoclave
+lactic bacteria	bactéries lactiques
+association	association
+level	niveau
+abscess	abcès
+dermatome	dermatome
+QRS complex	complexe QRS
+Steroid	Stéroïde
+assessment	évaluation
+sinus rhythm	rythme sinusal
+alleviate	atténuer
+Cell regeneration	Régénération cellulaire
+node	ganglion
+availability	disponibilité
+wall	cloison
+ganglion cell	cellule ganglionnaire
+rickets	rachitisme
+Proteinuria	Protéinurie
+medical illness	affection
+sample	échantillon
+Purpura	Purpura
+salvage therapy	sauvetage
+ankle	cheville
+hypoesthesia	hypoesthésie
+dyschondroplasia	dyschondroplasie
+dopamin	dopamine
+aorta	aorte
+barotrauma	barotraumatisme
+infection	infection
+profiling	profilage
+defective	arriéré
+Feasibility study	Etude de faisabilité
+response curve	courbe de réponse
+muscle disorders	troubles musculaires
+dissection	dissection
+ribs	côtes
+consideration	fait
+Familial disease	Maladie familiale
+gastroenteritis	gastro-entérites
+broncoscopy	bronchoscopie
+amikacin	amikacine
+inflate	gonfler
+urinary infection	infection urinaire
+Dermatosis	Dermatose
+atypical form of	forme fruste de
+gallbladder disease	maladie de la vésicule biliaire
+arthrolysis	arthrolyse
+callus	cal osseux
+film	film
+Corn	Cor
+development	développement
+red cell	globule rouge
+axilla	aisselle
+pathway	Filière
+of reproductive age	en âge de procréer
+head injury	traumatisme crânien
+COMP	COMP
+Nomenclature	Nomenclature
+heart	coeur
+arthropathy	arthropathie
+funnel chest	thorax en entonnoir
+oleic acid	acide oléique
+hormonal therapy	hormonothérapie
+Survival analysis	Analyse de survie
+anaphylactic	anaphylactique
+bottle feeding	alimentation au biberon
+degenerative	dégénératif
+food poisoning	intoxication alimentaire
+ataxia	ataxie
+embryology	embryologie
+body	corps
+intervertebral disk	disque intervertébral
+arterial	artériel
+Clinical epidemiology	Epidémiologie clinique
+liver disease	maladie de foie
+follow-up	devenir
+palate	palais
+PCS	CP
+lymphoid follicle	follicule lymphoïde
+activity	activité
+weaning	sevrage
+Albino	Albinos
+high blood pressure	hypertension
+Event	Evénement
+salvage treatment	traitement de rattrapage
+Episode	Episode
+Vesicoureteral reflux	Reflux vésico-urétéral
+Chromatin	Chromatine
+chondroma	chondrome
+fractures	fractures
+palmar fascia	aponévrose palmaire
+thrill	frémissement
+tularemia	tularémie
+engineering	génie
+heel	talon
+child	enfant
+synovial sheath	gaine synoviale
+beta blockers	bêta-bloquants
+healthy tissue	tissus sains
+cancer pain	douleurs néoplasiques
+hepatic	hépatique
+Australia	Australie
+Bimodal distribution	Distribution bimodale
+effective	actif
+cardiopathy	cardiopathie
+ringworm	teigneux
+acromion	acromion
+lacunar	lacunaire
+Antiseptic	Antiseptique
+administration	administration
+fistula	fistule
+colectomy	colectomie
+acute interstitial nephritis	néphrite interstitielle aiguë
+too fast	trop vite
+cement	ciment
+antiepileptic	antiépileptique
+digoxin	digoxine
+tumefaction	tuméfaction
+palpebral	palpébral
+concurrent	simultanée
+antidiabetic	antidiabétique
+TB	tuberculose
+patient	malade
+skull	crâne
+clot	caillot
+Meta-analysis	Méta-analyse
+diaphragmatic hernia	hernie diaphragmatique
+heart rate	rythme cardiaque
+masturbation	masturbation
+epidural fibrosis	fibrose épidurale
+endoscopy	endoscopie
+Mode	Mode
+pleurisy	pleurésie
+Wart	Verrue
+headache	céphalée
+Metoclopramide	Métoclopramide
+cardiovascular collapse	collapsus cardiovasculaire
+in the field of	dans le domaine de
+Psoriasis	Psoriasis
+Scabies	Gale
+garlic	ail
+alkaloid	alcaloïde
+angioma	angiome
+Multivariate analysis	Analyse multivariée
+Homeostasis	Homéostasie
+abdominal	abdominal
+lungs	poumons
+cranberry	canneberge
+painful	douloureux
+discission	discision
+hemodialysis	hémodialyse
+cesarean section	accouchement par césarienne
+agenesis	agénésie
+Contagion	Contagion
+Quantitative data	Données quantitatives
+diarrhea	diarrhée
+pain	douleur
+assessment	répartition
+tricyclic antidepressants	antidépresseurs tricycliques
+angiogram	angiogramme
+sputum	expectoration
+enzymes	enzymes
+Power	Puissance
+chondroblast	chondroblaste
+normothermia	normothermie
+activated charcoal	charbon activé
+Precision	Précision
+basophil	basophile
+Monitoring	Monitorage
+abdominal pain	douleur abdominale
+angiographic	angiographique
+atrial	auriculaire
+obstruction	occlusion intestinale
+focal	focal
+joint capsule	capsule articulaire
+kit	trousse
+rib	côte
+blood clot	caillot sanguin
+carotene	carotène
+Streptococcus	Streptocoque
+astrocyte	astrocyte
+device	dispositif
+diarrhea	diarrhées
+focused	concentré
+balm	baume
+ascites	ascite
+itching	prurit
+aortic bifurcation	bifurcation aortique
+Transovarial transmission	Transmission transovarienne
+yawning	baillement
+diaphyseal dysplasia	dysplasie diaphysaire
+diabetes	diabète
+pneumonia	pneumonie
+Parasite	Parasite
+defibrillator	défibrillateur
+strength	la force
+isolation	Isolement
+night terrors	terreurs nocturnes
+Biostatistics	Biostatistiques
+depressed fracture	enfoncement
+knee	genou
+bradycardia	bradycardies
+pelvic	pelvien
+Quotient	Quotient
+aortic arch	arc aortique
+fungistatic	fongistatique
+in development	en cours de développement
+Allergic reaction	Réaction allergique
+Medical care	Soins médicaux
+ptosis	ptose
+cirrhosis	cirrhose
+water balance	bilan hydrique
+gastrointestinal	gastrointestinal
+respiratory system	appareil respiratoire
+Contusion	Contusion
+convulsions	convulsions
+radiotherapy	radiotherapie
+bed rest	repos au lit
+aneurysmal	anévrismal
+antineuralgic	antinévralgique
+antiinflammatory	anti-inflammatoire
+Causality	Causalité
+antiphlogistic	antiphlogistique
+Doppler ultrasonography	echographie doppler
+aloe	aloès
+impingement	conflit
+contrast	contraste
+antirheumatic	antirhumatismal
+surrogate	porteuse
+palsy	paralysie
+activities of daily living	activités de la vie quotidienne
+Medical record	Dossier médical
+acute	aigu
+Antigen	Antigène
+hair follicle	follicule pileux
+strangulated hernia	hernie étranglée
+fracture	fracture
+strength	concentration
+diameter	diamètre
+appendectomy	appendicectomie
+groin	aine
+nerve cell	cellule nerveuse
+heart disease	cardiopathie
+Whitlow	Panaris
+Kent bundle	faisceau de Kent
+acetabular	cotyloïdien
+ankylosis	ankylose
+caesarean section	césarienne
+DNA bank	biothèque
+antiarrhythmic	antiarythmique
+urine dipstick	bandelette urinaire
+gastroenterology	gastro-entérologie
+Mitosis	Mitose
+homocysteine	homocystéine
+acquired	acquise
+nephritis	nephrite
+probe	examiner
+straight	droit
+Evaluation	Evaluation
+vascular tree	arbre vasculaire
+COUGH	TOUX
+carbohydrates	glucides
+antrum	antre
+Standardization	Standardisation
+trisodium citrate	citrate trisodique
+neurological deficit	déficit neurologique
+boil	clou
+hives	urticaire
+hematology	hématologie
+breast feeding	allaitement maternel
+clinician	clinicien
+anatomy	anatomie
+Leflunomide	Léflunomide
+surrounding	environnant
+myocardial ischaemia	ischémie myocardique
+coxa vara	coxa vara
+cough	toux
+disk	disque intervertébral
+conventional treatment	traitement conventionnel
+changes	altérations
+chemiluminescence	chimioluminescence
+powdered milk	lait en poudre
+contraindicated	contre-indiqué
+Peritoneal dialysis	Dialyse péritonéale
+cardiotomy	cardiotomie
+teeth	dents
+Parity	Parité
+conduction	conduction
+Sampling	Echantillonnage
+bacteraemia	bactériémie
+capsulotomy	capsulotomie
+bursa	bourse
+abdominal cavity	cavité abdominale
+Hormone replacement therapy	Traitement hormonal de substitution
+Correlation	Corrélation
+glioblastoma	glioblastome
+hallux valgus	hallux valgus
+vascular puncture	ponction
+threats	menaces
+cirrhosis of the liver	cirrhose du foie
+knee joint	articulation du genou
+Internal validity	Validité interne
+blood-brain barrier	barrière hémato-encéphalique
+ventricular tachycardias	tachycardies ventriculaires
+conductor	chef d'orchestre
+Qualitative data	Données qualitatives
+carrier	porteur
+essential fatty acid	acides gras essentiels
+dysostosis	dysostose
+wound	plaie
+antiseptic	antiseptiques
+AP	antéro-postérieur
+Gemcitabine	Gemcitabine
+gum	gencive
+disc disease	discopathie
+strain	surcharge
+discharge	sortie d'hôpital
+criteria	critères
+driver	conducteur
+anephric	anéphrique
+Exelon	Exelon
+Erythema	Erythème
+ascorbic acid	acide ascorbique
+Aesthetic	Esthétique
+arthroplasty	arthroplastie
+Informed consent	Consentement éclairé
+congestion	congestion
+antispasmodic	antispasmodique
+gram-negative	gram-négatif
+lower limbs	membres inferieurs
+change	changement
+posture	maintien
+Strategy	Stratégie
+ulnar	cubital
+amyotrophy	amyotrophie
+Antigenicity	Antigénicité
+hemolysis	hemolyse
+dialyzer	dialyseur
+appendicitis	appendicite
+healthy	en bonne santé
+anal sex	rapports anaux
+Cellulitis	Cellulite
+brightness	brillance
+Experiment	Expérience
+ipsilateral	homolatéral
+administrator	administrateur
+exogenous	exogène
+mental deficiency	déficience mentale
+Scale	Echelle
+anticoagulant	anticoagulant
+exercise	exercice
+hardness	dureté
+dorsal	dorsal
+diagnostic	diagnostique
+glycosaminoglycans	glycosaminoglycanes
+original	d'origine
+Asepsis	Asepsie
+outbreak	flambée
+blood clots	caillots sanguins
+obstructive sleep apnea	apnée obstructive du sommeil
+Information	Information
+glucose	glucose
+amoxicillin	amoxycilline
+resuscitation	réanimation
+Questionnaire	Questionnaire
+Cohort study	Etude de cohorte
+category	catégorie
+drainage	drainage
+neurogenic	d'origine nerveuse
+foreign bodies	corps étrangers
+Health services	Services de santé
+coxofemoral joint	articulation coxo-fémorale
+processing	transformation
+Factor	Facteur
+Mental Health	Santé mentale
+agonist	agoniste
+ileitis	iléite
+deficiency	déficient
+Vaccine	Vaccin
+kidney stones	calculs rénaux
+malaria	paludisme
+inflamed	enflammé
+Measurement	Mesure
+Seborrhea	Séborrhée
+meals	repas
+bloody diarrhoea	diarrhée sanglante
+Doppler	Doppler
+genomics	génomique
+Health education	Education sanitaire
+seizures	crise d'épilepsie
+platelet aggregation	agrégation plaquettaire
+Mortality statistics	Statistiques de mortalité
+workup	bilan
+brain tumor	tumeur cérébrale
+fascitis	fasciite
+ingredient	constituant
+peptic	pepsique
+glucocorticoid	glucocorticoïde
+heat	chaleur
+jealousy	jalousie
+typology	typologie
+Pollution	Pollution
+fibrocyte	fibrocyte
+TIA	AIT
+axoplasm	axoplasme
+Histoplasma	Histoplasma
+gout	goutteuses
+consumable	consommable
+atheromatous	athéromateux
+CAT scan	tomographie
+heredity	hérédité
+Census	Recensement
+Causes of death	Causes de décès
+canaliculus	canalicule
+electrodes	électrodes
+catheter	cathéter
+Independence	Indépendance
+Passage	Passage
+anaemia	anémie
+diathermy	diathermie
+Latent infection	Infection latente
+hernia	hernie
+suddenly	brutalement
+flu	grippe
+distress	souffrance
+competitive inhibition	inhibition compétitive
+embolus	embole
+coordination	coordination
+effectiveness	efficacité
+achondroplasia	achondroplasie
+Coherence	Cohérence
+hereditary	héréditaire
+Mass screening	Dépistage de masse
+Underestimation	Sous-estimation
+antigenicity	antigénicité
+Variola	Variole
+host	hôte
+ST segment	segment ST
+overt	franc
+greater omentum	grand épiploon
+Creatinine	Créatinine
+additional doses	doses supplémentaires
+valvular disease	valvulopathies
+local anaesthesia	anesthésie locale
+frostbite	gelures
+cilium	cil
+procedure	acte
+hyperemia	hyperémie
+cardiovascular	cardiovasculaire
+Risk factor	Facteur de risque
+cure	guérison
+CAE	CAE
+seborrheic alopecia	alopécie séborrhéique
+cavity	carie
+damage	détérioration
+ADL	AVQ
+ciprofloxacin	ciprofloxacine
+fit	attaque
+Methylphenidate	Méthylphénidate
+impulsiveness	impulsivité
+function	fonction
+fibrin	fibrine
+infusion	perfusion
+autolysis	autolyse
+basal cell	cellule basale
+hydroxyapatite	hydroxy-apatite
+Regression	Régression
+hypotension	hypotension
+bifurcated	bifurqué
+deafness	surdité
+hypertonic	hypertonique
+Adenomyoma	Adénomyome
+edemas	oedèmes
+ventricular shunt	dérivation ventriculaire
+analogue	analogique
+removal	ablation
+analyse	analyse
+T wave	onde T
+Acarid	Acarien
+shingle	zona
+aponeurosis	aponévrose
+bottle	biberon
+deployment	déploiement
+long-term	de longue durée
+coarse	grossier
+diabetes mellitus	diabète sucré
+inflation	gonflage
+corticosteroid	corticostéroïde
+Diet	Régime alimentaire
+Resolution	Résolution
+antibodies	anticorps
+low-calorie	hypocalorique
+definitive host	hôte définitif
+anxiolytic	anxiolytique
+baldness	calvitie
+recovery	guérison
+root canal	canal dentaire
+repolarization	repolarisation
+lung abscess	abcès pulmonaire
+uric acid	acide urique
+Huntington's chorea	chorée de Huntington
+Pigment	Pigment
+dermatology	dermatologie
+deformability	déformabilité
+Health care	Soins de santé
+cells	cellules
+discectomy	discectomie
+tonsillitis	angine
+Therapeutic trial	Essai thérapeutique
+pleural effusion	épanchement pleural
+hydroxymethyl	hydroxyméthyl
+small intestine	intestin grêle
+band	bandelette
+chondromatosis	chondromatose
+intrauterine device	stérilet
+Cholera	choléra
+atherosclerosis	athérosclérose
+coronal	frontal
+chicken pox	varicelle
+excitability	excitabilité
+femoral hernia	hernie crurale
+cleidocranial dysostosis	dysostose cléido-crânienne
+colonoscopy	coloscopie
+gangrene	gangrène
+paresis	parésie
+erucic acid	acide érucique
+table	le tableau
+neurological examination	examen neurologique
+procedure	déroulement
+Macrophage	Macrophage
+gram-positive	gram-positif
+condyloma acuminata	condylome acuminé
+Aphtha	Aphte
+complaint	doléance
+stresses	contraintes
+alleviation	atténuation
+aqueous humor	humeur aqueuse
+Ulcer	Ulcère
+Surveillance	Surveillance
+reconstructive surgery	chirurgie reconstructrice
+chemotherapeutic	chimiothérapeutique
+amenities	commodités
+Urinary tract obstruction	Obstruction des voies urinaires
+colitis	colite
+antiviral	antivirale
+Genetic epidemiology	Epidémiologie génétique
+arthritis	arthrite
+Eczema	Eczéma
+mouth wash	collutoire
+gastritis	gastrite
+antimetabolite	antimétabolite
+Efficacy	Utilité
+Elimination	Elimination
+ulcerative colitis	colite ulcéreuse
+ear	oreille
+Zoonosis	Zoonose
+Measles	Rougeole
+pattern	aspect
+Hantavirus	Hantavirus
+ergot	ergoline
+lung cancer	cancer du poumon
+case	cas
+angiocardiography	angiocardiographie
+acetabulum	acetabulum
+humanized	humanisé
+ampicillin	ampicilline
+anthocyanins	anthocyanes
+cartridge	cartouche
+increase	augmentation
+improvement	amélioration
+hyperglycaemia	hyperglycémie
+platelets	plaquettes
+fever	fièvre
+kyphosis	cyphose
+pudendal nerve	nerf honteux
+Staphylococcus	Staphylocoque
+Artificial intelligence	Intelligence artificielle
+tablet	comprimé
+infectious diseases	maladies infectieuses
+impaction	enclavement
+atonic	atone
+Handicap	Handicap
+acetabular	acétabulaire
+wishes	volontés
+Gene	Gène
+thrombosis	thrombose
+Hazard	Risque
+micro-organism	germe
+kidney	le rein
+Clinical trial	Essai clinique
+asthma	asthme
+bowel	intestin
+migraine	migraine
+experience	expérience
+training	formation
+enzyme	enzyme
+trans-fatty acid	acides gras trans
+probe	sonde
+bleeding	hémorragie
+Seasonal variation	Variation saisonnière
+dysplasia	dysplasie
+Seborrheic dermatitis	Dermatite séborrhéique
+C-reactive protein	CRP
+atopic dermatitis	eczéma constitutionnel
+Confidentiality	Confidentialité
+target	cible
+furuncle	furoncle
+Paradigm	Paradigme
+Case	Cas
+Prospective study	Etude prospective
+gout	goutte
+brain tumour	tumeur cérébrale
+azithromycin	azithromycine
+death	mort
+mental activity	activité mentale
+purpose	but
+cleansing	détersion
+Impact	Impact
+aconitine	aconitine
+Ecchymosis	Ecchymose
+cardiac arrhythmias	arythmies cardiaques
+smoking	tabagisme
+acetate	acétate
+sexually transmitted disease	maladie sexuellement transmissible
+Lipid	Lipide
+Acrokeratosis verruciformis	Acrokératose verruciforme
+fatigue	fatigue
+empyema	empyème
+consumption	consommation
+vaginal delivery	accouchement par voie basse
+component	composant
+cyclooxygenase	cyclo-oxygénase
+sealed	fermé
+behavioral	comportemental
+Encounter	Rencontre
+Bias	Biais
+Hyperparathyroidism	Hyperparathyroïdisme
+cerebral arteriosclerosis	artériosclérose cérébrale
+LMWH	HBPM
+Lesion	Lésion
+Misoprostol	Misoprostol
+arterial line	ligne artérielle
+artery	artère
+embryo	embryon
+leukemia	leucemie
+Predictive value	Valeur prédictive
+coccyx	coccyx
+Chronic	Chronique
+filter	filtre
+Acne rosacea	Acné rosacée
+antidepressant	antidépresseur
+Locus	Locus
+endothelium	endothélium
+consent	consentement
+Scar	Cicatrice
+CEV	CEV
+allantoin	allantoïne
+breast feeding	allaitement
+closed fracture	fracture fermée
+hearing aid	auditive
+choroiditis	choroïdite
+hot flushes	bouffées de chaleur
+Population	Population
+leukaemia	leucémie
+hematological	hématologique
+chromatin	chromatine
+epilepsy	epilepsie
+conformity	conformité
+glenoid	glénoïde
+fibrositis	fibrosite
+cardiology	cardiologie
+uterine fibroids	fibromes utérin
+Allergy	Allergie
+Eruption	Eruption
+Cholesteatoma	Cholestéatome
+contraindication	contre-indication
+heuristic	heuristique
+Sensitivity and specificity	Sensibilité et spécificité
+Viral hepatitis	Hépatite virale
+arrest	arrêt
+thyroide	thyroide
+cardiac output	débit cardiaque
+Finger	Doigt
+anticoagulation	anticoagulation
+dissociation	dissociation
+folliculitis	folliculite
+camphor	camphre
+emesis	vomissement
+arthrography	arthrographie
+genu varum	genu varum
+arteriosclerosis	artériosclérose
+recovery	réanimation
+expression	expression
+Free radicals	Radicaux libres
+hip joint	articulation de la hanche
+hydrothorax	hydrothorax
+cephalexin	céfalexine
+Drift	Dérive
+pathogenic bacteria	bactéries pathogènes
+Pharmacoepidemiology	Pharmacoépidémiologie
+handicapped children	enfants handicapés
+phase II study	étude de phase II
+mild	bénin
+geriatrics	gériatrie
+chlorophyll	chlorophylle
+second-line	deuxième intention
+finger clubbing	hippocratisme digital
+gland	glande
+hawthorn	aubépine
+traceability	traçabilité
+angina	angor
+oral liquid	buvable
+fluorescein	fluorescéine
+Urea	Urée
+injuries	dommages
+thoracic duct	canal thoracique
+apparatus	appareil
+Smear	Frottis
+desmosome	desmosome
+Registration	Enregistrement
+hypoglycaemic	hypoglycémiant
+histopathological	histopathologique
+Disease	Maladie
+antagonist	antagoniste
+Ecology	Ecologie
+Geographic pathology	Pathologie géographique
+systemic	général
+binding	liaison
+flexion	flexion
+centriole	centriole
+skin cancer	cancer de la peau
+Multiple regression	Régression multiple
+hypocholesterolemic	hypocholestérolémiant
+chondroblastoma	chondroblastome
+Consanguinity	Consanguinité
+Ethics	Ethique
+cardiologist	cardiologue
+Disposable	à usage unique
+Variable	Variable
+tinnitus	acouphène
+hernioplasty	hernioplastie
+running	course
+retrospective chart review	analyse rétrospective des dossiers médicaux
+diagnose	diagnostiquer
+hematomas	hematomes
+fasciectomy	fasciectomie
+reading	lecture
+fibroblast	fibroblaste
+early diagnosis	diagnostic précoce
+febrifuge	fébrifuge
+pregnancy	grossesse
+drip	goutte à goutte
+genetics	génétique
+insult	accident
+Protocol	Protocole
+stability	statique
+serum globulin	globuline sérique
+cytometry	cytométrie
+SD	écart type
+Maternal death	Décès maternel
+Bacterial contamination	Contamination bactérienne
+benefit	avantage
+AI	IA
+Dermatological	Dermatologique
+hospital	hôpital
+Urticaria	Urticaire
+bacterium	bactérie
+nitrates	dérivés nitrés
+condyle	condyle
+walker	déambulateur
+congenital	congénital
+adhesions	adhérences
+monitoring	contrôle
+Computer	Ordinateur
+melanoma	mélanome
+calibrator	calibrateur
+ventricular fibrillation	fibrillation ventriculaire
+breast	sein
+L-tryptophan	L-tryptophane
+advice	conseil
+axon	axone
+Alzheimer	Alzheimer
+Rest	Repos
+Expressivity	Expressivité
+Factor analysis	Analyse factorielle
+Pain	Douleur
+GGT	GGT
+coronary angiography	coronarographique
+antitussive	antitussif
+Mutation	Mutation
+Race	Race
+cytology	cytologie
+comments	commentaires
+stores	réserves
+Community health	Santé communautaire
+ovarian cancer	cancer de l'ovaire
+fascia	fascia
+P wave	onde P
+discography	discographie
+spermicide	spermicide
+concha	cornet
+fasciculation	fasciculation
+Interleukin	Interleukin
+clamp	clamp
+anesthetic	anesthesique
+Modification	Modification
+metabolism	métabolisme
+fibrinogen	fibrinogène
+chronic fatigue	fatigue chronique
+real time	en temps réel
+diuretics	diurétiques
+disorders	anomalies
+circumduction	circumduction
+supply	apport
+cerebral palsy	infirmité motrice cérébrale
+tonsillitis	amygdalites
+endocrinal	endocrinien
+coccygodynia	coccygodynie
+anti-psychotic	antipsychotique
+patch	timbre
+antimicrobial	antimicrobien
+gas chromatography	chromatographie gazeuse
+human growth hormone	hormone de croissance
+Topical treatment	Traitement topique
+diarrhoea	diarrhée
+codeine	codéine
+geriatrician	gériatre
+Hydration	Hydratation
+dyspnea	dyspnée
+tract	système
+Distribution	Distribution
+epilepsy	épilepsie
+epithelial cell	cellule épithéliale
+Carcinoma	Carcinomes
+arthrotomy	arthrotomie
+Physician	Médecin
+susceptible	susceptible
+laryngeal cartilages	cartilages du larynx
+damage	dommage
+erythrocyte	hématie
+Wrinkle	Ride
+device	appareil
+disease	maladie
+twice a day	deux fois par jour
+antifungal	antifongique
+atopic dermatitis	dermatite atopique
+hematemesis	hématémèse
+approach	conception
+joints	articulations
+dehydrated	déshydraté
+ketone bodies	corps cétoniques
+Kidney failure	Insuffisance rénale
+Hematuria	Hématurie
+International comparison	Comparaison internationale
+to cause	provoquer
+mumps	oreillons
+clamping	clampage
+crohn's disease	maladie de Crohn
+needle	aiguille
+Symptomatic treatment	Traitement symptomatique
+kidney cancer	cancer du rein
+tonsils	végétations adénoïdes
+absorption	absorption
+consultant	consultant
+ketone	cétone
+medical history	antécédents médicaux
+bromine	brome
+Vesicle	Vésicule
+foetal distress	souffrance foetale
+dystrophy	dystrophie
+scar	cicatrice
+confirmatory	confirmatoire
+air embolism	embolie gazeuse
+Metastatic melanoma	Mélanome métastatique
+bursectomy	bursectomie
+Melanoma	Mélanome
+communication	communication
+hearing	audition
+chromosomal	chromosomique
+Gonococcus	gonocoque
+Longitudinal study	Etude longitudinale
+FATIGUE	FATIGUE
+self-report	auto-rapport
+insurance	assurance
+to apply	appliquer
+red blood cells	globules rouges
+anti-inflammatory	anti-inflammatoire
+excreted	excrété
+LAD	IVA
+Syndrome	Syndrome
+over and above	en plus de
+nipple	mamelon
+milk	lait
+Acrocyanosis	Acrocyanose
+PPAR	PPAR
+alopecia	alopécie
+cardiac index	index cardiaque
+tachycardia	tachycardies
+gene	gène
+cuticle	cuticule
+Herpes zoster	Zona
+stroke volume	volume systolique
+Albinism	Albinisme
+faeces	feces
+anaesthesiologist	anesthésiste
+Occupation	Santé au travail
+herpes zoster	herpès zoster
+hirsutism	hirsutisme
+Discriminant analysis	Analyse discriminante
+whooping cough	coqueluche
+involved	impliqué
+Environment	Environnement
+endometriosis	endometriose
+cytoplasm	cytoplasme
+haemorrhoids	hémorroïdes
+glaucoma	glaucome
+Retrospective study	Etude rétrospective
+antigen	antigène
+Azathioprine	Azathioprine
+antihypertensive	antihypertensif
+Renal insufficiency	Insuffisance rénale
+equipment	équipement
+bodies	corps
+motor system	appareil moteur
+articular	articulaire
+bone graft	greffe osseuse
+Encephalopathy	Encéphalopathie
+impairment	gêne
+half-life	demi-vie
+ill	malade
+low energy	faible énergie
+phosphodiesterase inhibitor	inhibiteur de la phosphodiestérase
+Antibiotic	Antibiotique
+cancer cell	cellule cancéreuse
+aspirin	aspirine
+toddlerhood	petite enfance
+constipation	constipation
+experienced	expérimenté
+alcohol	alcool
+oligosaccharide	oligosaccharide
+hemoperitoneum	hémopéritoine
+pathway	trajet
+dialysis	dialyse
+osteitis	ostéites
+unstable angina	angor instable
+evening primrose oil	huile d'onagre
+allergic response	réaction allergique
+pulse	pouls
+asthmatic	asthmatique
+formulary	formulaire
+labelled	étiqueté
+Adriamycin	Adriamycine
+Impairment	Déficience
+sheath	gaine
+candidemia	candidémie
+cardiotonic	cardiotonique
+fibroma	fibrome
+distal	distal
+glucuronide	glucuronide
+system	appareil
+Hydroxychloroquine	Hydroxychloroquine
+oral contraceptive	contraceptif oral
+skin graft	greffe cutanée
+aperitif	apéritif
+hypnosis	hypnose
+Soap	Savon
+aplasia	aplasie
+haemorrhage	hémorragie
+Sterilisation	Stérilisation
+sprain	entorse
+hemopoietic	hématopoïétique
+type 1 diabetes	diabète type 1
+Absolute risk	Risque absolu
+bactericidal	bactéricide
+antibody	anticorps
+nasal cartilages	cartilages du nez
+lumbar puncture	ponction lombaire
+Management	Management
+hyperostosis	hyperostose
+disability	handicap
+Epidermis	Epiderme
+Epidemiologist	Epidémiologiste
+mood	humeur
+Cyclooxygenase	Cyclo-oxygénase
+gerontology	gérontologie
+slice	coupe
+seizures	convulsions
+batch	lot
+arteries	artères
+thrombocytopenia	thrombocytopénie
+operation	fonctionnement
+liver disease	maladie du foie
+collimation	collimation
+pins	tiges
+myelinated axon	axone myélinisé
+procedure	modalité
+kinetic	cinétique
+fibrous sheath	gaine fibreuse
+muscle wasting	atrophie musculaire
+NSAID	AINS
+external	externe
+incipient	débutant
+cortisol	cortisol
+ring	anneau
+astrocytoma	astrocytome
+cardiovascular	cardio-vasculaire
+anxiety	angoisse
+embolization	embolisation
+attachment	ancrage
+fibrocartilage	fibrocartilage
+protein	protéines
+Morbidity	Morbidité
+cisplatin	cisplatine
+hematoma	hématome
+biliary colic	colique hépatique
+medical device	dispositifs médicaux
+cryotherapy	cryothérapie
+hot flashes	bouffées de chaleur
+chills	frissons
+hyperactivity	hyperactivité
+Average	Moyenne
+antibiotic sensitivity test	antibiogramme
+endovascular	endovasculaire
+influenza	rhume
+arms	bras
+cystic fibrosis	mucoviscidose
+pad	compresse
+atheromatosis	athéromatose
+Interaction	Interaction
+explanation	explication
+COX-1	COX-1
+bronchitis	bronchites
+myelin sheath	gaine de myéline
+bursitis	bursite
+Gestational age	Age gestationnel
+discharge	écoulement
+cavity	cavite
+atrium	oreillette
+chest	poitrine
+hormone	hormone
+bacillus	bacille
+drugs	médicaments
+acidifying	acidifiante
+stem cell	cellule souche
+intraocular pressure	la pression intraoculaire
+AAA	AAA
+bone marrow	moelle osseuse
+hypokalemia	hypokaliémie
+hydroxy	hydroxy
+lung	le poumon
+sedation	sédation
+Selection	Sélection
+reasonable	acceptable
+albuminuria	albuminurie
+fibroid	fibrome
+focus	effet
+myeloproliferative	myéloprolifératif
+invasion	envahissement
+Rate	Taux
+androgenic	androgénique
+Emergency Medical Service	EMS
+crying	pleurs
+cyclophosphamide	cyclophosphamide
+Follow-up	Suivi
+Home care	Soins à domicile
+hypervolemia	hypervolémie
+surgical	chirurgical
+Vascular insufficiency	Insuffisance vasculaire
+gait	démarche
+circulating nurse	panseuse
+cognitive	cognitif
+occupational therapy	ergothérapeute
+disc degeneration	dégénérescence discale
+lower limbs	membres inférieurs
+blood	sang
+cell	cellule
+N	azote
+abnormalities	anomalies
+sterile field	champ stérile
+established	confirmé
+Weight	Poids
+band	bande
+gumma	gomme
+Stratification	Stratification
+Antibody	Anticorps
+intermediate host	hôte intermédiaire
+folate deficiency	carence en folates
+thread	filetage
+endometrium	endometre
+aspartate aminotransferase	AST
+diets	régimes
+hirudin	hirudine
+Pathogenicity	Pathogénicité
+contraction	contraction
+COX-2	COX-2
+Renal failure	Insuffisance rénale
+antibiotic therapy	antibiothérapie
+menopause	ménopause
+diagnosis	diagnostic
+Bactrim	bactrim
+flashback	flashback
+cholecalciferol	cholécalciférol
+Hygiene	Hygiène
+capsule	gélule
+aneurysm	anévrisme
+Hyperkalemia	Hyperkaliémie
+antibiotic	antibiotique
+Health statistics	Statistiques sanitaires
+Bacteria	Bactéries
+ectopic pregnancy	grossesse ectopique
+biofeedback	biofeedback
+spinal	rachianesthésie
+Serum	Sérum
+relaxation	décontraction
+hyaline cartilage	cartilage hyalin
+anatomically	anatomiquement
+capsulorrhaphy	capsulorraphie
+sensor	capteur
+Etiology	Etiologie
+arrythmia	arythmie
+adrenal glands	surrénales
+supplies	fournitures
+ACR	ACR
+Infestation	Infestation
+ethmoid bone	ethmoïde
+venous plexus	réseau veineux
+Fertility	Fécondité
+connector	connecteur
+in adults and older children	grand enfant
+fungus	champignon
+stroke	AVC
+basal cells	cellules basales
+carboplatin	carboplatine
+stroke	coup
+Hepatitis A	Hépatite A
+patient	patient
+measles	rougeole
+antioxidant	anti-oxydant
+defect	défaut
+staining	coloration
+heart rate	fréquence cardiaque
+fluoxetine	fluoxétine
+postmortem examination	examen post-mortem
+catecholamines	catécholamines
+weight	poids
+angina	angine
+enteritis	entérite
+bronchitis	bronchite
+anti-androgenic	antiandrogénique
+Redness	Rougeur
+Genital herpes	Herpès génital
+Mathematical model	Modèle mathématique
+Purkinje cell	cellule de Purkinje
+tumor	tumeur
+arsenic	arsenic
+Medical statistics	Statistiques médicales
+synovial chondromatosis	chondromatose synoviale
+Proportion	Proportion
+Chemoprophylaxis	Chimioprophylaxie
+ulna	cubitus
+disc	disque
+data	données
+sickle cell anemia	drépanocytose
+Photosensitivity	Photosensibilité
+stearic acid	acide stéarique
+status	statut
+laryngitis	laryngites
+visual field	champ visuel
+chronicity	chronicité
+balloon	ballonnet
+Anoxia	Anoxie
+hip	hanche
+Anti-inflammatory	Anti-inflammatoire
+uterine fibroids	fibromes utérins
+intensive care	réanimation
+osteoarthritis	ostéoarthrite
+cyanocobalamin	cyanocobalamine
+girdle	ceinture
+knees	genoux
+contusions	contusions
+Model	Modèle
+swelling	gonflement
+Dermatology	Dermatologie
+Norm	Norme
+circumcision	circoncision
+coronary artery	artère coronaire
+cortical	cortical
+Validation	Validation
+Infection	Infection
+arteriovenous fistula	fistule artério-veineuse
+hypoglycaemia	hypoglycémie
+Illness	Maladie
+deltoid muscle	deltoïde
+Standard	Standard
+Worm	Ver
+size	format
+elbow	coude
+Fetal death	Mort foetale
+cystitis	cystite
+Effectiveness	Efficacité
+Cardiovascular	CV
+conjugate	conjugué
+areola	aréole
+embolism	embolie
+downward	vers le bas
+surgeon	chirurgien
+hepatitis	hepatite
+autistic child	enfant autistique
+sequelae	séquelles
+conventional	conventionnel
+angioplasty	angioplastie
+strut	entretoise
+anaesthetic	anesthésique
+Reproducibility	Reproductibilité
+androgen	androgène
+therapeutic tools	outils thérapeutiques
+hair	cheveu
+collagenosis	collagénose
+Virulence	Virulence
+Quality of life	Qualité de vie
+antenna	antenne
+dyspepsia	dyspepsie
+aortic	aortique
+hemothorax	hémothorax
+chondrosarcoma	chondrosarcome
+strain	souche
+goiter	goitre
+Therapy	Thérapie
+fluoroscopy	fluoroscopie
+Estimation	Estimation
+pathogens	agent pathogène
+extracorporeal	extracorporel
+analyser	analyseur
+fibroids	fibromes
+femoro-femoral	fémoro-fémoral
+hemostasis	hémostase
+chemotherapy	chimiothérapie
+wheelchair	fauteuil roulant
+Tissue	Tissu
+humerus	humérus
+Incidence	Incidence
+chondrotomy	chondrotomie
+follow up	suivi
+colon	côlon
+urinalysis	examen des urines
+atelectasis	atélectasie
+hemangioma	hémangiome
+tremor	tremblement
+Response rate	Taux de réponse
+adduction	adduction
+densitometry	densitométrie
+eyeground	fond d'oeil
+Keratosis	Kératose
+Retrovirus	Rétrovirus
+Electrolysis	Electrolyse
+aphrodisiac	aphrodisiaque
+hyperventilation	hyperventilation
+hemarthrosis	hémarthrose
+Control	Contrôle
+Cold abscess	Abcès froid
+blepharitis	blépharite
+coxalgia	coxalgie
+Carrier	Porteur
+suction	succion
+dura	dure-mère
+keratinocyte	kératinocyte
+clinical history	antécédents cliniques
+Adjustment	Ajustement
+meibomian gland	glande de Meibomius
+Overdose	Surdosage
+birth control	contraception
+Community medicine	Médecine communautaire
+South America	Amérique du Sud
+abnormal pap smear	frottis anormal
+vertigo	vertige
+hepatitis	hépatites
+switch	en relai
+balance	equilibre
+hydrocortisone	hydrocortisone
+Hypothesis	Hypothèse
+Quality control	Contrôle de la qualité
+mammal	mammifère
+biocompatible	biocompatible
+neck	collet
+amyloidosis	amylose
+Cyst	Kyste
+cartilages	cartilages
+Europe	Europe
+cardiomyopathy	cardiomyopathie
+Recrudescence	Recrudescence
+ciproflox	ciproflox
+biceps muscle	biceps
+dermatitis	dermatose
+cold	rhume
+Case control study	Etude cas-témoins
+avulsion	avulsion
+Cross-sectional study	Etude transversale
+chondromalacia	chondromalacie
+verification	vérification
+debridement	débridement
+Prevention	Prévention
+homocystinuria	homocystinurie
+associated	associé
+latissimus dorsi muscle	grand dorsal
+gallstones	calculs biliaires
+Biometry	Biométrie
+choline	choline
+allergic	allergique
+renal arteries	artères rénales
+tracing	tracé
+Immunization	Immunisation
+medical devices	des dispositifs médicaux
+rotator cuff	coiffe des rotateurs
+Survey	Enquête
+non-osteogenic fibroma	fibrome non ostéogénique
+abdomen	abdomen
+whooping cough	Coqueluche
+cholesterol	cholestérol
+control	contrôle
+fainting	évanouissement
+osteoarthritis of the knee	gonarthrose
+Dermatologist	Dermatologue
+Perinatal mortality	Mortalité périnatale
+19-norprogesterone	19-norprogestérone
+Renal biopsy	Biopsie rénale
+naevus	naevus
+antioxidant	antioxydantes
+Classification	Classification
+procedure	geste
+varicose veins	varices
+pin	broche
+Infectious diseases	Maladies infectieuses
+renal damage	atteinte rénale
+manufacturer	fabricant
+bladder	vessie
+haemodynamic	hémodynamique
+blood pressure	PA
+dilatation	dilatation
+proctology	proctologie
+Nomogram	Nomogramme
+Dermatose	Dermatose
+Pill	Pilule
+stress	stress
+Atopic dermatitis	Dermatite atopique
+abduction	abduction
+flank	flanc
+excitation	excitation
+at rest	au repos
+Heparin	Héparine
+Association	Association
+arteriotomy	artériotomie
+chronic	chronique
+antibiotic	antibiotiques
+failure	défaillance
+herniorrhaphy	herniorraphie
+Quality of care	Qualité des soins
+plex	Plex
+wire	fil
+contralateral	controlatéral
+sequence	séquence
+depolarization	dépolarisation
+hypothermia	hypothermie
+curettage	curettage
+injury	blessure
+disorder	affection
+handling	manipulation
+Chest pain	douleur thoracique
+Raloxifene	Raloxifène
+color	couleur
+gastroenterologist	gastro-entérologue
+claviculectomy	claviculectomie
+appraisal	évaluation
+cardiac arrest	arrêt cardiaque
+pedicle graft	greffon pédiculé
+chondrodystrophy	chondrodystrophie
+Disinfection	Désinfection
+Experimental study	Etude expérimentale
+hyperplasia	hyperplasie
+dosage	dosage
+chromosome	chromosome
+home care	soins à domicile
+limb	membre
+benzodiazepines	benzodiazépines
+helmet	casque
+pelvic girdle	ceinture pelvienne
+Acne	Acné
+Nephrology	Néphrologie
+itching	démangeaisons
+wall	paroi
+hypertension	hypertension
+cancer	cancer
+osteomyelitis	osteomyelite
+Methodology	Méthodologie
+astroglia	astroglie
+stress test	preuve d'effort
+preservation	conservation
+off-label	hors indication
+nervous system	système nerveux
+albumin	albumine
+right atrium	oreillette droite
+Testicle	Testicul
+Trend	Tendance
+scarlet fever	scarlatine
+pancreatic cancer	cancer du pancréas
+Survey methods	Méthodes d'enquête
+inguinal hernia	hernie inguinale
+lactate dehydrogenase	LD
+pattern	disposition
+congenital heart disease	cardiopathies congénitales
+fibroscopy	fibroscopie
+Pragmatic study	Etude pragmatique
+home nursing care	soins infirmiers à domicile
+surgical gloves	gants chirurgicaux
+estrous cycle	cycle oestral
+posture	attitude
+hiatal hernia	hernie hiatale
+Nephrectomy	Néphrectomie
+shingles	zona
+removal	exérèse
+excretion	excrétion
+ataxic	ataxique
+femoral hernia	hernie fémorale
+growth	croissance
+thrush	muguet
+skin	peau
+tantrums	caprices
+pleural cavities	cavités pleurales
+Vaccination	Vaccination
+radiotherapy	radiothérapie
+Deduction	Déduction
+fasciotomy	fasciotomie
+generic	générique
+Fermentation	Fermentation
+colic	coliques
+Systemic lupus erythematosus	Lupus érythémateux disséminé
+discharge	ecoulement
+develop	apparaître
+anabolism	anabolisme
+contact dermatitis	dermatite de contact
+package	emballage
+Lymphoma	Lymphome
+dysmenorrhea	dysménorrhée
+Erysipelas	Erysipèle
+lump	bosse
+hemochromatosis	hemochromatose
+fetus	foetus
+derivative	dérivé
+purpura	purpura
+Exposure	Exposition
+Body mass index	BMI
+hypothyroidism	hypothyroïdie
+ganglionectomy	gangliectomie
+mediated by	médié par
+Vitiligo	Vitiligo
+incus	enclume
+hemoptysis	hémoptysie
+spread	extension
+Body mass index	Indice de masse corporelle
+Life expectancy	Espérance de vie
+Cleansing	Nettoyage
+hypercalcemia	hypercalcémie
+determination	détermination
+antibacterial	antibactérienne
+ischemic stroke	accident ischémique cérébral
+conductivity	conductibilité
+Antisepsis	Antisepsie
+polythelia	polythélie
+mating	accouplement
+neuromuscular blocking agent	curare
+treatment approach	approche thérapeutique
+Coverage	Couverture
+guiding catheter	cathéter-guide
+Chloasma	Chloasma
+sinus bradycardia	bradycardie sinusale
+data	donnée
+Fluconazole	Fluconazole
+ferritin	ferritine
+syringe pump	seringue autopulsée
+medicine	médicaments
+finding	découverte
+pediculate	pédiculé
+proximal end	extrémité proximale
+fibromyalgia	fibromyalgie
+Folliculitis	Folliculite
+spleen	rate
+fiberoptic	fibroscopie
+lacuna	lacune
+neutron beam	faisceau de neutrons
+Sterile	Stérile
+alkaline phosphatase	phosphatase alcaline
+allergy	allergie
+palmitic acid	acide palmitique
+heart disease	maladie cardiaque
+Cohort	Cohorte
+instrument	instrument
+anaesthesia	anesthésie
+bone stock	capital osseux
+Risk assessment	Evaluation du risque
+osteoporosis	ostéoporose
+bodies	corpuscules
+bone graft	greffon osseux
+gametocyte	gamétocyte
+Cyclosporin	Cyclosporine
+detoxication	désintoxication
+intimal tear	déchirure de l'intima
+supplying the brain	destinée cérébrale
+Preventive medicine	Médecine préventive
+muscular disease	affection musculaire
+newborn	nouveau-né
+United States	Etats-Unis
+arachnoiditis	arachnoïdite
+ratio	rapport
+pathway	parcours
+detection	détection
+medical oncology	cancérologie médicale
+sudden cardiac death	mort subite
+endocrinology	endocrinologie
+clip	agrafe
+finger	doigt
+gynecology	gynécologie
+Pericarditis	Péricardite
+iliac arteries	artères iliaques
+Sequential analysis	Analyse séquentielle
+normal pressure hydrocephalus	hydrocéphalie à pression normale
+biocompatibility	biocompatibilité
+distal end	extrémité distale
+decubitus ulcer	escarre
+effective	efficace
+cornea	cornée
+to tame	apprivoiser
+Error	Erreur
+histology	histologie
+otitis media	otite moyenne aiguë
+purposes	objectifs
+cicatrizant	cicatrisante
+Risk	Risque
+Cancer registry	Registre du cancer
+Ecological study	Etude écologique
+findings	constatations
+Abscess	Abcès
+jaundice	jaunisse
+New York Heart Association	NYHA
+bronchospasm	bronchospasme
+Lack	Carence
+pouch	cul-de-sac
+hoarseness	enrouement
+refers to	correspond
+Sample	Echantillon
+Class	Classe
+to promote	favoriser
+Campylobacter	Campylobacter
+Effect	Effet
+warts	verrue
+Pregnancy	Grossesse
+suction cup	ventouse
+strength	force
+eczema	eczéma
+femoral artery	artère fémorale
+gauze	compresse
+Dermis	Derme
+cup	cotyle
+collagen	collagène
+affinity	affinité
+gestational age	l'âge gestationnel
+Demography	Démographie
+comminutive fracture	fracture comminutive
+Xenobiotic	Xénobiotique
+calculus	calcul
+Vector	Vecteur
+Genetics	Génétique
+afferent	afférent
+cytolysis	cytolyse
+Normal distribution	Distribution normale
+linoleic acid	acide linoléique
+Chemotherapy	Chimiothérapie
+embolectomy	embolectomie
+conclusions	conclusions
+upward	vers le haut
+physical activity	activité physique
+atypical form of	forme atypique de
+Compliance	Observance
+endothelial	endothélial
+Guidelines	recommandations
+anterior	antérieur
+rim	jante
+help	aider
+pantothenic acid	acide pantothénique
+Hepatitis B	Hépatite B
+parenchyma	parenchyme
+polymyositis	polymyosite
+excision	excision
+splint	attelle
+brain	cerveau
+distress	détresse
+antipyretic	antipyrétique
+cardiopulmonary	cardiopulmonaire
+abdominal aortic aneurysm	anévrisme de l'aorte abdominale
+extemporaneous mixture	mélange extemporané
+nucleic acid	acide nucléique
+caudal	caudal
+glioma	gliome
+chondrodysplasia	chondrodysplasie
+effusion	épanchement
+Descriptive study	Etude descriptive
+contracture	contracture
+multiple sclerosis	sclérose en plaque
+anxiety	anxiété
+Concordance	Concordance
+Reliability	Fiabilité
+Inference	Inférence
+mild	discret
+carbohydrate	glucide
+vitamin B12 deficiency	carence en vitamine B12
+numbness	engourdissement
+guideline	directives
+biopsy	biopsie
+Screening	Dépistage
+cefaclor	céfaclor
+endoplasm	endoplasme
+buttock	fesse
+rashes	éruptions
+hemolysis	hémolyse
+phlebitis	phlébite
+avascular	avasculaire
+Colonization	Colonisation
+home health	aide a domicile
+atonic	atonique
+water-soluble	hydrosoluble
+Trial	Essai
+Medical audit	Audit médical
+damage	dégât
+elderly	âgé
+pancreatitis	pancreatite
+Herpes	Herpès
+plug	bouchon
+swelling	enflure
+tumors	tumeurs
+commitment	engagement
+angina pectoris	angine de poitrine
+consideration	considération
+blister	cloque
+buprenorphine	buprénorphine
+heart	cœur
+heparin	héparine
+CAV	CAV
+corpse	cadavre
+B12	B12
+Descriptive epidemiology	Epidémiologie descriptive
+pancreatitis	pancréatite
+illness	maladie
+sputum	crachat
+Pus	Pus
+Death certificate	Certificat de décès
+scalp	chevelu
+Hemophilia A	hémophilie A
+thoracic cavity	cavité thoracique
+perfused	perfusé
+brain surgery	chirurgie cérébrale
+Delivery	Accouchement
+gynecomastia	gynecomastie
+False positive	Faux positif
+audiology	audiologie
+rating	évaluation
+prostatitis	prostatite
+flat feet	pieds plats
+efferent	efférent
+anastomosis	anastomose
+cardiac arrest	arrêt du coeur
+hematuria	hématurie
+tonsillitis	amygdalite
+radioulnar joint	articulation radio-cubitale
+self-expanding	expansible
+Frequency	Fréquence
+in patient	hospitalisé
+spinal cord	moelle epinière
+umbilical hernia	hernie ombilicale
+Canker	Chancre
+fibre	fibre
+hypoplasia	hypoplasie
+Parameter	Paramètre
+portal	porte
+cefazolin	céfazoline
+oats	avoine
+predisposing factor	facteur prédisposant
+Brain natriuretic peptide	BNP
+Taxonomy	Taxinomie
+femoral	fémoral
+autoimmune	autoimmune
+Hyperphosphatemia	Hyperphosphatémie
+False negative	Faux négatif
+general anaesthesia	anesthésie générale
+moderate	modéré
+Malignant melanoma	Mélanome malin
+hyperthyroidism	hyperthyroïdie
+diabetic	diabétique
+blood sugar	la glycemie
+Function	Fonction
+Contamination	Contamination
+Health	Santé
+test	examen
+arbitrarily	arbitrairement
+alcoholism	alcoolisme
+death	décès
+behavior	comportement
+site	endroit
+check-up	bilan de santé
+fibrosis	fibrose
+arteriovenous	artério-veineux
+biological activity	activité biologique
+keloid	chéloïde
+antidepressant	antidépressif
+bound	fixé
+bronchoscopy	bronchoscopie
+approximately	environ
+perinatal mortality	mortalité périnatale
+cellulitis	cellulite
+dendrite	dendrite
+Contra-indication	Contre-indication
+Probability	Probabilité
+atopic	atopique
+clinical trial	essai clinique
+Validity	Validité
+clamp	pince
+benefit	bénéfice
+angiography	angiographie
+Azotemia	Azotémie
+antiallergen	antiallergique
+allergology	allergologie
+Seroepidemiology	Séroépidémiologie
+hypnotic	hypnotique
+diuretic	diurétique
+Statistics	Statistiques
+oral contraceptives	contraceptifs oraux
+mesenteric artery	artère mésentérique
+ventricle	ventricule
+Dermatophyte	Dermatophyte
+IDDM	DID
+loosening	descellement
+attachment	attachement
+diaphragm	diaphragme
+functional	fonctionnelle
+medications	médicaments
+vertebral body	corps vertébral
+loss of consciousness	Perte de connaissance
+Life events	Evénements de la vie
+degeneration	dégénérescence
+Actinic keratosis	Kératose actinique
+vascular prosthesis	prothèse vasculaire
+exostosis	exostose
+atria	oreillettes
+nightmares	cauchemars
+antiradical	antiradicalaire
+haemolytic anaemia	anémie hémolytique
+bacteriology	bactériologie
+convulsion	convulsion
+Decision analysis	Analyse décisionnelle
+Chromosome	Chromosome
+back pain	douleurs dorsales
+barbiturate	barbiturique
+calcified	calcifié
+eclampsia	clampsie
+muscle relaxant	relaxant musculaire
+fasciitis	aponévrosite
