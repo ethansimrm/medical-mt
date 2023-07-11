@@ -1,0 +1,19 @@
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /rds/general/user/ers19/home/.cache/huggingface/token
+Login successful
+{'loss': 0.1733, 'learning_rate': 1.9755551072310664e-05, 'epoch': 0.2}
+{'eval_loss': 0.09841253608465195, 'eval_bleu': 42.0367, 'eval_gen_len': 33.6913, 'eval_runtime': 98.0997, 'eval_samples_per_second': 10.632, 'eval_steps_per_second': 0.673, 'epoch': 0.2}
+{'loss': 0.1414, 'learning_rate': 1.9511071577042528e-05, 'epoch': 0.39}
+{'eval_loss': 0.09766007959842682, 'eval_bleu': 43.2242, 'eval_gen_len': 33.3174, 'eval_runtime': 82.8682, 'eval_samples_per_second': 12.586, 'eval_steps_per_second': 0.796, 'epoch': 0.39}
+{'loss': 0.139, 'learning_rate': 1.9266592081774388e-05, 'epoch': 0.59}
+{'eval_loss': 0.0976424589753151, 'eval_bleu': 42.0494, 'eval_gen_len': 33.7267, 'eval_runtime': 83.944, 'eval_samples_per_second': 12.425, 'eval_steps_per_second': 0.786, 'epoch': 0.59}
+{'loss': 0.1353, 'learning_rate': 1.9022143154085054e-05, 'epoch': 0.78}
+{'eval_loss': 0.09684260934591293, 'eval_bleu': 42.5659, 'eval_gen_len': 34.3452, 'eval_runtime': 101.4695, 'eval_samples_per_second': 10.279, 'eval_steps_per_second': 0.65, 'epoch': 0.78}
+{'loss': 0.1343, 'learning_rate': 1.8777694226395717e-05, 'epoch': 0.98}
+{'eval_loss': 0.09681029617786407, 'eval_bleu': 42.6132, 'eval_gen_len': 34.3816, 'eval_runtime': 221.1539, 'eval_samples_per_second': 4.716, 'eval_steps_per_second': 0.298, 'epoch': 0.98}
+{'loss': 0.1205, 'learning_rate': 1.8533245298706383e-05, 'epoch': 1.17}
+{'eval_loss': 0.09692103415727615, 'eval_bleu': 42.6738, 'eval_gen_len': 33.8207, 'eval_runtime': 131.2568, 'eval_samples_per_second': 7.946, 'eval_steps_per_second': 0.503, 'epoch': 1.17}
+{'loss': 0.1189, 'learning_rate': 1.8288796371017045e-05, 'epoch': 1.37}
+{'eval_loss': 0.09743621945381165, 'eval_bleu': 42.5355, 'eval_gen_len': 33.6596, 'eval_runtime': 92.9262, 'eval_samples_per_second': 11.224, 'eval_steps_per_second': 0.71, 'epoch': 1.37}
+{'train_runtime': 12175.0232, 'train_samples_per_second': 859.827, 'train_steps_per_second': 53.74, 'train_loss': 0.1375198495047433, 'epoch': 1.37}

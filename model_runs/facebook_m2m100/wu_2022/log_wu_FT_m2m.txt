@@ -1,0 +1,17 @@
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /rds/general/user/ers19/home/.cache/huggingface/token
+Login successful
+{'loss': 0.3687, 'learning_rate': 1.9748427672955977e-05, 'epoch': 0.2}
+{'eval_loss': 0.11476590484380722, 'eval_bleu': 38.7222, 'eval_gen_len': 44.2291, 'eval_runtime': 360.9356, 'eval_samples_per_second': 2.89, 'eval_steps_per_second': 0.363, 'epoch': 0.2}
+{'loss': 0.3491, 'learning_rate': 1.9496855345911952e-05, 'epoch': 0.4}
+{'eval_loss': 0.11770005524158478, 'eval_bleu': 37.093, 'eval_gen_len': 43.8054, 'eval_runtime': 378.0513, 'eval_samples_per_second': 2.759, 'eval_steps_per_second': 0.347, 'epoch': 0.4}
+{'loss': 0.3243, 'learning_rate': 1.9245283018867927e-05, 'epoch': 0.6}
+{'eval_loss': 0.11857448518276215, 'eval_bleu': 36.8858, 'eval_gen_len': 45.0777, 'eval_runtime': 380.3108, 'eval_samples_per_second': 2.742, 'eval_steps_per_second': 0.344, 'epoch': 0.6}
+{'loss': 0.3499, 'learning_rate': 1.8993710691823902e-05, 'epoch': 0.81}
+{'eval_loss': 0.12123128026723862, 'eval_bleu': 36.1535, 'eval_gen_len': 44.5235, 'eval_runtime': 361.377, 'eval_samples_per_second': 2.886, 'eval_steps_per_second': 0.363, 'epoch': 0.81}
+{'loss': 0.3188, 'learning_rate': 1.8742138364779877e-05, 'epoch': 1.01}
+{'eval_loss': 0.12074244767427444, 'eval_bleu': 36.4273, 'eval_gen_len': 44.1035, 'eval_runtime': 368.0079, 'eval_samples_per_second': 2.834, 'eval_steps_per_second': 0.356, 'epoch': 1.01}
+{'loss': 0.2119, 'learning_rate': 1.8490566037735852e-05, 'epoch': 1.21}
+{'eval_loss': 0.12035094201564789, 'eval_bleu': 36.8109, 'eval_gen_len': 43.9482, 'eval_runtime': 362.1557, 'eval_samples_per_second': 2.88, 'eval_steps_per_second': 0.362, 'epoch': 1.21}
+{'train_runtime': 2472.9961, 'train_samples_per_second': 32.893, 'train_steps_per_second': 4.115, 'train_loss': 0.32043041040500003, 'epoch': 1.21}

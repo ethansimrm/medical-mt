@@ -1,0 +1,25 @@
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /rds/general/user/ers19/home/.cache/huggingface/token
+Login successful
+{'loss': 0.2806, 'learning_rate': 1.9753918572555207e-05, 'epoch': 0.2}
+{'eval_loss': 0.1102447509765625, 'eval_bleu': 32.0062, 'eval_gen_len': 43.3941, 'eval_runtime': 157.0519, 'eval_samples_per_second': 6.641, 'eval_steps_per_second': 0.21, 'epoch': 0.2}
+{'loss': 0.2413, 'learning_rate': 1.950746746845426e-05, 'epoch': 0.39}
+{'eval_loss': 0.10814595967531204, 'eval_bleu': 37.6118, 'eval_gen_len': 39.3595, 'eval_runtime': 168.9026, 'eval_samples_per_second': 6.175, 'eval_steps_per_second': 0.195, 'epoch': 0.39}
+{'loss': 0.2314, 'learning_rate': 1.9261016364353314e-05, 'epoch': 0.59}
+{'eval_loss': 0.1068105697631836, 'eval_bleu': 39.7665, 'eval_gen_len': 38.2579, 'eval_runtime': 110.5155, 'eval_samples_per_second': 9.438, 'eval_steps_per_second': 0.299, 'epoch': 0.59}
+{'loss': 0.2239, 'learning_rate': 1.9014565260252367e-05, 'epoch': 0.79}
+{'eval_loss': 0.10546665638685226, 'eval_bleu': 30.8451, 'eval_gen_len': 44.8092, 'eval_runtime': 180.1921, 'eval_samples_per_second': 5.788, 'eval_steps_per_second': 0.183, 'epoch': 0.79}
+{'loss': 0.2205, 'learning_rate': 1.8768175768927446e-05, 'epoch': 0.99}
+{'eval_loss': 0.10499896854162216, 'eval_bleu': 41.2323, 'eval_gen_len': 36.0853, 'eval_runtime': 104.0466, 'eval_samples_per_second': 10.024, 'eval_steps_per_second': 0.317, 'epoch': 0.99}
+{'loss': 0.2048, 'learning_rate': 1.8521847890378552e-05, 'epoch': 1.18}
+{'eval_loss': 0.10516589879989624, 'eval_bleu': 40.8763, 'eval_gen_len': 35.8658, 'eval_runtime': 122.632, 'eval_samples_per_second': 8.505, 'eval_steps_per_second': 0.269, 'epoch': 1.18}
+{'loss': 0.2043, 'learning_rate': 1.8275520011829655e-05, 'epoch': 1.38}
+{'eval_loss': 0.10433274507522583, 'eval_bleu': 40.3574, 'eval_gen_len': 37.326, 'eval_runtime': 84.8255, 'eval_samples_per_second': 12.296, 'eval_steps_per_second': 0.389, 'epoch': 1.38}
+{'loss': 0.2036, 'learning_rate': 1.802919213328076e-05, 'epoch': 1.58}
+{'eval_loss': 0.1036703959107399, 'eval_bleu': 39.4983, 'eval_gen_len': 38.8523, 'eval_runtime': 110.4188, 'eval_samples_per_second': 9.446, 'eval_steps_per_second': 0.299, 'epoch': 1.58}
+{'loss': 0.2015, 'learning_rate': 1.778286425473186e-05, 'epoch': 1.77}
+{'eval_loss': 0.10328555107116699, 'eval_bleu': 41.0821, 'eval_gen_len': 37.8965, 'eval_runtime': 100.7838, 'eval_samples_per_second': 10.349, 'eval_steps_per_second': 0.327, 'epoch': 1.77}
+{'loss': 0.2004, 'learning_rate': 1.7536536376182967e-05, 'epoch': 1.97}
+{'eval_loss': 0.10327664017677307, 'eval_bleu': 40.9198, 'eval_gen_len': 36.9942, 'eval_runtime': 90.817, 'eval_samples_per_second': 11.485, 'eval_steps_per_second': 0.363, 'epoch': 1.97}
+{'train_runtime': 9625.1915, 'train_samples_per_second': 1079.155, 'train_steps_per_second': 33.725, 'train_loss': 0.22122726135253906, 'epoch': 1.97}
