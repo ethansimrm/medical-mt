@@ -1,9 +1,12 @@
-import os
 import sys
+import time
+
+time.sleep(int(sys.argv[5]) * 30) #Avoid concurrency issues when batch-running
+
+import os
 import evaluate
 import pandas as pd
-import spacy
-from tqdm import tqdm
+import stanza
 
 dir_path = os.getcwd()
 
@@ -22,14 +25,15 @@ def getSentences(filename):
 
 #Generate global list of predicted tokens
 def generate_tokens(pred_list):
-    fr_tagger = spacy.load("fr_dep_news_trf")
+    stanza.download('fr', processors='tokenize, mwt', package='sequoia')
+    nlp_fr = stanza.Pipeline('fr', processors='tokenize, mwt', package='sequoia')
     global fr_tagged 
     fr_tagged = []
-    for sentence in tqdm(pred_list):
-        fr_tagged_sent = fr_tagger(sentence)
-        fr_tagged_tokenised = [token.text for token in fr_tagged_sent] #We just need the text only, not the entire token object. 
-        fr_tagged.append(fr_tagged_tokenised)
-
+    for sentence in pred_list:
+        doc = nlp_fr(sentence)
+        tokens = [word.text for sent in doc.sentences for word in sent.words] #We just need the text only, not the entire token object.
+        fr_tagged.append(tokens)
+        
 #Rule-based checker which optionally ignores casing errors and partitive article errors, depending on stringency.
 def find_term_in_sentence(row, stringency):
     if (stringency == "strict"):

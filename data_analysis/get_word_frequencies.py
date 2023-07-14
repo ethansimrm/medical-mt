@@ -1,4 +1,4 @@
-import spacy
+import stanza
 from datasets import load_dataset, Dataset
 from collections import Counter
 
@@ -18,12 +18,13 @@ train_data = load_dataset("ethansimrm/wmt_16_19_22_biomed_train_processed", spli
 train_data_ready = convertToDictFormat(train_data['text'])
 
 #Tokenise FR portion of training set at the word level
-fr_tagger = spacy.load("fr_dep_news_trf")
+stanza.download('fr', processors='tokenize, mwt', package='sequoia')
+nlp_fr = stanza.Pipeline('fr', processors='tokenize, mwt', package='sequoia')
 fr_tagged = []
 for sentence in train_data_ready['fr']:
-    fr_tagged_sent = fr_tagger(sentence)
-    fr_tagged_tokenised = [token.text for token in fr_tagged_sent]
-    fr_tagged += fr_tagged_tokenised
+  doc = nlp_fr(sentence)
+  tokens = [word.text for sent in doc.sentences for word in sent.words] #We just need the text only, not the entire token object.
+  fr_tagged.append(tokens)
 
 #Generate a dictionary of tokens and counts 
 train_word_frequencies = Counter(fr_tagged)
