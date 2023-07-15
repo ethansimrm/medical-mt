@@ -7,12 +7,12 @@ Results are:
 {'CHRF++': 52.55378071942424}
 {'ter': 69.8805868304333}
 {'meteor': 0.48563106750808793}
-Total Terminologies:  1656
-Exact Matches:  1150
-{'tur': 0.6944444444444444}
-Non-cased Matches:  1158
-{'tur_caseless': 0.6992753623188406}
-Non-cased Matches ignoring partitive article errors:  1234
-{'tur_loose': 0.7451690821256038}
+Total Terminologies:  1399
+Exact Matches:  960
+{'tur': 0.686204431736955}
+Non-cased Matches:  965
+{'tur_caseless': 0.6897784131522516}
+Non-cased Matches ignoring partitive article errors:  1046
+{'tur_loose': 0.7476769120800572}
 
 

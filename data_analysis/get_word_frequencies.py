@@ -24,7 +24,7 @@ fr_tagged = []
 for sentence in train_data_ready['fr']:
   doc = nlp_fr(sentence)
   tokens = [word.text for sent in doc.sentences for word in sent.words] #We just need the text only, not the entire token object.
-  fr_tagged.append(tokens)
+  fr_tagged += tokens
 
 #Generate a dictionary of tokens and counts 
 train_word_frequencies = Counter(fr_tagged)
