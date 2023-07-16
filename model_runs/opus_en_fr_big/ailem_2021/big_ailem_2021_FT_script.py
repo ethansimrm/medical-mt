@@ -2,16 +2,14 @@ import os
 import sys
 
 #Parameters chosen by user
-#TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0] 
+TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0] 
 #Although Ailem et al. used a weight of 2 for the last 10 of 100 training epochs, 
 #How this relates to fine-tuning is unclear - just try all that we have.
-#TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
-#OUTPUT_DIR = "ailem_2021_FT_weight_" + str(TERM_WEIGHT)  #Where the model is saved
+TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
+OUTPUT_DIR = "big_ailem_2021_FT_weight_" + str(TERM_WEIGHT)  #Where the model is saved
 
-TERM_WEIGHT = 1.25 #Best hyperparameter value on base OPUS model
-TRAIN_SAMPLE = 0.1 #They sampled 10% of the training data
 MODEL_CHECKPOINT = "Helsinki-NLP/opus-mt-tc-big-en-fr"
-OUTPUT_DIR = "opus_big_enfr_FT_ailem_2021"
+
 SPECIAL_TOKEN_IDS = [43311, 50387, 43312, 53016] #Respectively </s>, <unk>, <s>, and <pad>, which we do not want to up-weight
 
 #Explicitly set seed for reproducible behaviour
@@ -32,7 +30,7 @@ def convertToDictFormat(data):
 
 #Import HF token
 curr = os.getcwd()
-filepath = os.path.join(curr, "../hf_token.txt")
+filepath = os.path.join(curr, "../../hf_token.txt")
 f = open(filepath, "r", encoding = "utf8")
 hf_token = f.readline().strip()
 f.close()
@@ -48,25 +46,10 @@ validation_data = load_dataset("ethansimrm/wmt_20_21_biomed_validation", split =
 train_data_ready = convertToDictFormat(training_data['text'])
 val_data_ready = convertToDictFormat(validation_data['text'])
 
-#Sample our training data
-train_sampled = train_data_ready.train_test_split(train_size = TRAIN_SAMPLE, seed = 42)["train"] #Seed for reproducibility
-
-#Also load in our glossary
-term_candidates = load_dataset("ethansimrm/MeSpEn_enfr_cleaned_glossary", split = "train")
-terms_ready = convertToDictFormat(term_candidates['text'])
-
-#Find glossary terms which occur within the sampled portion of our dataset and gather them - this takes very long
-#Batch-mapping does not properly identify this, and multiprocessing failed due to null string cast error (problem with library)
-terms_ready_fr_set = set()
-for bitext in train_sampled:
-  for term in terms_ready:
-    if (term['fr'] in terms_ready_fr_set): #Lookup and skip
-      continue
-    if ((term['en'] in bitext['en']) and (term['fr'] in bitext['fr'])):
-      terms_ready_fr_set.add(term['fr'])
-
-#Convert to list for tokenisation      
-terms_ready_fr = list(terms_ready_fr_set)
+#Also load in our sampled glossary
+term_candidates = load_dataset("ethansimrm/sampled_glossary_0.1_train", split = "train")
+terms_ready = convertToDictFormat(term_candidates['text'])   
+terms_ready_fr = terms_ready["fr"]
     
 #Load in our metric
 from datasets import load_metric
@@ -202,4 +185,4 @@ trainer = WCETrainer(
 
 trainer.train()
 
-trainer.save_model(OUTPUT_DIR)
+#trainer.save_model(OUTPUT_DIR)

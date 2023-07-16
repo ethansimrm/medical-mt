@@ -4,9 +4,15 @@ import sys
 #Parameters chosen by user
 TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0]
 TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
-TRAIN_PROPORTION_LIST = [0.25, 0.5, 0.75]
-TRAIN_SAMPLE = TRAIN_PROPORTION_LIST[int(sys.argv[2])]
+
+SAMPLED_GLOSSARY_LIST = ["ethansimrm/sampled_glossary_0.25_train", "ethansimrm/sampled_glossary_0.5_train", "ethansimrm/sampled_glossary_0.75_train", "ethansimrm/sampled_glossary_1.0_train"]
+SAMPLED_GLOSSARY = SAMPLED_GLOSSARY_LIST[int(sys.argv[2])]
+TRAIN_SAMPLE_LIST = [0.25, 0.5, 0.75, 1.0]
+TRAIN_SAMPLE = TRAIN_SAMPLE_LIST[int(sys.argv[2])]
+
 OUTPUT_DIR = "wce_weights_" + str(TERM_WEIGHT) + "_train_" + str(TRAIN_SAMPLE) #Where the model is saved
+
+SPECIAL_TOKEN_IDS = [0, 1, 59513] #</s>, <unk> and <pad>
 
 #Explicitly set seed for reproducible behaviour
 from transformers import set_seed
@@ -42,26 +48,11 @@ validation_data = load_dataset("ethansimrm/wmt_20_21_biomed_validation", split =
 train_data_ready = convertToDictFormat(training_data['text'])
 val_data_ready = convertToDictFormat(validation_data['text'])
 
-#Sample our training data
-train_sampled = train_data_ready.train_test_split(train_size = TRAIN_SAMPLE, seed = 42)["train"] #Seed for reproducibility
-
-#Also load in our glossary
-term_candidates = load_dataset("ethansimrm/MeSpEn_enfr_cleaned_glossary", split = "train")
+#Also load in our glossary and extract FR terms
+term_candidates = load_dataset(SAMPLED_GLOSSARY, split = "train")
 terms_ready = convertToDictFormat(term_candidates['text'])
-
-#Find glossary terms which occur within the sampled portion of our dataset and gather them - this takes very long
-#Batch-mapping does not properly identify this, and multiprocessing failed due to null string cast error (problem with library)
-terms_ready_fr_set = set()
-for bitext in train_sampled:
-  for term in terms_ready:
-    if (term['fr'] in terms_ready_fr_set): #Lookup and skip
-      continue
-    if ((term['en'] in bitext['en']) and (term['fr'] in bitext['fr'])):
-      terms_ready_fr_set.add(term['fr'])
-
-#Convert to list for tokenisation      
-terms_ready_fr = list(terms_ready_fr_set)
-    
+terms_ready_fr = terms_ready["fr"] 
+ 
 #Load in our metric
 from datasets import load_metric
 metric = load_metric("sacrebleu")
@@ -81,8 +72,9 @@ for token_group in tokens:
     aggregated_tokens += token_group
 unique_tokens = Counter(aggregated_tokens)
 
-#Remove token 0, the sentence end token
-del unique_tokens[0]
+#Remove special tokens
+for unwanted_token_id in SPECIAL_TOKEN_IDS:
+  del unique_tokens[unwanted_token_id]
 
 #Generate weight vector
 import numpy as np

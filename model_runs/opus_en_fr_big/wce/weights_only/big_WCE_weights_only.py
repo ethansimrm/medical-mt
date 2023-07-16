@@ -1,14 +1,10 @@
-import os
 import sys
 
 #Parameters chosen by user
-#TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0]
-#TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
-#OUTPUT_DIR = "wce_weights_" + str(TERM_WEIGHT) #Where the model is saved
-
+TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0]
 MODEL_CHECKPOINT = "Helsinki-NLP/opus-mt-tc-big-en-fr"
-OUTPUT_DIR = "opus_big_enfr_FT_wce"
-TERM_WEIGHT = 1.25
+TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
+OUTPUT_DIR = "big_wce_weights_" + str(TERM_WEIGHT) #Where the model is saved
 SPECIAL_TOKEN_IDS = [43311, 50387, 43312, 53016] #Respectively </s>, <unk>, <s>, and <pad>, which we do not want to up-weight
 
 #Explicitly set seed to be 42 for reproducible behaviour
@@ -26,17 +22,6 @@ def convertToDictFormat(data):
         target.append(sentences[1])
     ready = Dataset.from_dict({"en":source, "fr":target})
     return ready
-
-#Import HF token
-curr = os.getcwd()
-filepath = os.path.join(curr, "../hf_token.txt")
-f = open(filepath, "r", encoding = "utf8")
-hf_token = f.readline().strip()
-f.close()
-
-#Login to HF to extract datasets and push models
-from huggingface_hub import login
-login(hf_token)
 
 #Load datasets in for training and validation and convert them to an appropriate format
 from datasets import load_dataset, Dataset
@@ -184,4 +169,4 @@ trainer = WCETrainer(
 
 trainer.train()
 
-trainer.save_model(OUTPUT_DIR) 
+#trainer.save_model(OUTPUT_DIR) #Save space

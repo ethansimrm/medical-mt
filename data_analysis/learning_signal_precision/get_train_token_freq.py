@@ -11,16 +11,12 @@ def convertToDictFormat(data):
         target.append(sentences[1])
     ready = Dataset.from_dict({"en":source, "fr":target})
     return ready
-    
-#We will load in our two tokenisers, the training data, and the three glossaries under consideration - the whole glossary, 0.1 sampled, and 0.25 sampled.
+
+#Load in training data, entire glossary, and tokenizers
 train_data = load_dataset("ethansimrm/wmt_16_19_22_biomed_train_processed", split = "train")
 gloss_entire = load_dataset("ethansimrm/MeSpEn_enfr_cleaned_glossary", split = "train")
-gloss_025 = load_dataset("ethansimrm/sampled_glossary_0.25_train", split = "train")
-gloss_010 = load_dataset("ethansimrm/sampled_glossary_0.1_train", split = "train")
 train_data_ready = convertToDictFormat(train_data['text'])
 gloss_entire_ready = convertToDictFormat(gloss_entire['text'])
-gloss_025_ready = convertToDictFormat(gloss_025['text'])
-gloss_010_ready = convertToDictFormat(gloss_010['text'])
 
 from transformers import AutoTokenizer
 opus_base_checkpoint = "Helsinki-NLP/opus-mt-en-fr"
@@ -48,36 +44,35 @@ def tokenize_big(examples):
 
 tokenized_train_base = train_data_ready.map(tokenize_base, batched=True)
 tokenized_train_big = train_data_ready.map(tokenize_big, batched=True)
-
-#We will also tokenise the 0.1 and 0.25 glossaries, because these were used by the WCE methods on the base model.
-gloss_010_fr = gloss_010_ready['fr']
-gloss_010_base_tokens = opus_base_tokenizer(text_target=gloss_010_fr)["input_ids"]
-
-gloss_025_fr = gloss_025_ready['fr']
-gloss_025_base_tokens = opus_base_tokenizer(text_target=gloss_025_fr)["input_ids"]
+tokenized_gloss_base = opus_base_tokenizer(text_target=gloss_entire_ready["fr"])["input_ids"]
+tokenized_gloss_big = opus_big_tokenizer(text_target=gloss_entire_ready["fr"])["input_ids"]
 
 #Take note of special tokens inserted by the tokenizer, and which are therefore not organically present in the training set.
 BASE_SPECIAL_TOKENS = [0, 1, 59513]
 BIG_SPECIAL_TOKENS = [43311, 50387, 43312, 53016]
 
-#We will obtain per-token counts for all three tokenised datasets.
+#We will obtain per-token counts for both tokenised datasets.
 from collections import Counter
 def get_token_counts(tokenized_dataset):
     all_tokens = []
     for token_group in tokenized_dataset:
         all_tokens += token_group
     return Counter(all_tokens)
-    
+
 train_base_token_counts = get_token_counts(tokenized_train_base['labels'])
-gloss_010_base_token_counts = get_token_counts(gloss_010_base_tokens)
-gloss_025_base_token_counts = get_token_counts(gloss_025_base_tokens)
+entire_gloss_base_token_counts = get_token_counts(tokenized_gloss_base)
+train_big_token_counts = get_token_counts(tokenized_train_big['labels'])
+entire_gloss_big_token_counts = get_token_counts(tokenized_gloss_big)
 
 #Get rid of special tokens
 for unwanted_token_id in BASE_SPECIAL_TOKENS:
     del train_base_token_counts[unwanted_token_id]
-    del gloss_010_base_token_counts[unwanted_token_id]
-    del gloss_025_base_token_counts[unwanted_token_id]
-    
+    del entire_gloss_base_token_counts[unwanted_token_id]
+
+for unwanted_token_id in BIG_SPECIAL_TOKENS:
+    del train_big_token_counts[unwanted_token_id]
+    del entire_gloss_big_token_counts[unwanted_token_id]
+
 #Now, we will obtain token frequencies.
 def compute_token_freq(glossary_token_counts, train_token_counts):
     freq_in_train = {}
@@ -89,9 +84,9 @@ def compute_token_freq(glossary_token_counts, train_token_counts):
             freq_in_train[tok_id] = 0 #In case of KeyError being raised
     return freq_in_train
 
-gloss_010_base_token_train_freq = compute_token_freq(gloss_010_base_token_counts, train_base_token_counts)
-gloss_025_base_token_train_freq = compute_token_freq(gloss_025_base_token_counts, train_base_token_counts)
-    
+gloss_base_token_train_freq = compute_token_freq(entire_gloss_base_token_counts, train_base_token_counts)
+gloss_big_token_train_freq = compute_token_freq(entire_gloss_big_token_counts, train_big_token_counts)
+
 def write_dict_to_file(filename, dict_to_write):
   output = open(filename, "w", encoding = "utf8")
   for key in dict_to_write.keys():
@@ -99,26 +94,5 @@ def write_dict_to_file(filename, dict_to_write):
   output.close()
   return
 
-write_dict_to_file("gloss_010_base", gloss_010_base_token_train_freq)
-write_dict_to_file("gloss_025_base", gloss_025_base_token_train_freq)
-
-#Repeat this for the opus_big tokenizer, and our other glossary
-gloss_010_big_tokens = opus_big_tokenizer(text_target=gloss_010_fr)["input_ids"]
-
-gloss_entire_fr = gloss_entire_ready['fr']
-gloss_entire_big_tokens = opus_big_tokenizer(text_target=gloss_entire_fr)["input_ids"]
-
-train_big_token_counts = get_token_counts(tokenized_train_big['labels'])
-gloss_010_big_token_counts = get_token_counts(gloss_010_big_tokens)
-gloss_entire_big_token_counts = get_token_counts(gloss_entire_big_tokens)
-
-for unwanted_token_id in BIG_SPECIAL_TOKENS:
-    del train_big_token_counts[unwanted_token_id]
-    del gloss_010_big_token_counts[unwanted_token_id]
-    del gloss_entire_big_token_counts[unwanted_token_id]
-
-gloss_010_big_token_train_freq = compute_token_freq(gloss_010_big_token_counts, train_big_token_counts)
-gloss_entire_big_token_train_freq = compute_token_freq(gloss_entire_big_token_counts, train_big_token_counts)
-
-write_dict_to_file("gloss_010_big", gloss_010_big_token_train_freq)
-write_dict_to_file("gloss_entire_big", gloss_entire_big_token_train_freq)
+write_dict_to_file("gloss_base_freq.txt", gloss_base_token_train_freq)
+write_dict_to_file("gloss_big_freq.txt", gloss_big_token_train_freq)                                             
