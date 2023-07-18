@@ -1,21 +1,23 @@
 import os
 import sys
+import random
+import numpy as np
 
 #Parameters chosen by user
-#TERM_WEIGHT_LIST = [1.25, 1.5, 1.75, 2.0]
-#TERM_WEIGHT = TERM_WEIGHT_LIST[int(sys.argv[1])]
-#OUTPUT_DIR = "wce_weights_" + str(TERM_WEIGHT) #Where the model is saved
 
-MODEL_CHECKPOINT = "Helsinki-NLP/opus-mt-tc-big-en-fr"
-OUTPUT_DIR = "opus_big_enfr_FT_adapt_wce"
-SPECIAL_TOKEN_IDS = [43311, 50387, 43312, 53016] #Respectively </s>, <unk>, <s>, and <pad>, which we do not want to up-weight
+POLICY_LIST = ["adapt", "random", "antagonistic"]
+POLICY_CHOICE = POLICY_LIST[int(sys.argv[1])]
+OUTPUT_DIR_LIST = ["opus_base_ailem_adaptified", "opus_base_ailem_random", "opus_base_ailem_antagonistic"]
+OUTPUT_DIR = OUTPUT_DIR_LIST[int(sys.argv[1])]
 
-UPPER_BOUND_WEIGHT = 1.25
+MODEL_CHECKPOINT = "Helsinki-NLP/opus-mt-en-fr"
+SPECIAL_TOKEN_IDS = [0, 1, 59513] #</s>, <unk>, <pad>, which we do not want to up-weight
+
+UPPER_BOUND_WEIGHT = 1.25 #Original best Ailem weight
 NUM_BANDS = 6 
-BAND_DIFFERENCE = 0.05 
-#1.25, 1.2, 1.15, 1.1, 1.05, 1.0 are the weights assigned to each band
+#1.25, 1.2, 1.15, 1.1, 1.05, 1.0 are the weights assigned to each band per the simple weight policy
 
-#Explicitly set seed to be 42 for reproducible behaviour
+#Explicitly set seed for reproducible behaviour
 from transformers import set_seed
 set_seed(42)
 
@@ -31,17 +33,6 @@ def convertToDictFormat(data):
     ready = Dataset.from_dict({"en":source, "fr":target})
     return ready
 
-#Import HF token
-curr = os.getcwd()
-filepath = os.path.join(curr, "../hf_token.txt")
-f = open(filepath, "r", encoding = "utf8")
-hf_token = f.readline().strip()
-f.close()
-
-#Login to HF to extract datasets and push models
-from huggingface_hub import login
-login(hf_token)
-
 #Load datasets in for training and validation and convert them to an appropriate format
 from datasets import load_dataset, Dataset
 training_data = load_dataset("ethansimrm/wmt_16_19_22_biomed_train_processed", split = "train") 
@@ -49,10 +40,10 @@ validation_data = load_dataset("ethansimrm/wmt_20_21_biomed_validation", split =
 train_data_ready = convertToDictFormat(training_data['text'])
 val_data_ready = convertToDictFormat(validation_data['text'])
 
-#Also load in our glossary
-term_candidates = load_dataset("ethansimrm/MeSpEn_enfr_cleaned_glossary", split = "train")
-terms_ready = convertToDictFormat(term_candidates['text'])
-
+#Also load in our sampled glossary
+term_candidates = load_dataset("ethansimrm/sampled_glossary_0.1_train", split = "train")
+terms_ready = convertToDictFormat(term_candidates['text'])   
+    
 #Load in our metric
 from datasets import load_metric
 metric = load_metric("sacrebleu")
@@ -104,29 +95,55 @@ for key in glossary_tokens_freq.keys():
   try:
     glossary_tokens_freq[key] = unique_train_tokens[key]
   except:
-    glossary_tokens_freq[key] = 0 #In case of KeyError
+    glossary_tokens_freq[key] = 0 #In case of KeyError 
 
-#Sort keys in ascending order of frequency
+#Sort keys in ascending order of counts
 glossary_tokens_freq = {k: v for k, v in sorted(glossary_tokens_freq.items(), key=lambda item: item[1])}
 sorted_token_ids = list(glossary_tokens_freq.keys())
 band_size = len(sorted_token_ids) // NUM_BANDS 
 #Floor division; the remainder (at most 5) will be absorbed into the lowest-weighted chunk, which we don't explicitly track (since weight is 1.0 anyway).
 
-#Assign weights to each token per our scheme
+#Generate all possible weights and slice list of token ids up
+band_weights_np = np.linspace(1.0, UPPER_BOUND_WEIGHT, num = NUM_BANDS).tolist() #Generates 1.0 ... UPPER_BOUND_WEIGHT in intervals of BAND_DIFFERENCE in ascending order
+band_weights = []
+for weight in band_weights_np:
+  band_weights.append(round(weight, 2)) #Due to floating-point limitations
+
+banded_token_ids = [[] for i in range(NUM_BANDS)]
+for idx, tok in enumerate(sorted_token_ids):
+  band = idx // band_size
+  if (band > NUM_BANDS - 1): #Account for larger final band
+    band = NUM_BANDS - 1
+  banded_token_ids[band].append(tok)
+
+#Policy-based weight assignment
 weight_assignments = {}
-band_start = 0
-band_end = band_size
-assigned_weight = UPPER_BOUND_WEIGHT
-while (band_end <= band_size * (NUM_BANDS - 1)):
-  current_band = sorted_token_ids[band_start:band_end]
-  for token_id in current_band:
-    weight_assignments[token_id] = assigned_weight
-  assigned_weight = round(assigned_weight - BAND_DIFFERENCE, 2)
-  band_start += band_size
-  band_end += band_size
+
+if (POLICY_CHOICE == "antagonistic"):
+  for idx, token_band in enumerate(banded_token_ids):
+    for tok_id in token_band:
+      weight_assignments[tok_id] = band_weights[idx] #Weight proportional to count
+
+else:
+  for idx, token_band in enumerate(banded_token_ids):
+    chosen_band = NUM_BANDS - 1 - idx
+    for tok_id in token_band:
+      weight_assignments[tok_id] = band_weights[chosen_band] #Weight inversely proportional to count
+        
+  if (POLICY_CHOICE == "random"): #Piggybacks on adapt-wce weight assignments
+    all_the_weights = list(weight_assignments.values())
+    random.Random(42).shuffle(all_the_weights) #seed = 42
+    all_the_tokens = list(weight_assignments.keys())
+    weight_assignments = {}
+    for idx, tok_id in enumerate(all_the_tokens):
+      weight_assignments[tok_id] = all_the_weights[idx]
+  
+#At this point, we have a dictionary of per-token weight assignments, but we want to be extra careful and remove all the "1.0" values in case of minute discrepancies
+wa_copy = weight_assignments
+lowest_weight_value = min(weight_assignments.values())
+weight_assignments = {k:v for k,v in wa_copy.items() if v != lowest_weight_value}
 
 #Generate weight vector
-import numpy as np
 import torch
 
 #All vocabulary labels (tokens) are weighted equally initially
@@ -187,16 +204,16 @@ model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
 #Initialise training arguments and loop
 from transformers import EarlyStoppingCallback, IntervalStrategy
 
-batch_size = 16 #Set as high as possible per Popel & Bojar (2018)
+batch_size = 32 #Set as high as possible per Popel & Bojar (2018)
 
 training_args = Seq2SeqTrainingArguments( 
     output_dir=OUTPUT_DIR,  
-    overwrite_output_dir=True,     
-    evaluation_strategy=IntervalStrategy.STEPS, 
-    save_steps=8000, 
-    eval_steps=8000, 
-    logging_steps=8000, 	    
-    num_train_epochs=16, 
+    overwrite_output_dir=True,  
+    evaluation_strategy=IntervalStrategy.STEPS,
+    save_steps=4000, 
+    eval_steps=4000, 
+    logging_steps=4000, 	    
+    num_train_epochs=16,
     learning_rate=2e-5, 
     per_device_train_batch_size=batch_size, 
     per_device_eval_batch_size=batch_size,
