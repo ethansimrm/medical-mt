@@ -10,7 +10,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 5	exclusion	1	1	1	1
 6	chéloïdes	1	1	1	1
 6	modalité	1	1	1	1
-6	récurrence	1	1	1	1
+6	récurrence	1	0	0	0
 7	traitement	1	1	1	1
 7	méta-analyse	1	1	1	1
 7	récurrence	1	0	0	0
@@ -52,7 +52,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 25	groupes	1	0	0	0
 27	alcoolisées	2	2	2	2
 27	boissons	1	1	1	1
-30	infections	1	1	1	1
+30	infections	1	0	0	0
 31	dermatologie	1	1	1	1
 31	examen	1	1	1	1
 31	réservoir	1	1	1	1
@@ -71,7 +71,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 34	staphylocoques	1	0	0	0
 34	CoPS	1	1	1	1
 34	colonies	1	1	1	1
-34	nombre	1	0	0	0
+34	nombre	1	1	1	1
 34	chiens	1	1	1	1
 34	pyodermite	1	1	1	1
 34	désinfection	1	1	1	1
@@ -105,7 +105,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 45	examen	2	2	2	2
 46	désinfection	1	1	1	1
 46	étude	1	1	1	1
-47	données	1	1	1	1
+47	données	1	0	0	0
 47	problème	1	0	0	0
 48	bien-être	1	1	1	1
 48	individuelle	1	0	0	0
@@ -141,7 +141,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 65	transmission	1	1	1	1
 66	dengue	2	2	2	2
 66	vecteur	1	1	1	1
-66	minimal	1	1	1	1
+66	minimal	1	0	0	0
 66	chikungunya	1	1	1	1
 66	virus	1	1	1	1
 67	étude	1	1	1	1
@@ -199,8 +199,8 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 110	coronavirus	1	1	1	1
 110	maladie	1	1	1	1
 110	mondiale	1	1	1	1
-111	cardiovasculaires	1	0	0	0
-111	maladies	1	0	0	0
+111	cardiovasculaires	1	1	1	1
+111	maladies	1	1	1	1
 111	MCV	2	2	2	2
 111	décès	1	1	1	1
 111	risque	1	1	1	1
@@ -215,7 +215,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 116	exercice	2	0	0	0
 116	capacité	2	2	2	2
 116	portatifs;	1	0	0	0
-116	dispositifs	1	1	1	1
+116	dispositifs	1	0	0	0
 116	réguliers;	1	0	0	0
 116	sommeil	1	1	1	1
 116	horaires	1	0	0	0
@@ -227,7 +227,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 118	traitement	1	0	0	0
 118	anémie	1	1	1	1
 118	patients	2	1	1	1
-118	hémodialyse	2	1	1	1
+118	hémodialyse	2	0	0	0
 118	médicaments	1	0	0	0
 118	programs	1	0	0	0
 119	élevée	1	0	0	0
@@ -290,7 +290,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 132	unité	2	2	2	2
 133	sensibilité	1	1	1	1
 133	analyses	1	1	1	1
-133	fer	1	1	1	1
+133	fer	1	0	0	0
 133	utilization	1	0	0	0
 133	hémodialyse	1	1	1	1
 133	unités	1	1	1	1
@@ -316,7 +316,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 139	fer	1	1	1	1
 139	protocole	1	1	1	1
 140	étude	1	1	1	1
-140	seul	1	0	0	0
+140	seul	1	1	1	1
 140	randomisé	1	1	1	1
 140	essai	1	1	1	1
 141	transfusions	1	1	1	1
@@ -330,7 +330,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 142	élevée	1	0	0	0
 142	fer	1	1	1	1
 142	protocole	1	1	1	1
-142	canadien	1	1	1	1
+142	canadien	1	0	0	0
 142	régional	1	1	1	1
 142	hémodialyse	1	1	1	1
 142	program	1	0	0	0
@@ -348,7 +348,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 168	adultes	1	0	0	0
 172	insécurité	1	0	0	0
 173	insécurité	1	1	1	1
-174	biopsie	1	1	1	1
+174	biopsie	1	0	0	0
 174	inefficacité	2	1	1	1
 175	patients	1	1	1	1
 176	étude	1	1	1	1
@@ -425,17 +425,17 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 195	étude	1	1	1	1
 195	bactérienne	1	1	1	1
 195	suppression	1	1	1	1
-195	équin	1	0	0	0
+195	équin	1	1	1	1
 195	lysat	1	1	1	1
-195	EPL	2	1	1	1
+195	EPL	2	0	0	0
 195	adipeuses	1	1	1	1
 195	stromales	1	1	1	1
 195	mésenchymateuses	1	1	1	1
 195	cellules	1	1	1	1
 195	croissance	1	1	1	1
-195	sang	1	0	0	0
-195	chevaux	1	0	0	0
-195	production	1	0	0	0
+195	sang	1	1	1	1
+195	chevaux	1	1	1	1
+195	production	1	1	1	1
 196	mésenchymateuses	1	1	1	1
 196	stromales	1	1	1	1
 196	cellules	1	1	1	1
@@ -476,7 +476,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 204	femme	1	1	1	1
 206	bonne	1	1	1	1
 206	humain	1	1	1	1
-206	culture	1	1	1	1
+206	culture	1	0	0	0
 209	régionales	1	0	0	0
 209	techniques	1	0	0	0
 209	douleur	1	1	1	1
@@ -518,7 +518,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 235	vidéos	1	0	0	0
 235	analyse	1	1	1	1
 238	analyse	1	1	1	1
-239	enseignement	1	0	0	0
+239	enseignement	1	1	1	1
 239	composante	1	0	0	0
 240	analyse	1	1	1	1
 240	codes	1	1	1	1
@@ -583,12 +583,12 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 281	terbinafine	1	1	1	1
 281	mométasone	1	0	0	0
 281	furoate	1	1	1	1
-281	seule	1	1	1	1
+281	seule	1	0	0	0
 281	application	1	1	1	1
 281	canine	1	1	1	1
 281	otite	1	1	1	1
 282	médicament	1	1	1	1
-282	corticosurrénale	1	1	1	1
+282	corticosurrénale	1	0	0	0
 282	suppression	1	1	1	1
 284	étude	1	1	1	1
 284	florfénicol	1	1	1	1
@@ -619,7 +619,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 293	cortisol	1	1	1	1
 293	concentrations	1	1	1	1
 295	preuve	1	1	1	1
-295	corticosurrénalienne	1	0	0	0
+295	corticosurrénalienne	1	1	1	1
 295	suppression	1	1	1	1
 295	corticosurrénale	1	1	1	1
 295	fonction	1	1	1	1
@@ -631,8 +631,8 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 295	furoate	1	1	1	1
 296	brachial	1	1	1	1
 296	plexus	1	1	1	1
-296	bloc	1	0	0	0
-296	intervention	1	1	1	1
+296	bloc	1	1	1	1
+296	intervention	1	0	0	0
 296	opérations	1	0	0	0
 297	main	1	1	1	1
 297	chirurgies	1	0	0	0
@@ -716,7 +716,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 327	événements	1	1	1	1
 327	morbidité	1	1	1	1
 327	pulmonaires	1	1	1	1
-327	gastro-intestinales	1	0	0	0
+327	gastro-intestinales	1	1	1	1
 327	complications	1	1	1	1
 328	multivariée	1	1	1	1
 328	régressions	1	0	0	0
@@ -769,11 +769,11 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 365	médicaments	2	1	1	1
 365	préventives	1	1	1	1
 365	mesures	1	1	1	1
-365	inférieure	1	1	1	1
+365	inférieure	1	0	0	0
 365	médecins	1	0	0	0
 367	transversale	1	1	1	1
 367	étude	1	1	1	1
-369	préventives	1	0	0	0
+369	préventives	1	1	1	1
 369	mesures	1	1	1	1
 369	falsifiés	1	1	1	1
 369	médicaments	1	1	1	1
@@ -787,7 +787,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 381	emballage	1	1	1	1
 383	falsifiés	1	1	1	1
 383	médicaments	1	1	1	1
-383	antipaludéens	1	1	1	1
+383	antipaludéens	1	0	0	0
 384	falsifiés	1	1	1	1
 384	médicaments	1	1	1	1
 384	pharmaceutiques	1	1	1	1
@@ -859,7 +859,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 409	multidisciplinaire	1	1	1	1
 409	approche	1	1	1	1
 410	variable	1	1	1	1
-410	température	1	1	1	1
+410	température	1	0	0	0
 410	profil	1	1	1	1
 411	données	2	2	2	2
 411	publiée	1	1	1	1
@@ -868,8 +868,8 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 411	système	1	1	1	1
 412	analyse	1	1	1	1
 412	mesures	1	1	1	1
-412	thermales	1	0	0	0
-412	eaux	1	0	0	0
+412	thermales	1	1	1	1
+412	eaux	1	1	1	1
 412	écoulent	1	0	0	0
 412	carbonifère	1	1	1	1
 412	Dublin	1	1	1	1
@@ -934,7 +934,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 436	capitale	1	1	1	1
 437	transversale	1	1	1	1
 437	étude	1	1	1	1
-438	humain	1	1	1	1
+438	humain	1	0	0	0
 438	droit	1	1	1	1
 441	transversale	1	1	1	1
 441	étude	1	1	1	1
@@ -974,7 +974,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 466	DIR	1	0	0	0
 466	standard	1	1	1	1
 466	cardiaque	1	1	1	1
-466	transducteur	1	0	0	0
+466	transducteur	1	1	1	1
 467	veineux	2	2	2	2
 467	flux	1	1	1	1
 467	veineuse	1	1	1	1
@@ -996,15 +996,15 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 470	ICDA	1	0	0	0
 470	patients	2	2	2	2
 470	normale	1	1	1	1
-470	SCA	1	1	1	1
+470	SCA	1	0	0	0
 471	IRA	1	1	1	1
 471	stade	1	1	1	1
-471	patients	2	1	1	1
-471	SCA	1	0	0	0
+471	patients	2	2	2	2
+471	SCA	1	1	1	1
 471	moyenne	1	1	1	1
 471	augmentation	1	1	1	1
 471	créatinine	1	1	1	1
-472	gravité	1	0	0	0
+472	gravité	1	1	1	1
 472	ICDA	1	1	1	1
 472	patients	1	1	1	1
 473	patients	1	1	1	1
@@ -1029,7 +1029,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 490	mort	1	0	0	0
 491	étude	1	1	1	1
 491	endocriniens	1	1	1	1
-491	pédiatriques	1	0	0	0
+491	pédiatriques	1	1	1	1
 491	troubles	1	1	1	1
 492	rétrospective	1	1	1	1
 492	enfants	1	1	1	1
@@ -1082,7 +1082,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 512	modèles	1	1	1	1
 513	risque	2	2	2	2
 513	études	1	1	1	1
-513	calculé	1	1	1	1
+513	calculé	1	0	0	0
 513	DRA	1	0	0	0
 513	différences	1	1	1	1
 514	patients	1	1	1	1
@@ -1092,7 +1092,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 516	relatif	1	1	1	1
 516	risque	2	2	2	2
 516	long	1	1	1	1
-516	années-patients;	2	1	1	1
+516	années-patients;	2	2	2	2
 517	études	2	2	2	2
 517	ischémiques	1	1	1	1
 517	emboliques	1	1	1	1
@@ -1108,7 +1108,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 519	patients	1	1	1	1
 519	orale	1	0	0	0
 519	anticoagulothérapie	1	0	0	0
-520	héréditaire	1	0	0	0
+520	héréditaire	1	1	1	1
 520	transthyrétine	1	1	1	1
 520	amylose	1	0	0	0
 520	polyneuropathie	1	1	1	1
@@ -1123,7 +1123,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 522	pathogènes	1	0	0	0
 522	TTR	1	1	1	1
 522	agrégation	1	1	1	1
-522	dépôt	1	1	1	1
+522	dépôt	1	0	0	0
 522	organes	1	1	1	1
 522	nerveux	1	1	1	1
 522	périphérique	1	1	1	1
@@ -1133,7 +1133,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 523	troubles	1	0	0	0
 523	sensorimotrice	1	1	1	1
 523	polyneuropathie	2	1	1	1
-523	autonome	1	1	1	1
+523	autonome	1	0	0	0
 523	neuropathie	1	1	1	1
 523	petites	1	1	1	1
 523	fibres	1	1	1	1
@@ -1142,7 +1142,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 524	patients	1	1	1	1
 524	importante	1	0	0	0
 524	évolution	1	0	0	0
-525	efficaces	1	0	0	0
+525	efficaces	1	1	1	1
 525	médicaments	1	0	0	0
 525	inotersen	1	0	0	0
 525	patisiran	1	1	1	1
@@ -1159,7 +1159,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 529	indésirables	1	1	1	1
 529	réactions	1	1	1	1
 530	tests	1	1	1	1
-530	chiens	1	1	1	1
+530	chiens	1	0	0	0
 532	prick	1	0	0	0
 532	patch	1	0	0	0
 532	actuels	1	1	1	1
@@ -1265,7 +1265,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 569	PAPO	1	0	0	0
 570	patients	1	1	1	1
 571	patients	2	1	1	1
-571	risque	1	0	0	0
+571	risque	1	1	1	1
 572	mortalité	1	1	1	1
 572	risque	1	1	1	1
 572	intervalle	1	1	1	1

@@ -54,7 +54,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 27	boissons	1	1	1	1
 30	infections	1	1	1	1
 31	dermatologie	1	1	1	1
-31	examen	1	0	0	1
+31	examen	1	0	0	0
 31	réservoir	1	1	1	1
 31	staphylococcique	1	0	0	0
 31	pyodermite	1	0	0	0
@@ -104,7 +104,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 45	vétérinaire	1	0	0	0
 45	examen	2	0	0	0
 46	désinfection	1	1	1	1
-46	étude	1	1	1	1
+46	étude	1	0	0	0
 47	données	1	0	0	0
 47	problème	1	1	1	1
 48	bien-être	1	1	1	1
@@ -220,7 +220,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 116	sommeil	1	1	1	1
 116	horaires	1	0	0	0
 118	intraveineuse	1	0	0	0
-118	IV	1	1	1	1
+118	IV	1	0	0	0
 118	fer	1	1	1	1
 118	érythropoïétine	1	0	0	1
 118	stimulation	1	0	0	0
@@ -233,7 +233,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 119	élevée	1	0	0	0
 119	fer	1	1	1	1
 119	protocole	1	1	1	1
-119	ASE	1	1	1	1
+119	ASE	1	0	0	1
 119	utilization	1	0	0	0
 119	cardiovasculaires	1	1	1	1
 120	protocole	1	1	1	1
@@ -267,7 +267,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 127	mensuelles	1	1	1	1
 127	fer	1	1	1	1
 127	doses	1	1	1	1
-127	audit	1	0	0	0
+127	audit	1	0	0	1
 127	données	1	1	1	1
 128	médicaments	1	1	1	1
 128	prix	1	1	1	1
@@ -330,8 +330,8 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 142	élevée	1	0	0	0
 142	fer	1	1	1	1
 142	protocole	1	1	1	1
-142	canadien	1	0	0	0
-142	régional	1	0	0	0
+142	canadien	1	1	1	1
+142	régional	1	1	1	1
 142	hémodialyse	1	0	0	1
 142	program	1	0	0	0
 143	protocole	2	2	2	2
@@ -340,14 +340,14 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 148	transversale	1	1	1	1
 148	étude	1	1	1	1
 152	participants	1	1	1	1
-155	externes	1	0	0	0
+155	externes	1	1	1	1
 155	pressions	1	1	1	1
 155	rapide	1	1	1	1
 155	approbation	1	1	1	1
 168	qualité	1	0	0	0
 168	adultes	1	0	0	0
 172	insécurité	1	0	0	0
-173	insécurité	1	0	0	1
+173	insécurité	1	1	1	1
 174	biopsie	1	1	1	1
 174	inefficacité	2	0	0	1
 175	patients	1	1	1	1
@@ -427,15 +427,15 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 195	suppression	1	1	1	1
 195	équin	1	0	0	0
 195	lysat	1	1	1	1
-195	EPL	2	0	0	0
+195	EPL	2	0	0	1
 195	adipeuses	1	0	0	0
 195	stromales	1	1	1	1
 195	mésenchymateuses	1	1	1	1
 195	cellules	1	1	1	1
 195	croissance	1	1	1	1
-195	sang	1	0	0	0
-195	chevaux	1	0	0	0
-195	production	1	0	0	0
+195	sang	1	1	1	1
+195	chevaux	1	1	1	1
+195	production	1	1	1	1
 196	mésenchymateuses	1	1	1	1
 196	stromales	1	1	1	1
 196	cellules	1	1	1	1
@@ -444,7 +444,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 196	région	1	1	1	1
 197	étude	1	0	0	1
 197	témoin	1	0	0	0
-197	incomplets	1	0	0	0
+197	incomplets	1	1	1	1
 197	équilibrés	1	0	0	0
 197	blocs	1	1	1	1
 197	design	1	0	0	0
@@ -542,7 +542,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 248	analyses	1	1	1	1
 248	IBM	1	1	1	1
 248	version	2	2	2	2
-249	enfants	1	0	0	1
+249	enfants	1	1	1	1
 249	fonctionnelles	1	1	1	1
 249	difficultés	1	1	1	1
 250	enfants	1	1	1	1
@@ -551,7 +551,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 252	enfants	1	1	1	1
 252	nutrition	1	0	0	0
 255	enfants	1	1	1	1
-255	scolaire	1	0	0	0
+255	scolaire	1	1	1	1
 255	soutien	1	1	1	1
 256	petits-enfants	1	0	0	0
 258	pandémie	1	1	1	1
@@ -575,7 +575,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 280	maladie	1	1	1	1
 280	adrénocorticale	1	0	0	0
 280	suppression	1	1	1	1
-280	corticostéroïdes	1	1	1	1
+280	corticostéroïdes	1	0	0	0
 280	auriculaires	1	0	0	0
 280	préparations	1	1	1	1
 281	suspension	1	1	1	1
@@ -619,7 +619,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 293	cortisol	1	1	1	1
 293	concentrations	1	1	1	1
 295	preuve	1	1	1	1
-295	corticosurrénalienne	1	1	1	1
+295	corticosurrénalienne	1	0	0	0
 295	suppression	1	1	1	1
 295	corticosurrénale	1	1	1	1
 295	fonction	1	1	1	1
@@ -642,8 +642,8 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 299	interne	1	1	1	1
 299	fixation	1	1	1	1
 299	patients	1	0	0	0
-299	supplémentaires	1	0	0	0
-299	interventions	1	0	0	0
+299	supplémentaires	1	1	1	1
+299	interventions	1	1	1	1
 300	paramétriques	1	1	1	1
 300	statistiques	1	1	1	1
 300	tests	1	1	1	1
@@ -653,7 +653,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 301	étude	1	0	0	1
 302	BPB	1	1	1	1
 303	patients	2	1	1	1
-303	analgésie	1	0	0	1
+303	analgésie	1	1	1	1
 304	patients	2	1	1	1
 304	antiémétiques	1	0	0	1
 304	BPB	1	1	1	1
@@ -769,7 +769,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 365	médicaments	2	1	1	1
 365	préventives	1	0	0	0
 365	mesures	1	1	1	1
-365	inférieure	1	0	0	0
+365	inférieure	1	1	1	1
 365	médecins	1	0	0	0
 367	transversale	1	1	1	1
 367	étude	1	1	1	1
@@ -777,10 +777,10 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 369	mesures	1	1	1	1
 369	falsifiés	1	1	1	1
 369	médicaments	1	1	1	1
-374	emballage	1	0	0	1
+374	emballage	1	0	0	0
 376	médicaments	1	1	1	1
 376	antibactériens	1	1	1	1
-376	analgésiques	1	1	1	1
+376	analgésiques	1	0	0	0
 377	traitement	1	1	1	1
 377	échecs	1	1	1	1
 378	médicaments	1	1	1	1
@@ -811,7 +811,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 395	PCNP	1	1	1	1
 395	femmes	1	1	1	1
 397	nouveaux	1	1	1	1
-397	prestation	1	0	0	0
+397	prestation	1	1	1	1
 397	modèles	1	1	1	1
 397	femmes	1	1	1	1
 398	rhinoplastie	1	1	1	1
@@ -840,7 +840,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 404	deuxième	1	0	0	0
 404	sutures	2	1	1	1
 405	visuelle	1	1	1	1
-405	échelle	1	1	1	1
+405	échelle	1	0	0	1
 405	vues	1	1	1	1
 406	étude	1	0	0	1
 406	patients	2	2	2	2
@@ -954,7 +954,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 462	SCRA	1	1	1	1
 462	patients	1	1	1	1
 462	insuffisance	1	0	0	1
-462	ICDA	1	1	1	1
+462	ICDA	1	0	0	0
 463	veineux	1	1	1	1
 463	flux	1	0	0	0
 463	Doppler	1	1	1	1
@@ -1082,7 +1082,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 512	modèles	1	1	1	1
 513	risque	2	2	2	2
 513	études	1	1	1	1
-513	calculé	1	1	1	1
+513	calculé	1	0	0	0
 513	DRA	1	0	0	0
 513	différences	1	1	1	1
 514	patients	1	1	1	1
@@ -1120,7 +1120,7 @@ sent_ID	fr_term	counts	matches_strict	matches_caseless	matches_loose
 521	TTR	1	1	1	1
 521	gène	1	1	1	1
 521	dysfonctionnement	1	0	0	0
-522	pathogènes	1	1	1	1
+522	pathogènes	1	0	0	0
 522	TTR	1	1	1	1
 522	agrégation	1	0	0	1
 522	dépôt	1	1	1	1
