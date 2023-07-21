@@ -41,7 +41,7 @@ validation_data = load_dataset("ethansimrm/wmt_20_21_biomed_validation", split =
 train_data_ready = convertToDictFormat(training_data['text'])
 val_data_ready = convertToDictFormat(validation_data['text'])
 
-#Also load in our glossary - best glossary to use per hyperparameter search
+#Also load in our glossary
 term_candidates = load_dataset(CHOSEN_GLOSSARY, split = "train")
 terms_ready = convertToDictFormat(term_candidates['text'])
 
