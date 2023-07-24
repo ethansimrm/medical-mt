@@ -91,12 +91,16 @@ for unwanted_token_id in SPECIAL_TOKEN_IDS:
   del unique_glossary_tokens[unwanted_token_id]
   
 #Log number of occurrences of each glossary token in the training set
+keys_to_remove = []
 glossary_tokens_freq = unique_glossary_tokens
 for key in glossary_tokens_freq.keys():
-  try:
-    glossary_tokens_freq[key] = unique_train_tokens[key]
-  except KeyError:
-    pass #Ignore tokens not found in training set
+    if (unique_train_tokens[key] == 0): #Tokens not found in the training set will have value 0 - remove them
+      keys_to_remove.append(key)
+    else:
+      glossary_tokens_freq[key] = unique_train_tokens[key]
+
+for absent_key in keys_to_remove:
+  del glossary_tokens_freq[absent_key]
 
 #Sort keys in ascending order of counts
 glossary_tokens_freq = {k: v for k, v in sorted(glossary_tokens_freq.items(), key=lambda item: item[1])}
