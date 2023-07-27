@@ -1,0 +1,31 @@
+{'loss': 0.1743, 'learning_rate': 1.9753635243376465e-05, 'epoch': 0.2}
+{'eval_loss': 0.09842836111783981, 'eval_bleu': 42.0206, 'eval_gen_len': 33.6635, 'eval_runtime': 149.1363, 'eval_samples_per_second': 6.994, 'eval_steps_per_second': 0.443, 'epoch': 0.2}
+{'loss': 0.1437, 'learning_rate': 1.9507270486752928e-05, 'epoch': 0.39}
+{'eval_loss': 0.09716790914535522, 'eval_bleu': 42.6324, 'eval_gen_len': 34.1659, 'eval_runtime': 101.6834, 'eval_samples_per_second': 10.257, 'eval_steps_per_second': 0.649, 'epoch': 0.39}
+{'loss': 0.1398, 'learning_rate': 1.9260874922982132e-05, 'epoch': 0.59}
+{'eval_loss': 0.09788422286510468, 'eval_bleu': 42.4878, 'eval_gen_len': 33.5829, 'eval_runtime': 117.8885, 'eval_samples_per_second': 8.847, 'eval_steps_per_second': 0.56, 'epoch': 0.59}
+{'loss': 0.1361, 'learning_rate': 1.901447935921134e-05, 'epoch': 0.79}
+{'eval_loss': 0.09661045670509338, 'eval_bleu': 42.4309, 'eval_gen_len': 34.2742, 'eval_runtime': 89.7039, 'eval_samples_per_second': 11.627, 'eval_steps_per_second': 0.736, 'epoch': 0.79}
+{'loss': 0.1347, 'learning_rate': 1.8768114602587803e-05, 'epoch': 0.99}
+{'eval_loss': 0.0956139862537384, 'eval_bleu': 42.5241, 'eval_gen_len': 34.1304, 'eval_runtime': 89.5251, 'eval_samples_per_second': 11.65, 'eval_steps_per_second': 0.737, 'epoch': 0.99}
+{'loss': 0.1199, 'learning_rate': 1.8521749845964266e-05, 'epoch': 1.18}
+{'eval_loss': 0.09737201780080795, 'eval_bleu': 42.8215, 'eval_gen_len': 34.2627, 'eval_runtime': 93.1788, 'eval_samples_per_second': 11.194, 'eval_steps_per_second': 0.708, 'epoch': 1.18}
+{'loss': 0.1202, 'learning_rate': 1.827538508934073e-05, 'epoch': 1.38}
+{'eval_loss': 0.09732289612293243, 'eval_bleu': 42.6364, 'eval_gen_len': 33.6079, 'eval_runtime': 90.6829, 'eval_samples_per_second': 11.502, 'eval_steps_per_second': 0.728, 'epoch': 1.38}
+{'loss': 0.1209, 'learning_rate': 1.802905113986445e-05, 'epoch': 1.58}
+{'eval_loss': 0.09654226899147034, 'eval_bleu': 42.7987, 'eval_gen_len': 34.3001, 'eval_runtime': 85.2884, 'eval_samples_per_second': 12.229, 'eval_steps_per_second': 0.774, 'epoch': 1.58}
+{'loss': 0.1205, 'learning_rate': 1.7782717190388173e-05, 'epoch': 1.77}
+{'eval_loss': 0.09692775458097458, 'eval_bleu': 42.5562, 'eval_gen_len': 34.9118, 'eval_runtime': 95.7558, 'eval_samples_per_second': 10.892, 'eval_steps_per_second': 0.689, 'epoch': 1.77}
+{'loss': 0.1201, 'learning_rate': 1.7536321626617377e-05, 'epoch': 1.97}
+{'eval_loss': 0.09653037786483765, 'eval_bleu': 43.2782, 'eval_gen_len': 34.0527, 'eval_runtime': 92.2388, 'eval_samples_per_second': 11.308, 'eval_steps_per_second': 0.716, 'epoch': 1.97}
+{'loss': 0.1088, 'learning_rate': 1.728995686999384e-05, 'epoch': 2.17}
+{'eval_loss': 0.09833692759275436, 'eval_bleu': 42.4456, 'eval_gen_len': 34.0834, 'eval_runtime': 87.1735, 'eval_samples_per_second': 11.965, 'eval_steps_per_second': 0.757, 'epoch': 2.17}
+{'loss': 0.1083, 'learning_rate': 1.7043592113370304e-05, 'epoch': 2.37}
+{'eval_loss': 0.09874382615089417, 'eval_bleu': 43.0716, 'eval_gen_len': 33.4554, 'eval_runtime': 178.3081, 'eval_samples_per_second': 5.849, 'eval_steps_per_second': 0.37, 'epoch': 2.37}
+{'loss': 0.108, 'learning_rate': 1.6797227356746767e-05, 'epoch': 2.56}
+{'eval_loss': 0.09755624085664749, 'eval_bleu': 42.9921, 'eval_gen_len': 33.9195, 'eval_runtime': 95.3867, 'eval_samples_per_second': 10.934, 'eval_steps_per_second': 0.692, 'epoch': 2.56}
+{'loss': 0.1091, 'learning_rate': 1.655089340727049e-05, 'epoch': 2.76}
+{'eval_loss': 0.09768670052289963, 'eval_bleu': 42.6919, 'eval_gen_len': 33.8217, 'eval_runtime': 78.7495, 'eval_samples_per_second': 13.245, 'eval_steps_per_second': 0.838, 'epoch': 2.76}
+{'loss': 0.1098, 'learning_rate': 1.6304497843499693e-05, 'epoch': 2.96}
+{'eval_loss': 0.09790018945932388, 'eval_bleu': 42.6662, 'eval_gen_len': 33.9473, 'eval_runtime': 80.4768, 'eval_samples_per_second': 12.96, 'eval_steps_per_second': 0.82, 'epoch': 2.96}
+{'train_runtime': 27478.3942, 'train_samples_per_second': 378.009, 'train_steps_per_second': 23.626, 'train_loss': 0.12495219217936197, 'epoch': 2.96}

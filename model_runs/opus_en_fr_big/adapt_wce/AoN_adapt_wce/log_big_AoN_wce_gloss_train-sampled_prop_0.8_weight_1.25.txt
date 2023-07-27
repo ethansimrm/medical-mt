@@ -1,0 +1,31 @@
+{'loss': 0.1764, 'learning_rate': 1.9753635243376465e-05, 'epoch': 0.2}
+{'eval_loss': 0.09842277318239212, 'eval_bleu': 41.8832, 'eval_gen_len': 34.0125, 'eval_runtime': 146.6857, 'eval_samples_per_second': 7.11, 'eval_steps_per_second': 0.45, 'epoch': 0.2}
+{'loss': 0.1457, 'learning_rate': 1.950723967960567e-05, 'epoch': 0.39}
+{'eval_loss': 0.0972740575671196, 'eval_bleu': 39.8281, 'eval_gen_len': 36.8706, 'eval_runtime': 209.4894, 'eval_samples_per_second': 4.979, 'eval_steps_per_second': 0.315, 'epoch': 0.39}
+{'loss': 0.1417, 'learning_rate': 1.9260874922982132e-05, 'epoch': 0.59}
+{'eval_loss': 0.09740866720676422, 'eval_bleu': 42.2941, 'eval_gen_len': 33.3068, 'eval_runtime': 114.1379, 'eval_samples_per_second': 9.138, 'eval_steps_per_second': 0.578, 'epoch': 0.59}
+{'loss': 0.1378, 'learning_rate': 1.90145101663586e-05, 'epoch': 0.79}
+{'eval_loss': 0.09666289389133453, 'eval_bleu': 42.727, 'eval_gen_len': 34.1103, 'eval_runtime': 118.5096, 'eval_samples_per_second': 8.801, 'eval_steps_per_second': 0.557, 'epoch': 0.79}
+{'loss': 0.1364, 'learning_rate': 1.876814540973506e-05, 'epoch': 0.99}
+{'eval_loss': 0.09649919718503952, 'eval_bleu': 42.4991, 'eval_gen_len': 33.6347, 'eval_runtime': 112.9751, 'eval_samples_per_second': 9.232, 'eval_steps_per_second': 0.584, 'epoch': 0.99}
+{'loss': 0.1214, 'learning_rate': 1.852178065311152e-05, 'epoch': 1.18}
+{'eval_loss': 0.09725558757781982, 'eval_bleu': 42.9249, 'eval_gen_len': 34.0451, 'eval_runtime': 123.0353, 'eval_samples_per_second': 8.477, 'eval_steps_per_second': 0.536, 'epoch': 1.18}
+{'loss': 0.1218, 'learning_rate': 1.8275446703635243e-05, 'epoch': 1.38}
+{'eval_loss': 0.09741277992725372, 'eval_bleu': 42.6806, 'eval_gen_len': 33.5973, 'eval_runtime': 232.6363, 'eval_samples_per_second': 4.483, 'eval_steps_per_second': 0.284, 'epoch': 1.38}
+{'loss': 0.1224, 'learning_rate': 1.802908194701171e-05, 'epoch': 1.58}
+{'eval_loss': 0.0966024398803711, 'eval_bleu': 43.0146, 'eval_gen_len': 34.1898, 'eval_runtime': 234.5055, 'eval_samples_per_second': 4.448, 'eval_steps_per_second': 0.281, 'epoch': 1.58}
+{'loss': 0.1219, 'learning_rate': 1.7782717190388173e-05, 'epoch': 1.77}
+{'eval_loss': 0.09624955803155899, 'eval_bleu': 42.7479, 'eval_gen_len': 34.1285, 'eval_runtime': 131.9152, 'eval_samples_per_second': 7.907, 'eval_steps_per_second': 0.5, 'epoch': 1.77}
+{'loss': 0.1216, 'learning_rate': 1.7536352433764633e-05, 'epoch': 1.97}
+{'eval_loss': 0.09636623412370682, 'eval_bleu': 43.5773, 'eval_gen_len': 33.4938, 'eval_runtime': 116.4165, 'eval_samples_per_second': 8.959, 'eval_steps_per_second': 0.567, 'epoch': 1.97}
+{'loss': 0.1102, 'learning_rate': 1.72899876771411e-05, 'epoch': 2.17}
+{'eval_loss': 0.09816914796829224, 'eval_bleu': 42.4638, 'eval_gen_len': 33.9319, 'eval_runtime': 125.0656, 'eval_samples_per_second': 8.34, 'eval_steps_per_second': 0.528, 'epoch': 2.17}
+{'loss': 0.1096, 'learning_rate': 1.7043653727664818e-05, 'epoch': 2.37}
+{'eval_loss': 0.0976790264248848, 'eval_bleu': 43.2895, 'eval_gen_len': 33.5072, 'eval_runtime': 162.4474, 'eval_samples_per_second': 6.421, 'eval_steps_per_second': 0.406, 'epoch': 2.37}
+{'loss': 0.1093, 'learning_rate': 1.6797288971041284e-05, 'epoch': 2.56}
+{'eval_loss': 0.09768247604370117, 'eval_bleu': 42.4901, 'eval_gen_len': 34.1371, 'eval_runtime': 128.2521, 'eval_samples_per_second': 8.132, 'eval_steps_per_second': 0.515, 'epoch': 2.56}
+{'loss': 0.1104, 'learning_rate': 1.6550924214417748e-05, 'epoch': 2.76}
+{'eval_loss': 0.09781637787818909, 'eval_bleu': 42.6186, 'eval_gen_len': 33.6117, 'eval_runtime': 112.0835, 'eval_samples_per_second': 9.306, 'eval_steps_per_second': 0.589, 'epoch': 2.76}
+{'loss': 0.111, 'learning_rate': 1.630455945779421e-05, 'epoch': 2.96}
+{'eval_loss': 0.09723637253046036, 'eval_bleu': 43.3301, 'eval_gen_len': 33.8734, 'eval_runtime': 139.5607, 'eval_samples_per_second': 7.473, 'eval_steps_per_second': 0.473, 'epoch': 2.96}
+{'train_runtime': 29124.5822, 'train_samples_per_second': 356.643, 'train_steps_per_second': 22.29, 'train_loss': 0.1265067423502604, 'epoch': 2.96}
