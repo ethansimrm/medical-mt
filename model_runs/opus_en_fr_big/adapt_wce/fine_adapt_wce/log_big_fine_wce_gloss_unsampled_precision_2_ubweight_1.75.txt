@@ -1,0 +1,31 @@
+{'loss': 0.188, 'learning_rate': 1.9753635243376465e-05, 'epoch': 0.2}
+{'eval_loss': 0.09866466373205185, 'eval_bleu': 42.1669, 'eval_gen_len': 33.6616, 'eval_runtime': 168.7408, 'eval_samples_per_second': 6.181, 'eval_steps_per_second': 0.391, 'epoch': 0.2}
+{'loss': 0.1565, 'learning_rate': 1.9507208872458414e-05, 'epoch': 0.39}
+{'eval_loss': 0.09756036847829819, 'eval_bleu': 42.4811, 'eval_gen_len': 33.9511, 'eval_runtime': 92.8199, 'eval_samples_per_second': 11.237, 'eval_steps_per_second': 0.711, 'epoch': 0.39}
+{'loss': 0.152, 'learning_rate': 1.9260844115834877e-05, 'epoch': 0.59}
+{'eval_loss': 0.09821096807718277, 'eval_bleu': 42.166, 'eval_gen_len': 33.187, 'eval_runtime': 79.7194, 'eval_samples_per_second': 13.083, 'eval_steps_per_second': 0.828, 'epoch': 0.59}
+{'loss': 0.1479, 'learning_rate': 1.901447935921134e-05, 'epoch': 0.79}
+{'eval_loss': 0.0974825918674469, 'eval_bleu': 42.1397, 'eval_gen_len': 33.8044, 'eval_runtime': 84.1957, 'eval_samples_per_second': 12.388, 'eval_steps_per_second': 0.784, 'epoch': 0.79}
+{'loss': 0.1462, 'learning_rate': 1.8768114602587803e-05, 'epoch': 0.99}
+{'eval_loss': 0.09669916331768036, 'eval_bleu': 42.4298, 'eval_gen_len': 33.4573, 'eval_runtime': 108.0474, 'eval_samples_per_second': 9.653, 'eval_steps_per_second': 0.611, 'epoch': 0.99}
+{'loss': 0.13, 'learning_rate': 1.8521749845964266e-05, 'epoch': 1.18}
+{'eval_loss': 0.09752755612134933, 'eval_bleu': 42.8377, 'eval_gen_len': 34.07, 'eval_runtime': 90.7453, 'eval_samples_per_second': 11.494, 'eval_steps_per_second': 0.727, 'epoch': 1.18}
+{'loss': 0.1304, 'learning_rate': 1.827538508934073e-05, 'epoch': 1.38}
+{'eval_loss': 0.09754738211631775, 'eval_bleu': 42.426, 'eval_gen_len': 33.7181, 'eval_runtime': 107.0387, 'eval_samples_per_second': 9.744, 'eval_steps_per_second': 0.617, 'epoch': 1.38}
+{'loss': 0.131, 'learning_rate': 1.802905113986445e-05, 'epoch': 1.58}
+{'eval_loss': 0.09721719473600388, 'eval_bleu': 42.2787, 'eval_gen_len': 34.3039, 'eval_runtime': 92.0774, 'eval_samples_per_second': 11.327, 'eval_steps_per_second': 0.717, 'epoch': 1.58}
+{'loss': 0.1305, 'learning_rate': 1.778268638324091e-05, 'epoch': 1.77}
+{'eval_loss': 0.09724625945091248, 'eval_bleu': 41.4986, 'eval_gen_len': 35.4324, 'eval_runtime': 105.3398, 'eval_samples_per_second': 9.901, 'eval_steps_per_second': 0.627, 'epoch': 1.77}
+{'loss': 0.1301, 'learning_rate': 1.7536321626617377e-05, 'epoch': 1.97}
+{'eval_loss': 0.09673570096492767, 'eval_bleu': 42.96, 'eval_gen_len': 33.5225, 'eval_runtime': 81.8179, 'eval_samples_per_second': 12.748, 'eval_steps_per_second': 0.807, 'epoch': 1.97}
+{'loss': 0.1177, 'learning_rate': 1.72899876771411e-05, 'epoch': 2.17}
+{'eval_loss': 0.09868798404932022, 'eval_bleu': 42.6721, 'eval_gen_len': 33.7507, 'eval_runtime': 84.3743, 'eval_samples_per_second': 12.362, 'eval_steps_per_second': 0.782, 'epoch': 2.17}
+{'loss': 0.1172, 'learning_rate': 1.7043592113370304e-05, 'epoch': 2.37}
+{'eval_loss': 0.09838492423295975, 'eval_bleu': 42.929, 'eval_gen_len': 33.4823, 'eval_runtime': 100.5041, 'eval_samples_per_second': 10.378, 'eval_steps_per_second': 0.657, 'epoch': 2.37}
+{'loss': 0.117, 'learning_rate': 1.6797258163894026e-05, 'epoch': 2.56}
+{'eval_loss': 0.09830927103757858, 'eval_bleu': 36.0021, 'eval_gen_len': 41.3308, 'eval_runtime': 196.267, 'eval_samples_per_second': 5.314, 'eval_steps_per_second': 0.336, 'epoch': 2.56}
+{'loss': 0.1181, 'learning_rate': 1.655086260012323e-05, 'epoch': 2.76}
+{'eval_loss': 0.097936250269413, 'eval_bleu': 42.3273, 'eval_gen_len': 34.1314, 'eval_runtime': 101.5566, 'eval_samples_per_second': 10.27, 'eval_steps_per_second': 0.65, 'epoch': 2.76}
+{'loss': 0.1187, 'learning_rate': 1.6304497843499693e-05, 'epoch': 2.96}
+{'eval_loss': 0.09837239980697632, 'eval_bleu': 42.3631, 'eval_gen_len': 33.5503, 'eval_runtime': 75.473, 'eval_samples_per_second': 13.82, 'eval_steps_per_second': 0.874, 'epoch': 2.96}
+{'train_runtime': 27558.5254, 'train_samples_per_second': 376.91, 'train_steps_per_second': 23.557, 'train_loss': 0.13542380828857423, 'epoch': 2.96}
