@@ -99,8 +99,8 @@ def write_dict_to_file(filename, dict_to_write):
   output.close()
   return
 
-write_dict_to_file("gloss_010_base", gloss_010_base_token_train_freq)
-write_dict_to_file("gloss_025_base", gloss_025_base_token_train_freq)
+write_dict_to_file("gloss_010_base.txt", gloss_010_base_token_train_freq)
+write_dict_to_file("gloss_025_base.txt", gloss_025_base_token_train_freq)
 
 #Repeat this for the opus_big tokenizer, and our other glossary
 gloss_010_big_tokens = opus_big_tokenizer(text_target=gloss_010_fr)["input_ids"]
@@ -120,5 +120,5 @@ for unwanted_token_id in BIG_SPECIAL_TOKENS:
 gloss_010_big_token_train_freq = compute_token_freq(gloss_010_big_token_counts, train_big_token_counts)
 gloss_entire_big_token_train_freq = compute_token_freq(gloss_entire_big_token_counts, train_big_token_counts)
 
-write_dict_to_file("gloss_010_big", gloss_010_big_token_train_freq)
-write_dict_to_file("gloss_entire_big", gloss_entire_big_token_train_freq)
+write_dict_to_file("gloss_010_big.txt", gloss_010_big_token_train_freq)
+write_dict_to_file("gloss_entire_big.txt", gloss_entire_big_token_train_freq)
