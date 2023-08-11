@@ -1,18 +1,14 @@
+Fluency Metrics
 
+BLEU: 33.37510804621563
+CHRF++: 52.845334337649795
+TER: 68.76151484135107
+METEOR: 0.48343279744157985
 
-Results are:
+Ontology Prediction Metrics
 
-
-{'bleu': 33.37510804621563}
-{'CHRF++': 52.845334337649795}
-{'ter': 68.76151484135107}
-{'meteor': 0.48343279744157985}
-Total Terminologies:  1399
-Exact Matches:  944
-{'tur': 0.6747676912080057}
-Non-cased Matches:  948
-{'tur_caseless': 0.677626876340243}
-Non-cased Matches ignoring partitive article errors:  1040
-{'tur_loose': 0.7433881343817013}
-
-
+Total Concepts Present: 2244
+Total Concepts Predicted: 2013
+Recall: 0.5062388591800356
+Precision: 0.5643318430203677
+F1 Score: 0.5337091848719756

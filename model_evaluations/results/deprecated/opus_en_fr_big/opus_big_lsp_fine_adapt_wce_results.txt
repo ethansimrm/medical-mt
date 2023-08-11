@@ -1,0 +1,18 @@
+
+
+Results are:
+
+
+{'bleu': 34.1323731623214}
+{'CHRF++': 53.21310909582891}
+{'ter': 68.20880245649948}
+{'meteor': 0.52308183583658}
+Total Terminologies:  1399
+Exact Matches:  1049
+{'tur': 0.7498213009292352}
+Non-cased Matches:  1053
+{'tur_caseless': 0.7526804860614725}
+Non-cased Matches ignoring partitive article errors:  1053
+{'tur_loose': 0.7526804860614725}
+
+

@@ -1,0 +1,2112 @@
+sent_ID	concept	count
+0	nouveau	1
+0	après	1
+1	risque de	1
+1	plus	1
+1	élevé	1
+2	Consensus	1
+3	Personnel de recherche	1
+3	Classification	1
+3	Méta-analyse	1
+4	Personnel de recherche	1
+4	Medline	1
+4	Vedettes-matière	1
+4	Précis	1
+5	admissibilité	1
+6	nombre	1
+6	Thérapeutique	1
+6	durée	1
+6	Post-cure	1
+7	stratifié	1
+7	après	2
+7	Directives	1
+7	centre	1
+7	Méta-analyse	1
+7	Intervalles de confiance	1
+7	Thérapeutique	1
+8	Personnel de recherche	1
+9	nombre	1
+10	après	4
+10	excision	4
+10	Curiethérapie	1
+10	thérapie	1
+10	compression	1
+10	radiothérapie	1
+10	externe	1
+10	Injections	1
+10	stéroïdes	1
+11	aucune	1
+13	excision	1
+13	Curiethérapie	1
+13	plus	1
+13	faible	1
+14	Intervalles de confiance	1
+14	Curiethérapie	1
+14	thérapie	1
+14	compression	1
+14	Chirurgiens	1
+14	Patients	1
+15	Objectifs	1
+16	effet	1
+16	Boissons alcooliques	1
+16	connaissance	1
+16	Boissons	1
+18	Étudiants	1
+18	alcool	1
+18	Ontario	1
+18	Canada	1
+19	Groupes de population	1
+19	premier	1
+19	groupe	3
+20	Probabilité	1
+20	connaissance	1
+20	Comportement de choix	1
+20	Boissons	1
+21	Modèles linéaires	1
+21	Organisation et administration	2
+23	plus	1
+23	groupe	2
+24	groupe	2
+24	nombre	1
+24	Boissons	1
+25	aucune	1
+25	entre les deux	1
+25	Groupes de population	1
+25	nombre	2
+25	Boissons	2
+27	Boissons alcooliques	1
+28	Incidence	1
+28	Boissons alcooliques	1
+30	Infection croisée	1
+30	Méticilline	1
+31	Dermatologie	1
+31	pyodermite	1
+31	staphylococcique	1
+32	Objectifs	1
+33	premièrement	1
+33	Rendement	1
+33	Décontamination	1
+33	surface	1
+33	composé d'ammonium	1
+33	après	1
+34	deuxièmement	1
+34	nombre	1
+34	Coagulase	1
+34	après	2
+34	Chiens	1
+34	pyodermite	1
+34	Désinfection	1
+35	Méthodes	1
+36	Numismatique	1
+36	Colorants fluorescents	1
+36	Rendement	1
+36	surface	1
+36	entre	1
+36	base	1
+38	dix	1
+38	Numismatique	1
+38	après	2
+38	Chien	1
+38	atteint	1
+38	pyodermite	1
+38	staphylococcique	1
+38	immédiatement	1
+38	Désinfection	1
+40	au total	1
+41	nombre	1
+41	plus	1
+41	élevé	1
+42	réduit	1
+42	nombre	1
+42	huit	1
+43	isolé	1
+43	table	2
+43	Sols et revêtements	1
+44	clinique	1
+45	Désinfection	1
+46	Désinfection	1
+46	plus	1
+47	nombre	1
+47	bien	1
+47	Étudiants	1
+47	Médecine	1
+47	Canada	1
+47	long	1
+47	problème	1
+48	systémique	1
+48	Écoles de médecine	1
+48	bien	1
+48	Normes de référence	1
+48	Agrément	1
+49	Culture	1
+49	Programme d'études	1
+49	caché	1
+49	bien	2
+49	Étudiants	1
+49	Épuisement professionnel	1
+50	Programmes	1
+50	bien	1
+50	plus	2
+51	Programmes	1
+51	souvent	1
+51	étudiant	1
+51	environnement	1
+51	Apprentissage	1
+52	bien	1
+52	entre	2
+52	Programmes	1
+53	Programmes	2
+53	premier	1
+53	bien	1
+53	Canada	1
+54	systémique	1
+54	Aptitude	1
+54	Médecine	1
+54	Vers	1
+55	Objectifs	1
+55	bien	1
+55	souplesse	1
+55	Réadaptation	1
+55	divers	1
+55	Besoins et demandes de services de santé	1
+55	consultation	1
+56	Médecins	1
+56	bien	1
+56	long	1
+56	Qualité des soins de santé	1
+56	Soins aux patients	1
+56	environnement	1
+56	Travail	1
+56	Population	1
+56	en bonne santé	1
+57	Identification (psychologie)	1
+57	Culicidae	1
+57	Qatar	1
+58	Culicidae	1
+58	Santé publique	1
+59	simple	1
+59	Maladie	1
+59	Risque	1
+59	Caractéristiques de l'habitat	1
+59	associé à	1
+59	facteurs environnementaux	1
+60	Programmes	1
+60	Organisation et administration	1
+60	bien	1
+60	Qatar	1
+60	Probabilité	1
+60	Diffusion	1
+61	Vide	1
+62	Travail	1
+62	trois	1
+62	entre	1
+62	Culicidae	1
+62	Santé publique	1
+62	Distribution	1
+62	Qatar	1
+63	moustique domestique	1
+63	Culex	1
+63	plus	1
+63	Risque	1
+63	virus	1
+64	paludisme	2
+64	anopheles stephensi	1
+64	risque de	1
+65	moustique	1
+65	Zones humides	1
+65	Aedes	1
+65	Risque	1
+65	Virus de la fièvre de la vallée du Rift	1
+66	Dengue	1
+66	Risque	1
+66	virus dengue	1
+66	Fièvre chikungunya	1
+67	présence de	1
+67	culiseta	1
+67	Qatar	1
+68	mieux	1
+68	Savoir	1
+68	Distribution	1
+68	Écologie	1
+68	comportement	1
+68	Culicidae	2
+68	Qatar	1
+68	plus	1
+68	risque de	1
+69	Femmes	1
+69	Cardiopathies	1
+69	Diagnostic	1
+69	prise en charge	1
+69	Maladie	1
+70	entre	1
+70	Patients	1
+70	hôpital	1
+71	Patients hospitalisés	1
+71	Ischémie myocardique	1
+71	Alberta	1
+71	Canada	1
+71	Sexe	1
+72	Patients	2
+72	version	1
+72	sondage	1
+72	Hospitalisation	1
+72	six	1
+72	suivant	1
+73	Soins	1
+73	quatre	1
+73	Poids et mesures	1
+74	sondage	1
+74	plus	1
+75	Intervalles de confiance	1
+75	Femmes	1
+75	plus	1
+75	après	1
+75	Démographie	1
+75	Hôpitaux privés à but lucratif	1
+76	Mars	1
+76	total	1
+76	Femmes	1
+76	Hommes	1
+77	marge	1
+77	sondage	1
+77	Femmes	1
+77	plus	2
+77	faible	1
+78	Sélection	1
+78	plus	1
+79	Femmes	1
+79	plus	2
+79	élevé	1
+79	aucune	1
+80	stratifié	1
+80	Sexe	1
+80	Patients hospitalisés	1
+80	Ischémie myocardique	1
+80	Canada	1
+81	entre	1
+82	entre	1
+82	Patients	1
+84	Organisation et administration	1
+84	Résistance microbienne aux médicaments	2
+84	Anti-infectieux	1
+84	Une seule santé	1
+84	Politique	1
+85	Vers	1
+85	Accomplissement	1
+85	Organisation et administration	1
+85	Canada	1
+86	Méthodes	1
+87	base	2
+87	environnement	1
+87	Consultants	1
+87	centre	1
+87	Maladies transmissibles	1
+87	Vétérinaires	1
+87	identifié	1
+87	huit	1
+87	Organisation et administration	1
+89	Organisation et administration	1
+89	complet	1
+89	plus	1
+89	bas	1
+89	adoption	1
+89	Programmes	1
+90	Organisation et administration	3
+90	Éléments	1
+90	Programmes	2
+90	Infection croisée	1
+91	Organisation et administration	1
+91	Programmes	1
+91	Une seule santé	1
+91	complet	1
+93	trois	1
+93	Programmes	1
+93	Organisation et administration	1
+93	complet	1
+93	actuel	1
+94	Leadership	1
+94	Organisation et administration	1
+96	Ordonnances	1
+96	N02A - opioïdes	2
+96	Risque	1
+96	abus	1
+96	Dépendance	1
+96	surdose	1
+97	prescription	2
+97	N02 - analgésiques	1
+97	N02A - opioïdes	2
+97	Patients	1
+99	identifié	1
+99	Patients	1
+99	hôpital	1
+99	N02 - analgésiques	1
+99	N02A - opioïdes	1
+99	Hôpitaux pédiatriques	1
+99	Soins de santé tertiaires	1
+99	entre	1
+100	principal	1
+100	durée	1
+100	prescription	1
+100	N02A - opioïdes	1
+100	nombre	1
+101	Association	1
+101	entre	1
+101	Patients	1
+101	durée	1
+101	N02A - opioïdes	1
+101	cinq	1
+103	Cours	1
+103	Période	1
+103	Patients	1
+103	total	1
+103	Ordonnances	1
+103	N02A - opioïdes	1
+104	durée	1
+104	prescription	1
+104	N02A - opioïdes	1
+104	hôpital	1
+105	dix	1
+105	sept	1
+105	Ordonnances	1
+105	N02A - opioïdes	1
+105	cinq	1
+106	hôpital	1
+106	quatre	1
+106	prescription	2
+106	N02AA05 - oxycodone	1
+106	Hôpitaux privés à but lucratif	1
+106	Orthopédie	1
+106	N02A - opioïdes	1
+106	cinq	1
+108	N02A - opioïdes	1
+108	cinq	1
+108	Directives	1
+109	durée	1
+109	N02A - opioïdes	1
+110	Maladie	1
+110	coronavirus	1
+110	crise	1
+110	Santé publique	1
+111	Maladies cardiovasculaires	1
+111	mCV	2
+111	Cause de décès	1
+111	Facteurs de risque	1
+111	activité	1
+111	Physique	1
+111	comportement	1
+111	Sédentaire	1
+111	obésité	1
+112	propagation	1
+112	coronavirus	1
+112	nombre	1
+113	Santé publique	1
+113	Habitudes	1
+113	déplacement	1
+114	principal	1
+114	Directives de santé publique	1
+114	Caractéristiques de l'habitat	1
+114	le temps	1
+114	Sommeil	1
+114	activité	1
+114	Physique	1
+114	mCV	1
+115	mCV	1
+115	Directives de santé publique	1
+115	le temps	1
+115	activité	1
+115	Physique	1
+115	Habitudes	1
+115	Sommeil	1
+116	Directives de santé publique	1
+116	Temps	1
+116	assis	1
+117	Communication	1
+117	le temps	1
+117	Exercice physique	1
+117	activité	1
+117	Physique	1
+117	Sommeil	1
+117	mCV	1
+118	habituel	1
+118	Anémie	1
+118	Patients	1
+118	Dialyse rénale	1
+118	Entretien	1
+118	Organisation et administration	1
+118	Fer	1
+118	Administration par voie intraveineuse	1
+118	érythropoïétine	1
+119	Fer	1
+121	principal	1
+121	majeur	1
+121	Dialyse rénale	1
+121	Organisation et administration	1
+121	faible	1
+123	Organisation et administration	1
+123	régional	1
+123	Dialyse rénale	1
+123	Préparations pharmaceutiques	1
+124	Amélioration de la qualité	1
+124	Anémie	1
+124	Préparations pharmaceutiques	1
+124	régional	1
+125	quatre	1
+125	Dialyse rénale	2
+125	Environnement	1
+125	neuf	1
+125	Alberta	1
+125	entre	1
+127	Dossiers médicaux électroniques	1
+128	Récompenses et prix	1
+128	Préparations pharmaceutiques	1
+129	érythropoïétine	1
+129	Dialyse rénale	1
+131	entre	1
+131	divers	1
+132	Préparations pharmaceutiques	1
+132	Dialyse rénale	1
+133	Sensibilité et spécificité	1
+133	inclus	1
+133	Fer	1
+133	Dialyse rénale	1
+134	Analyse coût-bénéfice	1
+136	Coûts et analyse des coûts	1
+136	combiné	1
+138	Sensibilité et spécificité	1
+138	Économies	1
+140	seul	1
+140	Essai clinique	1
+140	Économies	1
+141	hospitalisations	1
+142	majeur	1
+142	Dialyse rénale	1
+142	régional	1
+143	Organisation et administration	1
+143	B03XA01 - érythropoïétine	1
+143	Économies	1
+144	Réadaptation	1
+144	Évaluation éthique	1
+144	Éthique de la recherche	1
+144	Pakistan	1
+145	Comités d'éthique de la recherche	1
+145	cER	1
+145	adapté	1
+145	Temps	1
+145	Recherche	1
+146	cER	1
+146	Bioéthique	1
+146	Pakistan	1
+146	adapté	1
+147	cER	1
+147	Recherche	1
+147	nouveau	1
+147	accéléré	1
+148	transversale	1
+148	trois	1
+148	Collecte de données	1
+148	Membres	1
+149	huit	1
+149	Membres	2
+149	trois	1
+150	accéléré	1
+150	après	1
+152	nouveau	1
+152	ligne	1
+152	présence de	1
+152	Membres	1
+152	Apprentissage	1
+153	accéléré	1
+153	Autorisation d'exercer	1
+153	cER	1
+153	précédent	1
+154	Enquêtes et questionnaires	1
+154	plus	1
+155	Pressions	1
+155	Frustration	1
+156	bien	1
+156	accéléré	1
+156	d'urgence	1
+156	Santé publique	1
+157	Réadaptation	1
+157	Évaluation éthique	1
+157	d'urgence	1
+157	Directives	1
+157	Besoins et demandes de services de santé	1
+158	Objectifs	1
+159	Hôpitaux privés à but lucratif	1
+159	Diabète de type 2	1
+159	régime	1
+160	régime	2
+160	Groupes de population	2
+160	Gestion des équipements et fournitures hospitaliers	1
+160	sécurité alimentaire	1
+162	Cartes	1
+162	transversal	1
+162	répété	1
+162	Enquêtes de santé	1
+162	nutrition	1
+163	Enquêtes et questionnaires	1
+163	Population	1
+164	Régime alimentaire sain	1
+164	Population	1
+164	durant	1
+165	après	1
+165	linéaire	1
+165	généralisé	1
+165	entre	1
+165	Groupes de population	1
+165	Temps	1
+165	sécurité alimentaire	1
+165	Caractéristiques familiales	1
+167	Hommes	1
+167	Femmes	1
+167	Groupes de population	1
+167	Population	1
+168	Groupes de population	1
+168	régime	1
+168	sécurité alimentaire	1
+169	Aliments	1
+171	Régime alimentaire	1
+171	entre	1
+171	Groupes de population	2
+172	bien	1
+172	Approvisionnement en nourriture	1
+172	Caractéristiques familiales	1
+172	Groupes de population	1
+172	régime	1
+172	suffisant	1
+173	Approvisionnement en nourriture	1
+173	Classe sociale	1
+173	régime	1
+173	Groupes de population	1
+174	inefficacité	2
+174	après	1
+174	Biopsie de la prostate	1
+174	prostate	1
+175	Morbidité	1
+175	bien	1
+175	Patients	1
+176	Incidence	1
+176	Hôpitaux privés à but lucratif	1
+176	affectant	1
+176	Patients	1
+176	biopsie transrectale de la prostate	1
+176	Population	1
+177	plus	1
+177	biopsie transrectale de la prostate	1
+178	Maladies du système nerveux	1
+178	drogues	1
+178	Miction	1
+178	exclus	1
+178	Recherche	1
+179	Patients	1
+180	urinaire	1
+180	Patients	1
+180	début de	1
+180	sept	1
+180	après	1
+180	Intervention	1
+181	de la prostate	1
+181	déterminé	1
+181	Facteurs de risque	2
+181	Hôpitaux privés à but lucratif	2
+182	biopsie	1
+182	Hémorragie	1
+183	Logiciel	1
+184	insuffisance	1
+184	Patients	1
+184	entre	1
+184	cinq	1
+184	neuf	1
+184	septième	1
+185	hématurie	1
+185	biopsie	1
+185	Population	1
+186	hématurie	1
+186	Risque	1
+186	plus	1
+186	élevé	1
+186	inefficacité	1
+186	après	1
+186	Jurisprudence	1
+187	Patients	1
+187	cinq	1
+187	insuffisance	1
+187	après	1
+187	Biopsie de la prostate	1
+188	présence de	1
+188	Morbidité	1
+189	Vedettes-matière	1
+190	symptômes	1
+190	bas	1
+190	Appareil urinaire	1
+190	Biopsie de la prostate	1
+190	Facteurs de risque	1
+190	Rétention d'urine	1
+191	Arthrite septique	1
+191	urgence	1
+192	Maladie	1
+192	Colonisation bactérienne	1
+192	Morbidité	1
+192	Mortalité	1
+193	Cellules souches mésenchymateuses	1
+193	Médecine	1
+194	bien	1
+195	équin	1
+195	Cellules souches mésenchymateuses	1
+195	Croissance	1
+195	staphylococcus aureus	1
+195	Escherichia coli	1
+195	sang	1
+195	Equus caballus	1
+195	Économie	1
+196	Cellules souches mésenchymateuses	1
+196	tissu adipeux	1
+196	Fesses	1
+196	trois	1
+196	Equus caballus	1
+197	trois	1
+197	Groupes de population	1
+197	Poids et mesures	1
+198	densité	1
+199	Croissance	1
+199	plusieurs	1
+200	Croissance	1
+200	groupe	1
+200	Escherichia coli	2
+201	Anti-infectieux	1
+201	Techniques in vitro	1
+202	bien	1
+202	effet	1
+202	Croissance	1
+202	Bactéries à Gram positif	1
+203	Recherche	1
+204	Conversation	1
+204	plus	1
+204	jeune	1
+204	Femmes	1
+204	four	1
+204	Soudan	1
+204	Environnement	1
+204	entre	1
+204	Programmes	1
+204	Renforcement des capacités	1
+204	Coopération	1
+205	unique	1
+206	Entretien	1
+206	Vers	1
+206	Compréhension	1
+206	humain	1
+206	Culture	1
+206	Économie	1
+206	Identité de genre	1
+206	Technologie	1
+208	Douleur	1
+208	après	1
+208	Chirurgie de cancer	1
+208	cancer du sein	1
+209	Douleur	1
+209	chirurgie	1
+209	mammaire	1
+209	oncologique	1
+211	Revue systématique	1
+211	Méta-analyse	1
+211	Réseau	1
+211	PubMed	1
+211	Medline	1
+211	central	1
+212	principal	1
+212	Douleur au repos	1
+212	échelle	1
+213	Aire sous la courbe	1
+213	Classement	1
+213	Probabilité	1
+213	Intervention	1
+213	plus	1
+214	tailles	1
+214	effet	1
+215	Classement	2
+215	Douleur	1
+215	Économie	1
+215	N02A - opioïdes	1
+215	Incidence	1
+215	nausées et vomissements postopératoires	1
+217	dix	1
+217	neuf	1
+218	Douleur au repos	1
+218	continu	1
+218	Cartes	2
+218	antérieur	1
+218	Perfusion	1
+218	Plaie	2
+218	seul	1
+218	muscles érecteurs du rachis	1
+218	modifié	1
+218	infiltration	1
+218	Intervention	1
+218	Placebo	1
+219	Placebo	1
+219	continu	1
+220	Classement	1
+220	Douleur au repos	1
+220	Économie	1
+220	N02A - opioïdes	1
+220	Analgésie	1
+220	plus	1
+220	Intervention	1
+220	Placebo	1
+221	infiltration	1
+221	Plaie	2
+221	Perfusion	1
+221	nausées et vomissements postopératoires	1
+223	continu	1
+223	Cartes	1
+223	antérieur	1
+223	Probabilité	1
+223	Douleur	1
+223	après	1
+223	chirurgie	1
+223	mammaire	1
+223	oncologique	1
+224	fiabilité	1
+224	Modérée	1
+224	faible	1
+225	anesthésie régionale	1
+225	infiltration	1
+225	Plaie	1
+225	Cathéters	1
+226	probable	1
+226	Intervention	1
+226	Placebo	1
+226	clinique	1
+229	Rétroaction	1
+229	peropératoire	1
+229	pierre	1
+229	angulaire	1
+230	Rétroaction	1
+230	plus	1
+230	efficace	1
+230	chirurgie	1
+231	mieux	1
+232	Nature	1
+232	Interactions	1
+232	Rétroaction	1
+232	opération	1
+232	Cours	1
+232	Postopératoire	1
+232	obstétrique	1
+232	Gynécologie	1
+233	Présentations de cas	1
+233	entre	1
+234	trois	1
+234	cinq	1
+234	Chirurgiens	1
+234	obstétrique	1
+234	Gynécologie	1
+234	six	1
+235	Littérature	1
+236	Interactions	1
+236	Cours	1
+236	nombre	1
+237	instrument	1
+237	V03AB29 - cholinestérase	1
+238	Autorisation d'exercer	1
+238	Interactions	1
+238	Cours	1
+238	Période	1
+239	la plupart de	1
+239	Interactions	1
+239	plus	1
+239	souvent	1
+239	Enseignement	1
+240	Nature	1
+240	Rétroaction	1
+241	Herméneutique	1
+241	Autorisation d'exercer	1
+241	plus	1
+242	Rétroaction	1
+242	opération	1
+242	Stage interdisciplinaire	1
+242	Rendement	1
+243	petite enfance	1
+243	cinq	1
+243	Bangladesh	1
+243	Costa Rica	1
+243	Ghana	1
+243	Étude comparative	1
+244	jeune	1
+244	Enfant	1
+244	facteur	1
+244	Santé	1
+244	bien	1
+244	Adulte	1
+245	petite enfance	1
+245	cinq	1
+246	Études transversales	1
+246	Enquêtes et questionnaires	1
+246	Indicateurs et réactifs	1
+246	Bangladesh	1
+246	Ghana	1
+246	Costa Rica	1
+247	trois	1
+247	Modèles logistiques	1
+247	Analyse multifactorielle	1
+248	Statistiques	1
+248	version	2
+249	Sexe	1
+249	Enfant	3
+249	Niveau d'instruction	1
+249	État nutritionnel	1
+249	Lecture	1
+249	Livres	1
+249	mère	1
+249	plus	1
+249	jeune	1
+250	plus	1
+250	Hommes	1
+250	Famille nucléaire	1
+250	Bangladesh	1
+250	Costa Rica	1
+250	Ghana	1
+251	zone	1
+251	Costa Rica	1
+251	Ghana	1
+252	Poids et mesures	1
+252	bien	1
+252	Adolescent	1
+252	trois	1
+252	renforcement	1
+252	Éducation	1
+252	nutrition	1
+252	Économie	1
+253	Rendement	1
+253	Apprentissage	1
+253	Chine	1
+254	Chine	1
+254	Grands-parents	1
+254	plus	1
+254	Temps	1
+255	Travail	1
+255	après	1
+255	plus	1
+255	Besoins et demandes de services de santé	1
+255	nombre	1
+255	entre	1
+255	étendu	1
+255	Rôle	1
+255	Organisation et administration	1
+255	Apprentissage	1
+255	ligne	1
+256	mieux	1
+256	Apprentissage	1
+257	Période	1
+257	difficile	1
+257	Population d'origine asiatique	1
+257	organisation	1
+257	Vie	2
+257	Étudiants	1
+257	Vacances	1
+257	Éducation	1
+257	long	1
+257	Chine	1
+257	normal	1
+257	durant	1
+257	Apprentissage	1
+257	entre	1
+257	Grands-parents	1
+258	Prévention	1
+258	Santé	1
+258	Aptitude physique	1
+258	Culture	1
+259	Établissements scolaires	1
+259	Apprentissage	1
+259	entre	1
+259	Grands-parents	1
+260	onze	1
+260	Enseignants	1
+260	sept	3
+260	Grands-parents	1
+260	parents âgés	1
+260	Autorisation d'exercer	1
+260	quatre	1
+260	Caractéristiques familiales	1
+260	Savoir	1
+260	Santé	1
+260	Vie	1
+262	Unités de soins intensifs	1
+262	atteint	1
+262	Occupation	1
+262	Triage	1
+263	outil	1
+263	risque de	1
+263	Mortalité	1
+263	Patients	1
+263	ventilation	1
+263	Prise de décision	1
+263	Ressources en santé	1
+263	entre	1
+265	inclus	1
+265	Ventilation artificielle	1
+265	trois	1
+265	Centres de soins tertiaires	1
+265	Ontario	1
+265	entre	1
+265	Mars	1
+266	Mortalité	1
+267	principal	1
+267	Probabilité	1
+267	Mort	1
+267	trois	2
+267	nouveau	1
+267	Calcul	1
+267	Risque	1
+270	sept	1
+270	Patients	1
+271	durée	1
+272	Mortalité	1
+273	Température	1
+273	Lactate	1
+273	Volume courant	1
+273	ventilation	1
+273	Mortalité	1
+274	Risque	1
+274	clinique	1
+274	Aire sous la courbe	1
+274	Courbe ROC	1
+274	Confiance	1
+275	dix	1
+275	Risque	1
+275	Mort	1
+277	outil	1
+277	Mortalité	1
+277	Patients	1
+278	externe	1
+280	Dépistage de masse	1
+280	Hypercorticisme	1
+280	Chiens	1
+280	Maladie	1
+280	dermatologique	1
+280	bien	1
+280	corticostéroïdes	1
+281	suspension	1
+281	contenant	1
+281	D01AE15 - terbinafine	1
+281	Furoate de mométasone	1
+281	effet	1
+281	après	1
+281	Attention	1
+281	fréquemment	1
+281	Otite externe	1
+281	Canine	1
+282	médicament	1
+282	Cortex surrénal	1
+282	le jour	1
+282	après	2
+282	Organisation et administration	1
+283	Objectifs	1
+284	D01AE15 - terbinafine	1
+284	Furoate de mométasone	1
+284	topique	1
+284	Cortex surrénal	1
+284	Chiens	1
+284	après	1
+284	Attention	1
+285	Animaux	1
+286	sept	1
+286	Chiens	1
+286	pseudomonas	1
+287	Méthodes	1
+288	cortisol	1
+288	Prairie	1
+288	ACTH	1
+289	D01AE15 - terbinafine	1
+289	Furoate de mométasone	1
+289	topique	1
+289	les deux oreilles	1
+290	Chiens	1
+290	cortisol	1
+290	après	1
+290	ACTH	1
+292	cortisol	1
+292	Prairie	1
+292	ACTH	1
+293	entre	1
+293	cortisol	1
+293	ACTH	1
+294	clinique	1
+295	aucune	1
+295	Cortex surrénal	1
+295	Chiens	1
+295	Coopération internationale	1
+295	D01AE15 - terbinafine	1
+295	Furoate de mométasone	1
+295	topique	1
+295	Directives de santé publique	1
+296	Bloc du plexus brachial	1
+296	Intervention	1
+296	plus	2
+296	Chirurgiens	1
+296	Anesthésiologistes	1
+296	membres supérieurs	1
+297	Caractère	1
+297	Main	1
+298	Personnel de recherche	1
+298	Opération de la main	1
+298	Période	1
+299	inclus	1
+299	fixation	1
+299	interne	1
+299	Patients	1
+299	Soins	1
+300	Statistiques	1
+301	Personnel de recherche	1
+301	Anesthésie générale	1
+302	durée	1
+302	entre	1
+302	opération	1
+302	groupe	1
+303	Patients	2
+303	Analgésie	1
+303	après	1
+303	opération	1
+304	Patients	2
+304	cinq	1
+304	Groupes de population	1
+304	Antiémétiques	1
+304	après	1
+304	opération	1
+305	Besoins et demandes de services de santé	1
+305	médication	1
+305	après	1
+305	opération	1
+306	fixation	1
+306	interne	1
+306	fractures	1
+306	Main	1
+306	Bloc du plexus brachial	1
+306	Méthodes	1
+306	Anesthésie	1
+306	Publications	1
+308	hormones	1
+308	Testostérone	1
+308	Rôle	1
+308	Croissance	1
+308	musculaire	1
+309	Testostérone	2
+309	Attention	1
+310	Comportement sexuel	1
+310	coït	1
+310	Masturbation	1
+310	souvent	1
+310	Attention	1
+310	Testostérone	1
+310	Croissance	1
+310	musculaire	1
+311	aucune	1
+311	Cinétique	1
+311	Testostérone	1
+311	cortisol	1
+311	après	1
+311	Comportement sexuel	1
+312	Projets pilotes	1
+312	Cinétique	1
+312	Testostérone	2
+312	cortisol	1
+312	après	1
+312	Masturbation	1
+313	trois	1
+313	Bras	1
+313	simple	1
+313	Aveugle	1
+313	Masturbation	2
+313	stimulus	2
+313	visuel	2
+313	Cinétique	1
+313	Hommes	1
+313	Adolescent	1
+313	en bonne santé	1
+315	Testostérone	1
+315	entre	1
+316	Masturbation	1
+316	stimulus	1
+316	visuel	1
+316	Testostérone	1
+316	Cours	1
+317	entre	1
+317	Testostérone	2
+317	cortisol	1
+319	Masturbation	1
+319	effet	1
+319	Testostérone	1
+320	plus	1
+320	Grande taille	1
+321	Sarcopénie	1
+321	Masse	1
+321	Muscles squelettiques	1
+321	Fragilité	1
+322	Association	1
+322	entre	1
+322	Sarcopénie	1
+322	suivant	1
+322	Remplacement valvulaire aortique par cathéter	2
+324	Patients	1
+324	Remplacement valvulaire aortique par cathéter	1
+324	Tomodensitométrie	1
+324	Cours	1
+324	Période	1
+324	inclus	1
+325	Masse	1
+325	musculaire	1
+325	squelettique	1
+325	Radiographie	1
+325	surface	1
+325	Muscle iliopsoas	1
+325	vertèbre	1
+325	Taille	1
+326	Poids et mesures	1
+326	Sarcopénie	1
+326	Sexe	2
+326	inférieur	1
+327	principal	1
+327	composite	1
+327	Mortalité	1
+327	Morbidité	1
+327	hôpital	1
+327	gastro-	1
+327	vasculaire	1
+328	Association	1
+328	entre	1
+328	Sarcopénie	1
+329	total	1
+329	Patients	1
+329	inclus	1
+330	Comorbidité	1
+330	élevé	1
+330	Insuffisance cardiaque congestive	1
+331	Patients	1
+332	Modèles logistiques	1
+332	Confiance	1
+332	Sexe	1
+333	Analyse multifactorielle	1
+333	inférieur	1
+333	Sexe	1
+334	Sarcopénie	1
+334	Poids et mesures	1
+334	Muscle iliopsoas	1
+334	Mortalité	1
+334	Morbidité	1
+334	hôpital	1
+334	Remplacement valvulaire aortique par cathéter	1
+335	Objectifs	1
+336	Aptitude	1
+336	Directives de santé publique	1
+337	Alberta	1
+337	Santé publique	1
+338	Spécialisation	1
+338	Santé publique	1
+340	sondage	1
+340	transversal	1
+340	ligne	1
+340	entre	1
+341	sondage	1
+341	Santé publique	1
+341	Caractéristiques de l'habitat	1
+344	Gestion des équipements et fournitures hospitaliers	1
+345	Aliments	1
+345	Emploi	1
+346	faible	1
+346	Revenu	1
+346	plus	1
+346	difficile	1
+346	Aliments	1
+346	Soins	1
+346	Vêtements	1
+346	Levage	1
+347	Enquêtes et questionnaires	1
+347	Équipement et fournitures	1
+348	Enquêtes et questionnaires	1
+348	bien	1
+348	se laver	1
+348	plus	2
+348	facile	1
+348	difficile	1
+349	Enquêtes et questionnaires	1
+349	facile	1
+349	Santé publique	1
+349	Santé de la famille	1
+350	vouloir	1
+352	Face	1
+353	déterminé	1
+353	Incidence	1
+353	Nébuliseurs et vaporisateurs	1
+353	nicotine	1
+353	Santé	1
+353	Canada	1
+353	effet	1
+353	Arrêt de la consommation de tabac	1
+353	tabagisme	1
+354	Identité de genre	1
+354	Vie	2
+354	Années de vie ajustées sur la qualité	2
+354	Coûts des soins de santé	1
+354	tabagisme	1
+354	Hommes	1
+354	Famille nucléaire	1
+354	Nébuliseurs et vaporisateurs	3
+354	nicotine	3
+354	Prestations des soins de santé	1
+354	Arrêt de la consommation de tabac	1
+354	Protéines du système du complément	1
+354	actuellement	1
+355	Commentaire	1
+355	Prestations des soins de santé	2
+355	Gestion financière	1
+356	Simulation	1
+357	Hommes	1
+357	Vie	1
+357	Années de vie ajustées sur la qualité	1
+357	Coûts des soins de santé	1
+357	tabagisme	1
+357	Nébuliseurs et vaporisateurs	3
+357	nicotine	3
+358	Famille nucléaire	1
+358	Vie	1
+358	Années de vie ajustées sur la qualité	1
+358	Coûts des soins de santé	1
+358	tabagisme	1
+358	Nébuliseurs et vaporisateurs	3
+358	nicotine	3
+359	Nébuliseurs et vaporisateurs	1
+359	nicotine	1
+360	Politique	1
+360	Nébuliseurs et vaporisateurs	1
+360	nicotine	1
+360	Population	1
+360	Santé de la population	1
+360	Coûts des soins de santé	1
+362	Préparations pharmaceutiques	1
+362	Santé publique	1
+362	Ressources en santé	1
+362	Contrôle social formel	1
+363	prescription de	1
+363	Préparations pharmaceutiques	1
+363	Cours	1
+363	médical	1
+365	Sensibilisation	1
+365	Identification (psychologie)	1
+365	Lutte	1
+365	contre	1
+365	Préparations pharmaceutiques	2
+365	Poids et mesures	1
+365	Médecins	1
+366	Méthodes	1
+367	transversale	1
+367	Nigeria	1
+368	Autorisation d'exercer	1
+368	Sensibilisation	1
+368	Identification (psychologie)	1
+369	Poids et mesures	1
+369	Médicaments non conformes aux normes	1
+371	Enquêtes et questionnaires	1
+372	Hommes	1
+373	Soins	1
+373	plus	1
+373	fréquemment	1
+373	Emballage de produit	1
+373	mobile	1
+374	plus	1
+374	Emballage de produit	1
+375	Temps	1
+375	prédominant	1
+376	plus	1
+376	Préparations pharmaceutiques	1
+376	Normes de référence	1
+376	Antipaludiques	1
+376	Antibactériens	1
+376	N02 - analgésiques	1
+377	plus	1
+377	Préparations pharmaceutiques	1
+377	Normes de référence	1
+377	faiblesse	1
+377	Contrôle social formel	1
+378	plus	1
+378	Chaîne	1
+378	Préparations pharmaceutiques	1
+380	connaissance	1
+381	Emballage de produit	1
+381	plus	1
+382	Temps	1
+382	prédominant	1
+382	possible	1
+383	plus	1
+383	Médicaments non conformes aux normes	1
+383	Antipaludiques	1
+383	Antibactériens	1
+383	N02 - analgésiques	1
+384	plus	1
+384	Médicaments non conformes aux normes	1
+384	faiblesse	1
+384	Contrôle social formel	1
+384	Éléments	1
+385	Chaîne	1
+385	Préparations pharmaceutiques	1
+385	efficace	1
+387	Lutte	1
+387	contre	1
+387	Préparations pharmaceutiques	1
+387	Identification (psychologie)	1
+387	Nigeria	1
+388	Programmes	1
+388	nutrition	1
+388	Organismes	1
+388	Services de santé maternelle et infantile	1
+388	Femmes	1
+388	Cartes	1
+388	Social	1
+389	Programmes	2
+389	Recherche	1
+389	Allaitement naturel	1
+389	centre	1
+389	C01CA30 - associations	1
+389	entre	1
+389	Femmes	1
+390	Femmes	1
+390	centre	1
+391	régression	1
+391	C01CA30 - associations	1
+391	entre	1
+391	trois	1
+391	Programmes	1
+391	nombre	2
+391	durée	1
+393	Revenu	1
+394	Revenu	4
+394	supérieur	1
+394	faible	2
+394	inférieur	1
+394	Programmes	2
+394	plus	2
+394	Confiance	1
+394	nombre	2
+395	après	1
+395	Femmes	1
+395	centre	1
+396	Post-cure	1
+396	centre	1
+397	Programmes	1
+397	Femmes	1
+398	Rhinoplastie	1
+398	Procédures de chirurgie opératoire	1
+398	difficile	1
+399	base	1
+399	ailes du nez	1
+400	plusieurs	1
+400	plaies	1
+400	Patients	1
+401	Personnel de recherche	1
+401	base	1
+401	ailes du nez	1
+401	après	1
+401	divers	1
+401	Matériaux de suture	1
+402	Hôpitaux universitaires	1
+402	Arabie saoudite	1
+403	Personnel de recherche	1
+403	Patients	1
+403	résection	1
+403	base	1
+403	ailes du nez	1
+404	Patients	2
+404	Groupes de population	1
+404	premier	1
+404	plaies	1
+404	base	1
+404	ailes du nez	1
+404	deuxième	1
+405	Personnel de recherche	1
+405	Échelle visuelle analogique	1
+405	base	1
+405	ailes du nez	1
+406	Patients	2
+406	Groupes de population	1
+406	premier	1
+406	groupe	1
+406	composé	1
+406	Hommes	2
+406	Femmes	2
+406	total	1
+406	deuxième	1
+407	Membres	1
+407	premier	1
+407	deuxième	1
+407	groupe	1
+408	clinique	1
+408	plaies	1
+408	base	1
+408	ailes du nez	1
+409	variation	1
+409	faible	1
+409	Carbonate de calcium	1
+409	fracturé	1
+410	centre	1
+410	Irlande	1
+410	Température	1
+410	complexe	1
+411	trois	1
+411	Temps	1
+412	Poids et mesures	1
+412	Sources thermales	1
+412	bassin	1
+412	Température	1
+413	Sol	1
+413	entre	1
+414	Autorisation d'exercer	1
+414	Carbonate de calcium	2
+414	entre	1
+414	Région mammaire	1
+414	Testaments	1
+414	bassin	1
+415	Température	1
+415	infiltration	1
+415	Réchauffement	1
+415	contrôlé	1
+417	Bilharziose	1
+417	Schistosomiase	1
+417	Maladie aigüe	1
+417	chronique	1
+417	Parasites	1
+417	formes	1
+418	la forme	1
+418	Bilharziose	1
+418	fréquemment	2
+418	Santé reproductive	1
+418	Femmes	1
+418	Adolescent	1
+418	Famille nucléaire	1
+418	séquelles	1
+418	souvent	1
+418	Mal	1
+418	infections sexuellement transmissibles	1
+418	cancers	1
+418	col de l'utérus	1
+419	séquelles	1
+419	souvent	1
+419	Mal	1
+419	fréquemment	1
+419	infections sexuellement transmissibles	1
+419	cancers	1
+419	col de l'utérus	1
+420	Santé reproductive	1
+420	Femmes	1
+420	faible	1
+420	Sensibilisation	1
+420	Personnel de santé	1
+421	santé sexuelle	1
+421	plus	1
+421	Afrique subsaharienne	1
+422	connaissance	1
+422	plus	1
+422	Sensibilisation	1
+422	fin	1
+422	négligence	1
+422	Santé reproductive	1
+422	Femmes	1
+422	Maladie	1
+424	Éducation	1
+424	Organisation mondiale de la santé	2
+424	Médecine	1
+424	Santé publique	1
+424	Prévention	1
+424	Diagnostic	1
+424	système de santé	1
+425	Groupes de population	1
+427	Autorisation d'exercer	1
+427	Prévention	1
+427	Diagnostic	1
+427	professionnels de santé	1
+427	clinique	1
+428	Environnement	1
+428	clinique	1
+428	dix	1
+428	Diagnostic	1
+428	trois	1
+428	Examen gynécologique	1
+428	sept	1
+429	six	1
+430	onze	1
+430	Environnement	1
+430	six	1
+430	Identification (psychologie)	1
+430	Femmes	1
+430	Risque	1
+430	cinq	1
+430	Prévention	1
+432	prise en charge	1
+432	Vers	1
+432	Diagnostic	1
+432	adéquat	1
+432	Femmes	1
+432	Famille nucléaire	1
+432	Afrique subsaharienne	1
+432	professionnels de santé	1
+433	Aptitude	1
+433	Médecine	1
+433	paris	1
+433	entre	1
+434	France	2
+434	Rôle	1
+434	Histoire	1
+434	entre	1
+434	Canada	1
+434	Bactériologie	1
+434	Amériques	1
+434	français	1
+435	Étudiants	1
+435	Dissertation universitaire	1
+435	pierre	1
+435	Santé	1
+435	paris	1
+436	paris	1
+436	profession	1
+436	entre	1
+436	Amérique du Nord	1
+437	Lits	1
+437	hôpital	1
+437	Arabie saoudite	1
+437	transversale	1
+438	adéquat	1
+438	Prestations des soins de santé	1
+438	droit	1
+438	humain	1
+439	Prestations des soins de santé	1
+439	plus	2
+439	efficace	1
+439	possible	1
+440	Lits	1
+440	hôpital	1
+440	Arabie saoudite	1
+440	Facteurs socioéconomiques	1
+440	Allocation des ressources	1
+441	transversale	1
+441	Statistiques	1
+441	Santé	1
+441	Cours	1
+441	Période	1
+442	Capacité hospitalière	1
+442	hôpital	1
+443	Lits	1
+444	entre	1
+444	Lits	1
+444	Population	1
+444	région	1
+445	entre	2
+445	Capacité hospitalière	1
+445	hôpital	1
+445	Population	1
+445	augmenté	1
+446	Lits	1
+446	Secteur public	1
+447	entre	1
+447	Population	1
+447	Lits	1
+447	hôpital	1
+447	S01EB09 - acétylcholine	1
+448	Arabie saoudite	1
+448	Facteurs socioéconomiques	1
+448	Lits	1
+448	hôpital	1
+448	Secteur privé	1
+449	Conscience	1
+449	Facteurs socioéconomiques	1
+449	Objectifs	1
+449	vision	1
+450	Objectifs	1
+451	Prévention	1
+451	obésité	1
+451	Santé publique	1
+451	Attention	1
+451	Santé	1
+451	alimentation	1
+451	activité	1
+451	Physique	1
+451	Poids	1
+451	Discrimination (psychologie)	1
+452	entre	1
+452	Santé	1
+452	Poids	1
+453	se pencher	1
+453	Rôle	1
+453	Santé	1
+453	Face	1
+453	Signaux	1
+453	Objectifs	1
+453	Poids	1
+454	Méthodes	1
+455	transversale	1
+455	Étudiants	1
+456	Poids et mesures	1
+456	Poids	1
+456	Sexe	1
+456	Comportement sexuel	1
+456	Santé	1
+456	activité	1
+456	Physique	1
+456	Économie	1
+456	Nutriments	1
+458	régression	1
+458	Sexe	1
+458	plus	1
+458	Signaux	1
+458	Poids	1
+458	Santé	1
+458	activité	1
+458	Physique	1
+458	Économie	1
+458	Aliments	1
+460	activité	1
+460	Physique	1
+460	Transports	1
+460	Économie	1
+460	Nutriments	1
+460	Légumes	1
+460	Lait	1
+461	Santé publique	1
+461	Facteurs de risque	1
+461	Prévention	1
+461	obésité	1
+461	Adolescence	1
+462	Syndrome cardiorénal	1
+462	aigu	1
+462	associé à	1
+462	Patients	1
+462	insuffisance cardiaque	1
+462	décompensation	1
+463	veineux	1
+463	Échographie doppler	1
+464	bien	1
+464	sensible à	1
+464	Congestion rénale	1
+464	Association	1
+464	entre	1
+464	Région mammaire	1
+464	Population	1
+464	Maladie	1
+465	Patients hospitalisés	1
+465	Syndrome coronarien aigu	1
+466	Patients	1
+466	échocardiographie	1
+466	Savoir	1
+467	veineux	2
+467	Stase veineuse	1
+467	durée	2
+467	cardiaque	1
+468	principal	1
+468	Insuffisance rénale aiguë	1
+468	global	1
+469	Patients	2
+469	cardiaque	1
+469	plus	1
+469	Pression veineuse centrale	1
+469	Poids et mesures	1
+469	échocardiographie	1
+470	Patients	2
+471	stade ii	1
+471	Patients	2
+471	Créatinine	1
+472	gravité	1
+472	Patients	1
+473	associé à	1
+473	Patients	1
+473	Marqueurs biologiques	1
+474	plus	1
+474	Rendement	1
+476	Rendement	1
+476	Exposition	2
+476	anesthésique	1
+476	parent	1
+476	anxiété	1
+476	Enfant	1
+477	Méthodes	1
+478	inclus	1
+478	quatre	1
+478	sept	1
+478	Jurisprudence	1
+478	dentaire	1
+478	chirurgie	1
+478	Parents	1
+479	après	1
+479	Répartition aléatoire	1
+479	trois	2
+479	Groupes de population	1
+479	Exposition	1
+479	parent	1
+479	Intervention	1
+479	groupe	1
+480	anxiété	2
+480	Enfant	1
+480	échelle	2
+480	Cours	1
+480	le jour	1
+480	chirurgie	1
+480	Liste de contrôle	1
+482	entre	1
+482	Groupes de population	1
+482	anxiété	1
+482	Enfant	1
+482	Induction anesthésique	1
+483	groupe	2
+483	anxiété	1
+483	effet	1
+483	médian	1
+484	entre	2
+484	Groupes de population	1
+484	Temps	1
+484	Anesthésie	1
+484	effet	1
+484	petit	1
+485	groupe	2
+485	Anesthésie	1
+487	Exposition	1
+487	le jour	1
+487	Intervention	1
+487	anxiété	1
+487	Enfant	1
+487	chirurgie	1
+488	simple	1
+488	efficace	1
+489	Endocrinologie	1
+489	Nigeria	1
+490	connaissance	1
+490	Diagnostic	1
+490	Mort	1
+491	Prévalence	1
+491	prise en charge	1
+492	Syndrome de perfusion du propofol	1
+492	Mars	2
+493	Patients	1
+494	Actualités	1
+494	clinique	1
+494	Cours	1
+494	Période	1
+495	Hommes	1
+495	Femmes	1
+495	entre	1
+496	quatre	1
+496	plus	1
+496	rachitisme	1
+496	Diabète	1
+496	Puberté	1
+497	nombre	1
+498	quatre	1
+498	Patients	1
+498	bien	1
+498	Perdus de vue	1
+498	Mortalité	1
+499	rachitisme	1
+499	Diabète	1
+499	Puberté	1
+499	quatre	1
+501	fin	1
+503	Pédiatrie	1
+503	Sensibilisation	1
+503	rachitisme	1
+503	Diabète	1
+503	Nigeria	1
+504	Facteurs socioéconomiques	1
+504	Capital social	1
+504	Caractéristiques familiales	1
+505	Facteurs socioéconomiques	1
+505	Capital social	1
+505	Caractéristiques familiales	2
+505	échelle	1
+505	Enquêtes et questionnaires	1
+505	entre	1
+505	Programmes	1
+505	régression	1
+505	Méthode des moindres carrés	1
+506	Facteurs socioéconomiques	1
+506	Capital social	2
+506	Caractéristiques familiales	1
+506	résoudre des problèmes	1
+506	plus	1
+506	C01CA30 - associations	1
+506	Bénévoles	1
+506	Cartes	1
+507	Cartes	1
+507	susceptible	1
+507	Désaccords et litiges	1
+508	Fibrillation auriculaire	1
+508	après	1
+508	chirurgie cardiaque	1
+508	Risque	1
+508	Accident vasculaire cérébral	1
+508	aVC	1
+509	Association	1
+509	durant	1
+509	Post-cure	1
+509	court	1
+509	long	1
+510	PubMed	1
+510	central	2
+510	Période	1
+511	inclus	1
+511	Observation	1
+511	Patients	2
+511	Risque	1
+511	aVC	1
+511	court	1
+511	long	1
+511	après	1
+511	chirurgie cardiaque	1
+513	Risque	2
+513	absolu	1
+513	Intervalles de confiance	1
+514	au total	1
+514	Patients	1
+515	Risque	1
+516	Risque	1
+517	Sensibilité et spécificité	1
+517	aVC	1
+518	après	1
+518	chirurgie cardiaque	1
+518	Risque	1
+518	aVC	1
+518	court	1
+518	long	1
+519	Risque	1
+519	absolu	1
+519	aVC	1
+519	long	2
+519	faible	1
+519	anticoagulothérapie	1
+519	Patients	1
+520	Directives	1
+520	prise en charge	1
+520	Amylose héréditaire	1
+520	Préalbumine	1
+520	polyneuropathie	1
+520	Canada	1
+521	Amylose héréditaire	1
+521	Préalbumine	2
+521	Maladie	1
+521	Gènes	1
+521	dysfonctionnement	1
+522	agrégation	1
+522	mauvais	1
+522	dépôt	1
+522	protéines	1
+522	plusieurs	1
+522	souvent	1
+522	système nerveux périphérique	1
+522	cœur	1
+523	Maladies du système nerveux	1
+523	polyneuropathie	2
+523	Neuropathie	1
+523	syndrome du canal carpien	1
+524	nombre	1
+524	Patients	1
+524	Maladie	1
+524	connu	1
+524	une évolution	1
+524	pose	1
+524	Diagnostic	1
+524	diagnostic différentiel	1
+525	Santé	1
+525	Canada	1
+525	approuvé	1
+525	Préparations pharmaceutiques	1
+525	modificateurs	1
+525	contre	1
+525	Maladie	1
+526	pose	1
+526	précoce	1
+526	Diagnostic	1
+526	Temps	1
+526	Qualité de vie	1
+526	Survie	1
+527	ligne	1
+527	Caractéristiques de l'habitat	1
+527	Hôpitaux privés à but lucratif	1
+527	Directives de santé publique	1
+527	Diagnostic	1
+527	Maladie	1
+527	Canada	1
+527	Organisation et administration	1
+529	Tests épicutanés	1
+529	régimes	1
+529	Patients	1
+529	Humains	1
+530	Chiens	1
+531	Objectifs	1
+532	Rendement	1
+532	combinaison	1
+532	Chiens	1
+533	Méthodes	1
+534	Chiens	1
+534	prurit	1
+534	chronique	1
+534	saisonnier	1
+535	Chiens	1
+535	base	1
+536	Chiens	1
+536	Hôpitaux privés à but lucratif	1
+536	aliment	1
+537	six	1
+537	Chiens	1
+537	aliment	1
+538	Échelle visuelle analogique	1
+538	prurit	1
+538	gravité	1
+538	Eczéma atopique	1
+538	Canine	1
+538	urgence	1
+539	Sensibilité et spécificité	2
+541	Chiens	2
+541	après	1
+542	Statistiques	1
+542	entre	1
+543	combinaison	1
+544	clinique	1
+545	combinaison	1
+545	atteint	1
+546	Diagnostic	1
+546	Chiens	1
+546	Sélection	1
+547	Neuroimagerie	1
+547	provenant de	1
+547	Imagerie	1
+548	fréquemment	1
+549	régression	1
+549	Association	1
+549	entre	1
+549	Cerveau	1
+549	Modèles linéaires	1
+550	régression	1
+550	Cerveau	1
+551	effet	1
+551	régression	1
+551	généralisé	1
+552	Cerveau	1
+553	plus	1
+553	Jurisprudence	1
+554	Simulation	1
+554	Hôpitaux privés à but lucratif	1
+554	Personnes	1
+554	VIH	1
+555	adoption	1
+555	Habitudes	1
+555	Vie	1
+555	activité	1
+555	Physique	1
+555	Population de passage et migrants	1
+555	Temps	1
+555	écran	1
+555	Régime alimentaire sain	1
+555	Adolescent	1
+556	après	1
+556	activité	1
+556	Physique	1
+556	durée	1
+556	Population de passage et migrants	1
+556	Temps	1
+556	écran	1
+556	Économie	1
+556	nourriture	1
+557	activité	1
+557	Physique	1
+557	plus	1
+557	Groupes de population	1
+557	Approvisionnement en nourriture	1
+558	renforcement	1
+558	Santé publique	1
+559	Organisation et administration	1
+559	Indicateurs et réactifs	1
+559	Facteurs socioéconomiques	1
+559	Santé	1
+560	plus	1
+560	Directives	1
+560	Mouvement	1
+560	Comportement alimentaire	1
+560	Établissements scolaires	1
+561	entre	1
+561	Hypertension pulmonaire	1
+561	Pression artérielle pulmonaire	1
+561	occlusion	1
+562	Pression	1
+562	Ventricules cardiaques	1
+564	Comportement de choix	1
+564	entre	1
+564	classification	1
+564	Mortalité	1
+564	Patients	1
+564	sténose aortique	1
+564	grave	1
+565	Patients	1
+565	grave	1
+566	Pression artérielle pulmonaire moyenne	1
+566	entre	1
+567	Mortalité	1
+567	après	2
+567	Post-cure	1
+567	médian	1
+567	Remplacement valvulaire aortique	1
+568	plus	1
+568	faible	1
+569	Patients	5
+569	classification	1
+569	Pression artérielle pulmonaire d'occlusion	1
+570	Patients	1
+571	Mortalité	1
+571	Patients	2
+571	plus	1
+571	Risque	1
+571	Confiance	1
+572	plus	1
+572	Mortalité	1
+572	Risque	1
+572	Confiance	1
+573	classification	1
+573	Patients	1
+573	grave	1
+574	Mortalité	1
+574	après	1
+574	Remplacement valvulaire aortique	1
+574	Patients	1
+574	plus	1
+575	Mortalité	1
+576	Fatigue musculaire	1
+576	équilibre	1
+576	Athlètes	1
+576	État de santé	1
+577	Revue systématique	1
+578	PubMed	1
+578	Medline	1
+578	Sports	1
+578	Publications	1
+579	Fatigue musculaire	1
+579	équilibre	1
+580	faible risque de	1
+581	faible risque de	1
+582	Athlètes	1
+582	cinq	1
+582	équilibre	1
+582	après	1
+582	activité	1
+582	causant	1
+582	Fatigue	1
+584	Athlètes	1
+584	trois	1
+584	Fatigue musculaire	1
+584	équilibre	1
+584	cinq	1
+585	Fatigue musculaire	1
+585	équilibre	1
+586	Athlètes	1
+586	Fatigue	1
+586	effet	1
+586	équilibre	1
+587	contre	1
+587	Athlètes	1
+587	Fatigue	1
+587	effet	1
+587	équilibre	1

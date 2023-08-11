@@ -1,7 +1,7 @@
 import sys
 import time
 
-time.sleep(int(sys.argv[5]) * 30) #Avoid concurrency issues when batch-running
+#time.sleep(int(sys.argv[5]) * 30) #Avoid concurrency issues when batch-running
 
 import os
 import evaluate
