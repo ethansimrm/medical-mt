@@ -1,0 +1,14 @@
+Fluency Metrics
+
+BLEU: 33.37115930728251
+CHRF++: 52.6403439391126
+TER: 69.61446605254179
+METEOR: 0.4847159159086357
+
+Ontology Prediction Metrics
+
+Total Concepts Present: 2244
+Total Concepts Predicted: 1992
+Recall: 0.5022281639928698
+Precision: 0.5657630522088354
+F1 Score: 0.532105760151086
