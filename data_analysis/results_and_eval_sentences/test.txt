@@ -1,0 +1,896 @@
+concept	true_positives	false_positives	false_negatives
+ACTH	4	0	0
+ARN	0	1	0
+Accident vasculaire cérébral	0	2	1
+Accomplissement	0	0	1
+Actualités	1	1	0
+Adipose	0	1	0
+Administration par voie intraveineuse	0	0	1
+Adolescence	0	0	1
+Adolescent	0	3	4
+Adulte	0	0	1
+Aedes	1	0	0
+Afrique	0	2	0
+Afrique subsaharienne	2	0	0
+Agrément	1	0	0
+Aire sous la courbe	0	1	2
+Alberta	2	1	1
+Aliments	0	1	4
+Allaitement naturel	1	0	0
+Allocation des ressources	1	1	0
+Amylose héréditaire	0	0	2
+Amélioration de la qualité	1	0	0
+Amérique du Nord	0	0	1
+Amériques	1	0	0
+Analgésie	0	1	2
+Analgésie postopératoire	0	1	0
+Analyse coût-bénéfice	1	0	0
+Analyse multifactorielle	2	0	0
+Anesthésie	1	1	2
+Anesthésie générale	1	0	0
+Anesthésiologistes	0	0	1
+Anesthésiques	0	1	0
+Anesthésistes	0	1	0
+Animaux	1	0	0
+Années de vie ajustées sur la qualité	2	0	2
+Anti-infectieux	1	1	1
+Antibactériens	2	0	0
+Antipaludiques	2	0	0
+Antiémétiques	1	0	0
+Anémie	2	0	0
+Appareil urinaire	0	0	1
+Apprentissage	5	1	2
+Approvisionnement en nourriture	1	1	2
+Aptitude	1	1	2
+Aptitude physique	1	0	0
+Arabie saoudite	4	0	0
+Archéologie	0	2	0
+Arrêt de la consommation de tabac	0	0	2
+Arthrite septique	1	0	0
+Association	4	2	2
+Athlètes	3	2	2
+Atteinte rénale aigüe	0	1	0
+Attention	3	1	2
+Autorisation d'exercer	6	0	1
+Aveugle	0	0	1
+B03XA01 - érythropoïétine	0	0	1
+Bactéries	0	1	0
+Bactéries à Gram positif	0	0	1
+Bactériologie	1	0	0
+Bangladesh	3	0	0
+Base de données	0	2	0
+Besoins et demandes de services de santé	3	0	1
+Bilharziose	0	0	2
+Biopsie de la prostate	0	0	3
+Bioéthique	1	0	0
+Bloc du plexus brachial	1	0	1
+Boissons	1	4	4
+Boissons alcooliques	1	1	2
+Bras	0	1	1
+Bénévoles	1	0	0
+C01CA30 - associations	3	1	0
+Calcul	0	1	1
+Calendrier	0	1	0
+Canada	8	4	3
+Cancer de la prostate	0	1	0
+Canine	2	0	0
+Capacité hospitalière	1	0	1
+Capital social	3	0	1
+Caractère	0	0	1
+Caractères sexuels	0	3	0
+Caractéristiques de l'habitat	1	3	3
+Caractéristiques familiales	5	2	2
+Carbonate de calcium	3	0	0
+Cardiopathies	1	0	0
+Cartes	1	5	6
+Cathéters	0	1	1
+Cause de décès	1	0	0
+Cellules souches mésenchymateuses	0	0	3
+Cellules stromales	0	3	0
+Centres de soins tertiaires	0	0	1
+Cerveau	0	0	3
+Chauffage	0	1	0
+Chaîne	2	0	0
+Chien	1	0	0
+Chiens	15	0	0
+Chine	1	0	2
+Chirurgie de cancer	0	0	1
+Chirurgiens	3	0	0
+Cinétique	2	1	1
+Classe sociale	0	0	1
+Classement	0	5	4
+Classification	0	2	1
+Coagulase	1	0	0
+Collecte de données	1	0	0
+Colonisation bactérienne	1	0	0
+Colorants fluorescents	1	0	0
+Comités d'éthique de la recherche	1	0	0
+Commentaire	1	0	0
+Communication	1	0	0
+Comorbidité	1	0	0
+Comportement alimentaire	0	0	1
+Comportement de choix	1	1	1
+Comportement sexuel	1	2	2
+Compréhension	1	0	0
+Confiance	3	3	2
+Congestion rénale	1	0	0
+Conscience	0	0	1
+Consensus	1	0	0
+Consultants	0	2	1
+Contrôle social formel	3	0	0
+Conversation	1	0	0
+Coopération	1	0	0
+Coopération internationale	1	1	0
+Cortex surrénal	0	0	3
+Costa Rica	4	0	0
+Courbe ROC	0	0	1
+Cours	3	9	7
+Coûts des soins de santé	2	0	2
+Coûts et analyse des coûts	1	2	0
+Croissance	4	2	2
+Créatinine	0	0	1
+Créatinine sérique	0	1	0
+Culex	1	0	0
+Culicidae	5	2	0
+Culture	3	0	0
+Curiethérapie	3	0	0
+D01AE15 - terbinafine	4	0	0
+Dengue	1	1	0
+Dermatologie	1	0	0
+Diabète	3	0	0
+Diabète de type 2	0	1	1
+Diagnostic	8	1	2
+Diagnostic précoce	0	1	0
+Dialyse rénale	8	2	1
+Diffusion	0	0	1
+Directives	3	1	2
+Directives de santé publique	5	1	1
+Discrimination (psychologie)	0	1	1
+Dispositifs électroniques d'administration de nicotine	0	1	0
+Dissertation universitaire	1	0	0
+Distribution	2	2	0
+Dossiers médicaux électroniques	1	0	0
+Douleur	1	3	3
+Douleur au repos	0	3	3
+Décontamination	1	0	0
+Démographie	1	0	0
+Dépendance	0	1	1
+Dépistage de masse	0	2	1
+Désaccords et litiges	1	0	0
+Désinfection	4	0	0
+Désinfection des mains	0	1	0
+Eczéma atopique	1	0	0
+Emballage de produit	3	0	0
+Emploi	0	1	1
+Endocrinologie	1	0	0
+Enfant	3	3	5
+Enfants majeurs	0	1	0
+Enquêtes de santé	0	1	1
+Enquêtes et questionnaires	6	6	2
+Enseignants	1	0	0
+Enseignement	0	0	1
+Entretien	2	0	0
+Environnement	2	3	2
+Equus caballus	1	0	1
+Escherichia coli	3	0	0
+Essai clinique	0	0	1
+Essai contrôlé randomisé	0	2	0
+Essais	0	5	0
+Examen gynécologique	1	0	0
+Exercice physique	1	1	0
+Exposition	0	5	4
+Face	0	0	2
+Facteurs de risque	2	0	3
+Facteurs socioéconomiques	4	1	3
+Famille nucléaire	2	1	3
+Fatigue	2	4	1
+Fatigue musculaire	0	0	4
+Femmes	17	4	3
+Fer	3	19	0
+Fesses	1	0	0
+Fibrillation	0	1	0
+Fibrillation auriculaire	1	0	0
+Fièvre chikungunya	1	0	0
+Fragilité	1	0	0
+Frais et honoraires	0	2	0
+France	2	0	0
+Frustration	0	0	1
+Furoate de mométasone	0	0	4
+Fécondation	0	2	0
+Gestion des équipements et fournitures hospitaliers	0	1	2
+Gestion financière	0	0	1
+Ghana	4	0	0
+Grande taille	0	0	1
+Grands-parents	3	2	1
+Groupes de population	8	11	12
+Gynécologie	1	0	1
+Gènes	1	0	0
+Habitudes	1	1	2
+Helminthes	0	1	0
+Herméneutique	1	0	0
+Histoire	1	0	0
+Hommes	8	3	2
+Hospitalisation	0	0	1
+Humains	1	0	0
+Hyperadrénocorticisme	0	1	0
+Hypercorticisme	0	0	1
+Hypertension pulmonaire	1	0	0
+Hémorragie	0	0	1
+Hôpitaux	0	6	0
+Hôpitaux d'enseignement	0	1	0
+Hôpitaux généraux	0	1	0
+Hôpitaux privés à but lucratif	5	1	4
+Hôpitaux pédiatriques	0	1	1
+Hôpitaux universitaires	1	0	0
+Identification (psychologie)	4	0	1
+Identité de genre	1	0	1
+Imagerie	1	0	0
+Incidence	2	1	2
+Indicateurs et réactifs	1	1	1
+Induction anesthésique	0	1	1
+Infection croisée	0	1	2
+Infections à staphylocoques	0	1	0
+Injection	0	1	0
+Injections	0	0	1
+Insuffisance cardiaque congestive	1	0	0
+Insuffisance cardiaque décompensée	0	1	0
+Insuffisance rénale aiguë	0	0	1
+Interactions	3	1	1
+Intervalles de confiance	4	0	0
+Intervention	1	6	7
+Intervention chirurgicale	0	2	0
+Intégrons	0	1	0
+Irlande	1	0	0
+Ischémie myocardique	2	0	0
+Jurisprudence	1	1	2
+Lactate	0	1	1
+Lait	0	1	1
+Leadership	0	1	1
+Lecture	1	7	0
+Lettrisme	0	1	0
+Levage	0	2	1
+Liste de contrôle	0	1	1
+Lits	7	1	0
+Littérature	1	0	0
+Livres	1	0	0
+Logiciel	0	0	1
+Lutte	0	2	2
+Légumes	0	1	1
+Main	0	1	2
+Mal	0	1	2
+Maladie	5	1	6
+Maladie aigüe	0	1	1
+Maladies cardiovasculaires	1	0	0
+Maladies du système nerveux	0	0	2
+Maladies transmissibles	0	1	1
+Manifestations neurologiques	0	1	0
+Marqueurs biologiques	1	0	0
+Mars	3	1	1
+Masse	1	0	1
+Masturbation	1	5	5
+Matériaux de suture	0	0	1
+Medline	2	1	1
+Membre supérieur	0	1	0
+Membres	4	2	1
+Miction	0	0	1
+Modèles linéaires	1	1	1
+Modèles logistiques	2	2	0
+Modérée	0	1	1
+Morbidité	5	0	0
+Morsure	0	1	0
+Mort	1	2	2
+Mortalité	11	4	4
+Mouvement	0	1	1
+Muscle iliopsoas	2	0	0
+Muscles squelettiques	0	0	1
+Médecine	4	2	1
+Médecins	1	2	1
+Médicaments non conformes aux normes	2	2	1
+Méta-analyse	2	0	1
+Méta-analyse en réseau	0	1	0
+Métacarpe	0	1	0
+Méthode des moindres carrés	0	0	1
+Méthodes	4	11	4
+Méticilline	0	0	1
+N02 - analgésiques	2	1	2
+N02A - opioïdes	4	4	11
+N02AA05 - oxycodone	0	1	1
+Nature	2	1	0
+Nausées	0	1	0
+Neuroimagerie	1	0	0
+Neuropathie	1	0	0
+Nigeria	2	0	2
+Niveau d'instruction	1	0	0
+Normes de référence	2	1	1
+Numismatique	0	1	2
+Nutriments	0	0	2
+Nébuliseurs et vaporisateurs	0	0	12
+OEB	0	1	0
+Objectifs	5	6	5
+Observation	1	1	0
+Occupation	0	0	1
+Ondes ultrasonores	0	1	0
+Ontario	1	1	1
+Opiacés	0	3	0
+Opération de la main	0	0	1
+Ordonnances	0	3	3
+Organisation et administration	7	8	14
+Organisation mondiale de la santé	2	0	0
+Organismes	1	0	0
+Orthopédie	0	1	1
+Otite externe	0	0	1
+Pakistan	2	0	0
+Pandémies	0	1	0
+Parasites	0	0	1
+Parents	0	3	1
+Patients	46	13	17
+Patients hospitalisés	3	2	0
+Pensée (activité mentale)	0	1	0
+Perdus de vue	0	0	1
+Perfusion	0	2	2
+Personnel de recherche	0	0	8
+Personnel de santé	1	1	0
+Personnes	0	1	1
+Photographie	0	1	0
+Physique	5	4	6
+Piqûre	0	1	0
+Placebo	2	2	2
+Plaie	0	3	5
+Poids	2	6	3
+Poids et mesures	8	3	2
+Politique	1	0	1
+Politique (principe)	0	1	0
+Population	9	5	2
+Population d'origine asiatique	0	1	1
+Population de passage et migrants	0	0	2
+Post-cure	3	2	1
+Postopératoire	1	2	0
+Prairie	1	2	1
+Pression	0	1	1
+Pression artérielle pulmonaire	0	0	1
+Pression artérielle pulmonaire d'occlusion	0	0	1
+Pression artérielle pulmonaire moyenne	1	0	0
+Pression veineuse centrale	1	0	0
+Pression ventriculaire	0	1	0
+Pressions	1	0	0
+Prestations des soins de santé	3	3	2
+Prise de décision	0	0	1
+Probabilité	0	4	5
+Procédures de chirurgie ambulatoire	0	1	0
+Procédures de chirurgie opératoire	0	0	1
+Programme d'études	0	0	1
+Programmes	12	12	8
+Projets pilotes	0	1	1
+Promotion de la santé	0	1	0
+Protéines du système du complément	0	0	1
+Préalbumine	2	0	1
+Précis	0	0	1
+Préparations pharmaceutiques	9	4	5
+Présentations de cas	1	0	0
+Prévalence	1	1	0
+Prévention	4	2	2
+PubMed	2	1	1
+Puberté	2	0	0
+Publications	0	0	2
+Puits à eau	0	1	0
+Pyodermite	0	1	0
+Pédiatrie	0	0	1
+Période	6	6	2
+Qatar	5	0	0
+Qualité de vie	1	0	0
+Qualité des soins de santé	1	0	0
+Radiographie	0	0	1
+Rayonnement	0	1	0
+Recherche	5	1	0
+Rein	0	1	0
+Remplacement valvulaire aortique	0	0	2
+Remplacement valvulaire aortique par cathéter	0	0	4
+Rendement	5	3	2
+Renforcement des capacités	1	0	0
+Ressources en santé	1	0	1
+Restaurants	0	1	0
+Revenu	3	2	3
+Revue systématique	0	1	2
+Rhinoplastie	1	1	0
+Risque	14	3	6
+Réadaptation	1	0	2
+Réchauffement	0	0	1
+Récidive	0	1	0
+Récompenses et prix	1	0	0
+Régime alimentaire	0	1	1
+Régime alimentaire sain	0	0	2
+Région mammaire	0	2	2
+Répartition aléatoire	0	0	1
+Réseau	0	0	1
+Réseautage social	0	1	0
+Résistance microbienne aux médicaments	0	1	2
+Rétention d'urine	0	0	1
+Rétroaction	4	0	1
+Rôle	2	1	2
+S01EB09 - acétylcholine	0	0	1
+Saccharose	0	1	0
+Santé	9	10	4
+Santé de la famille	0	0	1
+Santé de la population	1	0	0
+Santé publique	8	6	6
+Santé reproductive	2	0	1
+Sarcopénie	5	0	0
+Savoir	2	2	1
+Schistosomiase	0	2	1
+Secteur privé	1	0	0
+Secteur public	1	0	0
+Sensibilisation	3	1	2
+Sensibilité et spécificité	5	0	0
+Services de santé	0	1	0
+Services de santé maternelle	0	1	0
+Services de santé maternelle et infantile	0	0	1
+Sexe	6	3	3
+Signaux	0	2	2
+Simulation	2	0	0
+Social	0	0	1
+Soins	1	2	3
+Soins aux patients	1	0	0
+Soins de réanimation	0	2	0
+Soins de santé tertiaires	0	1	1
+Sol	1	0	0
+Sols et revêtements	1	0	0
+Sommeil	3	0	0
+Soudan	1	0	0
+Sources thermales	0	0	1
+Sports	1	0	0
+Spécialisation	0	0	1
+Stage interdisciplinaire	1	0	0
+Stase veineuse	1	0	0
+Statistiques	3	0	1
+Surdosage	0	1	0
+Survie	1	0	0
+Suture	0	1	0
+Syndrome cardiorénal	1	0	0
+Syndrome coronarien aigu	1	0	0
+Syndrome de perfusion du propofol	0	1	1
+Sédentaire	1	5	0
+Sélection	1	0	1
+TAVI	0	2	0
+TCA	0	4	0
+Tabac	0	1	0
+Taille	0	1	1
+Techniques in vitro	1	1	0
+Technologie	1	0	0
+Temps	7	6	4
+Température	3	1	1
+Testaments	1	0	0
+Testostérone	6	6	6
+Tests épicutanés	0	0	1
+Thé	0	1	0
+Thérapeutique	0	0	2
+Tomodensitométrie	0	0	1
+Tomographie	0	1	0
+Transport biologique actif	0	1	0
+Transports	0	0	1
+Travail	2	1	1
+Triage	0	1	1
+Une seule santé	0	1	2
+Unités de soins intensifs	0	1	1
+V03AB29 - cholinestérase	1	1	0
+V09F - thyroïde	0	2	0
+VIH	0	0	1
+Vacances	0	0	1
+Vaisseaux capillaires	0	3	0
+Valve aortique	0	3	0
+Vedettes-matière	1	0	1
+Ventilation artificielle	0	0	1
+Ventricules cardiaques	0	0	1
+Vers	1	0	3
+Vide	0	1	1
+Vie	4	2	4
+Virus de la fièvre de la vallée du Rift	1	0	0
+Virus du Nil occidental	0	1	0
+Visons	0	1	0
+Volume courant	0	0	1
+Vomissements postopératoires	0	1	0
+Vétérinaires	0	2	1
+Vêtements	0	1	1
+Zones humides	0	0	1
+aEC	0	1	0
+aVC	2	0	3
+absence de	0	1	0
+absent	0	1	0
+absolu	0	0	2
+abus	0	1	1
+accéléré	0	0	4
+activité	4	5	8
+actuel	0	1	1
+actuellement	0	2	1
+adapté	1	0	1
+adjuvant	0	1	0
+admissibilité	1	0	0
+adoption	0	2	2
+adéquat	1	0	1
+affectant	1	0	0
+affecté	0	1	0
+agrégation	1	0	0
+aigu	1	0	0
+ailes du nez	0	0	6
+alcool	1	0	0
+aliment	1	0	1
+alimentation	0	7	1
+amyloïdose	0	2	0
+analgésique	0	1	0
+anesthésie régionale	0	1	1
+anesthésique	0	1	1
+angulaire	1	0	0
+annulé	0	1	0
+anopheles stephensi	1	0	0
+anticoagulothérapie	0	0	1
+antécédents	0	1	0
+antérieur	0	3	2
+anxiété	1	5	5
+approuvé	0	0	1
+après	25	9	19
+artère pulmonaire	0	1	0
+assis	0	0	1
+associé à	2	3	1
+atteint	1	0	2
+au total	2	5	0
+au-dessous	0	1	0
+au-dessus	0	1	0
+aucune	2	5	3
+augmenté	1	2	0
+bas	0	4	2
+base	7	4	3
+bassin	2	0	0
+bien	15	3	6
+biopsie	2	3	0
+biopsie transrectale de la prostate	1	0	1
+cER	1	0	3
+caché	1	0	0
+cancer du sein	0	1	1
+cancers	0	0	2
+cardiaque	2	0	0
+causant	0	0	1
+central	2	1	1
+centre	2	1	5
+certitude	0	1	0
+chirurgical	0	1	0
+chirurgie	1	5	5
+chirurgie cardiaque	3	0	0
+chronique	1	1	1
+chute	0	1	0
+cinq	7	3	6
+classification	3	0	0
+clinique	5	3	4
+col de l'utérus	0	0	2
+combinaison	3	2	0
+combiné	1	0	0
+complet	0	3	3
+complexe	1	0	0
+comportement	1	0	1
+composite	0	0	1
+composé	0	0	1
+composé d'ammonium	1	0	0
+compression	2	0	0
+connaissance	3	3	2
+connu	0	0	1
+consultation	0	0	1
+contenant	1	2	0
+continu	1	2	2
+contre	0	3	4
+contrôlé	1	0	0
+coronavirus	2	0	0
+corticostéroïdes	1	0	0
+cortisol	5	2	2
+court	3	0	0
+coït	0	0	1
+crise	1	0	0
+culiseta	1	0	0
+cœur	1	0	0
+d'urgence	2	0	0
+de la prostate	1	1	0
+densité	1	0	0
+dentaire	0	0	1
+dermatologique	1	0	0
+deuxième	2	0	1
+deuxièmement	1	0	0
+diagnostic différentiel	1	0	0
+difficile	1	2	3
+directeurs	0	1	0
+divers	0	0	3
+dix	2	2	3
+drogues	0	0	1
+droit	1	0	0
+durant	0	0	3
+durée	4	2	7
+dysfonctionnement	1	0	0
+débit sanguin	0	1	0
+début de	0	0	1
+décompensation	0	0	1
+déplacement	0	1	1
+dépôt	1	0	0
+déterminé	2	0	0
+effet	2	4	9
+efficace	3	0	1
+embolies	0	1	0
+en bonne santé	0	0	2
+enfants de moins de 5 ans	0	2	0
+entre	24	16	27
+entre les deux	0	0	1
+environnement	2	2	1
+excision	5	0	0
+exclus	1	1	0
+externe	1	1	1
+facile	1	1	1
+facteur	1	0	0
+facteurs environnementaux	1	0	0
+faible	7	4	4
+faible risque de	2	0	0
+faiblesse	0	0	2
+fiabilité	0	0	1
+fibre	0	1	0
+fin	2	3	0
+fixation	1	0	1
+fonction musculaire	0	1	0
+formes	0	1	1
+four	0	0	1
+fractures	1	0	0
+fracturé	1	0	0
+fragmentation	0	1	0
+français	1	0	0
+fréquemment	1	0	5
+fréquent	0	1	0
+gastro-	1	0	0
+gauche	0	1	0
+global	0	0	1
+grave	0	1	3
+gravité	0	0	2
+groupe	4	9	12
+généralisé	0	2	2
+habituel	0	0	1
+homme	0	1	0
+hormones	0	1	1
+hospitalisations	1	0	0
+huit	2	2	1
+humain	1	0	1
+humide	0	1	0
+hématurie	1	0	1
+héréditaire	0	2	0
+hôpital	2	2	10
+identifié	0	2	2
+immédiatement	1	0	0
+inclus	4	4	3
+inefficacité	2	2	1
+infantile	0	1	0
+infections	0	1	0
+infections sexuellement transmissibles	0	0	2
+infiltration	1	3	3
+inférieur	1	0	2
+instrument	1	0	0
+insuffisance	0	0	2
+insuffisance cardiaque	0	0	1
+intermédiaire	0	1	0
+interne	1	0	1
+interrompu	0	1	0
+intraveineux	0	1	0
+intérieur	0	1	0
+isolé	1	1	0
+jeune	2	1	1
+la forme	0	1	1
+la plupart de	0	0	1
+lancer	0	1	0
+le jour	1	2	2
+le temps	3	2	0
+les deux oreilles	1	0	0
+ligne	3	1	1
+linéaire	0	2	1
+long	7	0	1
+mCV	5	0	0
+majeur	0	0	2
+maladie rénale	0	1	0
+mammaire	0	2	2
+marge	1	0	0
+mauvais	0	1	1
+maximal	0	1	0
+membres supérieurs	0	0	1
+mieux	2	1	1
+mobile	0	0	1
+modificateurs	0	1	1
+modifié	0	1	1
+mométasone	0	2	0
+moustique	1	1	0
+moustique domestique	0	0	1
+muscles érecteurs du rachis	0	0	1
+musculaire	1	3	2
+mère	0	0	1
+médian	1	0	1
+médical	0	0	1
+médicament	1	1	0
+médication	0	0	1
+méthicilline	0	1	0
+nausées et vomissements postopératoires	0	1	2
+neuf	2	1	1
+nicotine	0	0	12
+nombre	8	3	11
+normal	1	0	0
+nourriture	0	3	1
+nouveau	2	1	2
+nutrition	2	0	1
+négligence	1	0	0
+obstétrique	1	0	1
+obésité	1	1	2
+occlusion	0	0	1
+oncologique	0	2	2
+onze	1	1	1
+opioïde	0	3	0
+opération	2	0	4
+organisation	0	0	1
+otique	0	1	0
+otite	0	1	0
+outil	0	2	2
+pSC	0	1	0
+paludisme	2	0	0
+parent	0	0	2
+parents âgés	1	0	0
+paris	3	0	0
+peropératoire	0	0	1
+petit	0	1	1
+petite enfance	1	0	1
+pierre	2	0	0
+plaies	1	3	2
+plaquettes	0	2	0
+pliage	0	1	0
+plus	37	25	25
+plus grand	0	1	0
+plusieurs	3	1	0
+polyneuropathie	2	0	1
+pose	0	0	2
+positif	0	1	0
+possible	2	0	0
+premier	4	1	1
+premièrement	1	0	0
+prescription	1	5	5
+prescription de	1	0	0
+principal	4	3	3
+prise en charge	1	2	3
+probable	0	1	1
+problème	1	0	0
+procédures	0	1	0
+profession	1	0	0
+professionnels de santé	0	0	2
+prolongé	0	1	0
+propagation	1	0	0
+prostate	1	1	0
+protéines	0	0	1
+provenant de	1	1	0
+prurit	2	0	0
+précoce	0	0	1
+précédent	0	0	1
+prédominant	1	0	1
+présence de	2	0	1
+présent	0	1	0
+pseudomonas	1	0	0
+pyodermite	0	0	3
+quantités	0	1	0
+quatre	4	3	4
+rachitisme	0	0	3
+radiothérapie	0	0	1
+renforcement	0	1	2
+risque de	2	3	2
+récemment	0	1	0
+récepteur	0	1	0
+réduit	1	1	0
+régime	0	0	6
+régimes	1	0	0
+région	1	0	0
+régional	1	0	2
+régression	3	1	3
+répété	0	0	1
+résection	1	2	0
+résoudre des problèmes	1	0	0
+saisir	0	1	0
+saisonnier	1	0	0
+sang	0	0	1
+santé sexuelle	1	0	0
+se laver	0	0	1
+se pencher	0	0	1
+secondaire	0	1	0
+sensible à	1	0	0
+sept	3	4	6
+septième	1	0	0
+seul	1	2	1
+simple	1	0	2
+site	0	4	0
+six	4	0	1
+sondage	2	0	3
+sortie	0	1	0
+souplesse	0	0	1
+soupçonné	0	1	0
+souvent	3	2	3
+spécifique	0	3	0
+squelettique	1	0	0
+stade ii	1	0	0
+staphylococcique	1	0	1
+staphylococcus aureus	1	0	0
+stimulus	0	3	3
+stratifié	1	0	1
+sténose aortique	1	0	0
+stéroïdes	1	0	0
+suffisant	0	0	1
+suivant	1	1	1
+supérieur	0	1	1
+surdose	0	0	1
+surface	2	0	1
+susceptible	1	0	0
+suspension	1	0	0
+symptômes	1	0	0
+syndrome du canal carpien	0	0	1
+syndrome du tunnel carpien	0	1	0
+système de santé	1	0	0
+système nerveux périphérique	1	0	0
+systémique	0	0	2
+sécurité	0	2	0
+sécurité alimentaire	0	3	3
+séquelles	0	0	2
+sévère	0	3	0
+tabagisme	4	0	0
+table	2	0	0
+tailles	0	0	1
+tertiaire	0	1	0
+thérapie	0	0	2
+tirer	0	1	0
+tissu adipeux	1	0	0
+topique	3	0	0
+total	1	2	3
+transversal	0	1	2
+transversale	4	1	1
+trois	9	7	10
+une distance	0	1	0
+une évolution	0	0	1
+unique	1	1	0
+urgence	1	0	1
+urinaire	1	0	0
+variation	1	0	0
+vasculaire	0	0	1
+veineux	3	0	0
+ventilation	0	1	2
+version	3	0	0
+vertèbre	0	0	1
+vertébral	0	1	0
+virus	0	1	1
+virus dengue	0	0	1
+vision	1	0	0
+visuel	0	3	3
+vouloir	0	1	1
+vérification de routine	0	1	0
+zone	0	2	1
+Échelle visuelle analogique	2	0	0
+Échographie doppler	0	0	1
+Écoles de médecine	1	0	0
+Écologie	1	0	0
+Économie	2	5	7
+Économies	3	2	0
+Écoulement	0	1	0
+Éducation	2	1	1
+Éléments	0	0	2
+Épuisement	0	1	0
+Épuisement professionnel	0	0	1
+Équipement et fournitures	0	0	1
+Établissements scolaires	1	1	1
+État de santé	0	0	1
+État nutritionnel	1	0	0
+Éthique de la recherche	0	0	1
+Étude comparative	1	0	0
+Études rétrospectives	0	2	0
+Études transversales	0	0	1
+Étudiants	4	2	2
+Étudiants en santé publique	0	1	0
+Évaluation éthique	2	0	0
+échelle	0	3	4
+échocardiographie	2	0	0
+écran	0	0	2
+élevé	3	1	2
+élimination	0	1	0
+élément	0	1	0
+équilibre	7	0	0
+équin	0	0	1
+érythropoïétine	2	0	0
+étendu	1	0	0
+étudiant	1	0	0
