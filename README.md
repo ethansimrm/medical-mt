@@ -1,6 +1,6 @@
 # medical-mt
 ## The Goal
-- My goal is to find a better way to translate biomedical-domain information, with a specific focus on terminology translation. This has taken the form of a modified training objective.
+- My goal is to find a better way to translate biomedical-domain information, with a specific focus on terminology translation. This has taken the form of a modified training objective based on Weighted Cross-Entropy.
 ## What's Here
 - The `data` directory stores data from primary sources, such as the [WMT Biomedical Translation Task Repository](https://github.com/biomedical-translation-corpora/corpora). 
 - The `data_analysis` directory hosts the scripts I used to analyse my datasets to find out more about them.
